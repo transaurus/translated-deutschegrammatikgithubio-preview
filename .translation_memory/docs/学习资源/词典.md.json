@@ -1,0 +1,82 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/学习资源/词典.md",
+  "source_file_content_hash": "669973659a6855bf2bb0b9523b26e0e43d4008f47f15b4271b1638a448b74b83",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\n---",
+      "source_content_hash": "92a21a112978c590263ada3554195d9905c8c585e619dccd5f0a4cf518a7076f",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 词典",
+      "source_content_hash": "d10b8e467d1c6ec1a0c30aeea165173f914b27fe1109df6a42b89ea959220bcc",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 辞書"
+      }
+    },
+    {
+      "segment_id": "a703643c",
+      "source_content": "## 在线",
+      "source_content_hash": "8c4c83cf4e0e0b70027baf62214ad6e26b4c16ad38c341d4189d4e18999e28af",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## オンライン"
+      }
+    },
+    {
+      "segment_id": "abcf54e3",
+      "source_content": "1. https://www.duden.de/\n2. https://www.deepl.com/\n3. https://forvo.com/\n4. https://www.redensarten-index.de/\n4. https://www.internationalphoneticalphabet.org/ (IPA)",
+      "source_content_hash": "3669a4fae73950e9c12d8306dd7994ce88e00c1c17d8c415a471f4a8a2aa16e3",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "1. https://www.duden.de/\n2. https://www.deepl.com/\n3. https://forvo.com/\n4. https://www.redensarten-index.de/\n4. https://www.internationalphoneticalphabet.org/ (IPA)"
+      }
+    },
+    {
+      "segment_id": "3daf1b88",
+      "source_content": "## 离线",
+      "source_content_hash": "8642d1caa77bd39050fc546c063784e15d05c973c60abe42a648f90f7e716742",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## オフライン"
+      }
+    },
+    {
+      "segment_id": "034de896",
+      "source_content": "1. Langenscheidt Vokabeln Audio\n2. <a target=\"\\_blank\" href={require('./assets/新德汉词典.zip').default}>新德汉词典</a>\n4. <a target=\"\\_blank\" href={require('./assets/Langenscheidt e-Großwörterbuch Deutsch als Fremdsprache.zip').default}>Langenscheidt e-Großwörterbuch Deutsch als Fremdsprache</a>\n5. Duden - Richtiges und gutes Deutsch\n6. Cambridge English-German German-English dictionary\n7. 德汉同义词反义词学习辞典\n8. 德语词组词典\n9. 朗氏德汉双解大词典\n10. Deutsche Morphologie\n11. 德汉汉德全席大辞典\n12. <a target=\"\\_blank\" href={require('./assets/Duden 10 Volume.zip').default}>Duden - Das große Wörterbuch der deutschen Sprache</a>\n13. Langenscheidt Expert-Wörterbuch Englisch\n14. DWDS\n15. Dict.cc双向语料词典气泡版\n16. German Conjugation\n17. IPA_de_4in1\n18. Collins GermanEnglish Bidirectional Dictionary",
+      "source_content_hash": "8e93aab85b095e6728e1bce42b6f6903f88c65abb8d4229f20b78cc7918745bf",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "1. Langenscheidt Vokabeln Audio\n2. <a target=\"\\_blank\" href={require('./assets/新德汉词典.zip').default}>新独和辞典</a>\n4. <a target=\"\\_blank\" href={require('./assets/Langenscheidt e-Großwörterbuch Deutsch als Fremdsprache.zip').default}>Langenscheidt e-Großwörterbuch Deutsch als Fremdsprache</a>\n5. Duden - Richtiges und gutes Deutsch\n6. Cambridge English-German German-English dictionary\n7. 独和同義語反義語学習辞典\n8. ドイツ語連語辞典\n9. 朗氏独和双解大辞典\n10. Deutsche Morphologie\n11. 独和・和独全席大辞典\n12. <a target=\"\\_blank\" href={require('./assets/Duden 10 Volume.zip').default}>Duden - Das große Wörterbuch der deutschen Sprache</a>\n13. Langenscheidt Expert-Wörterbuch Englisch\n14. DWDS\n15. Dict.cc双方向コーパス辞書バブル版\n16. German Conjugation\n17. IPA_de_4in1\n18. Collins GermanEnglish Bidirectional Dictionary"
+      }
+    },
+    {
+      "segment_id": "97ae4a01",
+      "source_content": "[资源汇总](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2FGERMAN)",
+      "source_content_hash": "5b800d31d832ff2fabda70868db2b6d462018cdcc2c28b063685e9387a75e313",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "[リソースまとめ](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs?path=%2FGERMAN)"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/学习资源/词典.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.521846+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "669973659a6855bf2bb0b9523b26e0e43d4008f47f15b4271b1638a448b74b83"
+  }
+}

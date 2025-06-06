@@ -1,0 +1,732 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/名词/名词词尾.md",
+  "source_file_content_hash": "5a371c2a3090b862f41534b81ed1313d18dee0a34a15cf4d49e3048b647a48bd",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 4\n---",
+      "source_content_hash": "e93552de73713fd3d4c67121db57ba65cc2e8e129d1829ed5f8a7888cea6601e",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 名词词尾",
+      "source_content_hash": "2641edc871b817080bb31bf4e1572e8cefdcce76c7701c91c7b5f225b5900399",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 名詞の語尾"
+      }
+    },
+    {
+      "segment_id": "a703643c",
+      "source_content": "### -heit/-keit",
+      "source_content_hash": "ef2eae65eb9783d4ba1dccb2e06d7bd3ac7f043e668caef9c50150b07e0fef4a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### -heit/-keit"
+      }
+    },
+    {
+      "segment_id": "53eaf0e1",
+      "source_content": "一般用-heit，而-keit是从-heit派生出来的。因为比如Ewigkeit中-ig这样的词尾在古德语中发音以/k/结尾，所以把-heit带成了-keit。后来-keit自己变成了一个构词能力较强的词尾，似乎是和-heit分庭抗礼了。",
+      "source_content_hash": "3bedf1cd0d718dc4342a53a8c9e2b240f496dc734d3e7c9c5da9fea3146c4203",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "一般的に-heitが使用され、-keitは-heitから派生したものです。例えばEwigkeitにおける-igのような語尾は、古ドイツ語では/k/で発音されていたため、-heitが-keitに変化しました。後に-keit自体が造語力の強い語尾となり、-heitと対等な立場になったようです。"
+      }
+    },
+    {
+      "segment_id": "8ac585fb",
+      "source_content": "这四个词尾结尾的形容词一定是用-keit构成名词的：",
+      "source_content_hash": "5d0a0bd9a6669c946aa44ffa98e4ea7fecd1e27fd554869a80ff6178546ddef9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "以下の4つの語尾で終わる形容詞は必ず-keitを使って名詞を形成します："
+      }
+    },
+    {
+      "segment_id": "180bddb1",
+      "source_content": "-ig：比如Fähigkeit。",
+      "source_content_hash": "0cc13a202f7dc72abc71020bd8c99825c0db95e16a646b84b9421bf3b80f7a24",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-ig：例 Fähigkeit（能力）"
+      }
+    },
+    {
+      "segment_id": "cf898102",
+      "source_content": "-lich：比如Höflichkeit。",
+      "source_content_hash": "f91e64acff526f5e54421686072cc5e5c20811beda8be4e3955ce7f1d4a4f305",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-lich：例 Höflichkeit（礼儀正しさ）"
+      }
+    },
+    {
+      "segment_id": "42ad8e83",
+      "source_content": "-bar：比如Dankbarkeit。",
+      "source_content_hash": "983ed25265f42e8143f6104093c02985acec4e872f24a9ebdbb9eb9b1b6e6d42",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-bar：例 Dankbarkeit（感謝）"
+      }
+    },
+    {
+      "segment_id": "f6168993",
+      "source_content": "-sam：比如Sparsamkeit。",
+      "source_content_hash": "0edc8134db8778142db99d377bfdac52f95e8793c1cfc82a21904c45323a334d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-sam：例 Sparsamkeit（節約）"
+      }
+    },
+    {
+      "segment_id": "f5f6d2ce",
+      "source_content": "其中-ig和-lich是因为古德语/k/的音。但是注意，以-g或-ch结尾的形容词并不受发音的影响，还是用原始的-heit构成名词，比如Klugheit, Gleichheit, Flachheit。",
+      "source_content_hash": "a07be26b03adeee350d4b6e031de2bf98ab9945018b7cf49aefc55604975fd0f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "このうち-igと-lichは古ドイツ語の/k/音の影響です。ただし、-gまたは-chで終わる形容詞は発音の影響を受けず、元の-heitを使って名詞を形成します。例：Klugheit（賢さ）、Gleichheit（平等）、Flachheit（平坦さ）。"
+      }
+    },
+    {
+      "segment_id": "2fdadb08",
+      "source_content": "以-el结尾的形容词总共有4个，构成名词时候-heit和-keit各占两个，它们是：",
+      "source_content_hash": "ed42f3c559c3368be061e5178024e825e162fa23fc2eb976a9e488c9585ed46d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-elで終わる形容詞は全部で4つあり、名詞化する際は-heitと-keitがそれぞれ2つずつあります："
+      }
+    },
+    {
+      "segment_id": "f2c2bdd0",
+      "source_content": "Dunkelheit, Einzelheit；",
+      "source_content_hash": "3fc2d3674b7f164f1b48a8ee5742a5321ac8dcec140155b694d9b4a0a519ca76",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Dunkelheit（暗さ）、Einzelheit（詳細）；"
+      }
+    },
+    {
+      "segment_id": "a76548f8",
+      "source_content": "Eitelkeit, Übelkeit.",
+      "source_content_hash": "dc7cfcbb30976126f5b120b8b0eeaa19554ce786356de545caa70f681207b933",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Eitelkeit（虚栄）、Übelkeit（吐き気）。"
+      }
+    },
+    {
+      "segment_id": "4b1d2d7d",
+      "source_content": "以-er结尾的形容词有十几个，常见的只有9个，其中3个以-heit构成名词，其余的以-keit构成名词，它们是：",
+      "source_content_hash": "657c65e298995533965982bced54237c0ac50ce6b6545def525247fc9c696f31",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-erで終わる形容詞は十数個あり、一般的なものは9つです。このうち3つは-heitで名詞を形成し、残りは-keitで形成します："
+      }
+    },
+    {
+      "segment_id": "dfe931a2",
+      "source_content": "Besonderheit, Minderheit, Sicherheit;",
+      "source_content_hash": "bfdb34b9b6396c3b8adef44fc48e575ecdbb59256868562e394f36af2646c886",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Besonderheit（特殊性）、Minderheit（少数派）、Sicherheit（安全性）；"
+      }
+    },
+    {
+      "segment_id": "4daf5cdd",
+      "source_content": "Bitterkeit, Heiserkeit, Heiterkeit, Munterkeit, Sauberkeit, Tapferkeit.",
+      "source_content_hash": "52f83a91ebcc7d22f9b3960eb05de0034db0996f64248a6fba51a5806ee89457",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Bitterkeit（苦さ）、Heiserkeit（声のかすれ）、Heiterkeit（陽気さ）、Munterkeit（元気さ）、Sauberkeit（清潔さ）、Tapferkeit（勇敢さ）。"
+      }
+    },
+    {
+      "segment_id": "bdc231b1",
+      "source_content": "另外，Düsterheit和Düsterkeit两个都可以。",
+      "source_content_hash": "42acfa5fe678d0b9b117ff2f2caa32b941b0fe5545605725806f059f9c52f7d2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "また、DüsterheitとDüsterkeitの両方が使用可能です。"
+      }
+    },
+    {
+      "segment_id": "97ae4a01",
+      "source_content": "总结：",
+      "source_content_hash": "eefacd527158ecd0fc0d02f09bde1595a675dd72938535ab11d64e49e0c13849",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "まとめ："
+      }
+    },
+    {
+      "segment_id": "c3a738de",
+      "source_content": "只需要记住-ig, -lich, -bar, -sam四个词尾，并且在-el和-er这两个词尾时注意少数几个词就够了。",
+      "source_content_hash": "bfe77876809d69796f362817e6c5491d7453cb7e3ff9f131df8e4ad6b842952f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-ig、-lich、-bar、-samの4つの語尾を覚え、-elと-erの語尾の場合は少数の例外に注意すれば十分です。"
+      }
+    },
+    {
+      "segment_id": "06c0f776",
+      "source_content": "### -ent/-ant",
+      "source_content_hash": "5ccfe8aeb81e759fb160a72361e7b077bb9c78a977f6954988178c091d6f19d9",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### -ent/-ant"
+      }
+    },
+    {
+      "segment_id": "4c077b92",
+      "source_content": "1. 如果名词以-ent或-ant结尾，那么这个词①大概率是现在分词变来的，②如果重音在这个音节上，那么它大概率是阳性弱变化名词。\n2. 如果形容词以-ent或-ant结尾，那么它同样①大概率是现在分词变来的，②它的名词大概率是-enz或-anz，并且是阴性。",
+      "source_content_hash": "73edf04b9f366319089a9f28ca2d6dee6203d9f34e4169d70aca82d69f9e18f2",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "1. 名詞が-entまたは-antで終わる場合、①おそらく現在分詞から派生したものであり、②この音節にアクセントがある場合、おそらく男性弱変化名詞です。\n2. 形容詞が-entまたは-antで終わる場合、同様に①おそらく現在分詞から派生したものであり、②その名詞形はおそらく-enzまたは-anzで、女性名詞です。"
+      }
+    },
+    {
+      "segment_id": "a44047a5",
+      "source_content": "规律一的例子：",
+      "source_content_hash": "a58a3c189ec615b0795b4472d7eb6a619dae2c298ee21b7af94d51c3508463f4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "規則1の例："
+      }
+    },
+    {
+      "segment_id": "f7ef78f9",
+      "source_content": "der **Student**（大学生），来自拉丁语动词“努力求索”的现在分词。现在分词也表主动。这是弱变化名词。",
+      "source_content_hash": "8619ad061dd0342444f94de13d102ffe8039a17a9b1341a0962346c5f08463e9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der **Student**（大学生） - ラテン語動詞「努力して探求する」の現在分詞から。現在分詞は能動も表します。これは弱変化名詞です。"
+      }
+    },
+    {
+      "segment_id": "b36c6338",
+      "source_content": "der **Präsident**（总统），来自拉丁语“前+坐”的现在分词，也就相当于德语der Vorsitzende（主席）。“总统”是弱变化名词。",
+      "source_content_hash": "28bd43147e52e8155f177a89d3e642688b4c89e8d61616e81555f223ab4f226c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der **Präsident**（大統領） - ラテン語「前＋座る」の現在分詞から、ドイツ語のder Vorsitzende（議長）に相当します。「大統領」は弱変化名詞です。"
+      }
+    },
+    {
+      "segment_id": "b9aaa519",
+      "source_content": "der **Emigrant**（移民），来自拉丁语“外+移”的现在分词。这个也是弱变化名词。",
+      "source_content_hash": "2c768ae3006b357369976707022cd6b60920ae60964fb3d2c6bc6ea236ea6ffb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der **Emigrant**（移民） - ラテン語「外＋移動する」の現在分詞から。これも弱変化名詞です。"
+      }
+    },
+    {
+      "segment_id": "e536ea0d",
+      "source_content": "das **Restaurant**（饭店），来自拉丁语“重新+站立→恢复”的现在分词，饭店是恢复状态的地方。",
+      "source_content_hash": "4ac5b2ce224e698802e68dc3a6a7634fe6a93f1c9f8c05e25901083cede1148a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das **Restaurant**（レストラン）、ラテン語の「再び+立つ→回復」という現在分詞に由来し、レストランは状態を回復させる場所です。"
+      }
+    },
+    {
+      "segment_id": "6ea4c715",
+      "source_content": "规律二的例子：",
+      "source_content_hash": "7b616cf18b35eecd2ee1bec031626a40c18854db9a5a92b82e7082381356c12b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "規則2の例："
+      }
+    },
+    {
+      "segment_id": "79ad944d",
+      "source_content": "**effizient**（效率高的），来自拉丁语“外+做→做出效果”的现在分词，名词形式是die **Effizienz**（效率）。",
+      "source_content_hash": "e99778b1b329f3dd894d7f806f3e0521a50755bc0aa62650a89dff1562e49996",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**effizient**（効率的な）、ラテン語の「外+行う→効果を生む」という現在分詞に由来し、名詞形はdie **Effizienz**（効率）です。"
+      }
+    },
+    {
+      "segment_id": "531437ca",
+      "source_content": "**intelligent**（聪明的），来自拉丁语“中间+选→理解，认识”的现在分词，名词形式是die **Intelligenz**（智能）。",
+      "source_content_hash": "0af7848cb485e2dd036891b858f7f4b6f9f8b315410a3b47eab1bd972b6738ee",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**intelligent**（賢い）、ラテン語の「中間+選ぶ→理解、認識」という現在分詞に由来し、名詞形はdie **Intelligenz**（知能）です。"
+      }
+    },
+    {
+      "segment_id": "06e24cc0",
+      "source_content": "**arrogant**（傲慢的），来自拉丁语“往+问→索要→觉得别人的东西就应该给自己”，名词形式是die **Arroganz**（傲慢）。",
+      "source_content_hash": "6df38e22ef67f127bffc563276f7244847fef6d52865c0863ae8b5477c7f2193",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**arrogant**（傲慢な）、ラテン語の「向かって+尋ねる→要求する→他人の物は当然自分に与えられるべきだと思う」という現在分詞に由来し、名詞形はdie **Arroganz**（傲慢）です。"
+      }
+    },
+    {
+      "segment_id": "7f71ff2a",
+      "source_content": "**ambulant**（门诊的），来自拉丁语“周围+走”的现在分词，名词形式是die **Ambulanz**（门诊医院）。",
+      "source_content_hash": "5664c2ae5196054e7c888602d157d2dbb7e2024917eb043a0e2bbb8a62829e1c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**ambulant**（外来診療の）、ラテン語の「周囲+歩く」という現在分詞に由来し、名詞形はdie **Ambulanz**（外来病院）です。"
+      }
+    },
+    {
+      "segment_id": "883231d4",
+      "source_content": "扩展：",
+      "source_content_hash": "7147c099b67b700457b9990d0cdf86dd3ee152a9e652899cfce64e4e77f60d89",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "拡張："
+      }
+    },
+    {
+      "segment_id": "6cc549f2",
+      "source_content": "die **Gouvernante**（嬷嬷，富户住家的管教阿姨），这个词多了个-e，所以是阴性，来自法语动词“掌控”的现在分词。",
+      "source_content_hash": "eed3b349f6636bdfbfc6253d1f624f3756698be6f3a41d5385d1f7aeb61122d7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die **Gouvernante**（家庭教師、富裕層の住み込みの教育係）、この語は-eが追加されているため女性名詞で、フランス語動詞「統制する」の現在分詞に由来します。"
+      }
+    },
+    {
+      "segment_id": "d0dd855b",
+      "source_content": "**interessant**（有趣的），来自拉丁“里面+是” 的现在分词，身在其中，就是“利益”相关，就会“感兴趣”。",
+      "source_content_hash": "6fac45a5743bef69399ac0c9baf0fe24fbdd133f26771793367515c87ce10871",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**interessant**（興味深い）、ラテン語の「内側+ある」という現在分詞に由来し、その中に身を置くことで「利益」に関わり、「興味を持つ」ことになります。"
+      }
+    },
+    {
+      "segment_id": "7736989b",
+      "source_content": "**important**（重要的），德语英语都有这个词，来自拉丁语“里+门→进口”的现在分词，需要进口的，当然是重要的。",
+      "source_content_hash": "93b723cb0c491a3b3b46c295d480fcdbffae5796c4b80ebd86ef109196b59a42",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**important**（重要な）、ドイツ語と英語の両方にあるこの語は、ラテン語の「内側+門→輸入」という現在分詞に由来し、輸入が必要なものは当然重要です。"
+      }
+    },
+    {
+      "segment_id": "6270d577",
+      "source_content": "**während**（在……期间），这是纯正的德语第一分词，währen（持续）的现在分词，相当于英语during（在……期间）。英语during其实也是现在分词，参见endure（持续，忍受）。",
+      "source_content_hash": "e1446cd46b6ec6559fed8390c6d44ee91a5f77ae5198f344a1bdc6154c4451e4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**während**（～の間に）、これは純粋なドイツ語の第一分詞で、währen（持続する）の現在分詞であり、英語のduring（～の間に）に相当します。英語のduringも実際には現在分詞で、endure（持続する、耐える）を参照してください。"
+      }
+    },
+    {
+      "segment_id": "1c598ecd",
+      "source_content": "### -end/-and",
+      "source_content_hash": "35ff074d2a61ffa57c6ee4d964aecacc6e5711f3f8cf40eba9025b556ba11ab3",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### -end/-and"
+      }
+    },
+    {
+      "segment_id": "2547a6bb",
+      "source_content": "“人口红利”和“口碑”的德语都牵涉到Gerundiv（动形词）这个不起眼的语法。",
+      "source_content_hash": "e01ab45e2caf9f68eff9e70aead3e657e3c1edae8149c326c4ee873379e6eff1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「人口ボーナス」と「口コミ」のドイツ語は、Gerundiv（動形詞）という目立たない文法に関わっています。"
+      }
+    },
+    {
+      "segment_id": "86348f98",
+      "source_content": "“动形词”这个术语并不是特别好，我建议称之为zu-Partizip（**带zu分词，**相当于英语**to be + 过去分词**），表示“要被如何”的意义，比如：",
+      "source_content_hash": "f1cb1ffe690847d949dbf3e5732c2e5e97c8b82d814d1867155f1ef169a1bddb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「動形詞」という用語はあまり適切ではなく、zu-Partizip（**zu付き分詞**、英語の**to be + 過去分詞**に相当）と呼ぶことをお勧めします。これは「～されるべき」という意味を表し、例えば："
+      }
+    },
+    {
+      "segment_id": "a311e967",
+      "source_content": "der/die **Auszubildende** 培训生，学徒",
+      "source_content_hash": "f6d7c4e85de230220d57bb2d293cd8e4f70ebba6df93e64abe4d6a0f90ee32d7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der/die **Auszubildende** 研修生、見習い"
+      }
+    },
+    {
+      "segment_id": "1862c5fe",
+      "source_content": "这就是从“带zu分词”变来的名词，是“要被ausbilden（培训）”的意思。语法上相当于jemand, der auszubilden ist。也就是说：带zu分词就是由被动态的一个替代形式sein zu所产生的带zu不定式变成的第一分词。",
+      "source_content_hash": "7bf4eb9c86b47983fd23eb66bb6d6a569adba05e95033611dc4e7597bbc6aabc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "これは「zu付き分詞」から派生した名詞で、「ausbilden（研修）されるべき」という意味です。文法的にはjemand, der auszubilden istに相当します。つまり：zu付き分詞とは、受動態の代替形sein zuによって生成されるzu不定詞が変化した第一分詞です。"
+      }
+    },
+    {
+      "segment_id": "a2c0166e",
+      "source_content": "有点拗口，有点烧脑。",
+      "source_content_hash": "9029a1da8ada6e111ba753ee9b0b70dd1a2b85f31d8df48e0fe62dc5129eefba",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "少し複雑で、頭が混乱するかもしれません。"
+      }
+    },
+    {
+      "segment_id": "f0984c2a",
+      "source_content": "Das sind die Probleme, die am schwersten zu lösen sind.",
+      "source_content_hash": "f4f851ec4485ed8bf92171ad16f35a61571781678946fdab723d290f0e3d2da1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Das sind die Probleme, die am schwersten zu lösen sind."
+      }
+    },
+    {
+      "segment_id": "a81544fd",
+      "source_content": "↕",
+      "source_content_hash": "1e2c61a3c462f99f23f90c22c2a0af2b13049dd323277d0526d1d2856f446f5b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "↕"
+      }
+    },
+    {
+      "segment_id": "0801d969",
+      "source_content": "Das sind die am schwersten zu lösenden Probleme.",
+      "source_content_hash": "7bf0148a49676450a0b90ce8312900c54ab882d6c9db105e981c0242fafabc21",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Das sind die am schwersten zu lösenden Probleme."
+      }
+    },
+    {
+      "segment_id": "d21af28f",
+      "source_content": "这种关系/定语从句和定语的互变，是德语专业四级和一些高级别德语考试的考点。得分率非常低。但实际上没那么难。就是把整个带zu不定式短语当成一个整体变成第一分词而已。",
+      "source_content_hash": "44dc9f4af0b1d331d347078264d815aa1c81a2973bfa65ecff0f8a9b3cc7885c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "このような関係節/定語節と定語の相互変換は、ドイツ語検定4級や上級レベルの試験で頻出のポイントです。正答率は非常に低いですが、実際にはそれほど難しくありません。zu不定詞句全体を一つのまとまりとして第一分詞に変えるだけです。"
+      }
+    },
+    {
+      "segment_id": "396efb28",
+      "source_content": "德语里有不少从拉丁语的“动形词”变成的名词，全部以-end（阳性弱变化）或-and（阳性弱变化）结尾，有时后面还会继续带词尾-a（阴性）/-e（阴性）/-um（中性）。",
+      "source_content_hash": "3009567fc4e4d2f5376370b08c8325fe54ab9bd6ddfdc9a19908718516fca4c8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ドイツ語にはラテン語の「動形詞」から派生した名詞が多くあり、すべて-end（男性弱変化）または-and（男性弱変化）で終わります。場合によってはさらに接尾辞-a（女性）/ -e（女性）/ -um（中性）が付加されます。"
+      }
+    },
+    {
+      "segment_id": "f38d1cb0",
+      "source_content": "比如：",
+      "source_content_hash": "a9527ddcd686491dc2f56c436383c4f102e02b2389a057e3d7bfc0caf93382a4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "例えば："
+      }
+    },
+    {
+      "segment_id": "6fc234cf",
+      "source_content": "die **Dividende** 红利",
+      "source_content_hash": "1a6aba73398fcb5151bb52e35f375b1ba6e856677a0afc8c1cc3de93a7d4a375",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die **Dividende** 配当金"
+      }
+    },
+    {
+      "segment_id": "c364340c",
+      "source_content": "我们知道英语divide在数学上是“除÷”的意思，那上面这个就相当于to be divided（要被除÷的），也就是“要被分的红或利”。“人口红利”是demographische Dividende。",
+      "source_content_hash": "c1297072e4590763a6c55aad66d4a2f46d994018709f92b23d87ab33fd4995dd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "英語のdivideが数学では「割り算÷」を意味することはご存知でしょう。上記はto be divided（割り算されるべき）つまり「分配される利益」を意味します。「人口ボーナス」はdemographische Dividendeと言います。"
+      }
+    },
+    {
+      "segment_id": "692c6053",
+      "source_content": "die **Legende** 传说，传奇",
+      "source_content_hash": "2e2c5069f37df0f27756982798b43dfc7739a32c89bad1f69b2f86ff49d61614",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die **Legende** 伝説、伝承"
+      }
+    },
+    {
+      "segment_id": "383fbdd2",
+      "source_content": "拉丁语词根leg-与德语lesen（读）同源，to be read（要被读的）就是“传奇，传说”。",
+      "source_content_hash": "62ff1ad6d1363b5b8056e7b03f1f35700db4037a0a9142429a7cc4bcdf44b817",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ラテン語の語根leg-はドイツ語のlesen（読む）と同源で、to be read（読まれるべきもの）が「伝説」という意味になります。"
+      }
+    },
+    {
+      "segment_id": "e478ec2c",
+      "source_content": "der **Doktorand** 博士生",
+      "source_content_hash": "97cede6c0024cea9bef2e850ac217417a796f13aee0797dea95e4955ab859b46",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der **Doktorand** 博士課程学生"
+      }
+    },
+    {
+      "segment_id": "534ac82e",
+      "source_content": "就是“要被授予博士学位的人”。",
+      "source_content_hash": "b56881f227ee97d6594f8b0274f8e94f7def65545f7799af179dd7b09a22901e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「博士号を授与されるべき人」という意味です。"
+      }
+    },
+    {
+      "segment_id": "cfeb9eb1",
+      "source_content": "der **Proband** 受试者",
+      "source_content_hash": "1a399c1c91c3a36453b30b1a52da3fd8390c48696d9b94430433ef351854d449",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der **Proband** 被験者"
+      }
+    },
+    {
+      "segment_id": "f7e6e884",
+      "source_content": "就是“要被测试（做实验）的人”，字面意思是to be proved。",
+      "source_content_hash": "32cbbdd5ccf854471a8018150198031ad1323f73bde45addf800fe28af06fd40",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「テスト（実験）を受けるべき人」で、文字通りto be provedを意味します。"
+      }
+    },
+    {
+      "segment_id": "719d3997",
+      "source_content": "das **Referendum** 全民公决",
+      "source_content_hash": "f1344e2f67830b076918a8fc0877cc1a3a71bf3071d6738c23ae043e90f7783a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das **Referendum** 国民投票"
+      }
+    },
+    {
+      "segment_id": "42d9ca67",
+      "source_content": "字面意思to be referred（要被（媒体一再）提到→要被（大肆）报导的）。",
+      "source_content_hash": "eeb2295963d37b8c7c9069922aed9646f7f517e17daf1e15af581b83a8bc3720",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "文字通りto be referred（（メディアで繰り返し）言及されるべき→（大々的に）報道されるべき）。"
+      }
+    },
+    {
+      "segment_id": "44285072",
+      "source_content": "die **Mundpropaganda** 口碑，口耳相传",
+      "source_content_hash": "aea6512a4055de96d5843631f2caaea82b0c81e90e6cf23c3c92a46d77217193",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die **Mundpropaganda** 口コミ、口伝え"
+      }
+    },
+    {
+      "segment_id": "a8f09c71",
+      "source_content": "Propaganda字面意思是to be propagated（要被宣传的）。还可以继续拆分词根词缀，不过在这里已经不重要了。",
+      "source_content_hash": "e36c488d33fd66f667aecd007bccc94d1fa5a8f24149d9968f195f02a5a562cf",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Propagandaは文字通りto be propagated（宣伝されるべき）という意味です。さらに語根と接辞を分解することも可能ですが、ここでは重要ではありません。"
+      }
+    },
+    {
+      "segment_id": "d4eab4a6",
+      "source_content": "### -en",
+      "source_content_hash": "c2f33cb48ce288660b3ccfc7e15f2a6204543f7d1521d7d297ca3515bf07c296",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### -en"
+      }
+    },
+    {
+      "segment_id": "0ddaa835",
+      "source_content": "-en结尾的名词是阳性（约120个）或中性（约150个），没有阴性。中性的-en几乎都是动词原形变来的名词，或以小称词尾-chen结尾的名词（约100个）。",
+      "source_content_hash": "6f0cf855e180e06700a2104cc26c3a62c3cebc5ad8b230ae7234db42e759e279",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-enで終わる名詞は男性（約120語）または中性（約150語）で、女性名詞はありません。中性の-enはほとんどが動詞原形から派生した名詞か、指小辞-chenが付いた名詞（約100語）です。"
+      }
+    },
+    {
+      "segment_id": "39f476dc",
+      "source_content": "真正的das -en（不是动词原形，不是小称词尾）只有3个，即：",
+      "source_content_hash": "8208be92a616b0a323a416aa1a299f370a77e07c991042a00f34bc0aa57eef12",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "真の中性名詞das -en（動詞原形でも指小辞でもない）は以下の3つだけです："
+      }
+    },
+    {
+      "segment_id": "093c95e5",
+      "source_content": "- das Gen 基因（参见das Genus 性）\n\n- das Zeichen 符号（受小称词尾的影响）\n- das Wappen 徽章（算是Schildzeichen）",
+      "source_content_hash": "1f2384e2c757c385f94a29e09ea25ef920921f7e7f767a56ebef6ffd4233f68b",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "- das Gen 遺伝子（das Genus 性を参照）\n\n- das Zeichen 記号（指小辞の影響を受けた）\n- das Wappen 紋章（Schildzeichenと見なせる）"
+      }
+    },
+    {
+      "segment_id": "808b0414",
+      "source_content": "约120个阳性的-en总体按字母顺序显示如下：",
+      "source_content_hash": "a6055920d3d7dccfa8c9aedafac7996ec9f2a6321c4602d4621695a2592d9991",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "約120語の男性名詞-enをアルファベット順に以下に示します："
+      }
+    },
+    {
+      "segment_id": "61a78cbe",
+      "source_content": "![](.\\img\\名词词尾-en.png)",
+      "source_content_hash": "b242e1c54ce055aa32af34215b65ae17aadaa14e33051b122dbe77242ec980a2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](.\\img\\名詞語尾-en.png)"
+      }
+    },
+    {
+      "segment_id": "39c48ff7",
+      "source_content": "没有加汉语意思的词要么是方言要么很罕见，可以忽略，一般用不到。",
+      "source_content_hash": "2114a70c1be217a6e885c19f8a180ead80a2787df453bdeb981417edbcab7e75",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "中国語訳が付いていない語は方言か非常に珍しいもので、通常は使用されず無視して構いません。"
+      }
+    },
+    {
+      "segment_id": "fe25bd72",
+      "source_content": "右上的-e/en指的是“其实来自阳性弱变化”。der Glaube的形式其实更常见。",
+      "source_content_hash": "b0bf12d6af40ba60912e23551fedda0f1193c5ed6a014aa427e4bf51d855da9d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "右上の-e/enは「実際には男性弱変化から来ている」ことを示します。der Glaubeの形の方がより一般的です。"
+      }
+    },
+    {
+      "segment_id": "4e2e17c5",
+      "source_content": "die -e / der -en指的是这个词有两种形式，比如，die Karre或der Karren。这类词的阴性形式其实更常见。",
+      "source_content_hash": "44de5ce8d4a11871259b06f402b651eeaa441ebd63360b27b35db5f6915e3eac",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die -e / der -enは、この単語が2つの形式を持つことを指します。例えば、die Karreまたはder Karrenです。このような単語の女性形の方が実際にはより一般的です。"
+      }
+    },
+    {
+      "segment_id": "0427bb2b",
+      "source_content": "这个列表里面有不少名词看上去像是来自动词原形（其实不是），最容易产生误解的是der Husten和der Schnupfen，而这两个词刚好都是感冒症状。",
+      "source_content_hash": "ccb464cab89d794887c340435b0697ca9313bdf15ff15749448332333144953b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "このリストには、動詞の原形から来ているように見える（実際はそうではない）名詞が多く含まれています。特に誤解されやすいのはder Hustenとder Schnupfenで、これらはどちらも風邪の症状です。"
+      }
+    },
+    {
+      "segment_id": "be4b1cbf",
+      "source_content": "### -shaft",
+      "source_content_hash": "55a8996cb023724b140905feafb633c8f2b57439fa4892a055711c915200e45b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### -shaft"
+      }
+    },
+    {
+      "segment_id": "b27c61de",
+      "source_content": "在英语中是-ship。比如“友谊”：Freundschaft - friendship。所以说什么“友谊的小船”纯粹是加戏，只是发音后来变得和英语“船”一样，本来和船没有关系。-schaft本来是个“样子”，在英语中还单独作为词存在，那就是shape（样子）。和德语动词schaffen（创造）是同源的。",
+      "source_content_hash": "bbff8ced9f8dd856e0ad934241ff5d0d8924d44485b04799bec0149d5cbc082e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "英語では-shipに相当します。例えば「友情」：Freundschaft - friendship。したがって、「友情の小船」という表現は完全に余計な解釈で、単に発音が後に英語の「船」と同じになっただけで、元々船とは関係ありません。-schaftは本来「様子」を意味し、英語では単独でshape（様子）として存在しています。ドイツ語の動詞schaffen（創造する）と同源です。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/名词/名词词尾.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.520078+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "5a371c2a3090b862f41534b81ed1313d18dee0a34a15cf4d49e3048b647a48bd"
+  }
+}

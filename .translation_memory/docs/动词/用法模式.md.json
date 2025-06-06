@@ -1,0 +1,1302 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/动词/用法模式.md",
+  "source_file_content_hash": "07d8e80cf45a7af5c74691094f5daea422c0ece8bf6358832c36db9081f3077f",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 11\n---",
+      "source_content_hash": "67c8754f3072767450f23d3185e991f082accaceecc196854ab1c7d58bec4a1b",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 用法模式",
+      "source_content_hash": "da8a30283d86ceee804aa1a1e608d50a1a1dd7e25972d6f1bf85a8e86cd8f271",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 用法パターン"
+      }
+    },
+    {
+      "segment_id": "6ef78e84",
+      "source_content": "什么是「用法模式Strukturformel」呢？Langenscheidt Deutsch als  Fremdsprache词典（中国引进这本词典后加上了汉语翻译，命名为《朗氏德汉双解大词典》）在正文前面的「用法说明」第九章里用了很大的篇幅解释了Strukturformel的概念（参见《朗氏德汉双解大词典》S.56-64）。",
+      "source_content_hash": "effca6218aa2d98135c9af165ad565b9eac987022ce9a7f716610c5dd2111c15",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「用法パターン（Strukturformel）」とは何でしょうか？Langenscheidt Deutsch als Fremdsprache辞典（中国で導入されたこの辞典には中国語訳が追加され『朗氏独漢双解大辞典』と命名されました）の本文前の「用法説明」第9章では、Strukturformelの概念について多くのページを割いて説明しています（『朗氏独漢双解大辞典』S.56-64参照）。"
+      }
+    },
+    {
+      "segment_id": "53eaf0e1",
+      "source_content": "用法模式（Strukturformel）就是形如sich auf etwas freuen这种形式，人用jemand, jemandes, jemandem,  jemanden四个格的四种形式（分别缩写为jd., js., jm.,  jn.），物用etwas，形容词用irgendwie做占位符（意思是somehow，并且提问相应的部分是用wie），静三用irgendwo，动四用irgendwohin等等。",
+      "source_content_hash": "8f2ad5038b1853c4b71b685f99e6d108311e40662d19980c192e167bf50b903c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "用法パターン（Strukturformel）とは、sich auf etwas freuenのような形式で、人を表す場合はjemand, jemandes, jemandem, jemandenの4つの格の形式（それぞれjd., js., jm., jn.と略記）、物を表す場合はetwas、形容詞を表す場合はirgendwo（somehowの意味で、対応する部分の質問はwieで行う）、静的三格はirgendwo、動的四格はirgendwohinなどをプレースホルダーとして使用します。"
+      }
+    },
+    {
+      "segment_id": "be33979e",
+      "source_content": "* mit：一起 - 用/通过\n* nach：跟随去远处（寻求）\n* von：从远处（起点） - 涉及远处 - 被动\n* bei：附近 - 向某人（在某人那里） - 附加信息（在过程中）\n* zu：朝向（搭配） - 归属（变成） - 增加\n* gegen：对立\n* um：围绕 - 改变\n* für：目的 - 赞同\n* über：上面 - 涉及当前 - 掌控\n* auf：在（基础）之上 - 涉及未来 - 自上而下的聚焦\n* vor：前面 - 之前\n* in（aus）：在其中（方面） - 划分（D） - 状态突变（A）\n* an：小靠近大 - 附着（含有） - 远处的目标",
+      "source_content_hash": "e08e302932cbe9a9108124bf12fba7d1de676b41cce6b17de2041454506f5a14",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* mit：一緒に - 使用/通過\n* nach：遠くへ追従（求める）\n* von：遠くから（起点） - 遠くに関連 - 受動\n* bei：近く - 誰かに（誰かのところで） - 追加情報（過程において）\n* zu：方向（組み合わせ） - 帰属（なる） - 追加\n* gegen：対立\n* um：周囲 - 変化\n* für：目的 - 賛同\n* über：上 - 現在に関連 - 掌握\n* auf：（基礎の）上 - 未来に関連 - 上から下への焦点\n* vor：前 - 以前\n* in（aus）：その中（側面） - 区分（D） - 状態変化（A）\n* an：小が大に接近 - 付着（含有） - 遠くの目標"
+      }
+    },
+    {
+      "segment_id": "ed7dde9c",
+      "source_content": "### 说明",
+      "source_content_hash": "6ce60d48e523aa198838b44dd306fdc00a602204c4ecf2d83a722d7adc7f634c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 説明"
+      }
+    },
+    {
+      "segment_id": "b3f5c97c",
+      "source_content": "* 说、讨论可以用von或über",
+      "source_content_hash": "9dbfeb4bce52b613283d71bce1fb77846c96cb5d5c0f3123f6558ec514cc2e49",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 話す、議論する場合はvonまたはüberを使用"
+      }
+    },
+    {
+      "segment_id": "f2f30ae8",
+      "source_content": "## 举例讲解",
+      "source_content_hash": "43d6d76b8c62f2b19605a79aa980714309788044acdc959d9345622c84ffbba9",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 具体例解説"
+      }
+    },
+    {
+      "segment_id": "48847fd4",
+      "source_content": "### mit",
+      "source_content_hash": "7d034ab045b818a61478f0583b2b7a678d412cbf13087e84f7e4a317a01317ee",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### mit"
+      }
+    },
+    {
+      "segment_id": "4daf5cdd",
+      "source_content": "**mit jm. schimpfen**",
+      "source_content_hash": "dbbc315fe3d516be045e62fa2c8f5190f22dc6ee598e421e51664da2abc4ccaa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**mit jm. schimpfen**"
+      }
+    },
+    {
+      "segment_id": "bdc231b1",
+      "source_content": "这个动词的用法结构有多个。mit jm. s.是“训斥”。über jn.是发泄情绪，是“骂”。用auf jn.也可以，本来指居高临下骂人，从高往低用auf。",
+      "source_content_hash": "dd6febd2ce34c7ff7aa72b80369c062030ae25d8cee9edfa9682228e053fa80f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "この動詞の用法構造は複数あります。mit jm. s.は「叱責」です。über jn.は感情の発散で「罵る」です。auf jn.も使用可能で、元々は上から下へ罵ることを指し、高から低へはaufを使用します。"
+      }
+    },
+    {
+      "segment_id": "97ae4a01",
+      "source_content": "同理：",
+      "source_content_hash": "a3e9f6ee2b5c792687adbee56a6d5ca72b4d7857c90bf1f3045a89a0766162aa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "同様に："
+      }
+    },
+    {
+      "segment_id": "c3a738de",
+      "source_content": "(mit) jm./etw. schelten",
+      "source_content_hash": "08c1310f67bd32ba292aa1f6fa1de50023058f8e0ba03bb8def6f3a8c450cb19",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "(mit) jm./etw. schelten"
+      }
+    },
+    {
+      "segment_id": "1042b50d",
+      "source_content": "**sich mit etw. begnügen**",
+      "source_content_hash": "2d411942fe9d32f6fb0055a05b854d990dc36245284322eaf54a8b989ec4c1d4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**sich mit etw. begnügen**"
+      }
+    },
+    {
+      "segment_id": "aa1e7006",
+      "source_content": "“满足”都是用mit的。这也符合英语satisfied with的直觉。",
+      "source_content_hash": "7bc9a44ef18c41dcaba58560fa615b3ee71cdffb9b0475b04c8a893e955c92d5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「満足」はすべてmitを使用します。これは英語のsatisfied withの直感にも合致します。"
+      }
+    },
+    {
+      "segment_id": "13d9cd70",
+      "source_content": "同理：",
+      "source_content_hash": "a3e9f6ee2b5c792687adbee56a6d5ca72b4d7857c90bf1f3045a89a0766162aa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "同様に："
+      }
+    },
+    {
+      "segment_id": "29528c8d",
+      "source_content": "mit jm./etw. zufrieden sein",
+      "source_content_hash": "07dbd8890e771127f3347c96880b7d9747717f05ebf90f8d2dcb451e69b73f9a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "mit jm./etw. zufrieden sein"
+      }
+    },
+    {
+      "segment_id": "98d26038",
+      "source_content": "**sich mit etw. beschäftigen**",
+      "source_content_hash": "3c1fd04b9851efbb82bc9a1fe5a0816c07fd035016f60666d5ca0cb3d92e3f58",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**sich mit etw. beschäftigen**"
+      }
+    },
+    {
+      "segment_id": "d3649a1e",
+      "source_content": "忙于某事，捣鼓研究某事物，用mit是符合直觉的。mit只加第三格，捣鼓某事物更常见，所以用法结构用etw.占位就行。",
+      "source_content_hash": "c9d12ffb6a3f21afb797694f20bef63eb2dc410a0a8301a6568f2e0535a66512",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "何かに忙しい、何かを研究する場合、mitを使用するのは直感的です。mitは第三格のみを取るため、何かを研究する方がより一般的で、用法構造ではetw.をプレースホルダーとして使用します。"
+      }
+    },
+    {
+      "segment_id": "4d52a261",
+      "source_content": "同理：",
+      "source_content_hash": "a3e9f6ee2b5c792687adbee56a6d5ca72b4d7857c90bf1f3045a89a0766162aa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "同様に："
+      }
+    },
+    {
+      "segment_id": "23dfb152",
+      "source_content": "sich mit etw. befassen",
+      "source_content_hash": "3a859165bcc3998a9d37a1776c53364a026f683dbe0de51571c62586ac0a8f89",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sich mit etw. befassen"
+      }
+    },
+    {
+      "segment_id": "8b2a52b1",
+      "source_content": "**mit etw. verbunden sein**",
+      "source_content_hash": "54c164780c321468c82498d28bccf7f6b039d5bc0fad4dd2d2798077efcb27b5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**mit etw. verbunden sein**"
+      }
+    },
+    {
+      "segment_id": "5dae11e3",
+      "source_content": "verbunden来自“绑，连接”，当然是用mit。",
+      "source_content_hash": "d9521bca6b97eccb18add05e9a446687961d21ff5fe8f7b3f9f14a5a578f9266",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "verbundenは「結びつける、接続する」という意味から、当然mitを使用します。"
+      }
+    },
+    {
+      "segment_id": "0bb95128",
+      "source_content": "同理：",
+      "source_content_hash": "a3e9f6ee2b5c792687adbee56a6d5ca72b4d7857c90bf1f3045a89a0766162aa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "同様に："
+      }
+    },
+    {
+      "segment_id": "657c2b20",
+      "source_content": "etw./jn. mit etw./jm. verbinden",
+      "source_content_hash": "fb0f7041b678adf1b7eda6a7fa362ecb0ffb2e9df35f0434c54fff7f91f6744f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "etw./jn. mit etw./jm. verbinden"
+      }
+    },
+    {
+      "segment_id": "803be95a",
+      "source_content": "---",
+      "source_content_hash": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "node_type": "thematicBreak",
+      "translatable": true,
+      "translations": {
+        "ja": "---"
+      }
+    },
+    {
+      "segment_id": "d422fb13",
+      "source_content": "### nach",
+      "source_content_hash": "ed9d10981faf74c79e33c91d885e559265cdad8a07cb99848631a3bfcead3e78",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### nach"
+      }
+    },
+    {
+      "segment_id": "f01228d3",
+      "source_content": "**nach etw. suchen**",
+      "source_content_hash": "35b0656a7e5530738f041e6318cd576616094eae9d1fa9fd1347ff1fd731eee2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**nach etw. suchen**"
+      }
+    },
+    {
+      "segment_id": "afa378f7",
+      "source_content": "“寻求”和“渴望”之类的用法结构中，介词都是nach。",
+      "source_content_hash": "fc5b0cb913d0ae2f67730b780cdcb250b0f811cbc936b78422f44ca3dbd72a2f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「探求」や「渇望」といった用法構造では、前置詞はすべてnachを使用します。"
+      }
+    },
+    {
+      "segment_id": "e8e162a9",
+      "source_content": "同理：",
+      "source_content_hash": "a3e9f6ee2b5c792687adbee56a6d5ca72b4d7857c90bf1f3045a89a0766162aa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "同様に："
+      }
+    },
+    {
+      "segment_id": "463ed165",
+      "source_content": "Heimweh nach jm./etw. haben/bekommen/empfinden",
+      "source_content_hash": "0a2c755b1fbd27a055664f37f18cd86796e279ca158a43bb0f9dabf4723c0b75",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Heimweh nach jm./etw. haben/bekommen/empfinden"
+      }
+    },
+    {
+      "segment_id": "a5c5772a",
+      "source_content": "sich nach jm./etw. sehnen",
+      "source_content_hash": "6f6f725f4ce02f4a6b546fa54de773fa3c884e80b763c6bf944d1e80b601dd6a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sich nach jm./etw. sehnen"
+      }
+    },
+    {
+      "segment_id": "fbc2db85",
+      "source_content": "nach在用法结构中，含义继续可以高度概括为“在……之后”。",
+      "source_content_hash": "25e08a0c8668cd78a1c5a69567362f37227834565ae7805ace53551170adf258",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "用法構造におけるnachの意味は、「…の後」という高度に抽象化された概念として捉えることができます。"
+      }
+    },
+    {
+      "segment_id": "8126f763",
+      "source_content": "![](.\\img\\用法模式nach.jpg)",
+      "source_content_hash": "e1c8fc6d27f5661df760979d61170b5a55546e034f5697377d132bd0a84f4e4e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](.\\img\\用法模式nach.jpg)"
+      }
+    },
+    {
+      "segment_id": "74dd7937",
+      "source_content": "这次改进的方法是：把词典中几乎所有带nach的用法结构找出来，再细分，并囊括在一个意象下，尽可能按语义发展脉络来排列。并且给部分用法结构加上了例句。",
+      "source_content_hash": "4732dabd48a5090101e86e11e0b01c116af83cd10611785249f8e56e4a08893f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "今回の改善方法は、辞書内のほぼすべてのnachを含む用法構造を抽出し、さらに細分化し、一つのイメージの下に包括し、可能な限り意味の発展経路に沿って配置することです。また、一部の用法構造には例文を追加しました。"
+      }
+    },
+    {
+      "segment_id": "c9716ede",
+      "source_content": "---",
+      "source_content_hash": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "node_type": "thematicBreak",
+      "translatable": true,
+      "translations": {
+        "ja": "---"
+      }
+    },
+    {
+      "segment_id": "39db08de",
+      "source_content": "### von",
+      "source_content_hash": "d98a1828cf3f0230d05aa0c46deb1c8dbacd8a7e16a948a92b8357c7392dbb9a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### von"
+      }
+    },
+    {
+      "segment_id": "785750ac",
+      "source_content": "**von jm./etw. träumen**",
+      "source_content_hash": "ecd88e3732ed8472b0f35f6eb028339865a01b755c4eef007f49e59034b8221e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**von jm./etw. träumen**"
+      }
+    },
+    {
+      "segment_id": "82e90254",
+      "source_content": "这个是符合英语dream of的直觉的，所以用von（表部分内容）。von只加第三格，所以在人和物都可以的情况下，随便选一个都行。",
+      "source_content_hash": "d0921c96764a5fbf5d32e55a4ea55180a1822e1adff96818f50fc6fa6ff45f2a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "これは英語のdream ofと直感的に一致するため、von（部分内容を表す）を使用します。vonは第三格のみを取るため、人と物のどちらでも選択可能です。"
+      }
+    },
+    {
+      "segment_id": "25212439",
+      "source_content": "**von etw. schwärmen**",
+      "source_content_hash": "a817adeac38039f1ab2bb8d613deccdc2284cef380852e7eed586a7f8b719f4e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**von etw. schwärmen**"
+      }
+    },
+    {
+      "segment_id": "d79a4831",
+      "source_content": "schwärmen来自Schwarm（一群），有两个动介搭配：von etw. s.表示“眉飞色舞地谈论某事”，表“谈论”的动词基本都是可以加von的；für etw. s.表示“感兴趣和喜爱”，“为了für”某人某事物而“蜂拥而往”。",
+      "source_content_hash": "8431f1b3e200435e0900287d1c0aa5234414d38b32ce2a9adba8a61b495a1b7f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "schwärmenはSchwarm（群れ）から派生し、2つの動詞前置詞構造があります：von etw. s.は「某事について熱狂的に語る」を意味し、「語る」動詞は基本的にvonを取ることができます。für etw. s.は「興味や愛好」を意味し、「für（…のために）」某人や某事に「群がる」というイメージです。"
+      }
+    },
+    {
+      "segment_id": "e9ae42a9",
+      "source_content": "---",
+      "source_content_hash": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "node_type": "thematicBreak",
+      "translatable": true,
+      "translations": {
+        "ja": "---"
+      }
+    },
+    {
+      "segment_id": "42a5832e",
+      "source_content": "### zu",
+      "source_content_hash": "0ed13b074ae3e641486f60dddf2242d51ca502f0d34872e371e3318aac96a352",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### zu"
+      }
+    },
+    {
+      "segment_id": "0e80209e",
+      "source_content": "**zu etw. gehören**",
+      "source_content_hash": "65481a2cc395e35b3485b60fb18957eb2803a1710cb987bbb84dc5ee9d6e86fd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**zu etw. gehören**"
+      }
+    },
+    {
+      "segment_id": "7bc8bb24",
+      "source_content": "“属于”有多种结构。zu是“方向”，后来再产生了“附加”的意思。因为有一些人或物已经存在，zu这些存在就是“附加→属于”了。",
+      "source_content_hash": "39de74450923a32ccda5f6eeb2df24c81254e5be9e7d6bf420dca309a922c7f3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「所属」には複数の構造があります。zuは「方向」を表し、後に「付加」の意味が派生しました。すでに存在する人や物に対してzuを使用することで、「付加→所属」という意味になります。"
+      }
+    },
+    {
+      "segment_id": "6693c38c",
+      "source_content": "同理：",
+      "source_content_hash": "a3e9f6ee2b5c792687adbee56a6d5ca72b4d7857c90bf1f3045a89a0766162aa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "同様に："
+      }
+    },
+    {
+      "segment_id": "e9313fef",
+      "source_content": "jn./etw. zu etw. zählen",
+      "source_content_hash": "fe83b2196c1f9754fa6fde65f8c9919512188a5b499a35e9bed4dbac6a980081",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "jn./etw. zu etw. zählen"
+      }
+    },
+    {
+      "segment_id": "510c9c5b",
+      "source_content": "---",
+      "source_content_hash": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "node_type": "thematicBreak",
+      "translatable": true,
+      "translations": {
+        "ja": "---"
+      }
+    },
+    {
+      "segment_id": "37fca32e",
+      "source_content": "### um",
+      "source_content_hash": "a659e3f2b73462e0e6a8b7aee1d6394a6e202fcadb60e157ee1d4e6f7d7c2a07",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### um"
+      }
+    },
+    {
+      "segment_id": "a8610918",
+      "source_content": "**sich um jn. kümmern**",
+      "source_content_hash": "e3dbfdba143a0e4fd980219d4e9a9a2c86f87fd36eb8c7a1f055eb4537fb9a62",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**sich um jn. kümmern**"
+      }
+    },
+    {
+      "segment_id": "a6c928a1",
+      "source_content": "Kummer是“苦闷”，照顾人是围绕某人苦闷自己，所以介词是um。",
+      "source_content_hash": "fe385b6eb9c68fdb717e4c6ea226539fab882d9a140924d94c5f93cda1f49d74",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Kummerは「苦悶」を意味し、人を世話することは某人を中心に自分自身が苦悶することなので、前置詞はumを使用します。"
+      }
+    },
+    {
+      "segment_id": "b6152880",
+      "source_content": "um由“围绕”还派生出“想获得”的意思：",
+      "source_content_hash": "aee4b208217d0915e1f461f49abe37dbb80822612ea4e1905eef1b4a674d8b6b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "umは「周囲」から派生し、「獲得しようとする」という意味も持ちます："
+      }
+    },
+    {
+      "segment_id": "b9331170",
+      "source_content": "sich um etw. bewerben",
+      "source_content_hash": "f8d3ef068c7be2869b9677d32b64d317a3a410b4b0ae51eac078359d37a21181",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sich um etw. bewerben"
+      }
+    },
+    {
+      "segment_id": "566c958b",
+      "source_content": "---",
+      "source_content_hash": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "node_type": "thematicBreak",
+      "translatable": true,
+      "translations": {
+        "ja": "---"
+      }
+    },
+    {
+      "segment_id": "c35e5786",
+      "source_content": "### für",
+      "source_content_hash": "18ab654a774403dc94b5cc1b8acdea3fb72c58fe3d10958b8a9d2fcec1cd3f6a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### für"
+      }
+    },
+    {
+      "segment_id": "9c9e2b64",
+      "source_content": "**sich für jn. interessieren**",
+      "source_content_hash": "05aea4b5cfc5f9167056e20793b9e83ae2eda6231427678b83546f392f07a0ca",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**sich für jn. interessieren**"
+      }
+    },
+    {
+      "segment_id": "5c7d994c",
+      "source_content": "Interesse和interessiert都是加an加第三格的。从词源角度（inter esse 在里面）也应该用an（占成分）。后来interessieren用für，八成是被für etw. schwärmen带歪了。",
+      "source_content_hash": "f211d056594a22cde2d5dada94ca219121e960f5adf6ee7e29fb72e8d90459a0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Interesseとinteressiertはともにanと第三格を取ります。語源的には（inter esse 内に存在する）an（成分を占める）を使用すべきです。後にinteressierenがfürを使用するようになったのは、おそらくfür etw. schwärmenの影響でしょう。"
+      }
+    },
+    {
+      "segment_id": "1ecf0882",
+      "source_content": "同理：",
+      "source_content_hash": "a3e9f6ee2b5c792687adbee56a6d5ca72b4d7857c90bf1f3045a89a0766162aa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "同様に："
+      }
+    },
+    {
+      "segment_id": "e77cf7c6",
+      "source_content": "sich für jn./etw. begeistern",
+      "source_content_hash": "631fb79c53f4e2b755e5c76ef440eebb53bff804044e8db2d60f49a8a297d77f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sich für jn./etw. begeistern"
+      }
+    },
+    {
+      "segment_id": "51e8baf4",
+      "source_content": "---",
+      "source_content_hash": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "node_type": "thematicBreak",
+      "translatable": true,
+      "translations": {
+        "ja": "---"
+      }
+    },
+    {
+      "segment_id": "734d40d8",
+      "source_content": "### über",
+      "source_content_hash": "69eaa43d555dbb6dd5862f07d6440bfa4406297b2dc1172c2775994edd0a3188",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### über（について）"
+      }
+    },
+    {
+      "segment_id": "9e90a9b3",
+      "source_content": "**sich über jn. ärgern**",
+      "source_content_hash": "f4e98161c0a2c82707baf124212984cf17891b96978c2632eb49fd8606c4d567",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**sich über jn. ärgern（誰かに腹を立てる）**"
+      }
+    },
+    {
+      "segment_id": "681ef526",
+      "source_content": "情感方面的动介搭配主要用两个介词，一个是über（对现存已有的），一个是auf（和未来相关的）。生气当然是对现存已有的，所以用über。",
+      "source_content_hash": "30e9624106eff807fdaa081b5fdf20fbcb4cc078e9cb8486ce0ff809bf88e1e3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "感情に関連する動詞と前置詞の組み合わせでは、主に2つの前置詞が使用されます。一つはüber（既存のものに対して）、もう一つはauf（未来に関連するもの）です。腹を立てるのは当然既存のものに対してなので、überを使用します。"
+      }
+    },
+    {
+      "segment_id": "be17ccc3",
+      "source_content": "同理：",
+      "source_content_hash": "a3e9f6ee2b5c792687adbee56a6d5ca72b4d7857c90bf1f3045a89a0766162aa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "同様に："
+      }
+    },
+    {
+      "segment_id": "ad3e22c6",
+      "source_content": "sich über jn./etw. aufregen",
+      "source_content_hash": "bdffcdc1612e498aa288882bf9864ac9b87b219605c5477e1e27e98c0308ac60",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sich über jn./etw. aufregen（誰か/何かについて興奮する）"
+      }
+    },
+    {
+      "segment_id": "3e8f45da",
+      "source_content": "sich bei jm. über jn./etw. beklagen",
+      "source_content_hash": "b4df41f2ca35715f2f33a77d7a020b2dcf2e984813def2e4232274634d873c48",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sich bei jm. über jn./etw. beklagen（誰かに誰か/何かについて苦情を言う）"
+      }
+    },
+    {
+      "segment_id": "4c787c52",
+      "source_content": "be-几乎全是及物的，大多是反身的。",
+      "source_content_hash": "8861d4c4af8296fd64673d59b6030c3d87b97c043e870d5163980d7c160d52fc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "be-で始まる動詞のほとんどは他動詞で、多くは再帰的です。"
+      }
+    },
+    {
+      "segment_id": "c66a3543",
+      "source_content": "---",
+      "source_content_hash": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "node_type": "thematicBreak",
+      "translatable": true,
+      "translations": {
+        "ja": "---"
+      }
+    },
+    {
+      "segment_id": "c6b2ca77",
+      "source_content": "### auf",
+      "source_content_hash": "686b845680ed9f7fc78e0c32782558088441d44b20e28acc11968d1b558bfa7f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### auf（に）"
+      }
+    },
+    {
+      "segment_id": "dce16ab4",
+      "source_content": "**sich auf etw./jn. verlassen**",
+      "source_content_hash": "28bf73d1f36481d0e89a20ac61289bb933bda99d4c8ba349f2ca295d04f00015",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**sich auf etw./jn. verlassen（何か/誰かを頼る）**"
+      }
+    },
+    {
+      "segment_id": "6f08f877",
+      "source_content": "这个动介搭配总使我想起一种团建游戏，信任背摔：背着倒下，倒在同事们用手搭的平台上。verlassen本来是“放开”的意思。虽然auf是静三动四的，但在用法结构中是加第四格的，提问用worauf；如果加第三格，那就是静三了，提问用wo。",
+      "source_content_hash": "21fb2475ce2ced6c5648baaf161303b86a26838faccfda34ad6de99870fc6bb1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "この動詞と前置詞の組み合わせは、チームビルディングゲームの「トラストフォール（信頼落下）」を思い起こさせます。背中から倒れ、同僚たちが手で作ったプラットフォームに倒れ込むゲームです。verlassenは本来「放す」という意味です。aufは静的三格・動的四格ですが、この用法構造では四格を取ります。質問はworaufで行います。三格を取る場合は静的三格となり、質問はwoで行います。"
+      }
+    },
+    {
+      "segment_id": "2dbfc5f7",
+      "source_content": "同理：",
+      "source_content_hash": "a3e9f6ee2b5c792687adbee56a6d5ca72b4d7857c90bf1f3045a89a0766162aa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "同様に："
+      }
+    },
+    {
+      "segment_id": "6b40e7a2",
+      "source_content": "auf etw./jn. bauen",
+      "source_content_hash": "53912ec20706ba4e2f8cdee49116ee9b930f27fe627f5924f793f951e28fe76e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "auf etw./jn. bauen（何か/誰かに頼る）"
+      }
+    },
+    {
+      "segment_id": "827eb9a3",
+      "source_content": "**auf jn./etw. verzichten**",
+      "source_content_hash": "b0709482b806586004f88ca78f91f5d4e01edecdc6d9349a9746e512238e921a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**auf jn./etw. verzichten（誰か/何かを諦める）**"
+      }
+    },
+    {
+      "segment_id": "62d066b0",
+      "source_content": "本该自己的权利不要了，“放弃”。“权利”是超然于上的一种力量，所以类似含义的用法结构用auf。虽然auf是静三动四的，但在用法结构中是加第四格的，提问用worauf；如果加第三格，那就是静三了，提问用wo。",
+      "source_content_hash": "32df18262ff73a55fa635574962dc1f8652712b3e73fbd1f2e6d54dee3179488",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "本来の権利を放棄することを意味します。「権利」は超越的な力であるため、同様の意味の用法構造ではaufが使用されます。aufは静的三格・動的四格ですが、この用法構造では四格を取ります。質問はworaufで行います。三格を取る場合は静的三格となり、質問はwoで行います。"
+      }
+    },
+    {
+      "segment_id": "89cf7bac",
+      "source_content": "同理：",
+      "source_content_hash": "a3e9f6ee2b5c792687adbee56a6d5ca72b4d7857c90bf1f3045a89a0766162aa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "同様に："
+      }
+    },
+    {
+      "segment_id": "808b0414",
+      "source_content": "das Recht auf etw.(A) haben",
+      "source_content_hash": "c135f0583011943c39fd1205f914828e502f34cf3903d6a72229a931aa19ad0a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Recht auf etw.(A) haben（何かに対する権利を持つ）"
+      }
+    },
+    {
+      "segment_id": "f83eccd3",
+      "source_content": "---",
+      "source_content_hash": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "node_type": "thematicBreak",
+      "translatable": true,
+      "translations": {
+        "ja": "---"
+      }
+    },
+    {
+      "segment_id": "2b5df263",
+      "source_content": "### vor",
+      "source_content_hash": "d55f6af78e26e5502fecd7d6cc523b4207579ab3c12a06d612fbfac7b99b79d9",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### vor（前に）"
+      }
+    },
+    {
+      "segment_id": "e29bd639",
+      "source_content": "**sich vor etw.(D) fürchten**",
+      "source_content_hash": "973d5c7c52800dedb5bd043d036f9c4f6f0ad34eed358f797d6efab7faf70ec2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**sich vor etw.(D) fürchten（何かを恐れる）**"
+      }
+    },
+    {
+      "segment_id": "e5821418",
+      "source_content": "“害怕”和“保护”这样的动介搭配里介词一般是用vor的，用vor肯定是可以的。感觉是在（想象的）某人或事物前发抖。",
+      "source_content_hash": "6a8afffa35b9e947947c06f791de037da5fcff9fefa13691fdebe3ce2020a830",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「恐れる」や「保護する」といった動詞と前置詞の組み合わせでは、一般的にvorが使用されます。vorを使用すれば間違いありません。（想像上の）誰かや物の前で震えているような感覚です。"
+      }
+    },
+    {
+      "segment_id": "4e2e17c5",
+      "source_content": "同理：",
+      "source_content_hash": "a3e9f6ee2b5c792687adbee56a6d5ca72b4d7857c90bf1f3045a89a0766162aa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "同様に："
+      }
+    },
+    {
+      "segment_id": "b49a7009",
+      "source_content": "Angst vor jm./etw.(D) haben",
+      "source_content_hash": "3f5897414ba5e97cc346fdedfcae5f1e7c35528360730a0fb9989cde10823226",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Angst vor jm./etw.(D) haben（誰か/何かを恐れる）"
+      }
+    },
+    {
+      "segment_id": "9ebd9d9b",
+      "source_content": "sich vor etw.(D) flüchten",
+      "source_content_hash": "79d679242a0cd7a395a5d3033fcef24250ed5c8a049a45a8ac6edac9f554f68f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sich vor etw.(D) flüchten（何かから逃げる）"
+      }
+    },
+    {
+      "segment_id": "295367fa",
+      "source_content": "vor etw.(D) warnen",
+      "source_content_hash": "9cc582eafa6bbc9ee1b53a33f1ceaf09dc77294d6a456685e5e2cb1f20663533",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "vor etw.(D) warnen（何かについて警告する）"
+      }
+    },
+    {
+      "segment_id": "6fad5db5",
+      "source_content": "原理是类似的，“在事情发生之前”警告。所以如果是从句，和汉语是有差异的，不用额外加否定词。德语是加警告的内容，发生那样的就不好了；汉语是“不要那样做”。",
+      "source_content_hash": "1a96c5d6536140672646440a129411438c3227f2dedb9c57c2a22ffa8e1cbc87",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "原理は似ています。「物事が起こる前に」警告するのです。そのため、従属節の場合、中国語とは差異があり、否定詞を追加する必要はありません。ドイツ語では警告の内容を加え、「そんなことが起こると良くない」と表現します。中国語では「そんなことをするな」と表現します。"
+      }
+    },
+    {
+      "segment_id": "0e7eccf0",
+      "source_content": "---",
+      "source_content_hash": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "node_type": "thematicBreak",
+      "translatable": true,
+      "translations": {
+        "ja": "---"
+      }
+    },
+    {
+      "segment_id": "17fd5988",
+      "source_content": "### in",
+      "source_content_hash": "c71d9106b2d15a7c08a37dec28f8723b3a64e7263978be848cf64dd621c01fb3",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### in（に）"
+      }
+    },
+    {
+      "segment_id": "3208eb29",
+      "source_content": "**sich in jn. verlieben**",
+      "source_content_hash": "72d91e154ee730f56ab6668b98e2e0965f4fcc036466ccb859e77bdf06f09868",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**sich in jn. verlieben（誰かに恋をする）**"
+      }
+    },
+    {
+      "segment_id": "38f964f1",
+      "source_content": "“爱上”是一瞬间的变化。“瞬间的变化”和“划分”都是用in的。",
+      "source_content_hash": "9ec0ed0a1bdae8f6bbde76073b4df3f0ad9257e0e8b8cfeed7048781d246d216",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「恋に落ちる」は一瞬の変化です。「瞬間的な変化」と「区分」にはinが使用されます。"
+      }
+    },
+    {
+      "segment_id": "b4204c03",
+      "source_content": "同理：",
+      "source_content_hash": "a3e9f6ee2b5c792687adbee56a6d5ca72b4d7857c90bf1f3045a89a0766162aa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "同様に："
+      }
+    },
+    {
+      "segment_id": "e6ac016e",
+      "source_content": "sich aus etw. in etw. (A) verwandeln",
+      "source_content_hash": "4fc5b5ac3adfcdf1e949d52aaa4d15df853e78b928bd63d2ad1baa8239e9bf8b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sich aus etw. in etw. (A) verwandeln（何かから何かに変身する）"
+      }
+    },
+    {
+      "segment_id": "7c4902d8",
+      "source_content": "---",
+      "source_content_hash": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "node_type": "thematicBreak",
+      "translatable": true,
+      "translations": {
+        "ja": "---"
+      }
+    },
+    {
+      "segment_id": "4e8f71c1",
+      "source_content": "### an",
+      "source_content_hash": "aa8298d33221d1c95ac3b9931a8344c0be93fe1bf8fdd9ed9c40d899421081a1",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### an（に）"
+      }
+    },
+    {
+      "segment_id": "e4d8cd8a",
+      "source_content": "**sich an jn. gewöhnen**",
+      "source_content_hash": "8aaa5b8f993b970568a1cfcd8ed97130ca63acf4a6bd22fdfd86e59b149b7ecb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**sich an jn. gewöhnen（誰かに慣れる）**"
+      }
+    },
+    {
+      "segment_id": "af834e0d",
+      "source_content": "靠近挨近就会变得习惯，所以用an（抽象的小的靠近大的）。an在动介搭配中表示“挨近”肯定是加第四格，表示“（附着）在什么上”或是“成分”才用第三格。这里不写成jn./etw.是因为，逻辑上可以完全理解的（可以习惯某人也可以习惯某事物，这是显而易见的）就不用写那么全面。用jn.是因为人能显格，etw.显不出格。",
+      "source_content_hash": "bf7439463646f1b98449be63f605392742b046f96668d19c1cbb34f182fa14d0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "近づき接触することで慣れるため、an（抽象的な小さなものが大きなものに近づく）を使用します。anは動詞と前置詞の組み合わせにおいて「近づく」を表す場合は必ず4格をとり、「（何かに）付着している」または「成分」を表す場合は3格を使用します。ここでjn./etw.と書かないのは、論理的には完全に理解できるため（人にも物にも慣れることは明らかであるため）、網羅的に書く必要がないからです。jn.を使用するのは、人が格を明示できるのに対し、etw.は格を明示できないためです。"
+      }
+    },
+    {
+      "segment_id": "d75361e3",
+      "source_content": "同理：",
+      "source_content_hash": "a3e9f6ee2b5c792687adbee56a6d5ca72b4d7857c90bf1f3045a89a0766162aa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "同様に："
+      }
+    },
+    {
+      "segment_id": "c277c3c0",
+      "source_content": "sich an etw. anpassen",
+      "source_content_hash": "bc1b4b21c4aaf399537046201cc7b8aa139bbb13f274ff8569aaae9662734f9c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sich an etw. anpassen"
+      }
+    },
+    {
+      "segment_id": "5eedf0a1",
+      "source_content": "an etw.(D) rütteln",
+      "source_content_hash": "2e56e99d655e8558672addac2e64c55f9a45ce640ce21658441b169a19c45b11",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "an etw.(D) rütteln"
+      }
+    },
+    {
+      "segment_id": "e4945edb",
+      "source_content": "rütteln（摇晃）是有jn./etw. rütteln的用法的，所以再加介词结构就是摇晃的具体位置了，jn. an etw. rütteln（抓着某个地方摇晃某人）也是符合直觉的。",
+      "source_content_hash": "113f7cb09b83383cf520e3176e9089a1f902024eb52e9d826d9dc0f4683e2982",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "rütteln（揺らす）にはjn./etw. rüttelnという用法があるため、前置詞構造を追加すると揺らす具体的な位置になります。jn. an etw. rütteln（特定の部分をつかんで人を揺らす）も直感的に理解できます。"
+      }
+    },
+    {
+      "segment_id": "950e5c6c",
+      "source_content": "## 常用",
+      "source_content_hash": "07303f1720437b95bd1aa8215ea712d989428a1b727b690bf0caeb9c16d903ee",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## よく使われるもの"
+      }
+    },
+    {
+      "segment_id": "43ad2e31",
+      "source_content": "### mit",
+      "source_content_hash": "7d034ab045b818a61478f0583b2b7a678d412cbf13087e84f7e4a317a01317ee",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### mit"
+      }
+    },
+    {
+      "segment_id": "46f9cb25",
+      "source_content": "|      |      |  D   |                                      |          一起 - 用/通过           |\n| :--: | :--: | :--: | :----------------------------------: | :-------------------------------: |\n|      | mit  |  D   |   etw./jn. mit etw./jm. verbinden    |     连接；兼有；接通（电话）      |\n|      | mit  |  D   |       mit etw. verbunden sein        |          连接的，结合的           |\n|      | mit  |  D   |          mit jm. schimpfen           | 斥责（jn. s. 谩骂 ≈ n. schelten） |\n|      | mit  |  D   |         Ärger mit jm. haben          |             不愉快的              |\n| sich | mit  |  D   |         sich mit jm. treffen         |               见面                |\n| sich | mit  |  D   | (sich) mit jm. über etw.(A) streiten |               争论                |\n| sich | mit  |  D   |   sich mit jm./etws. beschäftigen    |            关心；从事             |\n| sich | mit  |  D   |        sich mit etw. befassen        |               从事                |\n|      | mit  |  D   |          mit etw. anfangen           |           开始做，着手            |\n|      | mit  |  D   |  mit etw. gut/schlecht beraten sein  | 在某事上做的对（好）/不对（不好） |\n|      | mit  |  D   |     mit jm./etw. zufrieden sein      |              满意的               |\n| sich | mit  |  D   |        sich mit etw. begnügen        |               满足                |\n| sich | mit  |  D   |       sich mit etw. vergnügen        |             以此娱乐              |\n| sich | mit  |  D   |       sich mit etw. langweilen       |             感到无聊              |",
+      "source_content_hash": "eebad6bfc97e29b3aeebe9501a7f128137920826ca95264ad99f77f757ecfb0b",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_46f9cb25"
+      }
+    },
+    {
+      "segment_id": "a9950191",
+      "source_content": "### nach",
+      "source_content_hash": "ed9d10981faf74c79e33c91d885e559265cdad8a07cb99848631a3bfcead3e78",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### nach"
+      }
+    },
+    {
+      "segment_id": "47f1ba32",
+      "source_content": "|      |      |  D   |                                                |    跟随去远处（寻求）    |\n| :--: | :--: | :--: | :--------------------------------------------: | :----------------------: |\n|      | nach |  D   | Heimweh nach jm./etw. haben/bekommen/empfinden |        思念，怀念        |\n| sich | nach |  D   |           sich nach jm./etw. sehnen            |     思念，怀念；渴望     |\n|      | nach |  D   |             nach etw./jm. schauen              |        照看，照顾        |\n|      | nach |  D   |              nach etw./jm. sehen               |        照看，照顾        |\n|      | nach |  D   |          etw./jd. sieht nach etw. aus          |        似乎, 好像        |\n|      | nach |  D   |                nach etw. suchen                | 试图找到（etw. s. 寻找） |",
+      "source_content_hash": "286a20d58341940e53440e2b39f5d189e6fed95212ef4a3947901712f132a018",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_47f1ba32"
+      }
+    },
+    {
+      "segment_id": "365a11aa",
+      "source_content": "### von",
+      "source_content_hash": "d98a1828cf3f0230d05aa0c46deb1c8dbacd8a7e16a948a92b8357c7392dbb9a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### von"
+      }
+    },
+    {
+      "segment_id": "09d95d42",
+      "source_content": "|      |      |  D   |                            | 从远处（起点） - 涉及远处 - 被动 |\n| :--: | :--: | :--: | :------------------------: | :------------------------------: |\n| sich | von  |  D   | sich von jm. verabschieden |               告别               |\n|      | von  |  D   |    jm. von etw. abraten    |               劝阻               |\n|      | von  |  D   | von jm./etw. abhängig sein |               依赖               |\n|      | von  |  D   |      von jm. träumen       |            梦见；梦想            |\n|      | von  |  D   |  etw. von jm./etw. denken  |      对...有...看法（涉及）      |\n|      | von  |  D   |     von etw. sprechen      |     提及（≈ etw. erwähnen）      |\n|      | von  |  D   |   von jm./etw. schwärmen   |          热情洋溢地谈论          |\n|      | von  |  D   |  von etw. überzeugt sein   |               坚信               |",
+      "source_content_hash": "2fb8b7116e852a2960a11b36a25f931628360f2bdf05ada110bece01dc07d609",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_09d95d42"
+      }
+    },
+    {
+      "segment_id": "3a600569",
+      "source_content": "### bei",
+      "source_content_hash": "fce5fe713d5f2a85eb63276fe4fc821cb74651503114acde5dcdf4d9290d6d28",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### bei"
+      }
+    },
+    {
+      "segment_id": "4905ea6b",
+      "source_content": "|      |      |  D   |                                       | 附近 - 向某人（在某人那里） - 附加信息（在过程中） |\n| :--: | :--: | :--: | :-----------------------------------: | :------------------------------------------------: |\n| sich | bei  |  D   |    sich bei jm. für etw. bedanken     |                        感谢                        |\n| sich | bei  |  D   |  sich bei jm. für etw. entschuldigen  |                        道歉                        |\n| sich | bei  |  D   | sich bei jm. über etw./jn. beschweren |                     向某人诉苦                     |\n| sich | bei  |  D   |  sich bei jm. über etw./jn. beklagen  |                     痛惜，抱怨                     |\n|      | bei  |  D   |          jm. bei etw. helfen          |                   帮助某人做某事                   |\n|      | bei  |  D   |         jn. bei etw. beraten          |                    给某人出主意                    |",
+      "source_content_hash": "88ecdf0be3ef95198f12d2b9633538559636f21ba100526586a17115581dcc5f",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_4905ea6b"
+      }
+    },
+    {
+      "segment_id": "73eb56bc",
+      "source_content": "### zu",
+      "source_content_hash": "0ed13b074ae3e641486f60dddf2242d51ca502f0d34872e371e3318aac96a352",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### zu"
+      }
+    },
+    {
+      "segment_id": "95799de0",
+      "source_content": "|      |      |  D   |                         | 朝向（搭配） - 归属（变成） - 增加 |\n| :--: | :--: | :--: | :---------------------: | :--------------------------------: |\n|      |  zu  |  D   |  jn. zu etw. einladen   |                邀请                |\n|      |  zu  |  D   |     zu etw. gehören     |         属于某一类/某组织          |\n|      |  zu  |  D   | jn./etw. zu etw. zählen |        算作，视为（一部分）        |\n|      |  zu  |  D   |  jn. zu etw. bestimmen  |          指定选拔（职务）          |\n|      |  zu  |  D   |   zu jm./etw. passen    |         相配；秉性；合得来         |\n| sich |  zu  |  D   |  sich zu jm. gesellen   |    与某人结伴，交往，合伙；伴随    |\n|      |  zu  |  D   | etw. zu etw. beitragen  |            为...做贡献             |\n|      |  zu  |  D   | jm. zu etw. gratulieren |           为某事祝贺某人           |",
+      "source_content_hash": "fcb427a4b42816a823580632535a57073c580beb820955c13deb0b9cace5b3ab",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_95799de0"
+      }
+    },
+    {
+      "segment_id": "f3fc8281",
+      "source_content": "### gegen",
+      "source_content_hash": "fed9e73d831e23820b84dbdb59e78972eb3375fb77d340daa7c3db1b1b4685fd",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### gegen"
+      }
+    },
+    {
+      "segment_id": "22492613",
+      "source_content": "|      |       |  A   |                                          |    对立    |\n| :--: | :---: | :--: | :--------------------------------------: | :--------: |\n| sich | gegen |  A   | jn./sich/etw. gegen jn./etw. verteidigen | 保卫；辩护 |",
+      "source_content_hash": "0af4c05b943144e3bd097a059622f305168522434001e38998a1b2b9b75a9801",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_22492613"
+      }
+    },
+    {
+      "segment_id": "793be93c",
+      "source_content": "### um",
+      "source_content_hash": "a659e3f2b73462e0e6a8b7aee1d6394a6e202fcadb60e157ee1d4e6f7d7c2a07",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### um"
+      }
+    },
+    {
+      "segment_id": "2b6d6f41",
+      "source_content": "|      |      |  A   |                           | 围绕 - 改变 |\n| :--: | :--: | :--: | :-----------------------: | :---------: |\n|      |  um  |  A   |    jn. um etw. bitten     | 请求，祈求  |\n| sich |  um  |  A   |   sich um etw. bewerben   | 谋求；申请  |\n| sich |  um  |  A   | sich um jn./etw. kümmern  | 照顾；操心  |\n| sich |  um  |  A   | sich Sorgen um jn. machen | 为某人担忧  |",
+      "source_content_hash": "14b24b16a343dd6f95dfb5b91630c95ca87636f762f9d4745adf41a73f912172",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_2b6d6f41"
+      }
+    },
+    {
+      "segment_id": "a4628837",
+      "source_content": "### für",
+      "source_content_hash": "18ab654a774403dc94b5cc1b8acdea3fb72c58fe3d10958b8a9d2fcec1cd3f6a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### für"
+      }
+    },
+    {
+      "segment_id": "4e92b783",
+      "source_content": "|      |      |  A   |                                 |         目的 - 赞同          |\n| :--: | :--: | :--: | :-----------------------------: | :--------------------------: |\n|      | für  |  A   |   etw. für jn./etw. bestimmen   | 规定，指定...用于...（目的） |\n|      | für  |  A   |       für etw./jn. bürgen       |       为...担保，作保        |\n| sich | für  |  A   |    sich für etw. entscheiden    |            决定做            |\n|      |      |      |                                 |                              |\n|      | für  |  A   |       für etw. schwärmen        |         追求；热衷于         |\n| sich | für  |  A   | sich für jn./etw. interessieren |         对...感兴趣          |\n| sich | für  |  A   |  sich für jn./etw. begeistern   |            热衷于            |",
+      "source_content_hash": "09f567d164c8a85753ff08359f5b622244896f59701516caac7ca40eb24404dd",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_4e92b783"
+      }
+    },
+    {
+      "segment_id": "757c087d",
+      "source_content": "### über",
+      "source_content_hash": "69eaa43d555dbb6dd5862f07d6440bfa4406297b2dc1172c2775994edd0a3188",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### über"
+      }
+    },
+    {
+      "segment_id": "675b1482",
+      "source_content": "|      |      |  A   |                                     |    上面 - 涉及当前 - 掌控     |\n| :--: | :--: | :--: | :---------------------------------: | :---------------------------: |\n|      | über |  A   |       über etw./jn. bestimmen       |        有权支配, 支使         |\n|      | über |  A   |        über etw. entscheiden        |       裁决；起决定作用        |\n|      | über |  A   |      über jn./etw. nachdenken       | 思考（≈ sich etw. überlegen） |\n| sich | über |  A   |        sich über jn. ärgern         |             生气              |\n| sich | über |  A   |        sich über jn. freuen         |             高兴              |\n| sich | über |  A   |     sich über jn./etw. aufregen     |          生气；不安           |\n| sich | über |  A   | sich mit jm. über etw. unterhalten  |             聊天              |\n| sich | über |  A   |  (sich) mit jm. über etw. streiten  |             争论              |\n| sich | über |  A   | jn./sich über jn./etwas informieren |          告知；了解           |\n| sich | über |  A   | jn./sich über jn./etwas orientieren |          告知；了解           |",
+      "source_content_hash": "3adf9f11ce8d852e20c94ed4029c4d7c3718698dd8b318a5df1b52813bcaf4b0",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_675b1482"
+      }
+    },
+    {
+      "segment_id": "c7737b8a",
+      "source_content": "### auf",
+      "source_content_hash": "686b845680ed9f7fc78e0c32782558088441d44b20e28acc11968d1b558bfa7f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### auf"
+      }
+    },
+    {
+      "segment_id": "54bf46fb",
+      "source_content": "|      |      |       |                                                            | 在（基础）之上 - 涉及未来 - 自上而下的聚焦 |\n| :--: | :--: | :---: | :--------------------------------------------------------: | :----------------------------------------: |\n|      | auf  |   A   |                  auf jn./etw. stolz sein                   |              为某人/某事自豪               |\n|      | auf  |   A   |                  das Recht auf etw. haben                  |                  有某权利                  |\n|      | auf  |   A   |                    Lust auf etw. haben                     |                   有兴趣                   |\n|      | auf  |   A   |                     auf etw. ankommen                      |                   取决于                   |\n|      | auf  |   A   |                jm./etw. auf etw. antworten                 |                    回答                    |\n|      | auf  |   A   |                     auf etw. reagieren                     |               对...做出反应                |\n|      | auf  |   A   |                     auf etw./jn. bauen                     |                    信赖                    |\n| sich | auf  |   A   |                sich auf etw./jn. verlassen                 |                    信赖                    |\n|      | auf  |   A   |                    auf etw./jn. tippen                     |                    推测                    |\n|      | auf  |   A   |                  auf jn./etw. verzichten                   |           放弃（本该拥有的东西）           |\n|      | auf  |   A   |                    Wert auf etw. legen                     |                    重视                    |\n|      | auf  |   A   |                      auf etw. dringen                      |                  坚决要求                  |\n|      | auf  | **D** |                     auf etw. bestehen                      |                    坚持                    |\n|      |      |       |                                                            |                                            |\n|      | auf  |   A   |                       auf jn. warten                       |                    等候                    |\n|      | auf  |   A   |                auf jn./etw. angewiesen sein                |                 指望，仰仗                 |\n| sich | auf  |   A   |                    sich auf jn. freuen                     |                    期待                    |\n|      |      |       |                                                            |                                            |\n|      | auf  |   A   |                    auf jn./etw. achten                     |    注意，重视；照顾（jn./etw. a. 尊重）    |\n|      | auf  |   A   |                   auf jn./etw. aufpassen                   |                 照顾；留意                 |\n|      | auf  |   A   |               Rücksicht auf jn./etw. nehmen                |    顾及，考虑（≈ jn. berücksichtigen）     |\n|      | auf  |   A   | auf jn./etw. anspielen<br />eine Anspielung auf jn. machen |                 暗示，影射                 |\n|      | auf  |   A   |                      auf etw. schauen                      |                 观察，留意                 |\n| sich | auf  |   A   |              sich auf jn./etw. konzentrieren               |                 专注；集中                 |",
+      "source_content_hash": "226e6e8f51c3ddb635af1cb947968a8b51892e784cac1811f0193809b4b16ecf",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_54bf46fb"
+      }
+    },
+    {
+      "segment_id": "ef0eaf79",
+      "source_content": "### unter",
+      "source_content_hash": "0bb5b3dd8eaad9b77151f172e61b13e3643ccfbd7f096432fe5ce58cf74dbe26",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### unter"
+      }
+    },
+    {
+      "segment_id": "0cdd4424",
+      "source_content": "|      |       |      |                                 |                |\n| :--: | :---: | :--: | :-----------------------------: | :------------: |\n| sich | unter |  D   | sich etw. unter etw. vorstellen | 联想出；设想出 |\n|      | unter |  D   |    etw. unter etw. verstehen    |     理解为     |",
+      "source_content_hash": "d14a0e4838aacb9c99a8b5a0beadfb2c07d0f96fae2369a97987d99174255e68",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_0cdd4424"
+      }
+    },
+    {
+      "segment_id": "3f6b512a",
+      "source_content": "### vor",
+      "source_content_hash": "d55f6af78e26e5502fecd7d6cc523b4207579ab3c12a06d612fbfac7b99b79d9",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### vor"
+      }
+    },
+    {
+      "segment_id": "817537c7",
+      "source_content": "|      |      |  D   |                          | 前面 - 之前 |\n| :--: | :--: | :--: | :----------------------: | :---------: |\n|      | vor  |  D   |     vor etw. warnen      |    警告     |\n|      | vor  |  D   | Angst vor jm./etw. haben |    害怕     |\n| sich | vor  |  D   |  sich vor etw. fürchten  |    害怕     |",
+      "source_content_hash": "01e1a9f4561d58e32992e1d8430ed9e771bfc3cb4becbb4d3cd860a39ee482e4",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_817537c7"
+      }
+    },
+    {
+      "segment_id": "5ce48008",
+      "source_content": "### in（aus）",
+      "source_content_hash": "7df50d0126ff781a49044cb685f51e150f487c8534b8729ea31f0d8d27d9806e",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### in（aus）"
+      }
+    },
+    {
+      "segment_id": "7b3a7aa0",
+      "source_content": "|      |      |      |                         | 在其中（方面） - 划分（D） - 状态突变（A） |\n| :--: | :--: | :--: | :---------------------: | :----------------------------------------: |\n| sich |  in  |  D   | sich in jm./etw. irren  |                 误解；搞错                 |\n|      |  in  |  D   |    etw. in jm. sehen    |               把某人看作...                |\n|      |  in  |  D   |    in etw. bestehen     |          （原因等）在于；经受考验          |\n| sich |  in  |  A   |  sich in jn. verlieben  |                 热恋；吸引                 |\n| sich |  in  |  A   | sich in etw. verwandeln |                    变成                    |",
+      "source_content_hash": "824044e6fa55257e0dd4f4a5760e37cc51c368f538903807f82ee7e5bda87214",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_7b3a7aa0"
+      }
+    },
+    {
+      "segment_id": "1e46ce2f",
+      "source_content": "### an",
+      "source_content_hash": "aa8298d33221d1c95ac3b9931a8344c0be93fe1bf8fdd9ed9c40d899421081a1",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### an"
+      }
+    },
+    {
+      "segment_id": "d29b5cbe",
+      "source_content": "|      |      |      |                               | 小靠近大 - 附着（含有） - 远处的目标 |\n| :--: | :--: | :--: | :---------------------------: | :----------------------------------: |\n|      |  an  |  D   |      an jm./etw. vorbei-      |              从旁边经过              |\n|      |  an  |  D   |      an etw. teilnehmen       |                 参加                 |\n| sich |  an  |  D   |    sich an etw. beteiligen    |                 参加                 |\n| sich |  an  |  A   |   sich an etw./jn. gewöhnen   |                习惯于                |\n| sich |  an  |  A   |   sich an etw./jn. anpassen   |             适应（生活）             |\n|      |      |      |                               |                                      |\n|      |  an  |  D   |     an jm./etw. zweifeln      |                 怀疑                 |\n|      |  an  |  D   |    an jm./etw. verzweifeln    |            绝望，丧失信心            |\n|      |  an  |  D   |      an etw. schuld sein      |            在某方面有责任            |\n|      |  an  |  D   | an jm./etw. interessiert sein |             对...感兴趣              |\n|      |  an  |  D   |    Interesse an etw. haben    |             对...感兴趣              |\n|      |  an  |  D   | etw. an jm./etw. abreagieren  |       对某人/某事发泄（不快）        |\n|      |  an  |  D   |     an jm./etw. scheitern     |          因某原因失败/落空           |\n| sich |  an  |  D   | sich an jm./etw. abreagieren  |         因某人/某事冷静下来          |\n| sich |  an  |  D   |   sich an etw. orientieren    |          按...目标确定方向           |\n| sich |  an  |  A   | sich/jn. an etw./jn. erinnern |             使...想起...             |\n|      |  an  |  A   |         an jn. denken         |         （一直）想着；考虑到         |\n| sich |  an  |  A   |      sich an jn. wenden       |              向某人求助              |\n|      |  an  |  A   |      an jn./etw. glauben      |              信任；坚信              |",
+      "source_content_hash": "18275d2287a6f15af28fd4bba096c7cb34ce234918bd627e462080d4402c2e28",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_d29b5cbe"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/动词/用法模式.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.530925+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "07d8e80cf45a7af5c74691094f5daea422c0ece8bf6358832c36db9081f3077f"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/数词/数词.md",
+  "source_file_content_hash": "2c74fce6c9b5a77de7614879b71601ff01f3df69fba0e61c7ba7fd12b913ddf5",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\n---",
+      "source_content_hash": "92a21a112978c590263ada3554195d9905c8c585e619dccd5f0a4cf518a7076f",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 数词",
+      "source_content_hash": "ee9a34fde97c61c8d0f688e8c1c09a8c24478138d0d772add7704c0ad5526c2d",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 数詞"
+      }
+    },
+    {
+      "segment_id": "b2a8552e",
+      "source_content": "| **Tausend**       | 10³  |               | thousand    |\n| ----------------- | ---- | ------------- | ----------- |\n| **Million**       | 10⁶  |               | million     |\n| **Milliarde**     | 10⁹  |               | billion     |\n| **Billion**       | 10¹² | bi=2 百万²    | trillion    |\n| **Billiarde**     | 10¹⁵ |               | quadrillion |\n| **Trillion**      | 10¹⁸ | tri=3 百万³   | quintillion |\n| **Trilliarde**    | 10²¹ |               | sextillion  |\n| **Quadrillion**   | 10²⁴ | quadr=4 百万⁴ | septillion  |\n| **Quadrilliarde** | 10²⁷ |               | octillion   |\n| **Quintillion**   | 10³⁰ | quint=5 百万⁵ | nonillion   |",
+      "source_content_hash": "6ed783eedd66dee2d62c0793a6f0884663013f6f97fb93f4918087714cebc949",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_b2a8552e"
+      }
+    },
+    {
+      "segment_id": "7ece1a63",
+      "source_content": "| **Quintilliarde** | 10³³ |               | decillion |\n| ----------------- | ---- | ------------- | --------- |\n| **Sextillion**    | 10³⁶ | sext=6 百万⁶  |           |\n| **Sextilliarde**  | 10³⁹ |               |           |\n| **Septillion**    | 10⁴² | sept=7 百万⁷  |           |\n| **Septilliarde**  | 10⁴⁵ |               |           |\n| **Oktilion**      | 10⁴⁸ | okt=8 百万⁸   |           |\n| **Oktilliarde**   | 10⁵¹ |               |           |\n| **Nonillion**     | 10⁵⁴ | non=9 百万⁹   |           |\n| **Nonilliarde**   | 10⁵⁷ |               |           |\n| **Dekillion**     | 10⁶⁰ | dek=10 百万¹⁰ |           |",
+      "source_content_hash": "02d5b31be51c88f8e09d14a27b5efa3a2f36b6cfa1ec77c19efae9b0e468090a",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_7ece1a63"
+      }
+    },
+    {
+      "segment_id": "bdc231b1",
+      "source_content": "表格里面所有的-llion其实是百万（10的6次方）的n次方，比如Billion就是10的6×2次方。tri (3), quadr (4), quint (5), sext (6), sept (7), okt (8), non (9), dek (10) 依次类推为10的6×n次方。后面还可以用拉丁语数字继续列举的。",
+      "source_content_hash": "9c111428acb9750fe8aabfebe32d9b77102dde655eb7c3e0d1d2ef7da8f0c73f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "表内の全ての-llionは実際には百万（10の6乗）のn乗を表します。例えばBillionは10の6×2乗です。tri (3), quadr (4), quint (5), sext (6), sept (7), okt (8), non (9), dek (10) と続き、それぞれ10の6×n乗を表します。さらにラテン語の数字を使って列挙することも可能です。"
+      }
+    },
+    {
+      "segment_id": "97ae4a01",
+      "source_content": "bi-, tri, quadr, quint, sext, sept, okt, non, dek 明显和德语的zwei, drei, vier, fünf, sex, sieben, acht, neun, zehn是同源的，非常好记。",
+      "source_content_hash": "16656c55b43eb1edf530786226931a490e54576e22441faca53e378830f68b36",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "bi-, tri, quadr, quint, sext, sept, okt, non, dek は明らかにドイツ語のzwei, drei, vier, fünf, sex, sieben, acht, neun, zehnと同語源で、非常に覚えやすいです。"
+      }
+    },
+    {
+      "segment_id": "c3a738de",
+      "source_content": "而多少-lliarde就是相应的-llion再多个3次方，比如Trilliarde就是Trillion（百万³×10³=10的6×3+3次方=10²¹）。",
+      "source_content_hash": "e7d57e22a3279bca00be09eeb2b9bbfdb453272e3b9d41b2d12e3ebef5a91d26",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "一方、-lliardeは対応する-llionにさらに3乗を加えたもので、例えばTrilliardeはTrillion（百万³×10³=10の6×3+3乗=10²¹乗）となります。"
+      }
+    },
+    {
+      "segment_id": "3cfe6286",
+      "source_content": "英语里没有-lliarde，只有-llion，所以英语的超大数字要比德语难表达一些。",
+      "source_content_hash": "6ae5eaa10f849fb333e53cb5c51ddfe6feb51d26b1745be852f1da861f091e17",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "英語には-lliardeが存在せず、-llionのみのため、英語で非常に大きな数字を表現するのはドイツ語よりも難しいと言えます。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/数词/数词.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.529735+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "2c74fce6c9b5a77de7614879b71601ff01f3df69fba0e61c7ba7fd12b913ddf5"
+  }
+}

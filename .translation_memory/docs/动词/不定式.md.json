@@ -1,0 +1,122 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/动词/不定式.md",
+  "source_file_content_hash": "9acbdefbc55a5cbd773fc4536dbeedccba38dddb902d506902047c50932403e5",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 5\n---",
+      "source_content_hash": "4e1648681f9d3eb1c06dab5f22305d5a6a1d297b99e313329f1385ba4d7dbfda",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 不定式",
+      "source_content_hash": "df9fd8ea3f547902e334a9413f25ac814477d647f322e483366721005b1beb5a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 不定詞"
+      }
+    },
+    {
+      "segment_id": "a703643c",
+      "source_content": "### 带zu不定式",
+      "source_content_hash": "79a1f131cc2450fd7f58f03ae4c35b810f9faf12f3c5595c5ae482a929991c2f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### zu付き不定詞"
+      }
+    },
+    {
+      "segment_id": "abcf54e3",
+      "source_content": "* 成分\n  * 宾语\n  * （后置）定语\n  * 主语/表语\n* 翻译：有什么要去做\n* 和英语基本一样",
+      "source_content_hash": "e1b67edf531d3ad2de15e189ae70f1dc63df879edceddc026527a2efd1edef2e",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 構成要素\n  * 目的語\n  * （後置）修飾語\n  * 主語/述語\n* 訳：「～するべきことがある」という意味\n* 英語とほぼ同じ"
+      }
+    },
+    {
+      "segment_id": "cbe57f9d",
+      "source_content": "### 搭配",
+      "source_content_hash": "d8f93dee12b0c8fb81765f657ab528acbaa5782829751e3e85d03a13cfe026e3",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 組み合わせ"
+      }
+    },
+    {
+      "segment_id": "d350c018",
+      "source_content": "#### 介词",
+      "source_content_hash": "e3d91df65be9bba6a7fb7b042067e9ae55c87d66a6876dd4dd262a0cff98272c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "#### 前置詞"
+      }
+    },
+    {
+      "segment_id": "3b695c37",
+      "source_content": "* statt zu\n  * 没有，而是\n  * Statt in die Schule zu gehen, geht er ins Kino\n* ohne zu\n  * 按常理该如何而没有\n  * Er verlässt das Klassenzimmer, ohne das licht zuzumachen.\n* um zu\n  * 为了",
+      "source_content_hash": "43131e1929778b4ee15bb146040da4f047ea7c25752fa740e94922f11ff3c8b6",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* statt zu\n  * 「～する代わりに」\n  * Statt in die Schule zu gehen, geht er ins Kino（学校へ行く代わりに、彼は映画館へ行く）\n* ohne zu\n  * 「～することなく」（通常すべきことをしなかった場合）\n  * Er verlässt das Klassenzimmer, ohne das licht zuzumachen.（彼は電気を消すことなく教室を出る）\n* um zu\n  * 「～するために」"
+      }
+    },
+    {
+      "segment_id": "f2f30ae8",
+      "source_content": "#### 动词",
+      "source_content_hash": "2d0604e798e3de652e80fabde9f419b7ec3e2b856ae59433828d1e208ed76cfe",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "#### 動詞"
+      }
+    },
+    {
+      "segment_id": "c6dea11f",
+      "source_content": "* brauchen zu 必须\n* sein zu 被动替代\n* haben zu 有什么去做\n* drohen zu 恐怕要怎样",
+      "source_content_hash": "a31d11631958b5711ac63540734dcbb4df4686fdd9d283dd3e2ca4afc84d69e5",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* brauchen zu 「～する必要がある」\n* sein zu 「受動態の代用」\n* haben zu 「～するべきことがある」\n* drohen zu 「～しそうになる」"
+      }
+    },
+    {
+      "segment_id": "109ace10",
+      "source_content": "### 不带zu不定式",
+      "source_content_hash": "27b8acdf3e3035d65dc3915c19562ab39cdf73f68b033b909fb491d9d5414f0e",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### zuなし不定詞"
+      }
+    },
+    {
+      "segment_id": "157151e9",
+      "source_content": "* 情态动词+原型\n* 类情态动词：lassen，Er hat sich scheiden lassen.\n* 趋向动词：gehen，kommen\n* 感官动词：sehen，hören\n* 个别词：lernen, lehren, helfen, bleiben",
+      "source_content_hash": "c1387895bb3f5224e309e597e61e6b5d321105c77baa3cc6b25817ddfa247a79",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 法助動詞+原形\n* 法助動詞類似動詞：lassen（Er hat sich scheiden lassen. 彼は離婚した）\n* 方向動詞：gehen（行く）、kommen（来る）\n* 知覚動詞：sehen（見る）、hören（聞く）\n* 特殊な動詞：lernen（学ぶ）、lehren（教える）、helfen（助ける）、bleiben（残る）"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/动词/不定式.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.522080+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "9acbdefbc55a5cbd773fc4536dbeedccba38dddb902d506902047c50932403e5"
+  }
+}

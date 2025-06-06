@@ -1,0 +1,372 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/学习资源/德国州名.md",
+  "source_file_content_hash": "9701ac3ec6340b297100b74fc87b5900917e114644f64c163bbe76b95593df8c",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 10\n---",
+      "source_content_hash": "5fac3e64d7610fb5e1722568edf65e0a21b79e968fce1eea6df49dc3ea0bb249",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 德国州名",
+      "source_content_hash": "4477a5da8338d59ecabaed21d021511625f83b2e0652792cf3de8cf21e1c1ab6",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# ドイツの州名"
+      }
+    },
+    {
+      "segment_id": "6ef78e84",
+      "source_content": "![](./img/德国州名-17.png)",
+      "source_content_hash": "4cf0c7835f568c84836fa6b2e9928f67c1e923fb5b82040d8fe062990d2eeaea",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/德国州名-17.png)"
+      }
+    },
+    {
+      "segment_id": "53eaf0e1",
+      "source_content": "受丹麦影响的Schleswig-Holstein，和波兰有关的Mecklenburg-Vorpommern，右边是Brandenburg，然后从右到左三个带Sachsen的，下面两个大州Bayern和Baden-Württemberg，左边两个和Rhein有关的州，中间一个Hessen一个Thüringen。这样走一圈，再加上三个城市州Berlin, Hamburg和Bremen。最后加上西南部被法国割裂过两次的Saarland。",
+      "source_content_hash": "83e1995e230c6c44a20226d66cecf0591e6915beff4a0b9e9f9e5ddb008c6210",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "デンマークの影響を受けたシュレースヴィヒ＝ホルシュタイン、ポーランドに関連するメクレンブルク＝フォアポンメルン、右側がブランデンブルク、そして右から左へ3つのザクセンを含む州、下の2つの大きな州バイエルンとバーデン＝ヴュルテンベルク、左側の2つのライン川に関連する州、中央のヘッセンとテューリンゲン。このように一周し、さらに3つの都市州ベルリン、ハンブルク、ブレーメンを加える。最後に、フランスに2度分割された南西部のザールランド。"
+      }
+    },
+    {
+      "segment_id": "8ac585fb",
+      "source_content": "![](./img/德国州名-01.png)",
+      "source_content_hash": "157b6c7b8d6267a4a76719bfadfdeaabc93b486065e561d26ff9d6d212dfc845",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/德国州名-01.png)"
+      }
+    },
+    {
+      "segment_id": "180bddb1",
+      "source_content": "最北边的州Schleswig-Holstein，意译是“泥水湾-林人”。这个州由历史上的两个公国组成。话说，名字中带杠（-）的，一定都是由两部分组成的，姓名方面也一样。Schleswig很有丹麦语的意味，Holstein的Hols其实指的是Holz（木头），而-tein是发音巧合，和Stein“石头”没有关系。",
+      "source_content_hash": "7711c855e36b459ea64f9897a708550c0d3c29e64f561c8cb7e650b49bf0f5bb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "最北端の州シュレースヴィヒ＝ホルシュタインは、意訳で「泥水湾-森の人」。この州は歴史的に2つの公国で構成されている。ちなみに、名前の中にハイフン（-）が含まれる場合、必ず2つの部分で構成されており、人名についても同様。シュレースヴィヒはデンマーク語の響きが強く、ホルシュタインのHolsはHolz（木）を指し、-teinは発音の偶然でStein「石」とは関係ない。"
+      }
+    },
+    {
+      "segment_id": "cf898102",
+      "source_content": "![](./img/德国州名-02.png)",
+      "source_content_hash": "94c815f1e666556a34690808185b6c8eca60f734c64b86613cf3d4b21b1b6011",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/德国州名-02.png)"
+      }
+    },
+    {
+      "segment_id": "42ad8e83",
+      "source_content": "东北的Mecklenburg-Vorpommern，意译是“大堡-前沿海”。mecklen和英语much同源，是大的意思，地名带Burg的，都和“城堡”有关；Vorpommern之后还有Hinterpommern，在波兰。vor是“前”，mer这个印欧语的“海”词根也清晰可见。",
+      "source_content_hash": "2c86b37297970285224300c5d819434bdeb6a08a5334b8df88929ec4f4b2370c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "北東部のメクレンブルク＝フォアポンメルンは、意訳で「大城-前浜」。mecklenは英語のmuchと同源で「大きい」を意味し、地名にBurgが含まれる場合は「城」と関連がある。フォアポンメルンの先にはヒンターポンメルンがあり、ポーランド側にある。vorは「前」、merという印欧語の「海」を表す語根も明確に見て取れる。"
+      }
+    },
+    {
+      "segment_id": "f6168993",
+      "source_content": "![](./img/德国州名-03.png)",
+      "source_content_hash": "b1be1ebdbc329776f7a59a00f7c6e0aac48538c3820ccd1313477bbd75971028",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/德国州名-03.png)"
+      }
+    },
+    {
+      "segment_id": "f5f6d2ce",
+      "source_content": "Brandenburg，意译是“泥泞堡”。Branden这个词的词源有争议，我认为来自古捷克语的“泥泞”比较可信。",
+      "source_content_hash": "172a57fc90c867ef4c9586199b31fb407e739dc6730a8fc55987fb086f881b36",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ブランデンブルクは、意訳で「泥濘の城」。Brandenの語源には諸説あるが、古チェコ語の「泥濘」に由来するという説が最も信憑性が高い。"
+      }
+    },
+    {
+      "segment_id": "2fdadb08",
+      "source_content": "![](./img/德国州名-04.png)",
+      "source_content_hash": "2860a1949048ccbae21d4d2ec9911b41d98eb0cb3c432d21728413c475f77ad5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/德国州名-04.png)"
+      }
+    },
+    {
+      "segment_id": "f2c2bdd0",
+      "source_content": "Sachsen，意译是“刀部”。本义是刀，是一个日耳曼部落的名称。",
+      "source_content_hash": "150c0fa0727f98c418fb43ad99f0a95b577dedd173c1086c2f2194c2396f4624",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ザクセンは、意訳で「刀の部族」。本来の意味は刀で、ゲルマン部族の名称である。"
+      }
+    },
+    {
+      "segment_id": "a76548f8",
+      "source_content": "![](./img/德国州名-05.png)",
+      "source_content_hash": "653d83a9f6b9607c52cf0939033659d9ccc3e0d900d4c7959339047517356470",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/德国州名-05.png)"
+      }
+    },
+    {
+      "segment_id": "4b1d2d7d",
+      "source_content": "Sachsen-Anhalt，没法意译。Anhalt的词源已经丢失。姑且就叫它“刀部-安哈特”。",
+      "source_content_hash": "3f7790b5e80033f0ac133d9e7dc86516404b92e783306ec57518d4bff3dc7286",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ザクセン＝アンハルトは、意訳できない。アンハルトの語源は失われている。仮に「刀部-アンハルト」と呼ぶ。"
+      }
+    },
+    {
+      "segment_id": "dfe931a2",
+      "source_content": "![](./img/德国州名-06.png)",
+      "source_content_hash": "60a35d81a58a2873f5690693527ab241cb6004377176f25a77df58505f9e8e37",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/德国州名-06.png)"
+      }
+    },
+    {
+      "segment_id": "4daf5cdd",
+      "source_content": "Niedersachsen，意译“低刀部”。",
+      "source_content_hash": "a63ed812f6d0e6ac02f3100c24341ae14f8dbb1072da63cc6852c79155432f08",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ニーダーザクセンは、意訳「低地ザクセン」。"
+      }
+    },
+    {
+      "segment_id": "bdc231b1",
+      "source_content": "![](./img/德国州名-07.png)",
+      "source_content_hash": "e36a8e03f8831cfa7175a228b5071038dab03070189c7e41f06b8a7a8faea2d6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/德国州名-07.png)"
+      }
+    },
+    {
+      "segment_id": "97ae4a01",
+      "source_content": "Bayern，意译“牛主”。指的是“拥有牛的人”。和凯尔特语言有关系，所以很难看出词根。",
+      "source_content_hash": "1df1ea1f1c3bb0b108dee910dd6d15652f7a6a38dc849504426ea2d26fa63dc4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "バイエルンは、意訳「牛の所有者」。ケルト語と関連があるため、語根が分かりにくい。"
+      }
+    },
+    {
+      "segment_id": "c3a738de",
+      "source_content": "![](./img/德国州名-08.png)",
+      "source_content_hash": "3f812aa3640a8ecca796948ae772f58b469673da67894328797b5ef2dad636e2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/德国州名-08.png)"
+      }
+    },
+    {
+      "segment_id": "3cfe6286",
+      "source_content": "Baden-Württemberg，意译“温泉-男山”。Baden是“洗澡”，叫Baden的地方都有温泉。Württem来自凯尔特语“男山”，后面再加上了德语的Berg（山），类似“天津港”这样的重复。",
+      "source_content_hash": "f31254fce1497a0f48265267e82cffd2d6b060b2a7b2965ff971aae1e6202e6f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "バーデン＝ヴュルテンベルクは、意訳「温泉-男山」。バーデンは「入浴」を意味し、バーデンと名の付く場所には温泉がある。ヴュルテムはケルト語の「男山」に由来し、後にドイツ語のBerg（山）が追加され、「天津港」のような重複表現となっている。"
+      }
+    },
+    {
+      "segment_id": "1042b50d",
+      "source_content": "![](./img/德国州名-09.png)",
+      "source_content_hash": "efcac8b0ba67752ca2a0aaa353cf6bdd8a745095d058cdf924ad54c5d0427b81",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/德国州名-09.png)"
+      }
+    },
+    {
+      "segment_id": "aa1e7006",
+      "source_content": "Rheinland-Pfalz，意译“江原-行宫”。Rhein是“流动”的意思，Pfalz和Palast（宫）有词源关系。",
+      "source_content_hash": "db25b80d918f663c2664a9edc271a144aeb7709894dbb2f90b2730f8f75fc306",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Rheinland-Pfalz、意訳「江原-行宮」。Rheinは「流れる」という意味で、PfalzはPalast（宮殿）と語源的な関係があります。"
+      }
+    },
+    {
+      "segment_id": "13d9cd70",
+      "source_content": "![](./img/德国州名-10.png)",
+      "source_content_hash": "1c9142e34c152a26828f4ff2b822ba94afbd6d587865416d31cdb54bd0654fbd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/德国州名-10.png)"
+      }
+    },
+    {
+      "segment_id": "29528c8d",
+      "source_content": "Nordrhein-Westfalen，意译“北江-西平”。Falen指的是“平地”。",
+      "source_content_hash": "4862ced27da9c6a726278847b9f6595df535330f82d3d705c34099b69ad9596c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Nordrhein-Westfalen、意訳「北江-西平」。Falenは「平地」を指します。"
+      }
+    },
+    {
+      "segment_id": "c504c207",
+      "source_content": "![](./img/德国州名-11.png)",
+      "source_content_hash": "f462482245799a90ca09aa2156d4e081de1db3e0e2333a57d09673eebcc7db91",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/德国州名-11.png)"
+      }
+    },
+    {
+      "segment_id": "98d26038",
+      "source_content": "Hessen，没法意译。词源含义已不可考。古称Catti，这个和“全国翻译资格考试”的英文缩写CATTI一模一样。",
+      "source_content_hash": "b00309ac66c828484c7a12596adc703e005bb68426bb1d1f6aff6c7d70962655",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Hessen、意訳不可。語源の意味はすでに不明です。古代の名称はCattiで、これは「全国翻訳資格試験」の英語略称CATTIと全く同じです。"
+      }
+    },
+    {
+      "segment_id": "d3649a1e",
+      "source_content": "![](./img/德国州名-12.png)",
+      "source_content_hash": "c345a5198021dca9f61cf627e5e35df02e889e822c295bb48208d34822cfcdbe",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/德国州名-12.png)"
+      }
+    },
+    {
+      "segment_id": "4d52a261",
+      "source_content": "Thüringen，意译“强部”。本义“强”，是日耳曼部落名称。",
+      "source_content_hash": "27881abd2ba4debc093cf3e2112bd3e00240600774c727d1ac809e2461853740",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Thüringen、意訳「強部」。本来の意味は「強い」で、ゲルマン部族の名称です。"
+      }
+    },
+    {
+      "segment_id": "23dfb152",
+      "source_content": "![](./img/德国州名-13.png)",
+      "source_content_hash": "e19b9315b533ce64e3452ebe928f2c881d6c979e84429059055f1afcde2009a2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/德国州名-13.png)"
+      }
+    },
+    {
+      "segment_id": "1131ef75",
+      "source_content": "Berlin，意译“泥沼”，来自西斯拉夫语。从日耳曼语的角度来说，听起来像Bär+ling，也就是“小熊”，于是硬生生附会成“小熊”。柏林的城徽是“熊”。",
+      "source_content_hash": "8e11f621b1821d4873e2ef70e1973c593e98861b361fd30bd38e214ca9060807",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Berlin、意訳「泥沼」、西スラブ語に由来します。ゲルマン語の観点からは、Bär+ling、つまり「子熊」のように聞こえるため、無理やり「子熊」と解釈されました。ベルリンの市の紋章は「熊」です。"
+      }
+    },
+    {
+      "segment_id": "8b2a52b1",
+      "source_content": "![](./img/德国州名-14.png)",
+      "source_content_hash": "baeb1190123f2fc24e8a2c1f3841664694d3c4ff8a2a9d3ab43101f2c996dc74",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/德国州名-14.png)"
+      }
+    },
+    {
+      "segment_id": "5dae11e3",
+      "source_content": "Hamburg，意译“腿堡”。Ham指的是弯曲的腿🦵，在河流的弯曲处。英语ham是“火腿”的意思。河流弯曲处的城堡，一个有名的食物从这个地名得名，那就是Hamburger（汉堡包）。真是个和食物源远流长的地名。",
+      "source_content_hash": "e725400ee1533e221c68218d638d0f06f4834ebf65e33752760a867ae3e41879",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Hamburg、意訳「腿堡」。Hamは曲がった足🦵を指し、川の曲がり角に位置します。英語のhamは「ハム」の意味です。川の曲がり角の城から、有名な食べ物がこの地名に由来しています。それがHamburger（ハンバーガー）です。食物と深い関わりを持つ地名です。"
+      }
+    },
+    {
+      "segment_id": "0bb95128",
+      "source_content": "![](./img/德国州名-15.png)",
+      "source_content_hash": "09cd8947a72969753de2acc5651b9422b778b0985c1fd3c09949be8cc1b01324",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/德国州名-15.png)"
+      }
+    },
+    {
+      "segment_id": "657c2b20",
+      "source_content": "Bremen，意译“延边”。这个和英语brim（边缘）有词源关系。",
+      "source_content_hash": "e9bfcff8f5dc9c5c9c9827fdf357123ab753f0ad3819f56a7bdaf70e7335a920",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Bremen、意訳「延辺」。これは英語のbrim（縁）と語源的な関係があります。"
+      }
+    },
+    {
+      "segment_id": "e7772088",
+      "source_content": "![](./img/德国州名-16.png)",
+      "source_content_hash": "1adc9406801249501a20e30582f965d33c7a9b5bf9a98cf13bbb46957b3db8d9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/德国州名-16.png)"
+      }
+    },
+    {
+      "segment_id": "eab056be",
+      "source_content": "Saarland，意译“流原”。Saar是条河，词源“流水”。",
+      "source_content_hash": "63fa5a5df1539f2cb4559827bfb2617d155807038e374d3ea6ffe2ec037dc8de",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Saarland、意訳「流原」。Saarは川の名前で、語源は「流れる水」です。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/学习资源/德国州名.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.530317+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "9701ac3ec6340b297100b74fc87b5900917e114644f64c163bbe76b95593df8c"
+  }
+}

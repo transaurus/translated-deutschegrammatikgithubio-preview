@@ -1,0 +1,842 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/句法/句法.md",
+  "source_file_content_hash": "0ab30f5bba58f9d0e5bd8a0d8d4b91651a4e46908c0939ff7d0464d4a33971be",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\n---",
+      "source_content_hash": "92a21a112978c590263ada3554195d9905c8c585e619dccd5f0a4cf518a7076f",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 句法",
+      "source_content_hash": "1bc3d64940f80d092e3906392b6070d6ffc9ad8ffb59b91ddac1a79284646ce1",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 構文"
+      }
+    },
+    {
+      "segment_id": "a703643c",
+      "source_content": "## 构成",
+      "source_content_hash": "4bbb7d9c5fb99c227e1dfcf9ead632d358ff8d6dc200ecf15fb06c8ec48866b9",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 構成"
+      }
+    },
+    {
+      "segment_id": "d912d376",
+      "source_content": "### 句子成分",
+      "source_content_hash": "798d5ac06476f91f448e0c6bbedb20b22109484fffeb386d626e91338cf9a1b1",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 文の成分"
+      }
+    },
+    {
+      "segment_id": "8ac585fb",
+      "source_content": "德语的句子理论上必须有动词，一般来说也必须有主语。省略句可能会缺成分，但是按规则可以补全。德语句子成分只有“主谓宾状补表”6种。词类主要是“名动形数冠代副介连小叹”11种，“小”指的是“小品词”（其实就是语气词）。",
+      "source_content_hash": "4a81a6c15260388a55ca562499ed7784552d22304b27045d720af7798e2ec689",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ドイツ語の文には理論上動詞が必須であり、一般的には主語も必要です。省略文では成分が欠ける場合がありますが、規則に従って補完可能です。ドイツ語の文成分は「主語・述語・目的語・状況語・補語・表語」の6種類のみです。品詞は主に「名詞・動詞・形容詞・数詞・冠詞・代名詞・副詞・前置詞・接続詞・小詞（実質的に間投詞）・感嘆詞」の11種類で、「小詞」とは「小品詞」（実際には終助詞）を指します。"
+      }
+    },
+    {
+      "segment_id": "180bddb1",
+      "source_content": "![](./img/句子成分.png)",
+      "source_content_hash": "ab545b685afc975e89eedc7f92f2b1162594ef21081449b0a6fb33d17fb0d99a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/句子成分.png)"
+      }
+    },
+    {
+      "segment_id": "e14c9928",
+      "source_content": "### 基本句型",
+      "source_content_hash": "69fe55c8c1aef87eef8a0509b0546cf074106634ca70d2026de6a23d50780329",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 基本文型"
+      }
+    },
+    {
+      "segment_id": "42ad8e83",
+      "source_content": "德语也可以算是5种基本句型，所有一切句子都是在这5种句型基础上变化的，包括从句。整个句子作成分就是从句，从句作什么成分，就叫什么从句。比如作主语，那就是主语从句。德语的从句，理论上都有一个引导词，理论上变位动词都放在最后一位。有这两个特点，所以特别好辨别，比辨别英语从句容易很多。",
+      "source_content_hash": "68cb6354274795202b743b20ff9e8db93d7a1887235b49fa5fff51ffcb672c7a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ドイツ語も5つの基本文型に分類でき、全ての文はこれらの文型を基に変化します（従属節を含む）。文全体が成分として機能する場合が従属節であり、どの成分として機能するかで節の名称が決まります（例：主語として機能すれば主語節）。ドイツ語の従属節には理論上、全てに導出語があり、また活用動詞は最終位置に配置されます。この2つの特徴により、英語の従属節よりもはるかに識別が容易です。"
+      }
+    },
+    {
+      "segment_id": "f6168993",
+      "source_content": "![](./img/基本句型.png)",
+      "source_content_hash": "c908b1728aaa1c4604ae7e82dc4487301c392fae7562ff8e16bbb95a33dd7fa7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/基本句型.png)"
+      }
+    },
+    {
+      "segment_id": "418617bd",
+      "source_content": "### 语序",
+      "source_content_hash": "b1871d78723ff03eedf14fa7d8014ed2cdd73034840ee59ada48b705a055ec2a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 語順"
+      }
+    },
+    {
+      "segment_id": "2fdadb08",
+      "source_content": "除了动词第二位不能动，其他的成分都可以提前。当然，一次只提前一个成分，把主语挤到变位动词后，其他的成分保持原来的位置。",
+      "source_content_hash": "5e37cde34d6af4cc9360769f91f925e8f19841747a411a442bdad9f813baea3b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "動詞の第二位という原則を除けば、他の成分は全て前倒し可能です。ただし、一度に一つの成分のみを移動させ、主語を活用動詞の後ろに押しやり、他の成分は元の位置を保持します。"
+      }
+    },
+    {
+      "segment_id": "f2c2bdd0",
+      "source_content": "te,ka,mo,lo：时间（temporal, Wann?）、原因（kausal, Warum?）、情状（modal, Wie?）、位置（lokal, Wo?）",
+      "source_content_hash": "29251f9f2feb4b95dcae3a07963d6042d0415118dffb82eadbc25f4d3a1220b0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "te,ka,mo,lo：時間（temporal, いつ？）、原因（kausal, なぜ？）、様態（modal, どのように？）、場所（lokal, どこ？）"
+      }
+    },
+    {
+      "segment_id": "a76548f8",
+      "source_content": "![](./img/语序.png)",
+      "source_content_hash": "4a5780137614ed051da4535530456c12bced128b467dc11be86940d856e29274",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/語序.png)"
+      }
+    },
+    {
+      "segment_id": "f2f30ae8",
+      "source_content": "## 第三格",
+      "source_content_hash": "7abea34ffc8e6937024964aa3ac76ba15fd151467041d076e38426e766e709e0",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 与格（第三格）"
+      }
+    },
+    {
+      "segment_id": "dfe931a2",
+      "source_content": "按照拉丁语的惯例，第一格是主格，第二格是属格（所有格），第三格是与格，第四格是宾格。与英语相比，德语多出了一个第三格，总是造成理解的困难。",
+      "source_content_hash": "b2686f0cab230f6279c0055d77a858bf2417c385e9f6de8dcb9fa8142321b49b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ラテン語の慣例に従い、第一格は主格、第二格は属格（所有格）、第三格は与格、第四格は対格となります。英語と比較して、ドイツ語には第三格が追加されており、常に理解の障壁となります。"
+      }
+    },
+    {
+      "segment_id": "4daf5cdd",
+      "source_content": "第三格的用法可以总结如下：",
+      "source_content_hash": "a5a854421de00f6cf01d91dc00fe43f385755573e674faf5e803062b004b59ea",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第三格の用法は以下のように要約できます："
+      }
+    },
+    {
+      "segment_id": "fc8eadc3",
+      "source_content": "1. 静三动四：牵涉到九个介词 über, auf, in, unter, vor, hinter, neben, an, zwischen。\n2. 人三物四：间接宾语，比如 Ich gebe dir ein Buch.\n3. 介词固定加第三格：aus, seit, mit, nach // von, bei, zu // außer, gegenüber\n4. 形容词用法，对“第三格”来说：Mir ist kalt. Es ist mir kalt.\n5. 动词固定加第三格，比如 Ich helfe dir.",
+      "source_content_hash": "acf0630071f19ac75361a5ed656f69c198c7ba7c8e150b4e092a975dfc3bf963",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "1. 静三動四：9つの前置詞 über, auf, in, unter, vor, hinter, neben, an, zwischen に関連\n2. 人三物四：間接目的語（例：Ich gebe dir ein Buch.）\n3. 前置詞固定で第三格を要求：aus, seit, mit, nach // von, bei, zu // außer, gegenüber\n4. 形容詞的用法：「第三格」に対して（例：Mir ist kalt. Es ist mir kalt.）\n5. 動詞固定で第三格を要求（例：Ich helfe dir.）"
+      }
+    },
+    {
+      "segment_id": "3cfe6286",
+      "source_content": "前四种逻辑简单，好理解，第五种情况是难点，也是我们今天要讲的重点。",
+      "source_content_hash": "1a9651eb3af29cafce028b0447f8aeb9441e12edf29fb14e7b81e2f2e3d318fe",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "前4項目は論理が単純で理解しやすいですが、第5項目が難点であり、本日の解説の焦点です。"
+      }
+    },
+    {
+      "segment_id": "1042b50d",
+      "source_content": "动词加第四格我们可以理解为主语对对象的直接作用，比如 Sie schlägt ihn. 她打他。而**动词加第三格的情况我们可以理解为主语对对象的间接作用**，比如 Ich helfe dir. 我帮你。",
+      "source_content_hash": "d8a1b5fd519ba5d2f38ec161f0e2a4cc6a5cbc00484dbf893341eaaabbafa24c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "動詞に第四格が伴う場合、主語が対象に直接作用すると解釈できます（例：Sie schlägt ihn. 彼女は彼を殴る）。一方**動詞に第三格が伴う場合、主語が対象に間接的に作用すると解釈できます**（例：Ich helfe dir. 私はあなたを助ける）。"
+      }
+    },
+    {
+      "segment_id": "aa1e7006",
+      "source_content": "这种“间接作用”是不是很玄学的感觉？其实是这样的，我们还是拿helfen举例：拉丁语相应的动词是assistere，到英语中变成了assist，as来自于一个介词，而词根sist是“站”的意思。德语中有个仿译词beistehen，照字面意思翻译了assistere。assistere在拉丁语中是加第三格的，beistehen也是加第三格的，这很符合逻辑，stehen要加第四格或者理解为直接作用实在是太荒谬了。其实helfen本来是加第四格的，莱辛和歌德的作品中还出现过这样的句子。可能是受assistere和beistehen的影响太大，慢慢就只加第三格了。",
+      "source_content_hash": "86943459b29a7329b3bf7f265c19a745a2ce7183ee8503adcfa1521235e001b7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "この「間接的な作用」は少し神秘的に感じられるでしょうか？実はこういうことです。例としてhelfen（助ける）を取り上げましょう：ラテン語の対応する動詞はassistereで、英語ではassistになりました。asは前置詞から来ており、語根sistは「立つ」という意味です。ドイツ語にはbeistehenという翻訳借用語があり、assistereを文字通り訳したものです。assistereはラテン語で第三格を取りますが、beistehenも第三格を取ります。これは論理的で、stehen（立つ）が第四格を取るか直接作用と解釈するのは全く不合理です。実はhelfenは本来第四格を取っていました。レッシングやゲーテの作品にもそのような文例が見られます。おそらくassistereとbeistehenの影響が強すぎて、次第に第三格のみを取るようになったのでしょう。"
+      }
+    },
+    {
+      "segment_id": "13d9cd70",
+      "source_content": "这样我们也就很容易理解 jm. entkommen 逃脱，没被某人抓住，很容易理解jm. hinterherlaufen 追某人，追求某人。这些词根毕竟是不及物的，它们的派生词或复合词加第三格顺理成章。",
+      "source_content_hash": "06f9afbefd4bd8c91bce8597cb70b811ee5071f3e8e773e8bfaac70a1f0f63bc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "こう考えると、jm. entkommen（誰かから逃れる）、jm. hinterherlaufen（誰かを追いかける、求愛する）も容易に理解できます。これらの語根はもともと他動詞ではないので、その派生語や複合語が第三格を取るのは当然のことです。"
+      }
+    },
+    {
+      "segment_id": "29528c8d",
+      "source_content": "jm. danken（感谢某人）也是类似的道理，danken来自于denken，本来是“心里会记着某人”的意思，无论是“想”还是“感谢”对客体都是间接作用。嗯，又有点玄学了。心理和精神方面的动词加的格或介词确实还很难找到一说就恍然大悟的解释，我继续努力。",
+      "source_content_hash": "edfa36f199d27011dd59f86f1e688ee64b26a583a8ac086cc1b7a2beb2ec3985",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "jm. danken（誰かに感謝する）も同様の理屈です。dankenはdenken（考える）から来ており、元々は「心の中で誰かを覚えておく」という意味でした。「考える」にせよ「感謝する」にせよ、対象に対する間接的な作用です。うーん、また少し神秘的な話になりました。心理や精神に関する動詞が取る格や前置詞については、すぐに納得できる説明を見つけるのはまだ難しいようです。引き続き努力します。"
+      }
+    },
+    {
+      "segment_id": "c504c207",
+      "source_content": "还有一部分加第三格的介词可以看做是后补充的句子成分。第四格基本是不可或缺的，第三格宾语可以看作是后补充的句子成分。比如：Du fehlst mir. 我想你：Du fehlst. 你不在。对于谁有感受呢，mir。再比如Das schmeckt mir. 我喜欢这个味道：Das schmeckt (gut). 这个味道好。对于谁来说呢，mir。",
+      "source_content_hash": "505b68f88f69000f13734f2883ea476038cf1b2668baab24906e51bc06cb73d0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第三格を取る一部の動詞は、後から補足された文要素と見なすことができます。第四格は基本的に不可欠ですが、第三格目的語は後から補足された文要素と見なせます。例えば：Du fehlst mir.（君がいなくて寂しい）：Du fehlst.（君がいない）。誰にとってかというと、mir（私にとって）。またDas schmeckt mir.（この味が好き）：Das schmeckt (gut).（この味は良い）。誰にとってかというと、mir（私にとって）。"
+      }
+    },
+    {
+      "segment_id": "98d26038",
+      "source_content": "上面这种情况在其他语言里面也有，比如：",
+      "source_content_hash": "bf107dd2b679a4e0e9ca8389ad8b8b66b8fe5aa761483285f22eb735ec529893",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "このような状況は他の言語にも見られます。例えば："
+      }
+    },
+    {
+      "segment_id": "d3649a1e",
+      "source_content": "拉丁语：Nomen mihi est Marcus. 我的名字是马库斯：Nomen est Marcus. 名字是马库斯，再补一下，mihi (mir)。",
+      "source_content_hash": "1471d39a5979daa474c02921b86a3ad2097f3edf0bac4b5dc1893fd78551d147",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ラテン語：Nomen mihi est Marcus.（私の名前はマルクスです）：Nomen est Marcus.（名前はマルクスです）。その後で補足して、mihi（私にとって）。"
+      }
+    },
+    {
+      "segment_id": "4d52a261",
+      "source_content": "日语：は前面和主格差不多，が前面的和第三格差不多。",
+      "source_content_hash": "da8a6c00ecc1000ad263d4c5e98bb9d4592e797e492694c5096c17a719ded622",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "日本語：「は」の前は主格に近く、「が」の前は第三格に近い。"
+      }
+    },
+    {
+      "segment_id": "23dfb152",
+      "source_content": "汉语：王冕死了父亲。",
+      "source_content_hash": "f9bf0e06b76ca640c62c9bcf05d29d04e47e415cbbd814bf03c44955061945fe",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "中国語：王冕死了父亲。（王冕は父親を亡くした）"
+      }
+    },
+    {
+      "segment_id": "1131ef75",
+      "source_content": "汉语翻译成日语：王冕が父に死なれた。",
+      "source_content_hash": "4fb85e82f6263cb4a8f04365f83a995d36bc5e4b82b38e85d0d05d555f193271",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "中国語から日本語に翻訳：王冕が父に死なれた。"
+      }
+    },
+    {
+      "segment_id": "8b2a52b1",
+      "source_content": "再翻译成德语：Wang Mian (第三格) ist der Vater weggestorben.",
+      "source_content_hash": "6ad59ba63820d1bf35f73b73fb13fb43b28b3f4351863d755086a599b9848cf8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "さらにドイツ語に翻訳：Wang Mian (第三格) ist der Vater weggestorben."
+      }
+    },
+    {
+      "segment_id": "35f6931b",
+      "source_content": "* 阳性和中性名词单数第三格可以加-e，显得古朴。",
+      "source_content_hash": "e298a8821b8e7627dde28ac29291e478bf4c4dd76d886ccd8c4ae4a358585f97",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 男性名詞と中性名詞の単数第三格には-eを付けることができ、古風な響きになります。"
+      }
+    },
+    {
+      "segment_id": "a5a4323e",
+      "source_content": "## 人三物四",
+      "source_content_hash": "2768c7b126e59a8f2b8352e08ee2ad8aef3cf02b979bf9ef3560ce698bd47674",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 人三物四"
+      }
+    },
+    {
+      "segment_id": "657c2b20",
+      "source_content": "都是名词，第三格在前；一个是代词，代词在前；都是代词，第四格在前",
+      "source_content_hash": "09b248eae28c0158a5be19fe95128a914423eb54c6bc3371f9430aee5c0a6ee2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "両方が名詞の場合、第三格が前；一方が代名詞の場合、代名詞が前；両方が代名詞の場合、第四格が前"
+      }
+    },
+    {
+      "segment_id": "af6ca965",
+      "source_content": "* Die Mutter des Kindes gibt dem Studenten ein Buch.\n* Sie gibt ihm ein Buch.\n* Sie gibt es dem Studenten.\n* Sie gibt es ihn.",
+      "source_content_hash": "53346f6d7079560392fe0046cb54f9a95469596b3eb747b3c04fbc50332aff1e",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* その子の母親は学生に本を一冊渡す。\n* 彼女は彼に本を渡す。\n* 彼女はそれを学生に渡す。\n* 彼女はそれを彼に渡す。"
+      }
+    },
+    {
+      "segment_id": "d0dd855b",
+      "source_content": "Ich zeig's dir. (Ich zeige es dir.)",
+      "source_content_hash": "06367c55f8e92b40ad6428add35dfd938e445191615bfe20bd314dc00214b315",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "見せてあげる。（Ich zeige es dir.）"
+      }
+    },
+    {
+      "segment_id": "2fd0be2a",
+      "source_content": "## 两个四格",
+      "source_content_hash": "b967916b1262410f221265b7e711f0b6923520b0e17eabaf553a99b701463985",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 二つの対格"
+      }
+    },
+    {
+      "segment_id": "6270d577",
+      "source_content": "Das traue ich mich nicht. 是吧sich trauen, etw. zu tun中etw. zu tun变成了das。",
+      "source_content_hash": "48b5055955a9c51af2307d8c85117d54eaa7e2f181094db6a02a8927dd1e9d8e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Das traue ich mich nicht. つまり「sich trauen, etw. zu tun」の「etw. zu tun」が「das」に変わった形。"
+      }
+    },
+    {
+      "segment_id": "a1fa5396",
+      "source_content": "fragen有(jn.) (etw.) fragen这个用法结构。这里的etw.是一个问句，比如：Er fragte (sie), ob sie mit ihm ins Kino gehe.",
+      "source_content_hash": "5a7d71806176fd787b46a2e0e286fd369510dadc6094c16dfd601c30d61211d9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「fragen」には「(jn.) (etw.) fragen」という用法構造がある。ここでの「etw.」は疑問文で、例えば：Er fragte (sie), ob sie mit ihm ins Kino gehe.（彼は（彼女に）、一緒に映画に行かないかと尋ねた）。"
+      }
+    },
+    {
+      "segment_id": "ec619944",
+      "source_content": "带zu不定式和从句是可以“压缩”成一个was或etwas的，压缩之后可能出现两个第四格。",
+      "source_content_hash": "797c128b1266b5c0ccf982a415d8296a759f2cbe2921e5f8beed75cd6b162d16",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「zu不定詞」と「従属節」は「was」や「etwas」に「圧縮」可能で、圧縮後に二つの対格が現れる場合がある。"
+      }
+    },
+    {
+      "segment_id": "2547a6bb",
+      "source_content": "加两个第四格的动词，基础教学一般只教kosten和nennen。在此之外，是还有加两个第四格的动词，但是一般是带zu不定式和从句是可以“压缩”成一个was或etwas之后产生的，其他名词做宾语很少。",
+      "source_content_hash": "854cf8546e73f3a5980af7eeb5d95ad1f3b84c342671fa049f1e207868965310",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "二つの対格を取る動詞として、基礎教育では通常「kosten」と「nennen」のみ教える。これ以外にも二つの対格を取る動詞は存在するが、主に「zu不定詞」や「従属節」が「was」や「etwas」に圧縮された場合に発生し、他の名詞が目的語になることは稀。"
+      }
+    },
+    {
+      "segment_id": "0750bfa1",
+      "source_content": "还有heißen和schimpfen这种加两个第四格的，比如Sie schimpft ihn einen Betrüger（她骂他是骗子）。但是这种动词都可以归到nennen之下，意思和用法很像。",
+      "source_content_hash": "dbe4b2562c2ff22434c5185491101fbe8c7b2879758aa30f9cdeb56bd2ea679b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「heißen」や「schimpfen」も二つの対格を取る動詞で、例えば：Sie schimpft ihn einen Betrüger（彼女は彼を詐欺師だと罵る）。ただしこれらの動詞は「nennen」の用法に近く、意味や使い方が類似している。"
+      }
+    },
+    {
+      "segment_id": "86348f98",
+      "source_content": "lehren也是可以加两个第四格的，比如：Er lehrt mich die französische Sprache。只不过Er unterrichtet uns in Franzöisch更常见一点。所以大家一般忽略了lehren也是加两个第四格的。",
+      "source_content_hash": "bb8cd9be1ffd12a0ef6c66071c1ebc20fe07361ffedca3dcfee3e51744522bf8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「lehren」も二つの対格を取ることが可能で、例えば：Er lehrt mich die französische Sprache（彼は私にフランス語を教える）。ただし「Er unterrichtet uns in Franzöisch」の方がより一般的なため、通常は「lehren」が二つの対格を取る点は見過ごされがち。"
+      }
+    },
+    {
+      "segment_id": "6b77b644",
+      "source_content": "(jn./jm.) (etw.) abfragen/abhören这种两可的情况教学的时候一般忽略就行了，因为几乎不可能用错，不用教。这个词用人三物四越来越流行，因为确实也更符合直觉。",
+      "source_content_hash": "cccbfb0b823c101d8abfb9d8ae22355937af4eb6d157eb0efb9f4c25f4e6f795",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「(jn./jm.) (etw.) abfragen/abhören」のような両義的なケースは、誤用の可能性が極めて低いため教育上無視して問題ない。近年では「人に第三格・物に第四格」の用法が直感的であるため普及しつつある。"
+      }
+    },
+    {
+      "segment_id": "a311e967",
+      "source_content": "还有一个特别常用的表达：Das geht dich einen Dreck an（关你屁事）。这明显是加两个第四格的。",
+      "source_content_hash": "ee49798d4acc12231bf63c863b023953160ccfa016c5db81b6c3131e4f4f21d9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "非常に頻繁に用いられる表現：Das geht dich einen Dreck an（君には関係ないことだ）。これは明らかに二つの対格を取る構造。"
+      }
+    },
+    {
+      "segment_id": "f8edb6d2",
+      "source_content": "## 否定",
+      "source_content_hash": "a7ff382cbdb5729e711691360c57b1913956fd363afd6e9e8ce2dcd310db4710",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 否定"
+      }
+    },
+    {
+      "segment_id": "85aeef6c",
+      "source_content": "* nicht\n  * 否定什么成分，放什么前面\n  * 否定动词放最后\n* kein",
+      "source_content_hash": "807d5c69d6e71921f6d6a8d4cce7f700790779891fd84a57ceb1ed42e9ab839f",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* nicht\n  * 否定対象の要素の直前に配置\n  * 動詞を否定する場合は文末に配置\n* kein"
+      }
+    },
+    {
+      "segment_id": "2838eb68",
+      "source_content": "![](./img/kein.png)",
+      "source_content_hash": "b85084f5c0973afba87325391ec1e4de3e3e38665b68900efb6631760c34c750",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/kein.png)"
+      }
+    },
+    {
+      "segment_id": "4be28ed1",
+      "source_content": "![](./img/ja&nein&doch.jpg)",
+      "source_content_hash": "541e8d7db54e4d2b3e2edab45b7dc92fcef45840c0cb243d62888aed8773d120",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/ja&nein&doch.jpg)"
+      }
+    },
+    {
+      "segment_id": "f947c8e4",
+      "source_content": "## 状语",
+      "source_content_hash": "e4a00b4e2ac2ed2c8e6b870ba958192691b6182e1fc88451560028f77ff245e0",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 状況語"
+      }
+    },
+    {
+      "segment_id": "d1f76d04",
+      "source_content": "### 第二格做状语",
+      "source_content_hash": "48ebf2286b0b46c7d97623dc7f79105a79d8fa25f64bbd567eb92dac2be7570f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 第二格による状況語"
+      }
+    },
+    {
+      "segment_id": "b0465fca",
+      "source_content": "* 第二格做状语不能自己造\n* 时间\n  * eines Abends\n  * eines Tages\n* Schweren Herzens verließ er die Stadt.",
+      "source_content_hash": "cc0946a79ca64c46f6e84c03043121235ac1d0f8ddb3db328a2930356a95c205",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 第二格の状況語は独自に創作不可\n* 時間表現\n  * ある晩\n  * ある日\n* 重い心で彼は街を離れた。"
+      }
+    },
+    {
+      "segment_id": "37fca32e",
+      "source_content": "## 关系从句",
+      "source_content_hash": "9f73d5ab653abc64e0d9faed35b68c6e3cd6fb71b6c256ac1a1d94523f74d769",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 関係節"
+      }
+    },
+    {
+      "segment_id": "a8610918",
+      "source_content": "关系代词就有5个大类，大类里面可能有小类，并且还可能有需要注意的细节。",
+      "source_content_hash": "a6581db002ee3794ab84f9408bead69155220b83a50cef51266103bf4346d6fc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "関係代名詞には5つの主要カテゴリが存在し、各カテゴリ内にサブ分類や注意すべき詳細事項が含まれる場合がある。"
+      }
+    },
+    {
+      "segment_id": "a6c928a1",
+      "source_content": "![](./img/关系代词.png)",
+      "source_content_hash": "079e872e2de211f23859b2cb7128dfe77e964cad1375e4677712d8487040c7c6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/関係代词.png)"
+      }
+    },
+    {
+      "segment_id": "b6152880",
+      "source_content": "会der×16/der和它的15个变体加上was和wo，最多再加第5点的wer ..., der ...和was ..., das ...两个句型，在基础阶段就够用了。",
+      "source_content_hash": "f7fb9015e51c231015a8944277ee919d6b0cd620172bad524d59dd66127cf4d3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "基礎段階では「der」の16バリエーションと「was」「wo」、さらに「wer ..., der ...」と「was ..., das ...」の2構文を習得すれば十分。"
+      }
+    },
+    {
+      "segment_id": "40a587f3",
+      "source_content": "* 定冠词\n  * der, die, das, die\n  * den, die, das, die\n  * dem, der, dem, den -n\n  * des, der, des, der\n* 关系代词\n  * der, die, das, die\n  * den, die, das, die\n  * dem, der, dem, **denen**\n  * **dessen, deren, dessen, deren**\n* Ein Student ist ein Mann, der an der Uni studiert.\n* Das ist der Mann,  der Chinesisch spricht.\n* Das ist die Frau, der ich geholfen habe.\n* Das sind die Leute, denen ich danke.\n* Ich habe dem Kind, mit dem mein Sohn in die Schule geht, geholfen.",
+      "source_content_hash": "2311d4aa2f7ae527a822fbe9dcff8a64bf93997cb551a9727a164947eda1bf96",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 定冠詞\n  * der, die, das, die\n  * den, die, das, die\n  * dem, der, dem, den -n\n  * des, der, des, der\n* 関係代名詞\n  * der, die, das, die\n  * den, die, das, die\n  * dem, der, dem, **denen**\n  * **dessen, deren, dessen, deren**\n* Ein Student ist ein Mann, der an der Uni studiert. （学生とは大学で学ぶ男性である）\n* Das ist der Mann, der Chinesisch spricht. （これは中国語を話す男性です）\n* Das ist die Frau, der ich geholfen habe. （これは私が助けた女性です）\n* Das sind die Leute, denen ich danke. （これが私が感謝する人々です）\n* Ich habe dem Kind, mit dem mein Sohn in die Schule geht, geholfen. （息子と一緒に学校へ行く子供を助けました）"
+      }
+    },
+    {
+      "segment_id": "734d40d8",
+      "source_content": "## 句子变化",
+      "source_content_hash": "d46a50e6d00bb4533056fc586c5834062d8e04ffc5d0c43690bca2a04a14a55b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 文の変化"
+      }
+    },
+    {
+      "segment_id": "4402cbf6",
+      "source_content": "|   连词    |       介词       |       副词       |              |\n| :-------: | :--------------: | :--------------: | :----------: |\n|  während  |   während + G    |  währenddessen   |  在...期间   |\n|   bevor   |     vor + D      |   davor/zuvor    |  在...之前   |\n|  nachdem  |       nach       |      danach      |  在...之后   |\n|   seit    |       seit       |     seitdem      |  从...以来   |\n|  obwohl   |    trotz + G     |     trotzdem     |     尽管     |\n| (an)statt |  (an)statt + G   |   stattdessen    |    而不是    |\n|   weil    |    wegen + G     | deswegen/deshalb |     因为     |\n| als/wenn  |       bei        |        da        |   当...时    |\n|   damit   |      zu/für      |      um zu       | 目的（为了） |\n|   indem   | dadurch dass + G |      durch       | 方式（通过） |",
+      "source_content_hash": "437159b4507c809d73b742db1a1176e4414fc11cdb21e3237b2f00e94eea90cc",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_4402cbf6"
+      }
+    },
+    {
+      "segment_id": "97afbaf0",
+      "source_content": "## 小品词",
+      "source_content_hash": "4589f965f2d993434c2e95bdcd45f188238943e4f65ab2c6040157ce53b75114",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 小辞"
+      }
+    },
+    {
+      "segment_id": "6ffcaeb2",
+      "source_content": "* 句中；不能重读\n* doch：加强陈述和祈使语气\n* ja：众所周知\n* denn：疑问语气\n* eben：就是这样\n* einfach：就\n* eigentlich：其实",
+      "source_content_hash": "4456c96bae7b9d7f460698aacbbb141e2ceedf2227815c9a62e50adc205cc38e",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 文中；強勢を置かない\n* doch：陳述や命令の調子を強める\n* ja：周知の事実\n* denn：疑問の調子\n* eben：その通り\n* einfach：ただ\n* eigentlich：実際は"
+      }
+    },
+    {
+      "segment_id": "08f73f73",
+      "source_content": "## 生僻现象",
+      "source_content_hash": "11829d503f75d10944e871febee60f636e174cdb2eaeaff6fd4ea3a20a2d1999",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 特殊な現象"
+      }
+    },
+    {
+      "segment_id": "b08ad0b4",
+      "source_content": "语中有一些比较生僻的语法，比如：",
+      "source_content_hash": "ce416ebc61481b51db47a1f2ff0ce3a219c2e31e8255307c9461d4e1584cd0e3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "言語にはいくつか比較的珍しい文法があります。例えば："
+      }
+    },
+    {
+      "segment_id": "d636abf8",
+      "source_content": "Absentiv（可怜汉语翻译都还没有，就叫它“离缺时”好了）：用系动词加动词原形，表示现在或刚才做什么了，例：Er ist schwimmen. 他游泳去了。Ich war einkaufen. 我去买东西了/我刚才在买东西。虽然语法书上一般没有，但是这种现象口语中很常见。",
+      "source_content_hash": "c160c572a3074ef26beec03f2a4ea03b79a7d7dd241cb092c5ed1ff3f511fead",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Absentiv（日本語訳がまだないため「離缺時」と呼ぶ）：sein動詞と動詞の原形を用いて、現在または直前に何をしたかを表す。例：Er ist schwimmen. （彼は泳ぎに行った）Ich war einkaufen. （買い物に行った/さっき買い物をしていた）文法書には通常記載されていないが、口語ではよく見られる現象。"
+      }
+    },
+    {
+      "segment_id": "99840f13",
+      "source_content": "Genitivus absolutus（就叫它“第二格作状语”好了）：这个和“第四格作状语”很不一样，“第四格作状语”是有能产性的，也就是大家可以自己按逻辑来造，但是“第二格作状语”没有能产性，只能见一个记一个（总共也没有几个），建议大家归到“固定搭配”里。例：schweren Herzens 怀着沉重的心情。",
+      "source_content_hash": "4a0986e625e009fac45d6897dace007f9e4644682a1632a767f7b56cb10308ff",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Genitivus absolutus（「第二格の副詞的用法」と呼ぶ）：これは「第四格の副詞的用法」とは大きく異なり、「第四格の副詞的用法」は生産性がある（論理に従って自由に作れる）が、「第二格の副詞的用法」には生産性がなく、一つ一つ覚えるしかない（数も少ない）。「固定表現」として覚えることをお勧め。例：schweren Herzens （重い心で）"
+      }
+    },
+    {
+      "segment_id": "85ea22dd",
+      "source_content": "am-Progressiv（叫它“am进行时”好了）：德语没有进行时态，和汉语一样靠时间状语，但是口语里有一个可以视作“进行时”的替代形式：Er ist am Arbeiten. 他正在工作。",
+      "source_content_hash": "692764c748249be2ed2d906beb0829ce2efea1bc1beedadbb122e1cfaff6f005",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "am-Progressiv（「am進行形」と呼ぶ）：ドイツ語には進行形がなく、中国語と同様に時間を表す副詞で表現するが、口語では「進行形」の代用と見なせる形式がある：Er ist am Arbeiten. （彼は仕事中です）"
+      }
+    },
+    {
+      "segment_id": "dc72fd20",
+      "source_content": "freier Dativ（自由第三格）：句法上不需要，但是可以加的第三格，例：Dass du mir ja nicht zu spät kommst! 别给我迟到了。这个感觉和汉语的“给我”神同步。还在电视剧中见过Stirb mir bitte nicht (weg)! 不要死。",
+      "source_content_hash": "fd29d7123b022067286c2345f62ccf379ad70c45932ea5ad94dba9153da95ddb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "freier Dativ（自由第三格）：統語的には必要ないが、追加できる第三格。例：Dass du mir ja nicht zu spät kommst! （遅刻しないでね）これは中国語の「給我」と感覚が似ている。ドラマではStirb mir bitte nicht (weg)! （死なないで）という表現も見た。"
+      }
+    },
+    {
+      "segment_id": "9ef42155",
+      "source_content": "德语中还有一些容易错的句子：",
+      "source_content_hash": "cfe97989ca152a687dc5a969c1b2e637917e06a4cf8f2e45b2e3bb833b3c1cc0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ドイツ語には他にも間違いやすい文がある："
+      }
+    },
+    {
+      "segment_id": "fe25bd72",
+      "source_content": "Aller Anfang ist schwer. 万事开头难。",
+      "source_content_hash": "dd65dcbbf1bc5a7897a93f58f3769cdea7873fd8ac96a2ab5964858370acc732",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Aller Anfang ist schwer. （物事は始めが難しい）"
+      }
+    },
+    {
+      "segment_id": "c8a6ab3e",
+      "source_content": "这是古德语的遗留。现代德语基本全部用复数了，比如alle Studenten。",
+      "source_content_hash": "fb31746d350f98dff65e2a002eb04e12e1a3b7f7b150c6cfc86e92c705e5917b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "これは古ドイツ語の名残。現代ドイツ語ではほぼ全て複数形が使われる（例：alle Studenten）"
+      }
+    },
+    {
+      "segment_id": "5cf1bce4",
+      "source_content": "Aller guten Dinge sind drei. 好事成三。",
+      "source_content_hash": "1d96cb1101f177b2692b338a1a8d09312c8e480daefb3f7707214073b2a26221",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Aller guten Dinge sind drei. （良いことは三つ）"
+      }
+    },
+    {
+      "segment_id": "0427bb2b",
+      "source_content": "这个用英语比较好理解：Of all good things there are three. 都用of了，那当然用第二格。",
+      "source_content_hash": "34877fe94121a136acf8ea105b10adb5ce084edaa96fe0e9b2424c4cf8614b36",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "英語で理解すると分かりやすい：Of all good things there are three. （ofが使われているので当然第二格になる）"
+      }
+    },
+    {
+      "segment_id": "4899bc54",
+      "source_content": "Stille Wasser sind tief. 静水流深",
+      "source_content_hash": "99ef78c7d4db6837547908cd0d773fdbb11e52f3e1fd383912f58b8b7cf0d0ad",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Stille Wasser sind tief. （静かな水は深い）"
+      }
+    },
+    {
+      "segment_id": "b27c61de",
+      "source_content": "水域中一团团的水是可以用复数的，只不过使用复数的情况很少见，所以这句熟语很容易错。水确实很难看做一团一团的，但是德国人可以。他们甚至可以把空气都看作一团一团的，所以才有an die Luft（去呼吸新鲜空气）这种搭配，因为室内室外明显是两团空气。注意和in die Luft（（爆炸）升空）不一样。",
+      "source_content_hash": "f7ac14d735d80e6ab68376bf4e9bbcb7e3b329f6dbcedf393779096cd1119ff4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "水域中の水の塊は複数形で表現することができますが、複数形が使われるケースは非常に稀なため、この諺は間違いやすいです。水を一塊一塊と捉えるのは確かに難しいですが、ドイツ人には可能です。彼らは空気さえも塊として捉えることができ、「an die Luft（新鮮な空気を吸いに行く）」という表現が生まれます。室内と室外の空気が明らかに異なる塊として認識されているからです。「in die Luft（爆発して空中へ）」とは異なることに注意が必要です。"
+      }
+    },
+    {
+      "segment_id": "3799844b",
+      "source_content": "以上现象如果好好思考一下，还是好理解的，但是下面的就不好解释了：",
+      "source_content_hash": "73aa9536019ef474b93cb975c4e4ba123e6602a94758a7991283fd223fb5b9c7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "以上の現象はよく考えれば理解できますが、以下のものは説明が困難です："
+      }
+    },
+    {
+      "segment_id": "015c0c6e",
+      "source_content": "Du hast gut reden/lachen. 你站着说话不腰疼。",
+      "source_content_hash": "a58939f6d12ae9629badbceb29f4617d6bd555d3e82a234a6cadb2675bb2202d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Du hast gut reden/lachen. 高みの見物だ。"
+      }
+    },
+    {
+      "segment_id": "6e5d54a8",
+      "source_content": "haben加动词原形，这是什么现象？我所有解释的努力都失败了。",
+      "source_content_hash": "708a4363819b4dd7061e94f7f8f054a8da7b3eb0939142ac0af9c6231c767ac2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "habenに動詞の原形が続くとは、どのような文法現象でしょうか？あらゆる解釈の試みが失敗に終わりました。"
+      }
+    },
+    {
+      "segment_id": "48249e3c",
+      "source_content": "Er legt sich schlafen. 他躺下睡觉。",
+      "source_content_hash": "2d4c13b5cfc85e32fc1aed9b37f3bb262fa6693266dce8236c951dc63e07c4ad",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Er legt sich schlafen. 彼は横になって眠ります。"
+      }
+    },
+    {
+      "segment_id": "ebfad7e4",
+      "source_content": "legen加动词原形，这是什么现象？加不带zu不定式的词里似乎没有legen啊。",
+      "source_content_hash": "a039a29519a78041bea0321859913e0abb72ea1323f17fe82bc85064d053a6db",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "legenに動詞の原形が続くとは？zu不定詞を伴わない動詞のリストにはlegenは含まれていません。"
+      }
+    },
+    {
+      "segment_id": "7e563909",
+      "source_content": "Meine Uhr ist verloren gegangen. 我的表丢了。",
+      "source_content_hash": "d78afe3e2dd6b04d8600d871a03a43319b442be9b63758f278b10a7b2a55c979",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Meine Uhr ist verloren gegangen. 私の時計がなくなりました。"
+      }
+    },
+    {
+      "segment_id": "90c4b96b",
+      "source_content": "gehen不是加动词原形吗，怎么这里加第二分词了？头脑里检索遍了自己的德语大数据，也只有jn. gefangen nehmen与之类似。但是jn. gefangen  nehmen是能够解释的，gefangen可以视为副词，或视为补语，类似etw. geschenkt bekommen。",
+      "source_content_hash": "1ec6399554478337de5ca28a367bb9184a73aeee93cf053929dcc7b6ab498d89",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "gehenは動詞の原形をとるのでは？なぜここでは過去分詞が使われているのでしょうか？ドイツ語の知識を総動員しても、jn. gefangen nehmenに類似した例しか見当たりません。ただしjn. gefangen nehmenは説明可能で、gefangenを副詞または補語と解釈できます。etw. geschenkt bekommenと同様です。"
+      }
+    },
+    {
+      "segment_id": "1f9058cd",
+      "source_content": "Beigefügt/beiliegend erhalten Sie den Katalog. 附件中有产品目录。",
+      "source_content_hash": "008cc3a5db6bf3d7682138ed4d7fdbef11d4ff2c1c2047c5098abe61b3f9f0b6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Beigefügt/beiliegend erhalten Sie den Katalog. 同封資料としてカタログをお送りします。"
+      }
+    },
+    {
+      "segment_id": "09512450",
+      "source_content": "其实不管是第一分词beiliegend还是第二分词beigefügt，都是不符合语法规则的，因为无法进行句型转换（逻辑主语无法保持是Sie），但是很多德国人这么用，没有办法。",
+      "source_content_hash": "d157ea6c3138dbf430f8701bbe92c593edf614faeba0350b2ac8b7292c6dae40",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "実際、第一分詞のbeiliegendも第二分詞のbeigefügtも、文法規則に合致していません。なぜなら文型変換が不可能（論理的主語がSieのまま維持できない）ためです。しかし多くのドイツ人がこの表現を使用しているため、致し方ありません。"
+      }
+    },
+    {
+      "segment_id": "09f901c3",
+      "source_content": "Mexiko-Stadt ist die größte Stadt der Welt, gefolgt von Shanghai und Peking. 墨西哥城是世界上最大的城市，上海和北京紧随其后。",
+      "source_content_hash": "05c8c018a7cb061e5a14dead5e65fa65fb56da67700b9d610b382ec00c309294",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Mexiko-Stadt ist die größte Stadt der Welt, gefolgt von Shanghai und Peking. メキシコシティは世界最大の都市で、上海と北京がそれに続きます。"
+      }
+    },
+    {
+      "segment_id": "be0f7233",
+      "source_content": "这个folgen是加第三格的，所以理论上是无法这样构成被动态的。但是这个gefolgt von有很多德国人这么用。可能是受英语followed by的影响。",
+      "source_content_hash": "5e843a56366ef5107d94cd9c5c2e0abd53c10b710b08edf212d22043e3fd5c22",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "このfolgenは第三格をとる動詞なので、理論的にはこのように受動態を形成することはできません。しかしgefolgt vonという表現を多くのドイツ人が使用しています。おそらく英語のfollowed byの影響でしょう。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/句法/句法.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.532427+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "0ab30f5bba58f9d0e5bd8a0d8d4b91651a4e46908c0939ff7d0464d4a33971be"
+  }
+}

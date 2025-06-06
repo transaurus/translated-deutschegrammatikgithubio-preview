@@ -1,0 +1,92 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/动词/分词.md",
+  "source_file_content_hash": "56c61a68509f55726a7b07bf2dcfc67970868d65db604021ec5293ec4d18cb45",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 6\n---",
+      "source_content_hash": "98de4c97f23d58509b7ecded7db2fa5dca26fdea9f66abb431e3b1658318eb10",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 分词",
+      "source_content_hash": "9ddb98d293d10eebd0adc08d6507135d6af71a9852761b05d1888516a7e67122",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 分詞"
+      }
+    },
+    {
+      "segment_id": "a703643c",
+      "source_content": "## 第一分词（现在分词）",
+      "source_content_hash": "1ceccf8ec022f10a3adebe9fe76435045ee55119e863d765f4d1fafdd7d4d344",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 第一分詞（現在分詞）"
+      }
+    },
+    {
+      "segment_id": "abcf54e3",
+      "source_content": "* 英语 动词-ing，德语 动词-d\n* 表示主动，正在进行",
+      "source_content_hash": "6720f68858f7f40deb9485847a138fd95b407cfd84095aa0ff7b768315628acd",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 英語 動詞-ing、ドイツ語 動詞-d\n* 能動的、進行中の動作を表す"
+      }
+    },
+    {
+      "segment_id": "9fcbdce9",
+      "source_content": "## 第二分词（过去分词）",
+      "source_content_hash": "b97666e425ae7f604c32483a365bf3e6fcadfc79f91da7eb376dfef47ccedead",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 第二分詞（過去分詞）"
+      }
+    },
+    {
+      "segment_id": "9e760345",
+      "source_content": "* 英语 动词-ed，德语 ge动词-t/en\n* 表示被动，已经完成",
+      "source_content_hash": "f9c6a56249aef632fd199f36255e84beb9972c384e6be39ee1119e6805f744e6",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 英語 動詞-ed、ドイツ語 ge動詞-t/en\n* 受動的、完了した動作を表す"
+      }
+    },
+    {
+      "segment_id": "3daf1b88",
+      "source_content": "## 分词作定语",
+      "source_content_hash": "564fe3f5d40cd929c6b24f0d4dcca0ae1a84060bfd2a00029a912dabdea3e556",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 分詞の定語用法"
+      }
+    },
+    {
+      "segment_id": "034de896",
+      "source_content": "* 第一分词和第二分词做定语，变成定语从句",
+      "source_content_hash": "fc750852deb6dbd472b4683d7e04dbf5d0b3a683547f52757f513124a0780856",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 第一分詞と第二分詞が定語として使用される場合、関係節に変化する"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/动词/分词.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.515005+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "56c61a68509f55726a7b07bf2dcfc67970868d65db604021ec5293ec4d18cb45"
+  }
+}

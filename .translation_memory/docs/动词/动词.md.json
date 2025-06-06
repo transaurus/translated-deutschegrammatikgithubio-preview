@@ -1,0 +1,382 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/动词/动词.md",
+  "source_file_content_hash": "55f61e633c06ebac1f7f4d4afec4ab7fcab76592990a722c6a8e2190ec4f21fa",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\n---",
+      "source_content_hash": "92a21a112978c590263ada3554195d9905c8c585e619dccd5f0a4cf518a7076f",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 动词",
+      "source_content_hash": "b20d36dac01563e11bfd32026bffaf5b081af5576f5cc51ca09a51b669f790b7",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 動詞"
+      }
+    },
+    {
+      "segment_id": "a703643c",
+      "source_content": "## 定义",
+      "source_content_hash": "7f70817ac4562b864c06fd7ab4858ff81c362068ab0af731a78c7e9d7b2b6889",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 定義"
+      }
+    },
+    {
+      "segment_id": "53eaf0e1",
+      "source_content": "**动词是表示人或事物的动作、行为或状态的词。**",
+      "source_content_hash": "4d56dcbb6d22f6cc1cdb76b892992683aa07be99c4237aa20dfd70101b61aeab",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**動詞は人や物事の動作、行為、状態を表す語である。**"
+      }
+    },
+    {
+      "segment_id": "8a5f6a7b",
+      "source_content": "## 分类",
+      "source_content_hash": "06aaa4b2934e38e14b5fcdc045358b1181f54cf6af2fef0bd4a8ed58f4d6ff38",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 分類"
+      }
+    },
+    {
+      "segment_id": "ba4f48ff",
+      "source_content": "### 独立动词",
+      "source_content_hash": "65c031ccd686456afac8aa68d8adfccd3bb5335ce0e7501ce5eff29277050ffa",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 独立動詞"
+      }
+    },
+    {
+      "segment_id": "cf898102",
+      "source_content": "具有独立词汇意义，在句中可以单独或加补足语作谓语。",
+      "source_content_hash": "dc924cd54fc663d354138e5ac18a0d143bdfc10c2910bee6e857c451600ff1d7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "独立した語彙的意味を持ち、文中で単独または補足語を伴って述語として機能する。"
+      }
+    },
+    {
+      "segment_id": "3daf1b88",
+      "source_content": "### 助动词",
+      "source_content_hash": "b4aa9ecdf8b06bc93d8aef39f39562c74c7639c906355860e56ca3c944fe7c92",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 助動詞"
+      }
+    },
+    {
+      "segment_id": "f6168993",
+      "source_content": "不表示动作或状态。只在与独立动词构成复合时态时起辅助作用，又称时间助动词。时间助动词也可以作独立动词使用。",
+      "source_content_hash": "c682ff0069ef9774235b236c3df11f7f09711bef4f0f1287b45cb36c82b62ef7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "動作や状態を表さない。独立動詞と共に複合時制を構成する際に補助的役割を果たし、時間助動詞とも呼ばれる。時間助動詞は独立動詞としても使用可能。"
+      }
+    },
+    {
+      "segment_id": "0787cf7f",
+      "source_content": "* haben/sein：构成现在完成时\n* werden：构成将来时",
+      "source_content_hash": "670253d895aa2117d65fa52fcd33793714f6e190300519d82e728cc1fbbf4b0f",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* haben/sein：現在完了時制を構成\n* werden：未来時制を構成"
+      }
+    },
+    {
+      "segment_id": "95b38f97",
+      "source_content": "### 情态动词",
+      "source_content_hash": "9295ea8f984533e0208a0266987b592cb5fcb6dfe921bfdcd133824522615fa7",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 法助動詞（モーダル動詞）"
+      }
+    },
+    {
+      "segment_id": "ccc88b4c",
+      "source_content": "表示情态意义，一般与独立动词的不定式连用，构成谓语的复合型是。情态动词在一定情况下也可以作独立动词使用。",
+      "source_content_hash": "18084952fb15b69120c8136956dcf84761c71bce806fc8deda7fd6ccbbb32d06",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "法的意味を表し、通常は独立動詞の不定詞と共に用いられ、複合述語を形成する。一定の条件下では独立動詞としても使用可能。"
+      }
+    },
+    {
+      "segment_id": "fec94f74",
+      "source_content": "|    情态动词     | 过去时 |  浅层翻译  |    深层含义    |\n| :-------------: | :----: | :--------: | :------------: |\n|  können, kann   | konnte | 可以，可能 |  能力，可能性  |\n|  dürfen, darf   | durfte |    可以    |     被允许     |\n|  müssen, muss   | musste |    必须    |     必要性     |\n| möchten, möchte | wollte |  想，想要  |      愿望      |\n|  wollen, will   | wollte |  想，想要  | 主语的强烈意志 |\n|  sollen, soll   | sollte |    应该    |   别人的意志   |",
+      "source_content_hash": "0e30b73c65fc4a7168028352221264829b3cd7c34976e18981a724389782caa5",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_fec94f74"
+      }
+    },
+    {
+      "segment_id": "5d66c9dc",
+      "source_content": "* ich和er/es/sie的情态动词形式相同。\n* 第二分词与原型形式相同，且一直放在句子最后。",
+      "source_content_hash": "ce2be140f27aae043745f590935c863a5dfc1d144d4ba01f47f81a29c0e57a2b",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* ichとer/es/sieの法助動詞形は同一。\n* 過去分詞は原形と同一で、常に文末に配置。"
+      }
+    },
+    {
+      "segment_id": "33331f27",
+      "source_content": "类情态动词",
+      "source_content_hash": "b5f15414f6fc61dae033ba4348f0393e069a561fb1b5a7ad68a9784cde8cdb57",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "準法助動詞"
+      }
+    },
+    {
+      "segment_id": "8612da05",
+      "source_content": "* lassen - lässt - ließ -  gelassen/lassen\n  * Er hat sich scheiden lassen.\n* werden [ˈveːɐdn] - wird - wurde - geworden/worden\n* mögen - mag - mochte - gemocht/mögen",
+      "source_content_hash": "0ac12eee6af991f148aa6aa0a09de0a4020c4647b68e640f7df35c22690f6564",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* lassen - lässt - ließ - gelassen/lassen\n  * Er hat sich scheiden lassen.\n* werden [ˈveːɐdn] - wird - wurde - geworden/worden\n* mögen - mag - mochte - gemocht/mögen"
+      }
+    },
+    {
+      "segment_id": "f44c1398",
+      "source_content": "### 无人称动词",
+      "source_content_hash": "45750503479881e0fd7d9b6f45bf031d61d339bab601b456e20da15b6a9d291a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 非人称動詞"
+      }
+    },
+    {
+      "segment_id": "29528c8d",
+      "source_content": "主要用来表达天气和自然现象，多数用无人称代词es作为主语。",
+      "source_content_hash": "e1c2a21e94be95e8501aad10015c49ebec9ac6a9af887498c96f06dfcc3beaea",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "主に天候や自然現象を表し、非人称代名詞esを主語として用いることが多い。"
+      }
+    },
+    {
+      "segment_id": "ddd2c7ae",
+      "source_content": "* regnen, schneien, donnern, blitzen, frieren, reifen, tauen, stürmen, dämmern, grauen, tagen, dunkeln",
+      "source_content_hash": "850cce1a9de9d2992636e0150bce8fa846d11fbacc710fb396814312ead4356b",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* regnen, schneien, donnern, blitzen, frieren, reifen, tauen, stürmen, dämmern, grauen, tagen, dunkeln"
+      }
+    },
+    {
+      "segment_id": "c6cc90a0",
+      "source_content": "### 反身动词",
+      "source_content_hash": "4f86aba4d0e7855f3c3177728d50bee7571e89a008eb35a863695dbcf08b7961",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 再帰動詞"
+      }
+    },
+    {
+      "segment_id": "d3649a1e",
+      "source_content": "行动设计对象为主语本身，通过反身代词sich体现。",
+      "source_content_hash": "dc802d87dafd2328f4a76c03a70b60e88cac600a286bac9ce640415825e5b983",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "動作の対象が主語自身であることを示し、再帰代名詞sichによって表現される。"
+      }
+    },
+    {
+      "segment_id": "36ab8340",
+      "source_content": "* 对身体部位的操作一般都是“人三物四”，例如：Ich wasche ihm/mir die Hände.\n* 同一个词不同用法结构的格可能不一样，例如：Ich ziehe ihn/mich an. Ich ziehe ihm/mir eine Jacke an.\n* 很多词的宾语只能是自己，例如：Ich fühle mich nicht wohl，再例如部分be-开头的词：Beeile dich. Du muss dich mehr bewegen.\n* 他/她/它/ta们的反身代词（宾语和主语具有同一性的时候）无论是第三格或第四格都是sich。\n* 真反身动词：必须与反身代词联用，不可用名词替代。\n  * Wir müssen uns beeilen.\n* 假反身动词：可用名词替代。\n  * Der Rechtsanwalt verteidigt den Angeklagten.\n  * Der Angeklagte will sich verteidigen.",
+      "source_content_hash": "5af5ec293cd94f7ab28ff2f0976d2951dd8ae3dcf546c730785cbf23b0e4e65f",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 身体部位への操作は一般に「人三物四」（第三格・第四格）で表現。例：Ich wasche ihm/mir die Hände.\n* 同一語でも用法構造によって格が異なる場合あり。例：Ich ziehe ihn/mich an. Ich ziehe ihm/mir eine Jacke an.\n* 多くの動詞では目的語は自身に限定。例：Ich fühle mich nicht wohl。またbe-で始まる動詞群：Beeile dich. Du muss dich mehr bewegen.\n* 他者/それ/彼女/彼らの再帰代名詞（主語と目的語が同一性の場合）は第三格・第四格共にsich。\n* 真性再帰動詞：必ず再帰代名詞と共起し、名詞で置換不可。\n  * Wir müssen uns beeilen.\n* 疑似再帰動詞：名詞で置換可能。\n  * Der Rechtsanwalt verteidigt den Angeklagten.\n  * Der Angeklagte will sich verteidigen."
+      }
+    },
+    {
+      "segment_id": "653d45c6",
+      "source_content": "|               sich               |        |\n| :------------------------------: | :----: |\n|   sich etw. anschauen/ansehen    |  观看  |\n|      sich die Zähne putzen       |  刷牙  |\n|      sich die Hände waschen      |  洗手  |\n|           sich duschen           |  淋浴  |\n|            sich baden            |  盆浴  |\n|        sich etw. brechen         |  骨折  |\n|       sich etw. schminken        |  化妆  |\n|           sich kämmen            |  梳头  |\n|          sich rasieren           | 刮胡子 |\n|                                  |        |\n|           sich beeilen           |  赶紧  |\n|           sich bewegen           |  活动  |\n|           sich erholen           |  休息  |\n|           sich trennen           |  分手  |\n|                                  |        |\n|      sich irgendwie fühlen       |  感觉  |\n|       sich etw. überlegen        |  考虑  |\n|       sich etw. vorstellen       |  设想  |\n| sich irgendwo/irgendwie befinden |  处于  |",
+      "source_content_hash": "5f5c4b15bc44c830609257dd1a62f0fc7d471b45837e4cfaac1c8876b39bd96f",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_653d45c6"
+      }
+    },
+    {
+      "segment_id": "3a8d2b95",
+      "source_content": "### “代动词”",
+      "source_content_hash": "feed9aedfbcce888f340fad10028cf96c4cede335ad1c0cd37581d4e6ae4631c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 「代動詞」"
+      }
+    },
+    {
+      "segment_id": "5803caac",
+      "source_content": "“代动词”，顾名思义就是代替动词。德语里的machen和tun就有这个作用。",
+      "source_content_hash": "93307cb825a67f044b82774aed01bb6c44d1db42fd3688c82f159b9e908f1286",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「代動詞」は文字通り動詞の代用を指す。ドイツ語ではmachenとtunがこの機能を果たす。"
+      }
+    },
+    {
+      "segment_id": "6b77b644",
+      "source_content": "比如：",
+      "source_content_hash": "a9527ddcd686491dc2f56c436383c4f102e02b2389a057e3d7bfc0caf93382a4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "例："
+      }
+    },
+    {
+      "segment_id": "b264104e",
+      "source_content": "- Grüß bitte deine Eltern von mir. 请代我向你父母问好。\n\n- Ja, mache ich. 好的，我会的。\n\n\n- Genießen Sie die Zeit bei uns. 希望您享受在这里的时光。\n\n- Mache ich, danke. 好，谢谢。\n- Es sollte am nächsten Tag regnen, und das tat es dann auch. 第二天可能会下雨，后来确实也下了。\n- Sahne wäre besser, aber Milch tut es auch. 奶油更好，但是用牛奶也可以。\n- Singen tut sie gerne. 她喜欢唱歌。",
+      "source_content_hash": "7912f4c00442998635cf92086d61abeabedc72c21e697db00e192cf7c6d6c84f",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "- ご両親によろしくお伝えください。\n\n- はい、そうします。\n\n\n- 当館での時間をお楽しみください。\n\n- はい、ありがとうございます。\n- 翌日は雨が降る予報で、実際に降りました。\n- 生クリームの方が良いですが、牛乳でも大丈夫です。\n- 彼女は歌うのが好きです。"
+      }
+    },
+    {
+      "segment_id": "a81544fd",
+      "source_content": "在这些句子里，machen/tun明显替代了一个动词。这就是“代动词”。",
+      "source_content_hash": "c9ac2391ae69178ffe4d8ffb1d8d4f02b91e80e756de06b485b5a4646d7c3923",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "これらの文では、machen/tunが明らかに動詞の代用をしています。これが「代動詞」です。"
+      }
+    },
+    {
+      "segment_id": "6693c38c",
+      "source_content": "我们常说的“代词”其实是代名词，代替名词。Pronomen/pronoun字面意思就是“代名词”，比如ich, du, das, es等，名字也是名词（专有名词）。",
+      "source_content_hash": "0b1bbe64a271436685c7fe4200db236ffba4ab0100287b0822c68de57ea0698a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "一般的に言う「代名詞」は実際には名詞の代用で、Pronomen/pronounは文字通り「名詞の代用」を意味します。例えばich、du、das、esなどで、固有名詞も名詞です。"
+      }
+    },
+    {
+      "segment_id": "d21af28f",
+      "source_content": "德语还有代副词（Pronominaladverb），顾名思义，就是代替一个副词。实际上代替的不是副词，而是一个介词结构，比如：",
+      "source_content_hash": "acb96e909234d2444506f1ac9d806d2a1562a7d91e53a539eff7b6873d87ff87",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ドイツ語にはさらに「代副詞」（Pronominaladverb）があり、その名の通り副詞の代用です。実際には副詞ではなく前置詞構造の代用です。例えば："
+      }
+    },
+    {
+      "segment_id": "1958bc43",
+      "source_content": "Er wartet auf den Bus. → Er wartet darauf.",
+      "source_content_hash": "d108939fa4860b23f1c6cf2e5a347e2e330f56651b8adef1b1dd49db1e73c036",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "彼はバスを待っています。→ 彼はそれを待っています。"
+      }
+    },
+    {
+      "segment_id": "a8610918",
+      "source_content": "Sie hat viel Geld für Kleidung ausgegeben. → Sie hat viel Geld dafür ausgegeben.",
+      "source_content_hash": "b49d0a590fe701d381f595f56e2e2f76fdf58df79331dae89389621a68e0f3c6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "彼女は服にたくさんのお金を使いました。→ 彼女はそれにたくさんのお金を使いました。"
+      }
+    },
+    {
+      "segment_id": "f38d1cb0",
+      "source_content": "代替的是一个介词结构，但是为什么叫“代‘副’词”呢？因为介词结构和副词大多数情况下是可以互换的。比如：",
+      "source_content_hash": "f80671304d4340258db3c15c989fa971708a0669ac84ace6036887716a847e46",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "前置詞構造の代用ですが、なぜ「代『副』詞」と呼ばれるのでしょうか？それは前置詞構造と副詞がほとんどの場合互換可能だからです。例えば："
+      }
+    },
+    {
+      "segment_id": "b9331170",
+      "source_content": "zum Beispiel - beispielsweise",
+      "source_content_hash": "c112755937486a61b118557892eb7eb73b5626fbaf9ef008c9b904efce530ab7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "例えば - 例として"
+      }
+    },
+    {
+      "segment_id": "8fcdd6d4",
+      "source_content": "im Durchschnitt - durchschnittlich",
+      "source_content_hash": "d8e72fcbe705fbbf2fab1b0651468b00f4fc6c484e068274d6f8f7e37b6cf3b1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "平均して - 平均的に"
+      }
+    },
+    {
+      "segment_id": "53aa2b95",
+      "source_content": "by the way - übrigens",
+      "source_content_hash": "eedcae74e5bd1f71898ad8a6b8db61cc8748bacc5066d72eaa0b1bde6ad94683",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ところで - ちなみに"
+      }
+    },
+    {
+      "segment_id": "692c6053",
+      "source_content": "以此类比，于是代替介词结构那种词就被叫成了“代副词”。",
+      "source_content_hash": "0684f837e1eb681e36a0fb2c7484d14fbebf8b4be31333ba49705f08c68bdbb7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "この類推により、前置詞構造を代用する単語は「代副詞」と呼ばれるようになりました。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/动词/动词.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.522289+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "55f61e633c06ebac1f7f4d4afec4ab7fcab76592990a722c6a8e2190ec4f21fa"
+  }
+}

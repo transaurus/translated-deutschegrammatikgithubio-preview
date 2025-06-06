@@ -1,0 +1,92 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/名词/阳性弱变化.md",
+  "source_file_content_hash": "3975458d82f4a86d0cb3720626f2d1600b7e947f6ce946a8912a000c0e1cff12",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 2\n---",
+      "source_content_hash": "6b5a0ead0daa1090c8a38fd0c73528677b05e2e1ac3baca413f4c1cf998fee45",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 阳性弱变化",
+      "source_content_hash": "b507e7eab1725cfdbff26bedfeb3ff40b67b2f55c620c2a7f2e27e8ef1f1e02d",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 男性弱変化"
+      }
+    },
+    {
+      "segment_id": "a703643c",
+      "source_content": "### 情况",
+      "source_content_hash": "9e8c0db18361cfc8984347997eea3492ecab96774fcaa5b10f73be7fb3058d64",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### ケース"
+      }
+    },
+    {
+      "segment_id": "abcf54e3",
+      "source_content": "* 以-e结尾的阳性名词一定是阳性弱变化\n  * der Angeklagte\n  * der Gefangene\n  * der Hase\n  * der Ire\n  * der Kollege\n  * der Kunde\n  * der Löwe\n  * der Name, -ns\n  * der Neffe\n  * der Riese\n  * der Verletzte\n  * **der Käse不是阳性弱变化**\n* 复数加-en词尾的阳性名词极有可能是阳性弱变化。如果同时这个名词的重音在最后一个音节，几乎可以肯定这个词是阳性弱变化。换言之，如果一个阳性名词的重音在最后一个音节，这个名词基本上是弱变化，如果这个名词的复数加词尾-en，那几率直冲99.9%\n  * der Bandit\n  * der Emigrant\n  * der Idiot\n  * der Komponist\n  * der Labotant\n  * der Patient [patsiːɛnt]\n  * der Philosoph\n  * der Polizist\n  * der Präsident\n  * der Proband\n  * der Student\n* 需要单独记的\n  * der Bär, -en\n  * der Christ, -en\n  * der Fürst, -en\n  * der Graf, -en\n  * der Held, -en\n  * der Mensch, -en\n  * der Prinz, -en\n  * der Bauer, -n\n  * der Nachbar, -n\n* 弱变化最准确的判断是：单数第二格词尾是-(e)n(s)，复数词尾是-(e)n。所以平时记单词时，弱变化名词建议按这样的格式写：der Herr, -n, -en。写两个词尾，一看就提醒了自己，这个是弱变化。",
+      "source_content_hash": "2f579509a138f2181faedb30e74c12379f647ad15cecd5186fc11e55aab4ecfa",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* -eで終わる男性名詞は必ず男性弱変化\n  * der Angeklagte（被告人）\n  * der Gefangene（囚人）\n  * der Hase（ウサギ）\n  * der Ire（アイルランド人）\n  * der Kollege（同僚）\n  * der Kunde（顧客）\n  * der Löwe（ライオン）\n  * der Name, -ns（名前）\n  * der Neffe（甥）\n  * der Riese（巨人）\n  * der Verletzte（負傷者）\n  * **der Käse（チーズ）は男性弱変化ではない**\n* 複数形に-en語尾を付ける男性名詞は男性弱変化の可能性が極めて高い。さらにその名詞のアクセントが最後の音節にある場合、ほぼ確実に男性弱変化。言い換えれば、男性名詞でアクセントが最後の音節にある場合、基本的に弱変化であり、複数形に-en語尾を付けるなら確率は99.9%に達する\n  * der Bandit（匪賊）\n  * der Emigrant（移民）\n  * der Idiot（馬鹿者）\n  * der Komponist（作曲家）\n  * der Labotant（実験助手）\n  * der Patient [patsiːɛnt]（患者）\n  * der Philosoph（哲学者）\n  * der Polizist（警察官）\n  * der Präsident（大統領）\n  * der Proband（被験者）\n  * der Student（学生）\n* 個別に覚える必要があるもの\n  * der Bär, -en（クマ）\n  * der Christ, -en（キリスト教徒）\n  * der Fürst, -en（君主）\n  * der Graf, -en（伯爵）\n  * der Held, -en（英雄）\n  * der Mensch, -en（人間）\n  * der Prinz, -en（王子）\n  * der Bauer, -n（農民）\n  * der Nachbar, -n（隣人）\n* 弱変化を判断する最も正確な方法：単数第二格語尾が-(e)n(s)、複数語尾が-(e)n。そのため、単語を覚える際は、男性弱変化名詞は次の形式で書くことを推奨：der Herr, -n（弱変化語尾）, -en（複数語尾）。2つの語尾を書くことで、これが弱変化であることを一目で確認できる。"
+      }
+    },
+    {
+      "segment_id": "8bddee80",
+      "source_content": "### 单数变化",
+      "source_content_hash": "999cc314d3301b0b1232c56e3f8f5156da8d88aeabd6d6ae1c10d837d4fa6549",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 単数変化"
+      }
+    },
+    {
+      "segment_id": "cef3cb03",
+      "source_content": "* 阳性弱变化的词尾理论上就是复数词尾\n* 第一格正常\n* 第二格、第三格、第四格，+ -n/-en",
+      "source_content_hash": "ae2bc2baae4ad19f9ba786082d4abb442f0a16373f1d6125294bfb1ede52ff1d",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 男性弱変化の語尾は理論的には複数語尾と同じ\n* 第一格は通常形\n* 第二格、第三格、第四格は、-n/-enを付加"
+      }
+    },
+    {
+      "segment_id": "cb5b269c",
+      "source_content": "### 补充",
+      "source_content_hash": "3a74895e1151196e55b2f3ef3a02e7d44eb32edea922ebefeb52efa44b94cc9f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 補足"
+      }
+    },
+    {
+      "segment_id": "157c9741",
+      "source_content": "* **der Herr**\n  * der Herr, -n（第二格词尾，弱变化词尾）, -en（复数词尾）\n  * Ich möchte Herrn Zhang sprechen.\n* **（不表示人和动物以-e结尾）第二格在加弱变化词尾-n的基础上再加-s**\n  * der Name\n    * der erste Buchstabe meines Namens\n  * der Wille\n  * der Same\n  * der Glaube\n  * der Buchstabe\n  * der Funke\n  * der Gedanke\n* **das Herz, -ens, -en**\n  * Mir blutet das Herz.\n  * Schweren Herzens verließ er die Stadt. （第二格做状语）\n  * Er wurde am Herzen operiert.\n  * Sie hat ihm das Herz gebrochen.",
+      "source_content_hash": "4ad0e29a1ebebc3b83dbad5bad11ac6643680bdb125bde6b59da225908638135",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* **der Herr（紳士）**\n  * der Herr, -n（第二格語尾、弱変化語尾）, -en（複数語尾）\n  * Ich möchte Herrn Zhang sprechen.（張さんと話がしたいです）\n* **（人や動物を表さない-e終わり名詞）第二格は弱変化語尾-nに加えて-sも付加**\n  * der Name（名前）\n    * der erste Buchstabe meines Namens（私の名前の最初の文字）\n  * der Wille（意志）\n  * der Same（種子）\n  * der Glaube（信仰）\n  * der Buchstabe（文字）\n  * der Funke（火花）\n  * der Gedanke（思考）\n* **das Herz, -ens, -en（心臓）**\n  * Mir blutet das Herz.（私の心は血を流している＝深く悲しんでいる）\n  * Schweren Herzens verließ er die Stadt.（重い心で彼は街を去った）（第二格が副詞的用法）\n  * Er wurde am Herzen operiert.（彼は心臓の手術を受けた）\n  * Sie hat ihm das Herz gebrochen.（彼女は彼の心を打ち砕いた）"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/名词/阳性弱变化.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.533890+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "3975458d82f4a86d0cb3720626f2d1600b7e947f6ce946a8912a000c0e1cff12"
+  }
+}

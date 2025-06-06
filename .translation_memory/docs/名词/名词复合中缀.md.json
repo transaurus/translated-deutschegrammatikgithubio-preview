@@ -1,0 +1,262 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/名词/名词复合中缀.md",
+  "source_file_content_hash": "f0f3a47e1b4a53285c8708f2d088baf40b471e5ecf527cb6023637e0bb5e0434",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 3\n---",
+      "source_content_hash": "57430a289358d8e38d7464d7df5ab948274d7e83ff708b215f37775a5a384353",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 名词复合中缀",
+      "source_content_hash": "91cf3e49298bc574503e94427dd711e84379b029b00ea8a2b1942f1bcdfbddca",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 名詞複合中綴"
+      }
+    },
+    {
+      "segment_id": "6ef78e84",
+      "source_content": "复合词中间加s这种现象德语叫做Fugen-s（中缀s），同属于中缀的还有好几个，但是，可以说Fugen-s是最常见的中缀（如果不算不添加字母的“零中缀”）。有数据为证：",
+      "source_content_hash": "2482038eb2500cf1d514598d59eb7d6756b8897e03c4228a2e4d262b7ca82b1e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "複合語の中間にsを挿入するこの現象はドイツ語でFugen-s（中綴s）と呼ばれ、同様の中綴には他にもいくつか存在しますが、Fugen-sは最も一般的な中綴と言えます（文字を追加しない「ゼロ中綴」を除く）。データがこれを証明しています："
+      }
+    },
+    {
+      "segment_id": "53eaf0e1",
+      "source_content": "![](./img/名词复合中缀-1.png)",
+      "source_content_hash": "6ec5e84d91eb81ce5b7a2e2792af45a176a740af96df0ac67a76c478b58ccec9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/名词复合中缀-1.png)"
+      }
+    },
+    {
+      "segment_id": "8ac585fb",
+      "source_content": "中缀一般来自古德语的第二格，比如des Bundes Tag → Bundestag, der Sonnen Strahl → Sonnenstrahl；或者来自复数词尾，比如Wörterbuch。不过现在有部分复合词已经不能按第二格或复数关系来理解，有些不是第二格也加了Fugen-s。但是了解这一点对我们掌握Fugen-s还是有很大帮助的。",
+      "source_content_hash": "d266647c1680736ca2df3a7a2c6d657cbf062886d79bd105cc38012b745de1dc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "中綴は一般に古ドイツ語の第二格に由来します。例えばdes Bundes Tag → Bundestag, der Sonnen Strahl → Sonnenstrahlなど。または複数語尾に由来する場合もあります（例：Wörterbuch）。ただし、現在では一部の複合語は第二格や複数の関係では理解できず、第二格でない場合でもFugen-sが追加されることがあります。とはいえ、この点を理解することはFugen-sを習得する上で大きな助けとなります。"
+      }
+    },
+    {
+      "segment_id": "180bddb1",
+      "source_content": "一、需要加s的情况",
+      "source_content_hash": "28dd37e565fe1fd2c49ccb1b5277a3527cbb74648b4eb7b167828d2c24918f48",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "一、sを追加する必要がある場合"
+      }
+    },
+    {
+      "segment_id": "cf898102",
+      "source_content": "![](./img/名词复合中缀-2.png)",
+      "source_content_hash": "d3f93b44c235c681641d6fc94863b3d4ae1aa1ace3f1530f9e43f20658c4be79",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/名词复合中缀-2.png)"
+      }
+    },
+    {
+      "segment_id": "42ad8e83",
+      "source_content": "Liebe这个词之所以这么复杂，是因为古德语和中古德语有das Lieb和die Liebe两个词。“爱的……”一般用Liebes-，后来不表示所属关系也这样看齐了，比如liebesfähig。",
+      "source_content_hash": "0893b13a7c6ccdfbb9ce8ff704d967820a16f295fb3522108a15c7f160c081b9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Liebeという単語がこれほど複雑なのは、古ドイツ語と中世ドイツ語にdas Liebとdie Liebeの2つの形があったためです。「愛の...」を表す場合は一般にLiebes-が使われ、後に所属関係を表さない場合もこれに倣うようになりました（例：liebesfähig）。"
+      }
+    },
+    {
+      "segment_id": "f6168993",
+      "source_content": "Hilfe做限定词的复合词看上去很复杂，其实可以找出逻辑：一般情况，尤其是所属关系要加s；hilflos和hilfreich这对反义词不加；Hilfeleistung和Hilfestellung来自动宾结构，所以不加s。",
+      "source_content_hash": "035b3539c03c28149507519a544a45224cb365e5916cc980f92bd5e7576db34e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Hilfeが限定詞となる複合語は一見複雑に見えますが、実際には論理を見出すことができます：一般的な場合、特に所属関係を表す場合はsを追加します。hilflosとhilfreichという対義語には追加しません。HilfeleistungとHilfestellungは動詞目的語構造から来ているため、sを追加しません。"
+      }
+    },
+    {
+      "segment_id": "f5f6d2ce",
+      "source_content": "Geschichte做限定词的复合词的逻辑：表示历史用Geschichts-（古德语曾有过中性的“历史”），表示故事用Geschichten-。",
+      "source_content_hash": "ce0fca00208230b9682ddadd8e696e06fc5d6a9058bc9715bf4d87f41f26a1d5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Geschichteが限定詞となる複合語の論理：歴史を表す場合はGeschichts-（古ドイツ語には中性の「歴史」を表す形があった）、物語を表す場合はGeschichten-を使用します。"
+      }
+    },
+    {
+      "segment_id": "2fdadb08",
+      "source_content": "词尾越长越好确定加不加s。-at, -tät, -heit, -keit, -schaft这几个以t结尾的词尾肯定是加中缀s的。-um, -tum, -ing, -ling 这几个鼻音结尾的词尾也是加中缀s的。-ung几乎全是加的，但是有两可的情况，见第二部分（动宾关系）。-ion只有一个特例，那就是Kommunion做限定词的几个复合词是不加s的。",
+      "source_content_hash": "4048d821eb74e9652aa550a266360a98c80eaaf2dd1b5e7a52f883b3e119626c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "語尾が長いほどsを追加するかどうかが明確になります。-at, -tät, -heit, -keit, -schaftといったtで終わる語尾は確実に中綴sを追加します。-um, -tum, -ing, -lingといった鼻音で終わる語尾も中綴sを追加します。-ungはほとんど全ての場合で追加しますが、第二部（動詞目的語関係）で述べるように、両方可能な場合があります。-ionに関しては、Kommunionが限定詞となるいくつかの複合語のみがsを追加しないという例外があります。"
+      }
+    },
+    {
+      "segment_id": "f2c2bdd0",
+      "source_content": "二、不加s的情况",
+      "source_content_hash": "f9b551f17bf3070a1aef62a318f8542eea8acdee47538295d0a5bb8ea82a9062",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "二、sを追加しない場合"
+      }
+    },
+    {
+      "segment_id": "a76548f8",
+      "source_content": "![](./img/名词复合中缀-3.png)",
+      "source_content_hash": "02dcec90b5b3d4ff04e18e32ab190b125fe4dc6e313ba921e2ed5c8417b578f9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/名词复合中缀-3.png)"
+      }
+    },
+    {
+      "segment_id": "4b1d2d7d",
+      "source_content": "阴性名词第二格不是加词尾s的，所以，大部分阴性名词构成复合词也不需要加中缀s。",
+      "source_content_hash": "c587a1cc9c2e03f4cb430e650b0db94356d65196b8b3bee7f5df7a4810901da5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "女性名詞の第二格は語尾sを追加しないため、大部分の女性名詞からなる複合語も中綴sを追加する必要がありません。"
+      }
+    },
+    {
+      "segment_id": "dfe931a2",
+      "source_content": "Kriegführung是来自动宾结构的（前面还提到过Hilfeleistung），但是这方面个别特例，比如Kriegserklärung, Beitragszahlung，因为第二格和动宾结构两个规则在这里产生了交集，所以出现了这种复杂情况，类似的例子verfassung(s)gebend。Arbeit构成复合词几乎全是要加s的，但是Arbeitnehmer和Arbeitgeber不用加，因为勉强也算动宾结构，严格来说不是，因为后面得是动词的某种变化，比如词干或-ung，还有很强的动词性。",
+      "source_content_hash": "a2f49140be23ebde134c9cb382f8744f0fdfd91cad5ba17323061df5a6ad1fdf",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Kriegführungは動詞-目的語構造から来ています（前述のHilfeleistungも同様）。ただし、この点に関しては例外もあり、例えばKriegserklärungやBeitragszahlungなどです。これは属格（第二格）と動詞-目的語構造という2つの規則が交差するため、このような複雑なケースが生じます。類似の例としてverfassung(s)gebendがあります。Arbeitから成る複合語はほとんどが中綴りsを必要としますが、ArbeitnehmerとArbeitgeberは中綴りsを付けません。これは一応動詞-目的語構造と見なせるためで、厳密にはそうではありませんが、後続が動詞の何らかの変化形（語幹や-ungなど）で強い動詞性を持つ場合です。"
+      }
+    },
+    {
+      "segment_id": "4daf5cdd",
+      "source_content": "动宾结构不加中缀的暴力破解：",
+      "source_content_hash": "a20b61e1288fc457ec20ccf65a04c0dc61d919d87b471ee8bb271f8a340fe36d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "動詞-目的語構造で中綴りを付けない場合の強引な解決法："
+      }
+    },
+    {
+      "segment_id": "bdc231b1",
+      "source_content": "![](./img/名词复合中缀-4.png)",
+      "source_content_hash": "d7b47139a4acd9ade0235dd98f484678d77673193f1e1efeb4cd22e53815ce75",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/名词复合中缀-4.png)"
+      }
+    },
+    {
+      "segment_id": "5d66c9dc",
+      "source_content": "1. 把动宾结构的-nahme统统找出来。找出来后发现确实都没有加中缀。上图中有些词比较生僻，只需要注意蓝色字体的词就行。\n\n2. 第一步找出的词，是不是因为词尾特点根本就不加中缀？答案是否定的，没加-nahme的时候都有中缀-s-。当然，Einfluss因为词尾特点不可能再加中缀-s-了。\n\n3. 有没有其他类似-nahme的动宾结构。有，但是不多，勉强找到-nehmer, -geber和-steller。",
+      "source_content_hash": "36f0109c51faefee713f7c412aed4dfe02aa1d11506bb202d34b53506763be5b",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "1. 動詞-目的語構造の-nahmeを全て抽出します。抽出すると、確かに中綴りが付いていないことがわかります。上図の一部の語はあまり一般的ではありませんので、青色で表示された語に注目すれば十分です。\n\n2. 最初に抽出した語は、語尾の特徴からそもそも中綴りを付けないのでしょうか？答えはノーで、-nahmeが付いていない場合には中綴り-s-が付きます。もちろん、Einflussは語尾の特徴上、さらに中綴り-s-を付けることができません。\n\n3. -nahmeに類似した他の動詞-目的語構造はあるか？ありますが、数は少なく、-nehmer、-geber、-stellerなどが該当します。"
+      }
+    },
+    {
+      "segment_id": "aa1e7006",
+      "source_content": "词尾-er和-el之后总体是不加中缀s的。-er仅有几个特例，因为比较生僻，就不列出来了。-el方面需要注意Engel这个词，所属关系很强的话要加s，比如Engelsgesicht；所属关系不强或其他情况不加s，比如Engelmacherin（动宾关系变来的），engelschön；有个别Engel构成的复合词可加s也可不加s，两可。",
+      "source_content_hash": "c744cc021df4a95844cd5ab3b0f337b469de69439298f3f6c101e709d2c3afe0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "語尾-erと-elの後には一般的に中綴りsを付けません。-erにはいくつかの例外がありますが、あまり一般的でないためここでは列挙しません。-elに関してはEngelという語に注意が必要で、所属関係が強い場合はsを付けます（例：Engelsgesicht）。所属関係が弱い場合やその他の状況ではsを付けません（例：Engelmacherin（動詞-目的語構造から派生）、engelschön）。Engelから成る複合語の中にはsを付けても付けなくてもよい場合もあります。"
+      }
+    },
+    {
+      "segment_id": "13d9cd70",
+      "source_content": "词尾-sch, -(t)z, -s, -ß因为加中缀s不好发音，所以不加中缀s。另外，词尾-st也不加中缀-s。",
+      "source_content_hash": "8085b507aa995bb1a5cbf180dd3735ea887b05ad917e0b77c7092906e709543e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "語尾-sch、-(t)z、-s、-ßは中綴りsを付けると発音しにくいため、中綴りsを付けません。また、語尾-stも中綴り-sを付けません。"
+      }
+    },
+    {
+      "segment_id": "29528c8d",
+      "source_content": "三、两可的情况",
+      "source_content_hash": "6e64ad5cf3868b4a5d3fd36e3c7de764f8a66a35e215b4d078cae07dffc588d0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "三、どちらでもよい場合"
+      }
+    },
+    {
+      "segment_id": "c504c207",
+      "source_content": "某种税（Steuer）和某种街（Straße）可加也可不加中缀s，比如Einkommen(s)steuer, Bahnhof(s)straße。",
+      "source_content_hash": "0b983df213c8e9adf115ef55b8c08400017eacd9cd7cb9f311c839d3b7c818f1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "特定の税（Steuer）や特定の通り（Straße）は中綴りsを付けても付けなくても構いません（例：Einkommen(s)steuer、Bahnhof(s)straße）。"
+      }
+    },
+    {
+      "segment_id": "98d26038",
+      "source_content": "本来不加中缀-s的短限定词，本身变成复合词后，会加中缀-s，比如：Hoftor → Bahnhofstor, Nachtstunde → Mitternachtsstunde。这造成同一个词有的时候加s，有的时候不加的印象。",
+      "source_content_hash": "31fe56f450ec213d244d92bff54e2e87943738cd3c9c71265dfabfc29c40e08b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "本来中綴り-sを付けない短い限定詞が、それ自体が複合語になると中綴り-sを付ける場合があります（例：Hoftor → Bahnhofstor、Nachtstunde → Mitternachtsstunde）。これにより、同じ語でも時にはsを付け、時には付けないという印象が生まれます。"
+      }
+    },
+    {
+      "segment_id": "d3649a1e",
+      "source_content": "四、总结",
+      "source_content_hash": "f94c1af16a7692c6b7b3283c16a50fc424f7383e51f2a6a270892509e1a3fcd2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "四、まとめ"
+      }
+    },
+    {
+      "segment_id": "4d52a261",
+      "source_content": "要不要加中缀s，一看所属关系（第二格），二看动宾关系，三看词尾，四看发音。综合作用下，也有两可的情况。",
+      "source_content_hash": "d46d205f0f0d151b14c601536e14cb1e1e0b6778197d83ab0c7ee639e5c4dd46",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "中綴りsを付けるかどうかは、①所属関係（第二格）、②動詞-目的語構造、③語尾、④発音の4点を考慮します。これらの要素が複合的に作用することで、どちらでもよい場合も生じます。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/名词/名词复合中缀.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.533660+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "f0f3a47e1b4a53285c8708f2d088baf40b471e5ecf527cb6023637e0bb5e0434"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/冠词/冠词.md",
+  "source_file_content_hash": "386e345369a067cfa9a9662e7d7d3bcdd0b625a56a37f5604de4ad8e4f33010a",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\n---",
+      "source_content_hash": "92a21a112978c590263ada3554195d9905c8c585e619dccd5f0a4cf518a7076f",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 冠词",
+      "source_content_hash": "4040cbbba10261691955af3898a75d3e6cd5b4ab4053ac5ef24af9bc4cfc86b1",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 冠詞"
+      }
+    },
+    {
+      "segment_id": "a703643c",
+      "source_content": "## 定义",
+      "source_content_hash": "7f70817ac4562b864c06fd7ab4858ff81c362068ab0af731a78c7e9d7b2b6889",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 定義"
+      }
+    },
+    {
+      "segment_id": "53eaf0e1",
+      "source_content": "同名词一起使用，表示名词的性、格和数。",
+      "source_content_hash": "0d97ddf35fc2cf29cd6937f7521840ad7a22f4834f3d47cda9f3a5a470ff4f12",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "名詞と共に使用され、名詞の性・格・数を示す。"
+      }
+    },
+    {
+      "segment_id": "8ac585fb",
+      "source_content": "定冠词：der、das、die、die",
+      "source_content_hash": "7e61c3d6c666e3c4039e0eec04029fd424616d2b564ed3e283e4d17de03d52e7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "定冠詞：der、das、die、die"
+      }
+    },
+    {
+      "segment_id": "180bddb1",
+      "source_content": "不定冠词：ein、eine、ein",
+      "source_content_hash": "f35d5e867e5021663725d1cf18c1c15d61caae500209e2ab9bf41d721ee1d3d7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "不定冠詞：ein、eine、ein"
+      }
+    },
+    {
+      "segment_id": "e14c9928",
+      "source_content": "## 变格",
+      "source_content_hash": "ca544c5248bfce42de15e383c0df78fbb30885fc32741671b88b52f04751b0d8",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 格変化"
+      }
+    },
+    {
+      "segment_id": "ac7ef717",
+      "source_content": "|  Mann  |  Kind  | Frau  | Leute  |\n| :----: | :----: | :---: | :----: |\n|  der   |  das   |  die  |  die   |\n|   er   |   es   |  sie  |  sie   |\n|        |        |       |        |\n|  des   |  des   |  der  |  der   |\n|  sein  |  sein  |  ihr  |  ihr   |\n| seiner | seiner | ihrer | ihrer  |\n| dessen | dessen | deren | deren  |\n|        |        |       |        |\n|  dem   |  dem   |  der  | den -n |\n|  ihm   |  ihm   |  ihr  | ihnen  |\n|        |        |       |        |\n|  den   |  das   |  die  |  die   |\n|  ihn   |   es   |  sie  |  sie   |",
+      "source_content_hash": "764f4b1d150b674d5ba3b3eef93f60dd1e9fdd2588b9711e60c38c4a1e10293c",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_ac7ef717"
+      }
+    },
+    {
+      "segment_id": "e48f5b02",
+      "source_content": "| wer  |    wessen    | wem  | wen  |\n| :--: | :----------: | :--: | :--: |\n| ich  | mein, meiner | mir  | mich |\n|  du  | dein, deiner | dir  | dich |\n| wir  | unser, unser | uns  | uns  |\n| ihr  |  euer, euer  | euch | euch |",
+      "source_content_hash": "12063913d7074e5edd758e480c32fedc4a0979d82309d19747415fc842c6bf27",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_e48f5b02"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/冠词/冠词.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.514580+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "386e345369a067cfa9a9662e7d7d3bcdd0b625a56a37f5604de4ad8e4f33010a"
+  }
+}

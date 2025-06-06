@@ -1,0 +1,262 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/动词/叙述方式.md",
+  "source_file_content_hash": "3a36d284ba6c2adac473a567db4405c47586a6a98a7693a7f542d75caea1232e",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 4\n---",
+      "source_content_hash": "e93552de73713fd3d4c67121db57ba65cc2e8e129d1829ed5f8a7888cea6601e",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 叙述方式",
+      "source_content_hash": "d7a15d93827929df2d8b94f773474e122b1d5a166c64152254789ba90052469d",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 叙法"
+      }
+    },
+    {
+      "segment_id": "a703643c",
+      "source_content": "## 直陈式",
+      "source_content_hash": "2f44db04b278f76c053cf60dc25af0d57adf1bc777b970c256890a6fffa5c53d",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 直説法"
+      }
+    },
+    {
+      "segment_id": "53eaf0e1",
+      "source_content": "叙述一件真实发生的事情或提出问题。",
+      "source_content_hash": "33a0746cbce5c2c7975ea31b82ca09762623bb6be7d7eb05e067c414bedaebf2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "実際に起こった出来事を叙述したり、質問を投げかけたりする。"
+      }
+    },
+    {
+      "segment_id": "8a5f6a7b",
+      "source_content": "## 虚拟式",
+      "source_content_hash": "91ab2704b544e0ae61a7abfd2dcc4ab1f80e45716f1334079897995e8d5a98ed",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 接続法"
+      }
+    },
+    {
+      "segment_id": "180bddb1",
+      "source_content": "表示讲话人的主观愿望、假设、怀疑或推测等。",
+      "source_content_hash": "61d956cc9abb291774cd85802cdad1253aaa2b090395c0657a5cb2b67dc2fd7b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "話し手の主観的な願望、仮定、疑念、推測などを表す。"
+      }
+    },
+    {
+      "segment_id": "cf898102",
+      "source_content": "![](.\\img\\虚拟式.png)",
+      "source_content_hash": "789d893288f70600ce8b82f3cb3cd0c3e77cd84a9b19d67988d929d3cea9b5aa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](.\\img\\虚拟式.png)"
+      }
+    },
+    {
+      "segment_id": "3daf1b88",
+      "source_content": "### 第一虚拟式",
+      "source_content_hash": "378e5b9aa33c31b9f404da5d8a864db0b240b742cc372132eb9cdb03afcb36e2",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 第一接続法"
+      }
+    },
+    {
+      "segment_id": "034de896",
+      "source_content": "* 用法：切割性引用（别人说的话，例如报纸），固定搭配（祝愿，例如Gott sei Dank），内心愿望或不确定结果（比较少见，用于文学作品）\n* 构成：以原形为基础\n* 如果第一虚拟式与原型重叠，则用第二虚拟式。\n  * er/sie/es不会重叠\n  * sie（复数）/Sie除了seien外，一般都会重叠\n* 命令式的第一虚拟式要加sollen或möge",
+      "source_content_hash": "a78aa296222c5a651da927629539c99957475e10b48d9121968033087ba48fce",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 用法：切断的引用（他人の発言、例：新聞記事）、定型表現（願望、例：Gott sei Dank）、内心的願望や不確定な結果（文学作品で稀に使用）\n* 構成：不定形を基にする\n* 第一接続法が不定形と重なる場合、第二接続法を使用\n  * er/sie/esは重ならない\n  * sie（複数）/Sieはseienを除き、通常重なる\n* 命令法の第一接続法にはsollenまたはmögeを付加"
+      }
+    },
+    {
+      "segment_id": "79b2d0b9",
+      "source_content": "### 第二虚拟",
+      "source_content_hash": "0515af716bd505513140c6c4dfb17984be80f38773bf0425f59c53ba39a04554",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 第二接続法"
+      }
+    },
+    {
+      "segment_id": "1d13125b",
+      "source_content": "* 用法：表示非现实和客气\n* 构成：以过去时为基础，加e并变音\n* 主要用würden+原型: würde, würdest, würde, würden, würdet, würden\n* 虚拟式\n  * haben: hätte\n  * sein: wäre\n  * es gibt: es gäbe\n  * geben, kommen, gehen, lassen, brauchen\n  * 情态动词\n    * können, kann, konnte, könnte\n    * dürfen, darf, dufte, düfte\n    * müssen, muss, musste, müsste\n    * möchten, möchte, wollte\n    * wollen, will, wollte\n    * sollen, soll, sollte\n* 例句\n  * Wenn es die Sonne nicht gäbe, könnten wir nicht leben.\n  * Wenn ich ein Vogel wäre, würde ich zu dir fliegen.\n  * An deiner Stelle würde ich.../ Wenn ich du wäre...\n* 使用场景\n  * als + V.（似乎）\n  * als ob + 从句（似乎）\n  * beinahe（差点）",
+      "source_content_hash": "6b196a37d7dcf9f18ece8721e6277fc1227de2bcae2c3737148f800e6d499318",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 用法：非現実や丁寧さを表現\n* 構成：過去形を基にeを追加しウムラウト\n* 主にwürden+不定形を使用: würde, würdest, würde, würden, würdet, würden\n* 接続法形\n  * haben: hätte\n  * sein: wäre\n  * es gibt: es gäbe\n  * geben, kommen, gehen, lassen, brauchen\n  * 法助動詞\n    * können, kann, konnte, könnte\n    * dürfen, darf, dufte, düfte\n    * müssen, muss, musste, müsste\n    * möchten, möchte, wollte\n    * wollen, will, wollte\n    * sollen, soll, sollte\n* 例文\n  * Wenn es die Sonne nicht gäbe, könnten wir nicht leben.\n  * Wenn ich ein Vogel wäre, würde ich zu dir fliegen.\n  * An deiner Stelle würde ich.../ Wenn ich du wäre...\n* 使用場面\n  * als + V.（～のように）\n  * als ob + 従属節（～かのように）\n  * beinahe（もう少しで～だった）"
+      }
+    },
+    {
+      "segment_id": "c6cc90a0",
+      "source_content": "## 命令式",
+      "source_content_hash": "15b28866bff9f8307181391203a29cfdaec7632621d0e27bb85cbde5ee790040",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 命令法"
+      }
+    },
+    {
+      "segment_id": "d3649a1e",
+      "source_content": "表示命令、请求或劝告等。",
+      "source_content_hash": "d19dceef29beb436281e6af56486e613d6fbe751febed4f56840c8f9cd3c83de",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "命令、依頼、助言などを表す。"
+      }
+    },
+    {
+      "segment_id": "4d52a261",
+      "source_content": "大的框架，三点：",
+      "source_content_hash": "29193edd1c87345c3dbe5abb0c5808126d5b6e397ad73d3f7c3f291571086415",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "大枠として3点："
+      }
+    },
+    {
+      "segment_id": "30193704",
+      "source_content": "1. 对du的命令式：动词**原形**词干（如mach）①\n2. 对ihr的命令式：动词原形词干+(e)t 或者说，和**现在时**形式完全一样。（前一段这么说是为了整齐，好理解。后面“或者说”更精确，因为seid确实不是＋t词尾。）\n4. 对Sie的命令式就是陈述句把动词提前②③。",
+      "source_content_hash": "d79cecb3f3f21b58fac3ad763783d9bf57cca6d20e9978d1972ba7269099894e",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "1. duに対する命令法：動詞**不定形**語幹（例：mach）①\n2. ihrに対する命令法：不定形語幹+(e)t または**現在形**と完全一致（前段は理解しやすさのため簡略化。後段の「または」が正確で、seidは確かに＋t語尾ではない）\n4. Sieに対する命令法は平叙文の動詞を前倒し②③"
+      }
+    },
+    {
+      "segment_id": "8b2a52b1",
+      "source_content": "初步练习掌握之后再补充3点：",
+      "source_content_hash": "ebfbee6e7ab9779c88d0feec105bda509fd5bcfe0141846f4399320c3493f415",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "基礎練習習得後に追加3点："
+      }
+    },
+    {
+      "segment_id": "5dae11e3",
+      "source_content": "① 现在时du人称产生 e→i/ie(h) 换字母的（比如sprechen → sprichst），对du的命令式继续产生这种换字母（刻意避免“换音”和“变音”这样的术语。并且指明就是e变成“衣”）。这样的动词总共就21一个，常见的就前面9个，即essen, vergessen, lesen, sprechen, helfen, geben, nehmen, sehen, empfehlen。",
+      "source_content_hash": "b585cd74d4d2f9bc47013ef34b8420d6022512ae56fa09a4f8dabb1f61f2a33e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "① 現在形のdu人称で e→i/ie(h) の文字変化が起こる動詞（例えばsprechen → sprichst）の場合、duに対する命令形でもこの文字変化が継続します（「母音変化」や「ウムラウト」といった専門用語を意図的に避け、「e」が「イ」音に変化することを明確に説明）。このような動詞は全部で21個あり、頻出するのは最初の9つ、すなわちessen, vergessen, lesen, sprechen, helfen, geben, nehmen, sehen, empfehlenです。"
+      }
+    },
+    {
+      "segment_id": "0bb95128",
+      "source_content": "![](.\\img\\命令式.png)",
+      "source_content_hash": "9e60e04ee592fd9c280de745b0b07a928a1df693e0023de8c4dbf90277710135",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](.\\img\\命令式.png)"
+      }
+    },
+    {
+      "segment_id": "657c2b20",
+      "source_content": "nehmen是唯一一个长音变短音的（/e:/ - /ɪ/），geb-变gib-还是长音。empfehlen是不规则的，但是注意fehlen是规则动词。",
+      "source_content_hash": "b70df5c09227b8aa74221bc458d244582449ae8012ce5ec72f64a4139ce67056",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "nehmenは唯一長母音が短母音に変化する例です（/e:/ → /ɪ/）。geb-がgib-に変化しても長母音は維持されます。empfehlenは不規則変化ですが、fehlenが規則動詞である点に注意が必要です。"
+      }
+    },
+    {
+      "segment_id": "e7772088",
+      "source_content": "其他变音的情况不变化，例如a->ä。",
+      "source_content_hash": "a816496e3f4a3a86af5812e142e33cad49337ea77e9d4f899c9e40d56134c16e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "その他のウムラウト変化（例：a→ä）は命令形では変化しません。"
+      }
+    },
+    {
+      "segment_id": "eab056be",
+      "source_content": "② 系动词sein对Sie的命令式是个例外，是seien。",
+      "source_content_hash": "182ec14d7909699e0c4441d4f54cea4dc056f3c3a921ede8c6e11c8fcdd0fc25",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "② コピュラ動詞seinのSieに対する命令形は例外で、seienとなります。"
+      }
+    },
+    {
+      "segment_id": "f01228d3",
+      "source_content": "③ 对du和ihr的命令式一般省略人称代词，除非刻意强调（很稀少）。",
+      "source_content_hash": "ecfbafbf0536b6babe3645b09d7b2bbb89f2d57427e313e256a230792a50e7f5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "③ duとihrに対する命令形では通常人称代名詞を省略します（強調する稀な場合を除く）。"
+      }
+    },
+    {
+      "segment_id": "afa378f7",
+      "source_content": "然后总结一下：",
+      "source_content_hash": "ff78dc754f09dd25ccec5f5804ad92f4bea518b23f45d58bad23cee0b823c1ff",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "まとめると："
+      }
+    },
+    {
+      "segment_id": "e8e162a9",
+      "source_content": "命令式有两个注意，一是**几个动词e变“衣”**（i/ie(h)），一是**特例seien Sie**。",
+      "source_content_hash": "27df5b8806433f79a5af1bc5cda1d054e05f723ee80863ff332370101ec561d0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "命令形には2つの注意点があります。一つは**一部の動詞でeが「イ」音に変化すること**（i/ie(h)）、もう一つは**例外形seien Sie**です。"
+      }
+    },
+    {
+      "segment_id": "463ed165",
+      "source_content": "其他的细节，比如对du的命令式要加-e（比如arbeite），werden就是用werde，对wir的命令式和对Sie的命令式一样。",
+      "source_content_hash": "7ebbad8fb533eb338ac7248738057177ce468737b5cea546dd91bcdd12e9fffb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "その他の細かい点として、duに対する命令形に-eを付加する場合（例：arbeite）、werdenはwerdeを使用し、wirに対する命令形はSieに対する命令形と同じ形式になります。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/动词/叙述方式.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.529936+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "3a36d284ba6c2adac473a567db4405c47586a6a98a7693a7f542d75caea1232e"
+  }
+}

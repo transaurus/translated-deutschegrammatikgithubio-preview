@@ -1,0 +1,1502 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/介词/介词辨析.md",
+  "source_file_content_hash": "7464e2d7fc2f6351b9892524f376c66fe54f2f83d3e3a2db879849dca739fdba",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 3\n---",
+      "source_content_hash": "57430a289358d8e38d7464d7df5ab948274d7e83ff708b215f37775a5a384353",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 介词辨析",
+      "source_content_hash": "2ee50dd5ff9e3f766b07cfda2ee858928672549010259ae67d082bcd012dadcc",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 前置詞の使い分け"
+      }
+    },
+    {
+      "segment_id": "a703643c",
+      "source_content": "### ab",
+      "source_content_hash": "7f44743141966f377ba76b2fc42e311cf83dc213b69dcf32e10e4bcf8666db6c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### ab"
+      }
+    },
+    {
+      "segment_id": "53eaf0e1",
+      "source_content": "ab的深层含义是“脱离”，其他各项意思皆派生于此。英语的off和德语ab同源，意思也差不多。英语的of也是同源词：“脱离”意味着“来自，是其中一部分”。ab作为介词原则上加第三格，个别时候用第四格也可以（自己用一律用第三格就行），只有一项含义：时间和空间的“从……起”，比如ab morgen。",
+      "source_content_hash": "d8443a82010cc0c5eda08921b612dc54b7aec88d0a036991481307c6c48189d1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "abの深層的な意味は「離脱」であり、他のすべての意味はここから派生しています。英語のoffとドイツ語のabは同源で、意味もほぼ同じです。英語のofも同源語です：「離脱」は「～から来た、その一部である」という意味を含みます。abは前置詞として原則的に第三格をとり、まれに第四格も可能ですが（自分で使う場合は常に第三格で構いません）、意味は一つだけです：時間と空間の「～から」、例えばab morgen（明日から）。"
+      }
+    },
+    {
+      "segment_id": "8ac585fb",
+      "source_content": "seit是从过去到现在，并且有可能继续下去，即英语的since；而ab只表示起点，不关心终点，并且起点不一定在过去，从随便哪个点都可以，即英语的from ... on。",
+      "source_content_hash": "edcca2ea0f6f1e51a7fa9591a67652dfbd6469603be3f7e243ef2853a83872ad",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "seitは過去から現在まで、そしておそらく今後も続くことを表し、英語のsinceに相当します。一方、abは起点のみを示し、終点は関係なく、起点が必ずしも過去である必要もありません。英語のfrom ... onに相当します。"
+      }
+    },
+    {
+      "segment_id": "180bddb1",
+      "source_content": "![](./img/介词ab.png)",
+      "source_content_hash": "cd79c2b31e55890dec67bfa25d5f41842f83091fe916330db44fe29c2696fbac",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/介词ab.png)"
+      }
+    },
+    {
+      "segment_id": "cf898102",
+      "source_content": "ab作为副词从“脱离”分出两个含义：",
+      "source_content_hash": "22d86c2cb11a7af9824b272843d0c4ad9608e4306d8ffdb2351164cf18e5f7d6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "abが副詞として使われる場合、「離脱」から2つの意味が派生します："
+      }
+    },
+    {
+      "segment_id": "42ad8e83",
+      "source_content": "离开：ab ins Bett 去睡觉。ab und zu/an 离开又过来→时不时。",
+      "source_content_hash": "dc6c3292290c368747a06a17ae4485e3a1480cb1f7cc8eeeca7a1b018e4461f1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "離れる：ab ins Bett（寝に行く）。ab und zu/an（離れたり来たり→時々）。"
+      }
+    },
+    {
+      "segment_id": "f6168993",
+      "source_content": "脱离则往下：Hut ab! 脱帽（致意）→佩服！",
+      "source_content_hash": "43beb8feb0b5559f6ce6044e787d126bad083905c7df375b9d81831659da968e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "離脱して下へ：Hut ab!（帽子を脱ぐ→敬意を表す→感服！）"
+      }
+    },
+    {
+      "segment_id": "f5f6d2ce",
+      "source_content": "ab作为副词可以看做是可分动词省略了动词。",
+      "source_content_hash": "8720d460aaf33156af733d38566f6c8456fc25ba7c4b655150cc85470b094c11",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "abは副詞として、分離動詞の動詞が省略されたものと見なすことができます。"
+      }
+    },
+    {
+      "segment_id": "2fdadb08",
+      "source_content": "ab-作为可分前缀，可以分为6个小项，但是都可以概括到“脱离”的意思下：",
+      "source_content_hash": "c9aa8762eb2edc8b138d9f7575e262e5534bc1d577f61996ecd7b6d162724de0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ab-が分離接頭辞として使われる場合、6つの小項目に分けられますが、すべて「離脱」の意味に概括できます："
+      }
+    },
+    {
+      "segment_id": "44d89370",
+      "source_content": "1. 脱离→离开：abfliegen 飞离。\n2. 脱离→去除：einen Ast absägen 锯掉一个树枝。\n3. 脱离→从表面去除：den Staub abwischen 抹掉灰尘。\n4. 脱离→去掉某表面不要的东西：den Tisch abwischen 擦桌子。\n5. 脱离→幻影出窍般离开表面：einen Text abschreiben 抄一篇文章。\n6. 脱离→往下→关掉：das Fahrrad abstellen 停自行车；den Motor abstellen 关掉发动机。",
+      "source_content_hash": "38f8360df1628d542b2a1c7e7084b0a940aaf31f985831a51298f35a7471df15",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "1. 離脱→離れる：abfliegen（飛び立つ）。\n2. 離脱→取り除く：einen Ast absägen（枝を切り落とす）。\n3. 離脱→表面から取り除く：den Staub abwischen（ほこりを拭き取る）。\n4. 離脱→表面の不要なものを取り除く：den Tisch abwischen（テーブルを拭く）。\n5. 離脱→表面から幻のように離れる：einen Text abschreiben（文章を書き写す）。\n6. 離脱→下へ→止める：das Fahrrad abstellen（自転車を止める）；den Motor abstellen（エンジンを止める）。"
+      }
+    },
+    {
+      "segment_id": "b25f21be",
+      "source_content": "### von",
+      "source_content_hash": "d98a1828cf3f0230d05aa0c46deb1c8dbacd8a7e16a948a92b8357c7392dbb9a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### von"
+      }
+    },
+    {
+      "segment_id": "7499a4e7",
+      "source_content": "von的词源不明，可能与俄语介词по同源。ab表示“脱离”，后来ab的一些含义被von替代，形成了分工：ab感觉是动态的，von感觉静态的。也就是说，von表示“起点”，比如von hier aus。",
+      "source_content_hash": "b4437c3a3b37c0a80d953fa8b4c3753b98a2cd633cd8f562b5f5adeee371389f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "vonの語源は不明ですが、ロシア語の前置詞поと同源かもしれません。abは「離脱」を表しますが、後にabの一部の意味がvonに置き換えられ、役割分担が形成されました：abは動的な感じ、vonは静的な感じです。つまり、vonは「起点」を表します、例えばvon hier aus（ここから）。"
+      }
+    },
+    {
+      "segment_id": "517051a7",
+      "source_content": "德语von大部分含义都可以用英语的from或of来表达。这不奇怪，毕竟von替代了原始的ab的一些含义，而ab和of, off, from是同出一源的。",
+      "source_content_hash": "30f72ed198c4efe7a1c29d94657688fecd3c799eb9c48bc39cbc194141559d3a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ドイツ語のvonのほとんどの意味は、英語のfromまたはofで表現できます。これは驚くべきことではありません。なぜなら、vonは元々のabの一部の意味を置き換えたものであり、abとof、off、fromは同じ起源だからです。"
+      }
+    },
+    {
+      "segment_id": "135468ee",
+      "source_content": "表示“来自”德语有两个介词，aus和von。有很多学习者容易混淆这两个词。有绝招可以区分清楚，那就是用词对。aus和in是一对，von - bei - zu是一组。所以，记住这句话就够了：“在某地方”用in的，“来自”用aus，否则用von。比如：in China - aus China, (bei Luxun) - von Luxun stammt dieses Zitat。",
+      "source_content_hash": "c684be888f97b2e32f025e1815db664add6bae122a9c4427ca7a8b5e7dd6abfc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「～から」を表すドイツ語には2つの前置詞、ausとvonがあります。多くの学習者がこれらを混同しがちです。明確に区別するための決定的な方法があります。それは語のペアを使うことです。ausとinはペア、von - bei - zuはグループです。したがって、次の文を覚えておけば十分です：「ある場所にいる」場合はinを使い、「～から来た」場合はausを使い、それ以外の場合はvonを使います。例えば：in China（中国に） - aus China（中国から）、(bei Luxun) - von Luxun stammt dieses Zitat（この引用はルーシュンから来ている）。"
+      }
+    },
+    {
+      "segment_id": "33331f27",
+      "source_content": "von的各项含义都来自“来自”：",
+      "source_content_hash": "7e7e917655e23b9daf4b89660b61b50d8d87bd8cdecec528bd1ba6cbf6b840dc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "vonの各意味は「～から」に由来します："
+      }
+    },
+    {
+      "segment_id": "50746522",
+      "source_content": "![](./img/介词von.png)",
+      "source_content_hash": "97309338fe5e007063d8329c202f22baecb205e8f09770c8cd5168f0f58b98a1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/介词von.png)"
+      }
+    },
+    {
+      "segment_id": "95e9ba12",
+      "source_content": "ab和von一般没有人混淆。如果要辨析，比较它们介词的含义就够了，因为和ab不一样，von没有可分前缀的用法。ab是时间、次序和空间的“从……起”，比如ab morgen, ab dem 18. Lebensjahr, ab Frankfurt。那么可混淆的点只有“时间”和“空间”。von表示时间的时候会在成对的介词结构里，比如von Morgen bis Abend, von Jahr zu Jahr；von表示空间的时候要么是“来自”，比如von Frankfurt，要么是在成对的介词结构里，比如von mir aus（我（觉得）都行）, von Ast zu Ast。",
+      "source_content_hash": "192fa3b93044b5c1405a9cc3ac56ad9354af411b935e3b81bb47d541461e1e33",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "abとvonは通常混同されることはありません。区別が必要な場合は、前置詞としての意味を比較すれば十分です。なぜなら、abと異なり、vonには分離接頭辞の用法がありません。abは時間、順序、空間の「～から」を表し、例えばab morgen（明日から）、ab dem 18. Lebensjahr（18歳から）、ab Frankfurt（フランクフルトから）などです。混同されやすい点は「時間」と「空間」のみです。vonが時間を表す場合は、対になった前置詞構造で使用されます。例えばvon Morgen bis Abend（朝から晩まで）、von Jahr zu Jahr（年々）などです。vonが空間を表す場合は「～から」を意味し、例えばvon Frankfurt（フランクフルトから）、または対になった前置詞構造で使用されます。例えばvon mir aus（私としては構わない）、von Ast zu Ast（枝から枝へ）などです。"
+      }
+    },
+    {
+      "segment_id": "8af76f3d",
+      "source_content": "刚才的例子虽然有von Frankfurt也有ab Frankfurt，但是ab Frankfurt这样的只会用在交通的缩写中，和abfahren或abfliegen等有关。",
+      "source_content_hash": "f1bda66c32ccf4a519194b92d0425f855ca54429aaa3399ad32c3ade7e249504",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "先ほどの例にはvon Frankfurtもab Frankfurtもありますが、ab Frankfurtのような表現は交通の略語でのみ使用され、abfahren（出発する）やabfliegen（離陸する）などに関連しています。"
+      }
+    },
+    {
+      "segment_id": "a9d49f92",
+      "source_content": "von是“来自”，ab是“发，出发”。“接-化-发”，全用介词表示就是：auf - um - ab。",
+      "source_content_hash": "9fb37003ed6a3697b927d3c577a9237b6257554efac1c127ce4862c7cb314159",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "vonは「～から」、abは「発、出発」を意味します。「接-化-発」を全て前置詞で表すと、auf - um - abとなります。"
+      }
+    },
+    {
+      "segment_id": "a44047a5",
+      "source_content": "之前我们说过ab这个介词的深层含义是“脱离”或“脱离而往下”。既然是脱离，那就有个起点，这个起点由von来引出，所以带ab-的介词会和von的介词结构相互配合，如果需要表示一个起点。比如：",
+      "source_content_hash": "7a2d31db7e8c032bf2c1afa3a16e2dc2114c5ea83356004bf657bcf2330c11f8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "以前、abという前置詞の深層的な意味は「離脱」または「離脱して下へ」であると説明しました。離脱であるため、起点があり、この起点はvonによって示されます。そのため、ab-を含む動詞は、起点を表す必要がある場合にvonの前置詞構造と組み合わされます。例えば："
+      }
+    },
+    {
+      "segment_id": "f7ef78f9",
+      "source_content": "etw. (von etw.) absägen 锯掉",
+      "source_content_hash": "0bf460f30a4414cd287acad0d4ca879cd1b22952a08928a730a5555949d521c0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "etw. (von etw.) absägen （何かを（何かから）切り落とす）"
+      }
+    },
+    {
+      "segment_id": "b36c6338",
+      "source_content": "jn. (von etw.) abberufen 召回",
+      "source_content_hash": "4b2152601836dcafb5c88506f97ff2982f6649fc731b3bcf873b015acbed501d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "jn. (von etw.) abberufen （（何かから）誰かを召還する）"
+      }
+    },
+    {
+      "segment_id": "b9aaa519",
+      "source_content": "(jm.) (von etw.) abraten 建议不要如何",
+      "source_content_hash": "541f112b017a3fc6afd5d266fbd94194686ac8337bb997be0c76949fb1da0550",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "(jm.) (von etw.) abraten （（誰かに）（何かを）しないよう勧める）"
+      }
+    },
+    {
+      "segment_id": "e536ea0d",
+      "source_content": "……",
+      "source_content_hash": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "……"
+      }
+    },
+    {
+      "segment_id": "40158b4b",
+      "source_content": "甚至sich (von jm.) verabschieden都是加von的。",
+      "source_content_hash": "306930f0cc959a37dc8827c0f2ae1e956d78af8f7776785949cc3f9e39d1469a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sich (von jm.) verabschieden（（誰かと）別れを告げる）もvonを伴います。"
+      }
+    },
+    {
+      "segment_id": "6ea4c715",
+      "source_content": "有了这个认识，那区分“依赖”的两个词就容易了：",
+      "source_content_hash": "3e42b554aa0da574a9a45603478c0c770120512515022074bef2f311835f3164",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "この理解があれば、「依存」を表す2つの単語を区別するのが容易になります："
+      }
+    },
+    {
+      "segment_id": "79ad944d",
+      "source_content": "abhängig指挂在什么上垂下来，再转义为“依赖”，所以用法结构是von jm./etw. abhängig sein。",
+      "source_content_hash": "4a482bddcf997b58f476d6871139cb252fe2963472623ada2db332d0768f1c41",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "abhängigは何かにぶら下がっている状態から転じて「依存」を意味するため、用法構造はvon jm./etw. abhängig sein（誰か/何かに依存している）となります。"
+      }
+    },
+    {
+      "segment_id": "531437ca",
+      "source_content": "angewiesen的词根是weisen（指），而weisen/-weisen主要是加auf（从高往下指）的，所以这里的用法结构是auf jn./etw. angewiesen sein。指着，指望某人某物，就是“依赖”。",
+      "source_content_hash": "1da4d68762ddbfb73844c160fa72e82f769ee1a940ed90149b2a74e15b28bf5c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "angewiesenの語根はweisen（指す）であり、weisen/-weisenは主にauf（上から下へ指す）を伴うため、ここでの用法構造はauf jn./etw. angewiesen sein（誰か/何かに依存している）となります。指して、誰か/何かを当てにする、つまり「依存」です。"
+      }
+    },
+    {
+      "segment_id": "06e24cc0",
+      "source_content": "其他常见的介词相互配合还有：",
+      "source_content_hash": "95aa167b0a8b98bb838e3f97ad98238649a2c941b9667c7bcaf9ede506bbd46d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "その他の一般的な前置詞の組み合わせには以下があります："
+      }
+    },
+    {
+      "segment_id": "7f71ff2a",
+      "source_content": "auf ... auf- 例如：auf jn. aufpassen 照看",
+      "source_content_hash": "90f00060b704b319f76975317858a6874cf8ed1b16d6c47b1ce09712d6d134ee",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "auf ... auf- 例：auf jn. aufpassen （誰かを世話する）"
+      }
+    },
+    {
+      "segment_id": "147e8550",
+      "source_content": "in ... ein- 例如：in etw. eintreten 加入",
+      "source_content_hash": "8bb9273e595dc6fadd8d4b74735a90210fe492369c8604389862329c5c58dade",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "in ... ein- 例：in etw. eintreten （何かに加入する）"
+      }
+    },
+    {
+      "segment_id": "883231d4",
+      "source_content": "aus ... aus- 例如：aus etw. ausziehen 搬出",
+      "source_content_hash": "71867141a52e3005c7f19485df1b19eb96c7faae4486c3ce99b16dce85a407e0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "aus ... aus- 例：aus etw. ausziehen （何かから搬出する）"
+      }
+    },
+    {
+      "segment_id": "6cc549f2",
+      "source_content": "……",
+      "source_content_hash": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "……"
+      }
+    },
+    {
+      "segment_id": "d0dd855b",
+      "source_content": "也就是说一般用同一个介词带一个结构。",
+      "source_content_hash": "272599dceac26ad6ed5325436ba6fba7b23c295d7eb896b0fca968a3085e8288",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "つまり、一般的には同じ前置詞を使って構造を形成します。"
+      }
+    },
+    {
+      "segment_id": "7736989b",
+      "source_content": "稍难一点的是：",
+      "source_content_hash": "dc2390b7555f9e4639ab97539aea38fa11a43398d4a5d58caf346013ca5e9f3e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "少し難しいのは："
+      }
+    },
+    {
+      "segment_id": "6270d577",
+      "source_content": "von ... ab-",
+      "source_content_hash": "d878be296a797a748356e38b81fdbe69513d8a02ece2a4c75e0b62a2a401a9ac",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "von ... ab-"
+      }
+    },
+    {
+      "segment_id": "a1fa5396",
+      "source_content": "以及",
+      "source_content_hash": "5b77181bd64821fe8c8e987e14190a378308cf495f6cb3601df3cb1ab7c9abd2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "および"
+      }
+    },
+    {
+      "segment_id": "ec619944",
+      "source_content": "auf ... zu- 例如：auf jn. zugehen 朝某人走过去",
+      "source_content_hash": "04a6850762af9e5e66b53454c447f5a1003e6f2cff8b473b34b3d986c6137e16",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "auf ... zu- 例：auf jn. zugehen （誰かに近づく）"
+      }
+    },
+    {
+      "segment_id": "2e771fd0",
+      "source_content": "### aus",
+      "source_content_hash": "25a28dbc9a02abb6eb857564a51f603990130d0ac5a13c9e7190c1248d7ae296",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### aus"
+      }
+    },
+    {
+      "segment_id": "0750bfa1",
+      "source_content": "从下面的思维导图可以看出，aus的各项含义，无论是做介词还是做前缀，都可以高度统一到一个模糊的意象下。",
+      "source_content_hash": "e411ec604b25413316d9e67632727423841960f979a4f046d18838231a6ad7cc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "以下のマインドマップからわかるように、ausの各意味は、前置詞としても接頭辞としても、一つの曖昧なイメージの下で高度に統一することができます。"
+      }
+    },
+    {
+      "segment_id": "86348f98",
+      "source_content": "![](./img/介词aus.png)",
+      "source_content_hash": "34b736a98cee4f9de450d3d905c3f2372b0126b1bd9c9813acfed33f154eca04",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/介词aus.png)"
+      }
+    },
+    {
+      "segment_id": "f6b04a59",
+      "source_content": "### über",
+      "source_content_hash": "69eaa43d555dbb6dd5862f07d6440bfa4406297b2dc1172c2775994edd0a3188",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### über"
+      }
+    },
+    {
+      "segment_id": "a311e967",
+      "source_content": "词源对über的理解还是很有帮助的。拉丁语的super好像有点格格不入，那是因为这是个复合词，s是ex的遗留。",
+      "source_content_hash": "53b4aad2efa50f65a2e012725700649e3429249a936add32c9adfa376cde4bea",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "語源はüberを理解する上で非常に役立ちます。ラテン語のsuperは少し異質に感じられますが、これは複合語であり、sはexの名残です。"
+      }
+    },
+    {
+      "segment_id": "eb51d107",
+      "source_content": "über的前五项含义其实是可以高度地模糊地统一在一起的，也就是高于和远于的静三和动四。和auf不一样，auf强调是在一个比较平的面上。",
+      "source_content_hash": "1d5aa2bd64d8d9e3fef3bcf2f0a47168ec889e37b310deea46566aeb01a6a9ac",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "überの最初の5つの意味は、実際には高度に曖昧ながらも統一することができます。つまり、静三と動四における「上」と「遠く」です。aufとは異なり、aufは比較的平らな面上にあることを強調します。"
+      }
+    },
+    {
+      "segment_id": "1862c5fe",
+      "source_content": "注意第4项的第三个例句，人也可以掠过的。这一项容易忽略。",
+      "source_content_hash": "f6e6f506c15d2a1f4ca2d32403d14bb49ac548a8e8dbf2fd7e34d4ef5f5c089f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第4項の3番目の例文に注意してください。人もまた「通り過ぎる」ことができます。この項目は見落とされがちです。"
+      }
+    },
+    {
+      "segment_id": "6ca4479f",
+      "source_content": "第5项如果理解好了，就可以理解rüber了。rüber是在同一个平面的移动。drüben是同一个平面的那里，相当于英语over there。这次词源又立功了。",
+      "source_content_hash": "2aa0a1902894ad178d24a1d51111fdb6e36c248f69f0f8bbe931908f2b59929e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第5項をよく理解すれば、rüberも理解できるようになります。rüberは同じ平面上での移動です。drübenは同じ平面上の「あそこ」を意味し、英語のover thereに相当します。ここでも語源が役立ちます。"
+      }
+    },
+    {
+      "segment_id": "a2c0166e",
+      "source_content": "第1-5项的占位符是wo或wohin。第6项里面的是不可以用这两个词的，在用法结构里必须写出über。第6项的三个小项都有很多例子，把它们高度统一在一起，富于启发性，这是我最自豪的地方之一。",
+      "source_content_hash": "cf5c50f714f651008528c7b738fa279d3036b5056206ff69bc0173078fdb5230",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第1-5項のプレースホルダーはwoまたはwohinです。第6項ではこれらの単語は使えず、用法構造の中でüberを明記する必要があります。第6項の3つの小項目には多くの例があり、それらを高度に統一して示すことは、最も誇れる部分の一つです。"
+      }
+    },
+    {
+      "segment_id": "c1eaf30b",
+      "source_content": "英语about这种“关于”是用über的。情感方面的用法结构介词有两个，一个是über，一个是auf。über是对现存的已有的如何，而auf是对未来的如何。",
+      "source_content_hash": "dcf6824c416cb0af10f88e997f8323e02eb58a2c6f21bff3050960b2c485266d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "英語のaboutのような「～について」の意味ではüberを使います。感情に関する用法構造の前置詞は2つあり、一つはüber、もう一つはaufです。überは既存のものについて、aufは未来のものについて使います。"
+      }
+    },
+    {
+      "segment_id": "f0984c2a",
+      "source_content": "第7项不太重要，看看就好，记不住也没有关系。",
+      "source_content_hash": "150ff4fc22a845abe1d7b59b135b8a938047708c36bf6ce0d81bf4c0b17ed769",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第7項はあまり重要ではありません。一読しておけば十分で、覚えられなくても問題ありません。"
+      }
+    },
+    {
+      "segment_id": "a81544fd",
+      "source_content": "前缀über-有über的前五项含义，不再赘述。",
+      "source_content_hash": "ebb5d69714b43a6e639a5f3f518f1044ad9521c94c36c1b54100a23470e3198c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "接頭辞über-にはüberの最初の5つの意味があり、ここでは繰り返しません。"
+      }
+    },
+    {
+      "segment_id": "0801d969",
+      "source_content": "值得注意的是，über-构成的动词有可能可分，也有可能不可分，还有部分动词即可分又不可分。über-构成的动词，有90个左右。可分的，感觉是个短语；不可分的感觉是一个带了前缀微调了意思的词。",
+      "source_content_hash": "90f5e91b8c33d8958b1bc9845c12e17bd4838b95628442126e573707952dc2bc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "注目すべきは、über-で構成される動詞は、分離可能なもの、不可分なもの、そして分離可能でも不可分でもあるものの3種類があることです。über-で構成される動詞は約90個あります。分離可能なものはフレーズのように感じられ、不可分なものは接頭辞によって意味が微調整された単語のように感じられます。"
+      }
+    },
+    {
+      "segment_id": "3c19e221",
+      "source_content": "特别注意，吃腻看腻听腻3个动词都是可分的。",
+      "source_content_hash": "fee8989abefc7b6af34cc2a83cdc55ab9ad4ddccb877529e0b0996d8abc10160",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "特に注意が必要なのは、食べ飽きる、見飽きる、聞き飽きるの3つの動詞はすべて分離可能です。"
+      }
+    },
+    {
+      "segment_id": "d21af28f",
+      "source_content": "![](./img/介词ueber.png)",
+      "source_content_hash": "cce37e630cc29604fa69c51651524d24b34f90462c4a1c92ea3c2bb110a1e81c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/介词ueber.png)"
+      }
+    },
+    {
+      "segment_id": "f8614e13",
+      "source_content": "### auf",
+      "source_content_hash": "686b845680ed9f7fc78e0c32782558088441d44b20e28acc11968d1b558bfa7f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### auf"
+      }
+    },
+    {
+      "segment_id": "396efb28",
+      "source_content": "介词über的感觉是条线，而auf的感觉是个面。抓住了这一点，就抓住了这两个介词的灵魂。",
+      "source_content_hash": "946de01f50dc7e2d109e9659e931e89b7648e7b8111ff7c023ff7f20739746fb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "前置詞überは線のような感じですが、aufは面のような感じです。この点を押さえれば、これら2つの前置詞の本質を理解できます。"
+      }
+    },
+    {
+      "segment_id": "558df877",
+      "source_content": "![](./img/介词auf.png)",
+      "source_content_hash": "242a304c998617a43e6634d43bded878ef3263f33343db8963dc175f14ec8d91",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/介词auf.png)"
+      }
+    },
+    {
+      "segment_id": "f38d1cb0",
+      "source_content": "auf最原始的含义是从下往上，也就是英语up的意思，很多结构和复合词里面都可以用up来理解。",
+      "source_content_hash": "fb705e672ac5cf87560fa268ceb7e235fae41f45d529c1572d59dd75016bd72a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "aufの最も原始的な意味は「下から上へ」、つまり英語のupの意味です。多くの構造や複合語ではupで理解できます。"
+      }
+    },
+    {
+      "segment_id": "5f82a1e9",
+      "source_content": "希腊语hypo和拉丁语sub是“下”的意思，是因为本义是从下往上，还没到上面就是“下”。sub的s是前缀ex的遗留。",
+      "source_content_hash": "7431fff4d082631617d8b6a22da125e7af6e6e0aac5b3783c41589751f369ce1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ギリシャ語のhypoとラテン語のsubが「下」を意味するのは、本来の意味が「下から上へ」であり、まだ上に達していない状態が「下」だからです。subのsは接頭辞exの名残です。"
+      }
+    },
+    {
+      "segment_id": "6fc234cf",
+      "source_content": "Summe之所以是总数，是因为古代从下往上算，拉丁语summa是“最上面那个数”的意思，也就是“和，总数”。",
+      "source_content_hash": "a9cfbfb6801005fdc6c144ea3f964c7bc4fc91c9766ded95eb865bcfa0c3eecd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Summeが「総数」を意味するのは、古代では下から上に数えていたからです。ラテン語のsummaは「最上位の数」を意味し、つまり「和、総数」を表します。"
+      }
+    },
+    {
+      "segment_id": "c364340c",
+      "source_content": "1、德语里auf是个面，“较平的面上”可能是介词auf最常见的含义。这是个静三动四的介词。根据词源，估计是先有动四，再出现静三。Post, Bank, Party等事物用auf，是因为最初的这些东西是在平的面上或在户外。",
+      "source_content_hash": "487968db524e4458fcfdedf7a48e78fd201f0e586a56019169f703dcc3903606",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "1、ドイツ語においてaufは「面」を表し、「比較的平らな面上」が前置詞aufの最も一般的な意味です。これは静三動四の前置詞です。語源的には、まず動四が先に存在し、その後静三が発生したと考えられます。Post（郵便局）、Bank（銀行）、Party（パーティー）などの事物にaufが使われるのは、元来これらのものが平らな面上または屋外にあったためです。"
+      }
+    },
+    {
+      "segment_id": "f45239ba",
+      "source_content": "3、因为auf和Party这些事物搭配，后来有了去做什么（活动）和在做什么（过程）的意思。",
+      "source_content_hash": "c8a2f8aa6cc5acfd67a4f53bddc8baa879372422332b4c2215741aed7ad1ced8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "3、aufがPartyなどの事物と結びつくことで、後に「何か（活動）をするために行く」や「何か（過程）をしている」という意味が生まれました。"
+      }
+    },
+    {
+      "segment_id": "692c6053",
+      "source_content": "4.2、和über一样，auf这个面不一定只往上或来到什么上面，还往外推。",
+      "source_content_hash": "cf20eba6c4675861a8a16c6d32dc6c8803ab3f1e589840b7f8390b0632b929c8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "4.2、überと同様に、aufが表す「面」は必ずしも上方や何かの上に来るだけでなく、外側に押し出す方向も含みます。"
+      }
+    },
+    {
+      "segment_id": "383fbdd2",
+      "source_content": "4.3、aufs加最高级是一项语法内容。教最高级的时候一般只教am加最高级，因为更广泛。am besten 是作表语和状语；aufs beste 是表示程度的状语，用途较窄。",
+      "source_content_hash": "3798d9200a2728ca1e413c3748eac5d132d765bd5277ea4181adf8d3f97fe3b6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "4.3、aufsに最上級を伴う用法は文法事項の一つです。最上級を教える際には通常am＋最上級のみが教えられます（より広範に使われるため）。am bestenは述語や状況語として機能しますが、aufs besteは程度を表す状況語で、使用範囲が狭いです。"
+      }
+    },
+    {
+      "segment_id": "14bc6b75",
+      "source_content": "6.1、verlassen之所以加auf，是因为受auf jn. bauen（信任某人）的影响。warten之所以加auf，是因为warten原本是瞭望的意思。大家应该知道望夫石的故事，瞭望有等待的意思，而从高往下看看的是个面，就是用auf的。所以auf jn. warten不奇怪。",
+      "source_content_hash": "535f6b40ea756dffd5e1fe461783484ca1fd097ac49f865f77caf0786ead153f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "6.1、verlassen（頼る）がaufを伴うのは、auf jn. bauen（某人を信頼する）の影響です。warten（待つ）がaufを伴うのは、wartenが元来「見張る」という意味だったためです。「望夫石」の故事のように、見張る行為には待つ意味が含まれ、高い所から下を見下ろす時には「面」を意識するためaufが使われます。よってauf jn. warten（某人を待つ）も不思議ではありません。"
+      }
+    },
+    {
+      "segment_id": "e478ec2c",
+      "source_content": "auf作为副词有很多是省略自可分动词。有几个稍难一点：auf und davon 是先跳高一点，然后快速跑开了，看到这个搭配我就想起来《猫和老鼠》里猫这样跑开的画面。",
+      "source_content_hash": "6752c7f488d3fee0bb55cec5fbca13a7b31a24d5f10a949da390a2cd2ac00c2d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "aufが副詞として使われる場合、多くは分離動詞からの省略形です。やや難しいものとして：auf und davon（ちょっと跳び上がってから素早く逃げる）という表現があります。この連語を見ると『トムとジェリー』で猫がそうやって逃げる場面を思い出します。"
+      }
+    },
+    {
+      "segment_id": "534ac82e",
+      "source_content": "auf-作为前缀应该就只有第7项难理解一点。但是一联系英语up，那就又容易了。英语zip up是从下到上拉上拉链，所以有“结束”的含义也很正常。aufessen就是eat up。话说，其实英语也有可分动词，只不过不像德语这么明显，混到动介搭配当中去了。",
+      "source_content_hash": "1a55fba80ba5ae8ec173378432ea2e167bac0f9444cf87e5ffb3da7863e67281",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "auf-が接頭辞として使われる場合、第7項の意味だけが少し理解しにくいかもしれません。しかし英語のupと関連付ければ簡単です。英語のzip up（ジッパーを上まで閉める）は「終了」の意味にもなるのと同じく、aufessenはeat up（食べ尽くす）に相当します。実は英語にも分離動詞は存在しますが、ドイツ語ほど顕著ではなく、動詞と前置詞の組み合わせに混在しています。"
+      }
+    },
+    {
+      "segment_id": "0d5321b7",
+      "source_content": "### an",
+      "source_content_hash": "aa8298d33221d1c95ac3b9931a8344c0be93fe1bf8fdd9ed9c40d899421081a1",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### an"
+      }
+    },
+    {
+      "segment_id": "cfeb9eb1",
+      "source_content": "介词über的感觉是条线，或者是在上面笼罩着统摄着；auf的感觉是个大的面；an给人的感觉是小型接触面。抓住了这一点，就抓住了这3个介词的灵魂。",
+      "source_content_hash": "328328d79e8d424deabec2e74f5010c09b467d7fb1f28868c8936734527d32fb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "前置詞überは「線」、または「上から覆いかぶさる」イメージ、aufは「大きな面」、anは「小さな接触面」を表します。この本質を捉えることで、これら3つの前置詞の核心を理解できます。"
+      }
+    },
+    {
+      "segment_id": "f7e6e884",
+      "source_content": "![](./img/介词an.png)",
+      "source_content_hash": "6dbd1176fa7c0a22e49332e1054b658e63a61172a8c9abc3410b3f133d86412e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/介词an.png)"
+      }
+    },
+    {
+      "segment_id": "17b50e81",
+      "source_content": "an是两个物体挨近形成的一个小接触面，或者用无形的触手抓住，形成的小接触面。一个房间有6个面，除了我们站的那个面用auf，其他5个面都用an。",
+      "source_content_hash": "abff1d96554496b58a1fa30ed1f7e687cffd1db0bae91ff287bb0c4755ef76f0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "anは二つの物体が接近して形成される小さな接触面、あるいは無形の触手で掴まれたような小さな接触面を表します。部屋には6面ありますが、私たちが立っている面以外の5面にはaufではなくanが使われます。"
+      }
+    },
+    {
+      "segment_id": "719d3997",
+      "source_content": "英语的on和德语的an并不完全重叠，差异挺大的。on-off和an-aus是对应的。put on和anziehen是类似的。ähnlich和ahnen都和an有关系。on为什么变成了那些意思，ich habe keine Ahnung.",
+      "source_content_hash": "1a65c44c3296b7bc55780e6330c8831460d62312329d97e6f861ea9ab25c6684",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "英語のonとドイツ語のanは完全には一致せず、大きな差異があります。on-offとan-ausは対応関係にあります。put onとanziehenは類似した表現です。ähnlich（似ている）とahnen（予感する）はどちらもanと関係があります。onがなぜそれらの意味になったかについては、ich habe keine Ahnung（見当もつきません）。"
+      }
+    },
+    {
+      "segment_id": "42d9ca67",
+      "source_content": "介词an的各项意思可以高度地模糊地统一在一起。例子都是精挑细选的，大家看看吧，有疑问可以留言。",
+      "source_content_hash": "0b3fa79d35a62aac8e707a02b2c2f396612937e78aea9669badaa6e462a9badb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "前置詞anの各意味は高度に抽象化して統一できます。例文は厳選されたものですので、ご覧いただき疑問点があればコメントください。"
+      }
+    },
+    {
+      "segment_id": "619c3209",
+      "source_content": "做这些是需要灵感，但这些并不是拍脑袋想出来的，是有文献根据的。卷帙浩繁中披沙拣金来的，德语大数据中修炼来的。我挺看不上一些公众号文章，东抄抄词典，西抄抄语法书，或者就着一本语法书使劲抄，搬运工而已。",
+      "source_content_hash": "084b8423a2c7589d3c56d6fdac60f3977b8fa6a344dc74c89b08a4401ab5b639",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "これらを行うにはインスピレーションが必要ですが、これらは単なる思いつきではなく、文献に基づいたものです。膨大な資料の中から真珠を拾い集め、ドイツ語のビッグデータから鍛え上げたものです。私は一部の公式アカウントの記事を見下しています。辞書から適当にコピーしたり、文法書から適当にコピーしたり、あるいは一冊の文法書をひたすらコピーしたりするだけで、単なる運び屋に過ぎません。"
+      }
+    },
+    {
+      "segment_id": "44285072",
+      "source_content": "跟随教师在A1-B1把教材体系学好，之后学会自己查词典和语法书，就会发现99%的词汇书和语法书都是垃圾，相当一部分公众号是垃圾（此处应有配图）。才能明白九叔的好。你觉得我好，还觉得我看不上的人好，那不是真好。",
+      "source_content_hash": "a2bedc140ef7401b93ce9385bc5bfc83fe80610699baac2bb80047dce5e32c6a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "教師についてA1-B1レベルで教材体系をしっかり学んだ後、自分で辞書や文法書を調べるようになると、99%の単語帳や文法書がゴミであることに気づき、相当数の公式アカウントもゴミであることに気づきます（ここに画像が添付されるべき）。そうして初めて九叔の良さがわかるのです。私が良いと思い、私が見下している人たちも良いと思うなら、それは本当に良いことではありません。"
+      }
+    },
+    {
+      "segment_id": "a8f09c71",
+      "source_content": "继续说an。Gymnasium, Theater, Universität等希腊语和拉丁语词，习惯上用an，用其他的介词也有可能。",
+      "source_content_hash": "642386a69201d7be5ce90f430d8cb78f7d7bfc8380412f347544fa1835d860ab",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "anの話を続けます。Gymnasium（ギムナジウム）、Theater（劇場）、Universität（大学）などのギリシャ語やラテン語由来の単語には、習慣的にanが使われますが、他の前置詞が使われる可能性もあります。"
+      }
+    },
+    {
+      "segment_id": "d2a3d4c7",
+      "source_content": "an作副词的时候，除了前两项，后三项都是来自可分动词的省略。",
+      "source_content_hash": "911347fce411cf8148261650cd17a2e24a050adda0e41063656e606cbffa1290",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "anが副詞として使われる場合、最初の2つの意味を除いて、後の3つの意味は分離動詞からの省略に由来します。"
+      }
+    },
+    {
+      "segment_id": "008183b0",
+      "source_content": "an-作为可分前缀时意思较为明朗。注意“初步，稍稍”的意思是an做介词时没有的。前面说的anziehen表示穿衣服时就是朝某人开始拉。于是产生Anzug这个词，意思是“套装”，注意，西装只是套装的一种。",
+      "source_content_hash": "a5e0b01f2e179962d6e53883d8897db0beb316e5b9ae9541e08c1d6c9e36e21e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "an-が分離接頭辞として使われる場合、その意味は比較的明確です。「初步的、少し」という意味は、anが前置詞として使われる時には存在しないことに注意してください。先に述べたanziehen（服を着る）は、誰かに対して引き始めることを表します。そこからAnzug（スーツ）という単語が生まれました。ただし、スーツは単に「服のセット」の一種に過ぎないことに注意してください。"
+      }
+    },
+    {
+      "segment_id": "a5905b07",
+      "source_content": "### zu",
+      "source_content_hash": "0ed13b074ae3e641486f60dddf2242d51ca502f0d34872e371e3318aac96a352",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### zu"
+      }
+    },
+    {
+      "segment_id": "fd7ed056",
+      "source_content": "介词über的感觉是一条线，或者是在上面笼罩着统摄着；auf的感觉是个大的面；an给人的感觉是小型接触面，zu是一个方向箭头。抓住了这一点，就抓住了这4个介词的灵魂。",
+      "source_content_hash": "291d46cc1e9c18c5704aa82b0082cb865004516336cb715cc715154f086f8ca4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "前置詞überは一本の線、または上から覆いかぶさるようなイメージです。aufは大きな面のイメージ、anは小さな接触面のイメージ、zuは方向を示す矢印のイメージです。この点を押さえれば、これら4つの前置詞の本質を理解したことになります。"
+      }
+    },
+    {
+      "segment_id": "b08ad0b4",
+      "source_content": "介词zu和英语to, too是同源的。甚至还有俄语的до（拉丁转写是do）和zu/to也是同源的，比如在до свидания（直到下一次→再见）中。",
+      "source_content_hash": "1d877b6760ba90afb1fdb3c370e9d313df33c1f0d0d18e4ce4c82ac3b2b3f9e0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "前置詞zuは英語のto、tooと同語源です。さらにロシア語のдо（ラテン文字転写ではdo）もzu/toと同語源で、例えばдо свидания（次回まで→さようなら）という表現に見られます。"
+      }
+    },
+    {
+      "segment_id": "d636abf8",
+      "source_content": "zu主要是介词，有副词的用法，是不定式的符号，还有可分前缀的用法，但是所有意思义项都可以高度地统一在一个意象下，那就是一个箭头（→）。把zu理解为一个箭头就可以了。",
+      "source_content_hash": "dafccfbbfcecf556e9a1fb43338153e9a29ed0afed7e1923edbd9168b3a7c0da",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "zuは主に前置詞として使われますが、副詞的な用法や不定詞の符号としての用法、分離接頭辞としての用法もあります。しかし、すべての意味は一つのイメージ、つまり矢印（→）で高度に統一できます。zuを矢印として理解すれば十分です。"
+      }
+    },
+    {
+      "segment_id": "99840f13",
+      "source_content": "在详解各项意思之前，我们先把zu的主要意思用示意图总结，找到一目了然的感觉。",
+      "source_content_hash": "0291786b771a5189e0edc66877b00131bc00ca961e4823e3005c8aee385f8728",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "各意味を詳しく説明する前に、zuの主な意味を図でまとめ、一目でわかるようにしましょう。"
+      }
+    },
+    {
+      "segment_id": "85ea22dd",
+      "source_content": "![](./img/介词zu.png)",
+      "source_content_hash": "ade3d44fc31b73530a0dec7d20b175e99b81b0036e66f51a4e0cf6973d36e8fa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/介词zu.png)"
+      }
+    },
+    {
+      "segment_id": "dc72fd20",
+      "source_content": "zu表示方向，比如：zu mir, zu Bett gehen。注意：zu Bett也可以说成ins Bett，区别是，静三动四的9个介词可以准确地表示相对位置关系，而zu只是方向。有一些用in, auf表达“往某地方”的情况也可以用zu来表达。值得一提的是，von-bei-zu三个介词是一组，在哪里用bei的，来自用von，去用zu。",
+      "source_content_hash": "f55ef5a09512bad3b7e0c25b091078f9021b191d78fbc7eb2175ff9767a26eca",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "zuは方向を表します。例えば：zu mir（私の方へ）、zu Bett gehen（寝る）。注意：zu Bettはins Bettとも言えますが、違いは、静三動四の9つの前置詞は位置関係を正確に表すのに対し、zuは単なる方向を示すだけです。inやaufで「どこかへ」を表す場合も、zuで表現できることがあります。特筆すべきは、von-bei-zuの3つの前置詞は一組で、beiを使う場所では、来る時はvon、行く時はzuを使います。"
+      }
+    },
+    {
+      "segment_id": "674abb31",
+      "source_content": "zu表示附加，比如dazulernen（再学到一些东西）。我在英国的远亲萧伯纳说过一句特别经典的话：Der Nachteil der Intelligenz besteht darin, dass man ununterbrochen gezwungen ist, dazuzulernen. 学习能力强有一点不好，那就是，始终有种压力，要再学点东西。",
+      "source_content_hash": "740f41b5dd871571b22ef9825b40cc3c73a61d2bff6fc242d55f72e8cc672930",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "zuは「追加」を表し、例えばdazulernen（さらに何かを学ぶ）など。イギリスの遠縁であるバーナード・ショーは次のような名言を残しています：「知性の欠点は、絶えず何かを学び続けなければならないというプレッシャーがあることだ」。"
+      }
+    },
+    {
+      "segment_id": "9ef42155",
+      "source_content": "zu表示搭配，比如Das passt zu dir. 这个很适合你。",
+      "source_content_hash": "311ff69398b6c4f7eccce7ba60f877773bdf08d4477d76d4c4cdff14ee1238af",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "zuは「適合」を表し、例えばDas passt zu dir.（これはあなたにぴったりだ）など。"
+      }
+    },
+    {
+      "segment_id": "fe25bd72",
+      "source_content": "zu表示比例，比如1 zu 10。这也可以表示比分。由此再产生加数量的其他用法：以多少份额：zum Teil, zu 70%",
+      "source_content_hash": "b4c7d602dbff1f016181910f38d28c3dc550587f0e57247786366cf1d62706fa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "zuは「比率」を表し、例えば1 zu 10（1対10）。これはスコア表示にも使える。ここからさらに数量を加える用法が派生する：割合で：zum Teil（部分的に）、zu 70%（70％で）"
+      }
+    },
+    {
+      "segment_id": "c8a6ab3e",
+      "source_content": "以多少价格：zum halben Preis, zu 2 Euro",
+      "source_content_hash": "cf4a44dc43528f1830d3d1066a294b357e9a78251dbd3423bfe8a1dd3e5465a8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "価格で：zum halben Preis（半額で）、zu 2 Euro（2ユーロで）"
+      }
+    },
+    {
+      "segment_id": "5cf1bce4",
+      "source_content": "以多少量：zu 10 Litern",
+      "source_content_hash": "c8b433171f9fdb46a63ef8e433da0589d2a92da2421ee7e692f5d7ca97464d45",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "量で：zu 10 Litern（10リットルで）"
+      }
+    },
+    {
+      "segment_id": "0427bb2b",
+      "source_content": "以多少人一起：zu dritt",
+      "source_content_hash": "3731ecadabfc6e12661c5c90b36a31bde3639e9056511bff4f26f3a8638d84c5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "人数で：zu dritt（3人で）"
+      }
+    },
+    {
+      "segment_id": "4899bc54",
+      "source_content": "因为zu表示附加，所以后来也产生了“太，过于”的意思，加形容词。英语的词源词典也是这么解释too的。比如：zu spät。",
+      "source_content_hash": "4e63b1a53b25fc830a06a3f04e508abaaa9a33dfd7e2df439826fe2bb9fea66b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "zuが「追加」を表すことから、「過度に」という意味も派生し、形容詞に付く。英語の語源辞典でもtooは同様に説明されている。例：zu spät（遅すぎる）"
+      }
+    },
+    {
+      "segment_id": "b27c61de",
+      "source_content": "zu表示目标和目的，比如：zum Ziel, zu welchem Zweck, wozu ...",
+      "source_content_hash": "a67b4a3454a7a5de6592ec352a0abd2e65ebb8dad2e73bce9bcb89dc96d50a83",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "zuは「目標や目的」を表し、例えば：zum Ziel（目標へ）、zu welchem Zweck（どの目的で）、wozu（何のために）..."
+      }
+    },
+    {
+      "segment_id": "af016b8e",
+      "source_content": "表示“变成”主要有两个介词，in表示突然变成，zu表示逐步变成，比如：zu Schaum schlagen, sich zu einer Industriemacht entwickeln, zum Staatsfeind erklären ...",
+      "source_content_hash": "433022952d8d54f9e998e0be804d61a2d7d371b482c3648e23a50cd5054f2cc0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「変化」を表す主な前置詞は2つあり、inは突然の変化、zuは段階的な変化を表す。例：zu Schaum schlagen（泡立つ）、sich zu einer Industriemacht entwickeln（工業大国へと発展する）、zum Staatsfeind erklären（国家の敵と宣言する）..."
+      }
+    },
+    {
+      "segment_id": "3799844b",
+      "source_content": "带zu不定式很多时候是表示有什么要“去”做，比如：Ich habe noch zu tun. 这感觉是Ich habe viel → tun. Es fängt an zu regnen 感觉是 Es fängt an → regnen.",
+      "source_content_hash": "4522448dcd9ecaa8817d542e9047e4524898e1cdc4d46a789feb0337f8f7e3cc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "zu不定詞は多くの場合「これからするべきこと」を表す。例：Ich habe noch zu tun.（まだやることがある）これはIch habe viel → tun（たくさん→する）という感覚。Es fängt an zu regnen（雨が降り始める）はEs fängt an → regnen（始まる→降る）という感覚。"
+      }
+    },
+    {
+      "segment_id": "015c0c6e",
+      "source_content": "zu表示对于，比如：zu dem Thema, freundlich zu ihm ...",
+      "source_content_hash": "24f4e5c5668509f8520319bb31c77c5c333165c95c3907d973b4a51f0afaa4fb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "zuは「対象」を表し、例えば：zu dem Thema（そのテーマについて）、freundlich zu ihm（彼に親切に）..."
+      }
+    },
+    {
+      "segment_id": "6e5d54a8",
+      "source_content": "zu表示“在，处于”相对来说难理解一些，比如：",
+      "source_content_hash": "865d2bb635c0a303979c38303d180ea6876115f0112e69c4b981e7e1aaf1b2b2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "zuが「所在・状態」を表す用法はやや理解しにくい："
+      }
+    },
+    {
+      "segment_id": "48249e3c",
+      "source_content": "zu Hause, → 🏡",
+      "source_content_hash": "3ba0af3ab2ced8c7a05aa10f304c0777c6a936e7647993608594d425b6d0a445",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "zu Hause（家で）→ 🏡"
+      }
+    },
+    {
+      "segment_id": "ebfad7e4",
+      "source_content": "Humboldt-Universität zu Berlin, → Berlin",
+      "source_content_hash": "18de4b8f0d1bf84577835c2bf4e8847ebfcc25f816def36cd6c8c6bd09347018",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Humboldt-Universität zu Berlin（ベルリンのフンボルト大学）→ Berlin"
+      }
+    },
+    {
+      "segment_id": "7e563909",
+      "source_content": "Hotel zur Post, → Post 店铺名称习惯用法",
+      "source_content_hash": "773dfe9b0364b495eef1313748db12ae17bd90201f04ff4c6d2ead33309c6263",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Hotel zur Post（郵便局のホテル）→ Post（店名の慣用表現）"
+      }
+    },
+    {
+      "segment_id": "90c4b96b",
+      "source_content": "zur Zeit, → jetzt",
+      "source_content_hash": "859acb4dc8c8938455452e82657e80348dbdb2004a2e9329f191791e94756931",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "zur Zeit（現在）→ jetzt"
+      }
+    },
+    {
+      "segment_id": "1f9058cd",
+      "source_content": "zu Beginn, → Beginn",
+      "source_content_hash": "d507b2537010a19b9cd667846f63293696ba96a0e165f66acfa540d134274f17",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "zu Beginn（開始時に）→ Beginn"
+      }
+    },
+    {
+      "segment_id": "09512450",
+      "source_content": "zu Fuß, zu Pferd, → 🦵，🐎",
+      "source_content_hash": "0893f07e7ee82c505780bd9b65280691afffb2c1f631ab2b129af91807371a17",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "zu Fuß（徒歩で）、zu Pferd（馬で）→ 🦵、🐎"
+      }
+    },
+    {
+      "segment_id": "09f901c3",
+      "source_content": "这部分用法可以看做固定搭配。",
+      "source_content_hash": "85beececebef3f04125f5e10526f3ac5a96e27c1489e066c25711de36723f2f9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "これらの用法は慣用表現と考えることができる。"
+      }
+    },
+    {
+      "segment_id": "e594a4f9",
+      "source_content": "### um",
+      "source_content_hash": "a659e3f2b73462e0e6a8b7aee1d6394a6e202fcadb60e157ee1d4e6f7d7c2a07",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### um"
+      }
+    },
+    {
+      "segment_id": "d8c366cc",
+      "source_content": "介词über的感觉是条线，或者是在上面笼罩着统摄着。",
+      "source_content_hash": "707b01f194e9c45757b6fe8c18bf734bc1dee28046a78e728f37657cc02d5443",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "前置詞überのイメージは線、または上から覆いかぶさる感じ。"
+      }
+    },
+    {
+      "segment_id": "833ce577",
+      "source_content": "![](./img/介词ueber位置.png)",
+      "source_content_hash": "d4dd94a5ccf7de46de7a9a1a3be92eccb1290b9696bb2d6309c00fc1ae72c05b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/介词ueber位置.png)"
+      }
+    },
+    {
+      "segment_id": "f6479c91",
+      "source_content": "auf的感觉是个大的面。",
+      "source_content_hash": "e8843e9c4c55b5608f20b6e03c87b732297e2e990da75e3c6be7c09c847bf365",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "aufのイメージは大きな面。"
+      }
+    },
+    {
+      "segment_id": "61e5dad6",
+      "source_content": "![](./img/介词auf位置.png)",
+      "source_content_hash": "83642865a31808dba01a22226c2b70815109ed26f396f174e15ea18672299833",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/介词auf位置.png)"
+      }
+    },
+    {
+      "segment_id": "18ca7861",
+      "source_content": "an给人的感觉是小型接触面。",
+      "source_content_hash": "96f7d70b3c87304dc2e842bef4f748ba0024678887a3487a9dc1636d80062ae2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "anのイメージは小さな接触面。"
+      }
+    },
+    {
+      "segment_id": "85821ad3",
+      "source_content": "![](./img/介词an位置.png)",
+      "source_content_hash": "da1a01b25cbd211b5c0858733314eb7c6d110df2f561f62ecaded4c3d83d6ac2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/介词an位置.png)"
+      }
+    },
+    {
+      "segment_id": "228d01d5",
+      "source_content": "zu是一个方向箭头。",
+      "source_content_hash": "039bfdf88d299451df8a3e31cc7ad88c7fb74fa7e0c8690532057343dc290199",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "zuは方向を示す矢印。"
+      }
+    },
+    {
+      "segment_id": "85b17c36",
+      "source_content": "![](./img/介词zu位置.png)",
+      "source_content_hash": "998c29d7b609bf378277be5166fa4e77ecab18f50d951bc9f29f7d43413a0f54",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/介词zu位置.png)"
+      }
+    },
+    {
+      "segment_id": "d3912b2e",
+      "source_content": "抓住了这一点，就抓住了这4个介词的灵魂。",
+      "source_content_hash": "6d37ed61e00b9edae63bbe8a5e8ce5452da9ea1c5f2096bd0eebf08d8a07873f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "このポイントを押さえれば、これら4つの前置詞の本質を理解したことになる。"
+      }
+    },
+    {
+      "segment_id": "2dbbb313",
+      "source_content": "um其实以前已经发过了，今天的是verbesserte und erweiterte Version。",
+      "source_content_hash": "f011d227bfa4593c8a0c9e69628132758af5c78d18f72254ad9978ca9a648ee6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "umについては以前にも解説したが、今回は改良・拡張版である。"
+      }
+    },
+    {
+      "segment_id": "ba12acea",
+      "source_content": "![](./img/介词um位置.png)",
+      "source_content_hash": "364fb9d797b28eda961e7e301c576b71217f908eb53b070bb5b3ca0802fa48f0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/介词um位置.png)"
+      }
+    },
+    {
+      "segment_id": "4033c370",
+      "source_content": "德语的介词um往前追溯可以追溯到古希腊时期的amphi，“围绕；两边”的意思，在现代德语里还有这个词根派生的词，比如：die Amphibie 两栖动物（两边都可以栖息）；das Amphitheater 圆形露天剧场（剧场有围绕一圈分两个半圆的座位）。英语里的ambition和ambulance其实也有amphi这个词根，ambition本来指的是“四处走，拉票”因为有“雄心壮志”；ambulance本来指“四处游走”，后来才有“救护车”的意思。",
+      "source_content_hash": "5559d6d68e6040cd5ca4c022584916dd1c9cf4c6f9ce688eb94d36029db15d9c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ドイツ語の前置詞「um」は、古代ギリシャ語の「amphi」（「周囲に；両側に」の意）に遡ることができます。現代ドイツ語でもこの語根から派生した単語が存在します。例えば：「die Amphibie」（両生類、両方の環境に生息可能）、「das Amphitheater」（円形野外劇場、観客席が周囲を取り囲み二つの半円を形成）。英語の「ambition」や「ambulance」も実は「amphi」の語根を持っています。「ambition」は元々「あちこち歩き回り、票を集める」という意味で「野心」を連想させ、「ambulance」は本来「移動する」という意味から後に「救急車」を指すようになりました。"
+      }
+    },
+    {
+      "segment_id": "dfb6fc67",
+      "source_content": "amphi后来一方面掉了后一个音节，前面的元音也变化了，于是成了um；但是另一方面也掉了前一个音节，后面的元音也变化了，于是成了bei。um继承了“围绕”的含义；而bei从“围绕，在某一片”后面慢慢变成了“在附近”。beide这个词是bei加了de（定冠词的一种演变形式），为什么有“两者”的含义？就是因为古代圆形露天剧场是“两个”半圆的座位“围绕”而成的。",
+      "source_content_hash": "ee75b2ef00a28461ccd7adbd5e47bccab1eaf8c0a5c64ec3072a13cc5b5c0649",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「amphi」は一方で後半の音節が脱落し、前半の母音も変化して「um」となりました。他方で前半の音節が脱落し、後半の母音が変化して「bei」となりました。「um」は「周囲」の意味を継承し、「bei」は「周囲、ある領域内」から次第に「近くに」という意味に変化しました。「beide」（両方）という単語は「bei」に「de」（定冠詞の変形）を加えたもので、「両方」を意味するのは、古代の円形劇場が「二つの」半円形の観客席で「囲まれていた」ことに由来します。"
+      }
+    },
+    {
+      "segment_id": "80dbdeb8",
+      "source_content": "![](./img/介词um.png)",
+      "source_content_hash": "2939e44b999d054855b88aa8b15727ca50e152f0e9f78331f3f3dc196707332b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/介词um.png)"
+      }
+    },
+    {
+      "segment_id": "d3f13bf4",
+      "source_content": "um从“围绕”（sich um jn. kümmern）慢慢演变出“为了（获得）”的含义（um Hilfe），毕竟不想要也不会围着转圈圈吧。“围绕”和“为了（获得）”是在动介搭配中的两项含义。",
+      "source_content_hash": "531b5fc2ff716c59f3e4ee8ec5523e1a3aa61028d5d609bce0c29653d03a6fd6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「um」は「周囲」（例：sich um jn. kümmern）から派生して「（獲得する）ために」（例：um Hilfe）の意味を持つようになりました。欲しいものがないと周りを回らないからです。「周囲」と「（獲得する）ために」は動詞と前置詞の組み合わせにおける二つの主要な意味です。"
+      }
+    },
+    {
+      "segment_id": "e636ba62",
+      "source_content": "um加时间的时候本来是“大约”的含义（um (das Jahr) 1900），现代德语还有一个固定搭配um die（大约），比如：um die 100 Leute。后来加钟点（um 8 Uhr）表示准确的时间点。",
+      "source_content_hash": "a60867db20dd9a7a3d0593baf5688afe6f3f561b1ed7021e0ba44d0ca443fb44",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「um」が時間を表す場合、元々は「およそ」（例：um (das Jahr) 1900）の意味でした。現代ドイツ語でも「um die」（約）という固定表現があります（例：um die 100 Leute）。後に時刻を表す用法（例：um 8 Uhr）が生まれ、正確な時間点を示すようになりました。"
+      }
+    },
+    {
+      "segment_id": "b0c30ab4",
+      "source_content": "圆比如钟表转一圈就“结束了（die Pause ist um）”。",
+      "source_content_hash": "594d4f3eb1a6a78cf0fde5b83e485f81e55bdf4b408748f4df240ae8f68a3dd8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "円（例えば時計の針が一周する）は「終了」（例：die Pause ist um）を意味します。"
+      }
+    },
+    {
+      "segment_id": "318fb07e",
+      "source_content": "围绕还可以循环往复一个接一个（Tag um Tag, Schritt um Schritt）。",
+      "source_content_hash": "b88192dfaf31920ada300681e72f4cf39a18d11abb8af0a976f27ef1092cf790",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "周囲を巡ることは循環を連想させ（例：Tag um Tag, Schritt um Schritt）、連続性を表します。"
+      }
+    },
+    {
+      "segment_id": "13440cd7",
+      "source_content": "一个接一个，就多出了一圈，um就有了“差额（um 2 Jahre älter）”的含义。",
+      "source_content_hash": "dfd4dbbfd753a47af43e03d4ed23a3df5a966cf507bc860a63a7bf1894e412f3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "一つずつ進むと一周分多くなり、「um」は「差額」（例：um 2 Jahre älter）の意味を持つようになりました。"
+      }
+    },
+    {
+      "segment_id": "5d3138c7",
+      "source_content": "差了条命（ums Leben kommen）就是丧生了。um表示“死”只在三个表达里出现：umbringen, umkommen 和 ums Leben kommen。尼采有句名言，大家肯定不陌生：Was mich nicht umbringt, macht mich nur stärker. 不能杀死我的，只会使我更强大。umkommen是ums Leben kommen的简略形式。德语有句熟语用了这个词：Wer sich in Gefahr begibt, kommt darin um. 谁向危险而行，就会在危险里丧命。其实这就是“不作死就不会死”的最佳翻译。",
+      "source_content_hash": "116365bff2b382ffee89c40baeb2597c0ac22488a13c23e91cc964f01f9f3315",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "命の差（例：ums Leben kommen）は死を意味します。「um」が「死」を表すのは三つの表現に限られます：「umbringen」（殺す）、「umkommen」（死ぬ）、「ums Leben kommen」（命を落とす）。ニーチェの有名な言葉をご存知でしょう：「Was mich nicht umbringt, macht mich nur stärker.」（私を殺さないものは、私を強くするだけだ）。「umkommen」は「ums Leben kommen」の略式表現です。ドイツ語の慣用句にこの単語が使われています：「Wer sich in Gefahr begibt, kommt darin um.」（危険に身を投じる者は、その中で命を落とす）。これはまさしく「無理をすると痛い目を見る」の最適訳と言えます。"
+      }
+    },
+    {
+      "segment_id": "f6e7e6a7",
+      "source_content": "um-作为前缀的时候，主要是“围绕”和“改变”两项意思。并且表示“围绕”的时候肯定是不可分动词（umarmen 拥抱），um-不重读；表示“改变”的时候是可分动词（umziehen 搬家），um-要重读。“围绕”派生出“改变”，为什么会有这种突变呢？其实也算不上突变，因为大家注意过没有，妖怪们要变身的时候都有转几圈，“转”着转着就“变”了！",
+      "source_content_hash": "2b453c5dd93c040984ed91058ab185043aed5d78eafee7f52e058f6c67d375d5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "接頭辞としてのum-は、主に「周囲」と「変化」の2つの意味を持ちます。「周囲」を表す場合は常に非分離動詞（umarmen 抱擁）で、um-はアクセントが置かれません。「変化」を表す場合は分離動詞（umziehen 引っ越し）で、um-にアクセントが置かれます。「周囲」から「変化」が派生したのはなぜか？実は突然の変化ではなく、妖怪が変身する時にぐるぐる回る様子を思い浮かべてください。「回転」しているうちに「変化」するのです！"
+      }
+    },
+    {
+      "segment_id": "99e592b0",
+      "source_content": "### bei",
+      "source_content_hash": "fce5fe713d5f2a85eb63276fe4fc821cb74651503114acde5dcdf4d9290d6d28",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### bei"
+      }
+    },
+    {
+      "segment_id": "93f7c834",
+      "source_content": "朗氏词典上bei有18项含义，这些含义其实可以总结成6项，再总结成两项，最后合并成一项“附”。",
+      "source_content_hash": "1b00dd27ac814fd7c6ca2f2d6dc06788d2379181d2294a4917c778a42455b2b3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Langenscheidt辞典によると、beiには18の意味がありますが、これらは6つにまとめられ、さらに2つに集約され、最終的には「付随」という1つの概念に統合できます。"
+      }
+    },
+    {
+      "segment_id": "12bc7444",
+      "source_content": "![](./img/介词bei.png)",
+      "source_content_hash": "bd377af8aa5d6175b6a97e06bb6e1e0229fd082b549f10b0268f7998d7828220",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/介词bei.png)"
+      }
+    },
+    {
+      "segment_id": "f50056c0",
+      "source_content": "表示“附近”或“附上”的bei和zu似乎是近义的，其实区别还是明显的。bei是静态的，zu是动态的。德语对动和静很敏感，像极了青蛙🐸。",
+      "source_content_hash": "7e47dc3a1bd8b2abb097dd54ad2d83a42644c0bde9f8257c7667b0bec83a5646",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「近接」や「付加」を表すbeiとzuは似ているようですが、明確な違いがあります。beiは静的な状態を、zuは動的な移動を表します。ドイツ語は動と静の区別に敏感で、カエル🐸のようです。"
+      }
+    },
+    {
+      "segment_id": "30aa9816",
+      "source_content": "表示空间上的“附”看似有四个义项，实际上是一项。因为表示“身体接触”和“参与”这两种“近”都有其他更常见的介词用法，用an或auf（个别用in）。所以这两项基本可以忽略。",
+      "source_content_hash": "4f5c7506079ae0623f72292b6e991938fc8f47a78adaf87229b452d46388624d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "空間的な「付随」には4つの意味があるように見えますが、実際は1つです。「身体接触」や「参加」といった「近接」の意味では、通常は他の前置詞（anやauf、場合によってはin）が使われるため、これら2つはほぼ無視できます。"
+      }
+    },
+    {
+      "segment_id": "6085c028",
+      "source_content": "我们知道，von-bei-zu是一组，分别表示“从某人那里”，“在某人那里”和“去某人那里”，所以bei主要是加人。然而，德国公司起名习惯用创始人的姓，于是bei用到了公司上，后来再泛化到工作和服役的地方。bei Berlin这种可以看做是拟人用法，这样bei表示空间就基本统一在了一起。当然用“近”更能把它们统一在一起，但是von-bei-zu的思路更有启发性。",
+      "source_content_hash": "0445ffe1161ca3a3a5c393c0aa3dbc33bdfded86819346b8b98777b01a4fa2c3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "von-bei-zuは一連の関係を表します。それぞれ「誰かから」「誰かのところで」「誰かのところへ」を意味するため、beiは主に人に使われます。しかし、ドイツ企業は創業者の姓を社名にする習慣があるため、beiが会社にも使われるようになり、さらに仕事や服役の場所にも拡張されました。bei Berlinのような表現は擬人化と見なせ、これによりbeiの空間的用法がほぼ統一されます。「近接」で統一するよりも、von-bei-zuの考え方の方が啓発的です。"
+      }
+    },
+    {
+      "segment_id": "216a8ee1",
+      "source_content": "bei表示时间主要是“在某时候/过程，在某种情况下”的意思，并且这项意思基本上都能够转变成als, wenn或obwohl的从句。不能变从句的，要么是没必要，要么是名词没有太对应的动词或是介词结构里没有动词（意思完整的情况下省略了）。",
+      "source_content_hash": "2555586d256641c6b65b309b49a3d328d942b3ea1b7bcd6ed098a1fc29b97b60",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "beiの時間的用法は主に「ある時点/過程で、ある状況下で」を意味し、この意味はほぼals、wenn、obwohlの節に変換可能です。節に変換できない場合は、不要であるか、対応する動詞がない名詞か、前置詞構造に動詞が含まれていない（意味が完結しているため省略されている）場合です。"
+      }
+    },
+    {
+      "segment_id": "590d1cd9",
+      "source_content": "bei表示时间还有“伴随”的意思，这项意思也基本可以归到空间的“近”。",
+      "source_content_hash": "58308c58c045842efb9c7854c2fe65f44a539922896c6c5c9f8ad30bc72f1fee",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "beiには時間的な「付随」の意味もあり、これは空間的な「近接」に帰着させられます。"
+      }
+    },
+    {
+      "segment_id": "92505e51",
+      "source_content": "### nach",
+      "source_content_hash": "ed9d10981faf74c79e33c91d885e559265cdad8a07cb99848631a3bfcead3e78",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### nach"
+      }
+    },
+    {
+      "segment_id": "2f8456b2",
+      "source_content": "nach作为介词本身，含义不多。总结在一个意象下，那就是“在……后”。",
+      "source_content_hash": "366edcb5ee7205ae42e0477e61bd5cc09f3d51a9a71ac12bb7db4476121ebb4f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "前置詞としてのnachの意味は多くありません。一つのイメージでまとめると、「…の後で」です。"
+      }
+    },
+    {
+      "segment_id": "1d39fdbf",
+      "source_content": "![](./img/介词nach.png)",
+      "source_content_hash": "f037f9a0c0b62c1df5ccf2335a4f065238baa2a77180b97cb4a1b6a4556a1163",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/介词nach.png)"
+      }
+    },
+    {
+      "segment_id": "38115c9a",
+      "source_content": "### unter",
+      "source_content_hash": "0bb5b3dd8eaad9b77151f172e61b13e3643ccfbd7f096432fe5ce58cf74dbe26",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### unter"
+      }
+    },
+    {
+      "segment_id": "46e586a3",
+      "source_content": "德语unter和英语under（下）同源，意思上还和英语among（在其中）有关系。因为unter相当于拉丁语的infra（下）和inter（之中，之间）的影响。",
+      "source_content_hash": "cc69bda188cc7c9fc9786f66c93a91ed095d5d5006fe81dc038ae74a7714fab4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ドイツ語のunterは英語のunder（下）と同源で、英語のamong（中で）とも関連があります。これはunterがラテン語のinfra（下）とinter（中で、間で）の影響を受けているためです。"
+      }
+    },
+    {
+      "segment_id": "66e62938",
+      "source_content": "参见 infrarot（红外线的），der Infraschall（次声），die Infrastruktur（基础设施）；international（国际的），das Internet（互联网）。",
+      "source_content_hash": "3ef30c1a12653c03c1e839155d7a55d253aa89d60f59f4694afe9f04b0bb4a8d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "参照：infrarot（赤外線の）、der Infraschall（低周波音）、die Infrastruktur（インフラ）；international（国際的な）、das Internet（インターネット）。"
+      }
+    },
+    {
+      "segment_id": "aa705b4d",
+      "source_content": "unter所有介词的用法都可以概括为infra/under或inter/among。其所有动词前缀的用法也可以同样概括为这两点。",
+      "source_content_hash": "404064406917f59c0721f840a8e0eb33882a1dd4eaab3b16c6c32eb53642bd1c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "unterのすべての前置詞の用法は、infra/under（下）またはinter/among（中、間）のいずれかに要約できます。動詞の接頭辞としての用法も同様にこの2点に要約されます。"
+      }
+    },
+    {
+      "segment_id": "f0db2ff1",
+      "source_content": "![](./img/介词unter.png)",
+      "source_content_hash": "404b9dbfb9110255e9068bda47cb2a11dabc9fb9a65a90880fb5ca1895d8d122",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/介词unter.png)"
+      }
+    },
+    {
+      "segment_id": "4e994fc3",
+      "source_content": "这样我们就会发现，原来unterbrechen的unter是inter/among（中，之间）的意思，和英语（拉丁语外来词）interrupt构词逻辑一致，和汉语“中断”的造词逻辑完全一致！",
+      "source_content_hash": "9bd85cb5466eb2a50e0a69bfa342786e3c62c5438135db21178bc16b90cb8bae",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "こうして気づくのは、unterbrechenのunterはinter/among（中、間）の意味であり、英語（ラテン語からの借用語）のinterruptと構成ロジックが一致し、中国語の「中断」の造語ロジックと完全に一致していることです！"
+      }
+    },
+    {
+      "segment_id": "60e22db4",
+      "source_content": "这样我们干脆再说一下das Interesse（利益；兴趣）这个词。inter是“中，之间”，esse是拉丁语系动词“是”的原形。因为动词原形在德语里原则上是中性，所以Interesse是中性。因为“在其中”，卷入其中，参与其中就是利益攸关方就有“利益”。比如，如果中国在乌克兰有大量侨民和企业，那就有Interesse，我们就会对这里发生的事感“兴趣”。",
+      "source_content_hash": "a2c39b5b746efd8fb291fa44eb890832dacbe842042260dd33ae291cb44022c3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ついでに、das Interesse（利益；興味）という単語についても説明しましょう。interは「中、間」、esseはラテン語の系動詞「である」の原形です。動詞原形はドイツ語では原則的に中性名詞となるため、Interesseは中性名詞です。「その中にある」こと、巻き込まれること、関与することは利害関係を生み「利益」につながります。例えば、中国にウクライナに多くの侨民や企業があれば、そこにInteresse（利害関係）が生まれ、そこで起きていることに「興味」を持つことになります。"
+      }
+    },
+    {
+      "segment_id": "2ab62b74",
+      "source_content": "而英语的understand的under其实也本来是inter。人身在其中，自然“懂”个中滋味。",
+      "source_content_hash": "10ff50d401149adac1f2e91c53a3e525c59d10de7b40f3981e34203e73b6efd3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "英語のunderstandのunderも、本来はinterでした。人がその中にあれば、自然と「理解」できるというわけです。"
+      }
+    },
+    {
+      "segment_id": "c9e08343",
+      "source_content": "弄清楚深层逻辑，就不需要死记硬背了。不仅可能符合我们的直觉，并且还很有趣味。",
+      "source_content_hash": "3ec18ff0a348f6a9a19c4fb86602150a877f071ee363c7cf8320ac3462271ab2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "深層のロジックを理解すれば、暗記する必要はありません。私たちの直感に合致するだけでなく、非常に興味深いものです。"
+      }
+    },
+    {
+      "segment_id": "0b7ed806",
+      "source_content": "## 表原因",
+      "source_content_hash": "0c4a849569f15d7f5d09fcd91afb1ac322606475824f2399bcd4d3f95edc44e1",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 原因を表す表現"
+      }
+    },
+    {
+      "segment_id": "acf357aa",
+      "source_content": "* vor：自然流露（不加冠词）\n* aus：刻意为之，出于...",
+      "source_content_hash": "8a1fa0cf565fb916e386961080e141755f23b172e884d2a45bf06ef7e8c6a604",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* vor：自然に表れる（冠詞なし）\n* aus：意図的、...から来る"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/介词/介词辨析.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.522570+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "7464e2d7fc2f6351b9892524f376c66fe54f2f83d3e3a2db879849dca739fdba"
+  }
+}

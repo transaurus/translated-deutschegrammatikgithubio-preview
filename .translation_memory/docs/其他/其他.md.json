@@ -1,0 +1,312 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/其他/其他.md",
+  "source_file_content_hash": "4318b70b42a7a6ba7183c26d1ae92545f3cea1338600571978b8fab653ae717f",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\n---",
+      "source_content_hash": "92a21a112978c590263ada3554195d9905c8c585e619dccd5f0a4cf518a7076f",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 其他",
+      "source_content_hash": "96bc504c31d3ad14f135fcb974a64ba64530c5e4fc90c2ee05ef300042b20998",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# その他"
+      }
+    },
+    {
+      "segment_id": "a703643c",
+      "source_content": "### 德语的阶段",
+      "source_content_hash": "fe6d7b06ee8ffc17a4669a5e62c2d523862deb49fc09cc9e7cb456351a713167",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### ドイツ語学習の段階"
+      }
+    },
+    {
+      "segment_id": "53eaf0e1",
+      "source_content": "最佳的学习德语的路径是这样的：",
+      "source_content_hash": "cb41623154c33393087194f0094f008da08ee4bf442dcb694c4df4c9484cfc0c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "最適なドイツ語学習の道筋は以下の通りです："
+      }
+    },
+    {
+      "segment_id": "8ac585fb",
+      "source_content": "第一步：迅速吃透A1-B1教材体系",
+      "source_content_hash": "50876b2368244978e0b2765cfcf853332d46565b345b5d2770ec4ba5bda40130",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ステップ1：A1-B1教材体系を迅速にマスターする"
+      }
+    },
+    {
+      "segment_id": "180bddb1",
+      "source_content": "以最快的速度，一步一个脚印，扎实地学完A1-B1整个教材体系，摸到外语的“全象”（很多学习最开始是盲人摸象的感觉）。在这个过程中心无旁骛。要理解，不要纠结（让你纠结的教学不是好教学），要记牢，最好还能朗读和背诵重点课文。不知道大家有没有发现，所有外语尖子生都有背诵教材里所有重点课文的能力。",
+      "source_content_hash": "41800d0daa02964193bb17eb42efb9c46b64e25a5e51569a76d59bd539f2fd5a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "可能な限り速いペースで、着実にA1-B1の教材体系全体を学び終え、外国語の「全体像」を把握します（多くの学習者は最初は盲人摸象のような感覚です）。この過程では他のことに気を取られず、理解に集中します。悩み過ぎず（学習者を悩ませる教え方は良い教え方ではありません）、しっかり記憶し、できれば重要なテキストを音読・暗唱しましょう。気付いているかもしれませんが、全ての外国語の優等生は教材の重要なテキストを全て暗唱できる能力を持っています。"
+      }
+    },
+    {
+      "segment_id": "cf898102",
+      "source_content": "第二步：看青少年德语新闻",
+      "source_content_hash": "4860071b8a340fce21fcf9bceed6eee4be89fa9ac183497a7e1096f7b872b13c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ステップ2：青少年向けドイツ語ニュースを見る"
+      }
+    },
+    {
+      "segment_id": "42ad8e83",
+      "source_content": "在第一步的基础上，每天都看青少年德语新闻，把德语变成一个获得（第一手）最新信息的频道。每天都积累几个单词或表达，日积月累。学习必须和生活结合起来，变成生活的一部分！相信我，zdf logo是最佳的每日德语新闻习得内容。否则我们也不会坚持了7年，几乎每天都更新带双语字幕的视频。其他每天都更新的德语新闻节目你绝对坚持不了多久，因为太板正，太无聊，太不接（你的）地气。注意：青少年德语新闻只是零食，要加速提高水平，还是要继续啃B2-C2级别。",
+      "source_content_hash": "f246d3808392257f8da0b444a93df9db396e009594e83e14e692db70a0da2f47",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ステップ1を基盤として、毎日青少年向けドイツ語ニュースを見て、ドイツ語を最新情報を得る（第一報の）チャンネルに変えます。毎日いくつかの単語や表現を積み上げ、日々蓄積していきます。学習は生活と結びつき、生活の一部にならなければなりません！信じてください、zdf logoは毎日のドイツ語ニュース習得に最適なコンテンツです。そうでなければ、私たちも7年間ほぼ毎日、バイリンガル字幕付きの動画を更新し続けることはできなかったでしょう。他の毎日更新されるドイツ語ニュース番組は、堅苦しすぎ、退屈すぎ、（あなたの）現実とかけ離れているため、長く続けられません。注意：青少年向けドイツ語ニュースはあくまで「おやつ」であり、レベルを加速的に向上させるにはB2-C2レベルの学習を続ける必要があります。"
+      }
+    },
+    {
+      "segment_id": "f6168993",
+      "source_content": "第三步：看德语肥皂剧",
+      "source_content_hash": "eea293be74b6df2fa3538cfa2c87196f74b156312e6cf30260156f073e11a9c5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ステップ3：ドイツ語のソープオペラを見る"
+      }
+    },
+    {
+      "segment_id": "f5f6d2ce",
+      "source_content": "最接近“沉浸”德国现实生活的，就是德语肥皂剧，就是那种几乎每天都更新一集，动不动就更新到几千集的那种电视剧，几乎就是相当于在德国安了一些摄像头，把一个地方一群人的每天生活日常压缩成50分钟给你看。比如Sturm der Liebe这个剧。和美剧比起来，当然没那么吸引人，甚至会让人感觉土气，剧情让人生气，但是，这就是生活。现实生活没有那么多爽文，没有那么多笑料，没有那么多超凡脱俗。你要看的，是什么人在什么语境下说了什么话，要沉浸进去，沉浸体验德国人的生活日常。",
+      "source_content_hash": "56add99ec608cc715d086244bb54dfd755e115f3f20eb0d049cf1e5232c9032d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「没入型」でドイツの現実生活に最も近いのがドイツ語のソープオペラです。ほぼ毎日1話更新され、あっという間に数千話に達するようなテレビドラマで、まるでドイツのあちこちにカメラを設置し、ある場所の一群の人々の日常生活を50分に圧縮して見せているようなものです。例えばSturm der Liebeというドラマがあります。アメリカのテレビドラマと比べると、もちろんそれほど魅力的ではなく、むしろ田舎臭く感じたり、ストーリーに腹が立つこともありますが、これが現実の生活です。現実の生活には爽快な展開も、笑いのネタも、超凡脱俗な要素もそれほど多くありません。あなたが見るべきは、どんな人がどんな文脈でどんな発言をしているかであり、ドイツ人の日常生活に没入して体験することです。"
+      }
+    },
+    {
+      "segment_id": "2fdadb08",
+      "source_content": "注意：不要完美主义",
+      "source_content_hash": "a336a646fc523e45783c8d973dc2c3ad6aa47fe858c1a52a1893b4263b9bbc79",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "注意：完璧主義にならないこと"
+      }
+    },
+    {
+      "segment_id": "f2c2bdd0",
+      "source_content": "看青少年德语新闻和德语肥皂剧，只是“零食”，不要完美主义，关键是坚持。也不要硬看，水平还没到听懂的程度就先提高级别水平。每天都坚持，学到几个单词或表达就行，不要贪多。不要把所有材料都变成精读精听，几天就耗尽热情，然后不了了之。泛读泛听的目的是为了培养兴趣，培养语感，提高熟练程度，而不是其他的。用德语吸收信息，用德语娱乐，变成生活的一部分，并且日复一日，年复一年地坚持，德语电子词典里的生词本每天都在增长，时不时复习一下。这就是最好的学习模式。",
+      "source_content_hash": "2787c7a2adae4f5f57e8bbbae41dd82fef7fbcd88ba746f9c6f6c74658f94d7d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "青少年向けドイツ語ニュースやドイツ語の昼ドラを見ることは、あくまで「おやつ」のようなもので、完璧主義にならず、継続が重要です。無理に理解しようとせず、聴き取れるレベルに達していない場合は、まずレベルアップを目指しましょう。毎日続け、いくつかの単語や表現を学べば十分で、欲張らないこと。すべての教材を精読・精聴に変え、数日で熱意を燃やし尽くし、中途半端に終わらせないでください。多読・多聴の目的は、興味を育み、語感を養い、熟練度を高めることであり、それ以外ではありません。ドイツ語で情報を吸収し、ドイツ語で楽しみ、生活の一部にし、日々、年々と継続すること。電子辞書の単語帳が毎日増えていき、時々復習する。これが最良の学習モデルです。"
+      }
+    },
+    {
+      "segment_id": "a76548f8",
+      "source_content": "![](./img/德语的阶段.png)",
+      "source_content_hash": "1d9fac94703b6b1c09c6181b123cca0018b9bb984d6ada870c1df607aa61b95d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/德语的阶段.png)"
+      }
+    },
+    {
+      "segment_id": "f2f30ae8",
+      "source_content": "### 基本语法框架",
+      "source_content_hash": "7b82af7ffef1eceb73b87b7236357bf45f807a3729f35d5b0b4bb1799f4024ec",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 基本文法フレームワーク"
+      }
+    },
+    {
+      "segment_id": "dfe931a2",
+      "source_content": "![](./img/PasswortDeutsch.jpg)",
+      "source_content_hash": "9ecab914252c5cef99228e006a09d5840bc571b254cc7f336fbd7aa6862a2b7c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/PasswortDeutsch.jpg)"
+      }
+    },
+    {
+      "segment_id": "4daf5cdd",
+      "source_content": "这是德语的基本语法框架，分布在A1-B1三个级别。",
+      "source_content_hash": "67ca57367bbe124688f89997fe895126d5d55bdf9a99e15ebffc21cb55cd70c8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "これはドイツ語の基本文法フレームワークで、A1からB1の3つのレベルに分布しています。"
+      }
+    },
+    {
+      "segment_id": "fc8eadc3",
+      "source_content": "- 紫色线条表示和三个性四个格有关。\n- 圆角框表示和英语语法近似程度高。\n- 红色字体表示学习难度大（鲜红比暗红难度更高）。",
+      "source_content_hash": "641e16195930c201dd1117744ef9d29c4dfdf2538b24f1a37f9bf683b9627c93",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "- 紫色の線は、3つの性と4つの格に関連することを示します。\n- 角丸の枠は、英語の文法との類似性が高いことを示します。\n- 赤い文字は学習難易度が高いことを示します（明るい赤ほど暗い赤より難易度が高い）。"
+      }
+    },
+    {
+      "segment_id": "c3a738de",
+      "source_content": "剩下的没有这三种标记的，一般是小知识点，理解和记忆都不难。",
+      "source_content_hash": "e4eb585b15843c25cbb1c6760db3019cbfa81773204343888e954e03253e89d0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "これら3つのマークがない部分は、一般的に小さな知識点で、理解も記憶も難しくありません。"
+      }
+    },
+    {
+      "segment_id": "3cfe6286",
+      "source_content": "由上图可见：",
+      "source_content_hash": "68463af9314d0535a9071322d4fc85f15ea5133f63c6fa45dc6949c3ca5ce139",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "上図からわかること："
+      }
+    },
+    {
+      "segment_id": "bdfae007",
+      "source_content": "1. 德语和英语语法框架总体是类似的。\n2. 德语有特色的语法基本都和**三个性四个格**相关，或者说：由三性四格派生出了一些有德语特色的语法，比如形容词变化和关系从句等。\n3. 有难度的语法并不多。其中有些标注为红色的知识点，并不是理解难度多么高，而是记忆量比较大。个别是因为和英语差异比较大，因而容易忘。",
+      "source_content_hash": "1a7d2a49906fba77242727f4c2b7d0baf79095494bd33ff35e4ffa3058724419",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "1. ドイツ語と英語の文法フレームワークは全体的に類似しています。\n2. ドイツ語の特徴的な文法は、基本的にすべて**3つの性と4つの格**に関連しており、言い換えれば：3性4格から派生したドイツ語特有の文法があります。例えば形容詞の変化や関係節などです。\n3. 難しい文法はそれほど多くありません。赤でマークされた知識点の中には、理解が特に難しいわけではなく、記憶量が大きいものもあります。一部は英語との差異が大きいため、忘れやすいという特徴があります。"
+      }
+    },
+    {
+      "segment_id": "13d9cd70",
+      "source_content": "所以我们总结出，德语的**三大基本功**是：",
+      "source_content_hash": "4cb54e6145cb698e1215237ddccd3b78affd61045df6f4d761080727279b5be3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "そこで、ドイツ語の**三大基本スキル**をまとめます："
+      }
+    },
+    {
+      "segment_id": "6773b78b",
+      "source_content": "1. 名词的性（和数）\n2. 不规则动词表\n3. 名词、动词和形容词的用法结构（Strukturformel）。",
+      "source_content_hash": "f076bae3a0e8184cf7e62fc80fd5a9297dcb2bab66b1459f86a75b397cda7bc9",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "1. 名詞の性（と数）\n2. 不規則動詞表\n3. 名詞、動詞、形容詞の用法構造（Strukturformel）。"
+      }
+    },
+    {
+      "segment_id": "98d26038",
+      "source_content": "三大基本功过硬，德语是不可能差的。",
+      "source_content_hash": "f0e930336f55cdc9038d83db8a6d7c0257b536c3b9debe37b598a025b4a7dd18",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "この三大基本スキルがしっかりしていれば、ドイツ語ができないということはあり得ません。"
+      }
+    },
+    {
+      "segment_id": "d3649a1e",
+      "source_content": "**三性四格**是德语的灵魂，如果没有三性四格，德语就基本成了英语。因此从一开始记准名词的性，是学习德语关键的关键。很多人没有这个心理准备，排斥三性四格，记得模模糊糊，于是基础不扎实，积重难返。",
+      "source_content_hash": "10ddf783e8ffc27f53c5d76f52571dc5e9674d4f4ab73e710e537db762c7c00f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**3性4格**はドイツ語の魂です。3性4格がなければ、ドイツ語は基本的に英語になってしまいます。そのため、最初から名詞の性を正確に覚えることが、ドイツ語学習の鍵中の鍵です。多くの人はこの心構えがなく、3性4格を拒否し、曖昧に覚えるため、基礎が固まらず、後で修正が難しくなります。"
+      }
+    },
+    {
+      "segment_id": "e50bebbf",
+      "source_content": "### 口语时态",
+      "source_content_hash": "46e214573b711dd403fcc24b7a66f3cccf39280eed3ec7a2bda97be160b68bf2",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 口語時制"
+      }
+    },
+    {
+      "segment_id": "23dfb152",
+      "source_content": "![](./img/口语时态.png)",
+      "source_content_hash": "60284cfb3293cf27c5a97a6cc915f114dde649f91f79a898ab79c1ded307a403",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/口语时态.png)"
+      }
+    },
+    {
+      "segment_id": "e912d935",
+      "source_content": "### 时间表达",
+      "source_content_hash": "761ffac959422a7ae0b037e94048244f8ac9207a87ba6aa315b10f1f51f170a6",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 時間表現"
+      }
+    },
+    {
+      "segment_id": "8b2a52b1",
+      "source_content": "![](./img/时间表达.png)",
+      "source_content_hash": "6c15d3233fa6a45e1cfc976ac6c4566fb9b985d2dfde2076d6f4fce5e51eb0ce",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/时间表达.png)"
+      }
+    },
+    {
+      "segment_id": "126950d7",
+      "source_content": "### 度量衡",
+      "source_content_hash": "13867d776220b26a23cda34f8bc00a3135974b6fcdb315e7eec69c137ac353b9",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 度量衡"
+      }
+    },
+    {
+      "segment_id": "180e9ce9",
+      "source_content": "* 度量衡一直用第四格",
+      "source_content_hash": "c4391aaf130964370f4212a123c6cb2b0d8db0a8e5dbb1d63d4f216a7409a01a",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 度量衡は常に第四格を使用する"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/其他/其他.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.508253+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "4318b70b42a7a6ba7183c26d1ae92545f3cea1338600571978b8fab653ae717f"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/前言.md",
+  "source_file_content_hash": "a992c2c5d661bb7e685b8c9c3c2854b8aadb97fbdcfb3b63575006a4a7199fd7",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\n---",
+      "source_content_hash": "92a21a112978c590263ada3554195d9905c8c585e619dccd5f0a4cf518a7076f",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 前言",
+      "source_content_hash": "a126ac5ecf2e0b03eb35a797944a158364e680529b2ae6b16dc7b269d3b83d89",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# はじめに"
+      }
+    },
+    {
+      "segment_id": "a703643c",
+      "source_content": "### 致谢",
+      "source_content_hash": "4be9ffaf51488ea879b9223a84667861548076c56805fdf108a98e8b2abea01f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 謝辞"
+      }
+    },
+    {
+      "segment_id": "abcf54e3",
+      "source_content": "1. 内容主要引用自**肖深刻的九叔**（微信公众号：xiao9shu）原创德语学习文章。强烈推荐参加肖老师创立的达赫德语学校的课程。\n\n   :copyright:[肖老师已授权公开发布](https://mp.weixin.qq.com/s/DyR3hyJkqZ-C12Tpo_Ic_w)\n2. 语法专业术语参考《德语语法表解》，华宗德主编。",
+      "source_content_hash": "e93f15747c1583a21edffdc0153b5aa0fe8cbfffb9499d7740a109c5585e8183",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "1. 内容は主に**肖深刻的九叔**（WeChat公式アカウント：xiao9shu）によるオリジナルのドイツ語学習記事から引用しています。肖氏が設立したダハドイツ語学校のコースへの参加を強くお勧めします。\n\n   :copyright:[肖氏の公開許可済み](https://mp.weixin.qq.com/s/DyR3hyJkqZ-C12Tpo_Ic_w)\n2. 文法専門用語は『ドイツ語文法表解』（華宗德 主編）を参照しています。"
+      }
+    },
+    {
+      "segment_id": "70153c6e",
+      "source_content": "### ToDo",
+      "source_content_hash": "7d7e195f87185b711d1587a18456c6b71a2d5cb0a6b921390b9f305f63fff60b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 今後の課題"
+      }
+    },
+    {
+      "segment_id": "4ddf6ae7",
+      "source_content": "* 搜索优化",
+      "source_content_hash": "ee6a8ab7fd9815469f8f59a600e20e4d9455938d5dee74e48749f25e415991a9",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 検索最適化"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/前言.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.515925+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "a992c2c5d661bb7e685b8c9c3c2854b8aadb97fbdcfb3b63575006a4a7199fd7"
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/动词/不规则动词.md",
+  "source_file_content_hash": "bf1f5bb7b14fd1765aff6b1cb2d388fa94a39809e5e77ef1403cf4bae321fa02",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 10\n---",
+      "source_content_hash": "5fac3e64d7610fb5e1722568edf65e0a21b79e968fce1eea6df49dc3ea0bb249",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 不规则动词",
+      "source_content_hash": "0d1a782b9f45caf1ae51accd1c0be6cfaf436c5682c910f67fe66816333db824",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 不規則動詞"
+      }
+    },
+    {
+      "segment_id": "a703643c",
+      "source_content": "### 规则变化",
+      "source_content_hash": "57c60458b03d116e6d3ff769662fe558df62bbe6c6e465571e4e69cc54ca5972",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 規則変化"
+      }
+    },
+    {
+      "segment_id": "53eaf0e1",
+      "source_content": "machen, macht, machte, gemacht",
+      "source_content_hash": "51a9b60852760069cd6d2b38972e0d386559c903a47f2c03a7fafe5109841444",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "machen, macht, machte, gemacht"
+      }
+    },
+    {
+      "segment_id": "8ac585fb",
+      "source_content": "fragen, fragt, fragte, gefragt",
+      "source_content_hash": "62aead3cd808c7815dfe767d0e94469f6d21c3ce0f6f4fe88417b58a9447bdb0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "fragen, fragt, fragte, gefragt"
+      }
+    },
+    {
+      "segment_id": "180bddb1",
+      "source_content": "重音在原形第一个音节，则第二分词有ge-，否则没有ge-。",
+      "source_content_hash": "ec168bb0b5f32b700f24c4422e8d94928ec346297ae8a33386130ec3f9cc42c5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "アクセントが原形の最初の音節にある場合、第二分詞にはge-が付き、そうでない場合はge-が付きません。"
+      }
+    },
+    {
+      "segment_id": "4269e691",
+      "source_content": "- -ern结尾的动词是规则变化，比如erwidern, liefern ...\n- -eln结尾的动词是规则变化，比如schütteln, klingeln ...\n- -ieren结尾的动词是规则变化，比如passieren, reagieren ...",
+      "source_content_hash": "b9a4a069ed17bc93c4f3165f75371b8483a5344f91c48ecd0eea88339a72fb67",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "- -ernで終わる動詞は規則変化です。例：erwidern, liefern ...\n- -elnで終わる動詞は規則変化です。例：schütteln, klingeln ...\n- -ierenで終わる動詞は規則変化です。例：passieren, reagieren ..."
+      }
+    },
+    {
+      "segment_id": "aee0e40d",
+      "source_content": "### e &rarr; e &rarr; a &rarr; a -t",
+      "source_content_hash": "2cff76554c225ea74f9a97eab4c84256a45b98814fbc1fdeb7be2ea19c10fadc",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### e → e → a → a -t"
+      }
+    },
+    {
+      "segment_id": "7ece1a63",
+      "source_content": "| e                 | e             | a                       | a -t             |                    |\n| ----------------- | ------------- | ----------------------- | ---------------- | ------------------ |\n| kennen            | kennt         | kannte                  | gekannt          | 认识；知道         |\n| nennen            | nennt         | nannte                  | genannt          | 取名；称为         |\n| rennen            | rennt         | rannte                  | gerannt          | 奔跑；猛撞         |\n| brennen           | brennt        | brannte                 | gebrannt         | 燃烧；烧，点；灼伤 |\n|                   |               |                         |                  |                    |\n| senden            | send**et**    | sandte [zantə]/sendete  | gesandt/gesendet | 送；邮寄；广播     |\n| wenden            | wend**et**    | wandte [ˈvantə]/wendete | gewandt/gewendet | 翻转；转变         |\n| verwenden         | verwend**et** | verwandte               | verwandt         | 应用，利用         |\n|                   |               |                         |                  |                    |\n| denken [dɛŋkən]   | denkt         | **dachte**              | **gedacht**      | 思考，猜想         |\n| *danken* [daŋkən] | *dankt*       | *dankte*                | *gedankt*        | *感谢*             |\n| **bringen**       | **bringt**    | **brachte**             | **gebracht**     | 带来；陪同         |\n| stehen            | steht         | **stand**               | **gestanden**    | 站；停；支持       |\n| gestehen          | gesteht       | **gestand**             | **gestanden**    | 承认，供认         |\n| *stellen*         | *stellt*      | *stellte*               | *gestellt*       | *放置：竖立*       |",
+      "source_content_hash": "a04d7630aee8b73308081f314d3a75c711609a17728d92b700c3e8fd1cc68898",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_7ece1a63"
+      }
+    },
+    {
+      "segment_id": "62a6890b",
+      "source_content": "### e &rarr; i &rarr; a &rarr; e",
+      "source_content_hash": "028f44a924cec987e4c950e007b127e5a149b032b8ae2bf70bde4979a2891884",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### e → i → a → e"
+      }
+    },
+    {
+      "segment_id": "388f52fd",
+      "source_content": "| e          | i         | a        | e                  |                |\n| ---------- | --------- | -------- | ------------------ | -------------- |\n| essen      | isst      | aß       | ge**ge**ssen       | 吃             |\n| messen     | misst     | maß      | gemessen           | 测量；衡量     |\n| vergessen  | vergisst  | vergaß   | vergessen          | 忘记           |\n| geben      | gibt      | gab      | gegeben            | 给；提供；好转 |\n| treten     | tritt     | trat     | getreten           | 跨，踩         |\n|            |           |          |                    |                |\n| sehen      | s**ie**ht | sah      | gesehen            | 看；发现；理解 |\n| lesen      | l**ie**st | las      | gelesen            | 阅读；采摘     |\n|            |           |          |                    |                |\n| **liegen** | liegt     | lag      | gel**e**gen        | 躺；平放；位于 |\n| *legen*    | *legt*    | *legte*  | *gelegt*           | *放置：水平*   |\n| **sitzen** | sitzt     | saß      | gesessen [gəzɛsən] | 坐；击中       |\n| *setzen*   | *setzt*   | *setzte* | *gesetzt*          | *放置：安坐*   |",
+      "source_content_hash": "e1e5094fb10fb06b4ab7395429182886f7092c5bcd96799cd32928abac54fac3",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_388f52fd"
+      }
+    },
+    {
+      "segment_id": "e50bebbf",
+      "source_content": "### e &rarr; i &rarr; a &rarr; o",
+      "source_content_hash": "939c27db798b05cea64aa6dc51b4bf69f74b0226f704ef4d98f42071a449d951",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### e → i → a → o"
+      }
+    },
+    {
+      "segment_id": "ce578d2a",
+      "source_content": "| e         | i             | a        | o          |                        |\n| :-------- | :------------ | :------- | :--------- | ---------------------- |\n| nehmen    | nimmt         | nahm     | genommen   | 拿；乘坐；选择         |\n|           |               |          |            |                        |\n| brechen   | bricht        | brach    | gebrochen  | 打碎；折叠；碎掉；中断 |\n| sprechen  | spricht       | sprach   | gesprochen | 说话；发言；谈论       |\n| stechen   | sticht        | stach    | gestochen  | 叮咬；刺               |\n|           |               |          |            |                        |\n| sterben   | stirbt        | starb    | gestorben  | 死亡                   |\n| verderben | verdirbt      | verdarb  | verdorben  | 腐烂；堕落；损坏       |\n| werben    | wirbt         | warb     | geworben   | 招募；做广告           |\n| werfen    | wirft         | warf     | geworfen   | 抛；投                 |\n| treffen   | trifft        | tra**f** | getroffen  | 会面；击中             |\n| helfen    | hilft         | half     | geholfen   | 帮助；有效             |\n| gelten    | gilt          | galt     | gegolten   | 适用，有效；被视为；值 |\n|           |               |          |            |                        |\n| stehlen   | st**ie**hlt   | stahl    | gestohlen  | 偷；溜走               |\n| empfehlen | empf**ie**hlt | empfahl  | empfohlen  | 介绍，推荐，劝告；告别 |\n| *fehlen*  | *fehlt*       | *fehlte* | *gefehlt*  | *缺少*                 |",
+      "source_content_hash": "d3a64f878d66702d1c2cd5dbc64d6de5a2acb405005bc9fd667b7eec23854bdc",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_ce578d2a"
+      }
+    },
+    {
+      "segment_id": "58ed925f",
+      "source_content": "### - &rarr; - &rarr; a &rarr; o",
+      "source_content_hash": "8ed6615cdb0d1bc0ddc7108a0422e59410f451059ea19b699b627f549ee28a65",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### - → - → a → o"
+      }
+    },
+    {
+      "segment_id": "6deb5047",
+      "source_content": "| -         | -        | a         | o           |                  |\n| --------- | :------- | --------- | ----------- | ---------------- |\n| beginnen  | beginnt  | begann    | begonnen    | 开始             |\n| gewinnen  | gewinnt  | gewann    | gewonnen    | 获得；获胜       |\n| spinnen   | spinnt   | spann     | gesponnen   | 纺织；胡说八道   |\n| schwimmen | schwimmt | schwamm   | geschwommen | 游泳；漫出       |\n|           |          |           |             |                  |\n| kommen    | kommt    | ka**m**   | gekommen    | 来；拜访         |\n| bekommen  | bekommt  | beka**m** | bekommen    | 得到；对身体有益 |\n|           |          |           |             |                  |\n| gebären   | gebärt   | gebar     | geboren     | 分娩；产生       |",
+      "source_content_hash": "ef10978ef95e2f36daf1830b0e8d59bd45da0a13623d227a760f6af63f4bd47d",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_6deb5047"
+      }
+    },
+    {
+      "segment_id": "39db08de",
+      "source_content": "### ie &rarr; ie &rarr; o &rarr; o",
+      "source_content_hash": "3aee3dddb44b76ebd5d46b35fca9e13a620273e1afd3b88b2adc80ccc7907725",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### ie → ie → o → o"
+      }
+    },
+    {
+      "segment_id": "b7841147",
+      "source_content": "| ie        | ie       | o         | o             |                                    |\n| :-------- | :------- | :-------- | :------------ | ---------------------------------- |\n| bieten    | bietet   | bot       | geboten       | 提供；呈现；演出；出价             |\n| *bitten*  | *bittet* | ***bat*** | ***gebeten*** | *请求；邀请*                       |\n| biegen    | biegt    | bog       | gebogen       | 弄弯；转弯；弯曲                   |\n| wiegen    | wiegt    | wog       | gewogen       | 称重；重量为；摇动                 |\n| fliegen   | fliegt   | flog      | geflogen      | 飞；飘动；飘落；驾驶（飞机）       |\n| fließen   | fließt   | floss     | geflossen     | 流淌                               |\n| fliehen   | flieht   | floh      | geflohen      | 逃走                               |\n| verlieren | verliert | verlor    | verloren      | 遗失；输掉                         |\n| frieren   | friert   | fror      | gefroren      | 感到冷；结冰                       |\n| riechen   | riecht   | roch      | gerochen      | 散发气味；嗅到                     |\n| kriechen  | kriecht  | kroch     | gekrochen     | 爬行                               |\n| schieben  | schiebt  | schob     | geschoben     | 推；塞；挤                         |\n| schießen  | schießt  | schoss    | geschossen    | 射击；急速运动                     |\n| schließen | schließt | schloss   | geschlossen   | 关闭；终止                         |\n| genießen  | genießt  | genoss    | genossen      | 享用；享受                         |\n| gießen    | gießt    | goss      | gegossen      | 浇，倒（水）                       |\n| ziehen    | zieht    | zog       | gezogen       | 拉；绘画；培育/饲养；吸；延展/拖延 |",
+      "source_content_hash": "4ca19d95b705d191a52570872828c8eb934cc43bdf5dc79b98125aa6ae2aab79",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_b7841147"
+      }
+    },
+    {
+      "segment_id": "8172a0a5",
+      "source_content": "### - &rarr; - &rarr; o &rarr; o",
+      "source_content_hash": "9c992d27426443a02ef14195dd5eaf5530763bcde1ccc0c19fc23cab39715346",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### - → - → o → o"
+      }
+    },
+    {
+      "segment_id": "9df9b564",
+      "source_content": "| -         | -                 | o        | o            |                                |\n| --------- | ----------------- | -------- | ------------ | ------------------------------ |\n| heben     | hebt              | hob      | gehoben      | 举起；发掘；提高；升起；繁荣   |\n| erwägen   | erwägt            | erwog    | erwogen      | 衡量, 斟酌                     |\n| lügen     | lügt              | log      | gelogen      | 撒谎                           |\n| trügen    | trügt             | trog     | getrogen     | 迷惑，误导：etw. ~ jn.         |\n| betrügen  | betrügt           | betrog   | betrogen     | 欺骗；骗取：jn./sich um etw. ~ |\n| schwören  | schwört           | schwor   | geschworen   | 发誓                           |\n| erlöschen | erlöscht/erlischt | erlosch  | erloschen    | 熄灭；破灭；失效               |\n|           |                   |          |              |                                |\n| saufen    | s**äu**ft         | **soff** | **gesoffen** | （牲口）饮水                   |\n|           |                   |          |              |                                |\n| schmelzen | **schmilzt**      | schmolz  | geschmolzen  | 使融化；融化                   |\n| schwellen | **schwillt**      | schwoll  | geschwollen  | 肿大；使鼓起                   |",
+      "source_content_hash": "90420ab9d9d1cf6cc832ec71461b4464959bc4b48bfaa3e1bd2026b362574bf7",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_9df9b564"
+      }
+    },
+    {
+      "segment_id": "47cd8dd6",
+      "source_content": "### ei &rarr; ei &rarr; ie &rarr; ie (voll)",
+      "source_content_hash": "4694dec22bf9607e7833b9f1d9d9ba58a9c8a8f7f34e9a634f08f068293f3612",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### ei → ei → ie → ie (voll)"
+      }
+    },
+    {
+      "segment_id": "68b4d184",
+      "source_content": "| ei              | ei        | ie         | ie               |                                |\n| --------------- | --------- | ---------- | ---------------- | ------------------------------ |\n| **eiben**       |           |            |                  |                                |\n| reiben          | reibt     | rieb       | gerieben         | 摩擦；擦伤；按摩               |\n| treiben         | treibt    | trieb      | getrieben        | 驱赶；引起（反应）；从事；漂浮 |\n| schreiben       | schreibt  | schrieb    | geschrieben      | 撰写；写下                     |\n| schreien        | schreit   | schrie     | geschrieen       | 喊叫；大声说                   |\n| bleiben         | bleibt    | blieb      | geblieben        | 停留；保持；剩下               |\n|                 |           |            |                  |                                |\n| **eihen**       |           |            |                  |                                |\n| leihen          | leiht     | lieh       | geliehen         | 借出；借入                     |\n| zeihen          | zeiht     | zieh       | geziehen         | 指责；归咎于                   |\n| verzeihen       | verzeiht  | verzieh    | verziehen        | 原谅，宽恕                     |\n| gedeihen        | gedeiht   | gedieh     | gediehen (sein)  | 成长；繁茂；繁荣               |\n| *seihen*        | *seiht*   | *seihte*   | *geseiht*        | *过滤*                         |\n| *reihen*        | *reiht*   | *reihte*   | *gereiht*        | *排列；聚集*                   |\n| *weihen*        | *weiht*   | *weihte*   | *geweiht*        | *使净化；奉献*                 |\n|                 |           |            |                  |                                |\n| **eigen**       |           |            |                  |                                |\n| steigen         | steigt    | stieg      | gestiegen        | 登上；上升；增强               |\n| schweigen       | scheigt   | schwieg    | geschwiegen      | 沉默                           |\n| *neigen*        | *neiget*  | *neigte*   | *geneigt*        | *（使）下垂；（使）倾斜；易于* |\n| *zeigen*        | *zeigt*   | *zeigte*   | *gezeigt*        | *出示；显出；说明；指明*       |\n|                 |           |            |                  |                                |\n| **einen**       |           |            |                  |                                |\n| scheinen        | scheint   | schien     | geschienen       | 照耀，发光；似乎               |\n| *meinen*        | *meint*   | *meinte*   | *gemeint*        | *认为；想要*                   |\n| *weinen*        | *weint*   | *weinte*   | *geweint*        | *哭*                           |\n| *vereinen*      | *vereint* | *vereinte* | *vereint*        | *使联合；兼有*                 |\n|                 |           |            |                  |                                |\n| **eisen**       |           |            |                  |                                |\n| weisen [ˈvaizn] | weist     | wies       | gewiesen         | 使离开，引导；指点；指向       |\n| *reisen*        | *reist*   | *reiste*   | *gereist (sein)* | *旅行*                         |\n| *kreisen*       | *kreist*  | *kreiste*  | *gekreist*       | *旋转；盘旋；环绕*             |\n| *speisen*       | *speist*  | *speiste*  | *gespeist*       | *用膳*                         |\n|                 |           |            |                  |                                |\n| meiden          | meidet    | mied       | gemieden         | 避开；禁忌                     |\n| scheiden        | scheidet  | schied     | geschieden       | 使离婚；使分离；分歧           |",
+      "source_content_hash": "e3a596b4900369f911b138f9c101c84946566aa17d32daed5bfbb4aeb35565a3",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_68b4d184"
+      }
+    },
+    {
+      "segment_id": "6ffd1ebe",
+      "source_content": "### ei &rarr; ei &rarr; i &rarr; i (voll)",
+      "source_content_hash": "aa7668d5855bd839b17e76a710c519451acd4d0a392b29820f9bcb794487c352",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### ei → ei → i → i (voll)"
+      }
+    },
+    {
+      "segment_id": "b6840b81",
+      "source_content": "| ei           | ei           | i             | i                |                             |\n| ------------ | ------------ | ------------- | ---------------- | --------------------------- |\n| **eißen**    |              |               |                  |                             |\n| beißen       | beißt        | biss          | gebissen         | 咬；刺痛                    |\n| reißen       | reißt        | riss          | gerissen         | 拉，撕；扯碎；抢夺          |\n| scheißen     | scheißt      | schiss        | geschissen       | 拉屎                        |\n| schmeißen    | schmeißt     | schmiss       | geschmissen      | 扔；投；抛                  |\n| heißen       | heißt        | h**ieß**      | geh**eiß**en     | 称为；意指                  |\n| *weißen*     | *weißt*      | *weißte*      | *geweißt*        | *刷白*                      |\n| *schweißen*  | *schweißt*   | *schweißte*   | *geschweißt*     | *焊接*                      |\n|              |              |               |                  |                             |\n| **eifen**    |              |               |                  |                             |\n| greifen      | greift       | griff         | gegriffen        | 拿，抓；抓住；弹奏          |\n| *reifen*     | *reift*      | *reifte*      | *gereift (sein)* | *成熟；完善*                |\n| kneifen      | kneift       | kniff         | gekniffen        | 捏，夹                      |\n| *keifen*     | *keift*      | *keifte*      | *gekeift*        | *臭骂*                      |\n| pfeifen      | pfeift       | pfiff         | gepfiffen        | 吹哨子；鸣叫；泄漏          |\n| schleifen    | schleift     | schliff       | geschliffen      | 磨快；琢磨；拖着            |\n| *streifen*   | *streift*    | *streifte*    | *gestreift*      | *蹭着；撸*                  |\n| *zweifeln*   | *zweifelt*   | *zweifelte*   | *gezweifelt*     | *怀疑*                      |\n|              |              |               |                  |                             |\n| **eiten**    |              |               |                  |                             |\n| reiten       | reitet       | ritt          | geritten         | 骑                          |\n| *bereiten*   | *bereitet*   | *bereitete*   | *bereitet*       | *准备；做（饭菜）*          |\n| *breiten*    | *breitet*    | *breitete*    | *gebreitet*      | *铺开；展开*                |\n| streiten     | streitet     | stritt        | gestritten       | 争吵；争论                  |\n| gleiten      | gleitet      | glitt         | geglitten        | 滑动，滑行                  |\n| *leiten*     | *leitet*     | *leitete*     | *geleitet*       | *领导；引导*                |\n| *arbeiten*   | *arbeitet*   | *arbeitete*   | *gearbeitet*     | *工作；运转*                |\n|              |              |               |                  |                             |\n| **eichen**   |              |               |                  |                             |\n| *eichen*     | *eicht*      | *eichte*      | *geeicht*        | *校准*                      |\n| *reichen*    | *reicht*     | *reichte*     | *gereicht*       | *递给；够得到*              |\n| weichen      | weicht       | wich          | gewichen         | 消失；让步；软化，浸透      |\n| bleichen     | bleicht      | blich         | geblichen        | 漂白                        |\n| gleichen     | gleicht      | glich         | geglichen        | 与其相同：jm. ~             |\n| schleichen   | schleicht    | schlich       | geschlichen      | 缓慢爬行；偷偷走            |\n| streichen    | streicht     | strich        | gestrichen       | 擦伤；掠过；涂抹            |\n| *streicheln* | *streichelt* | *streichelte* | *gestreichelt*   | *抚摸*                      |\n|              |              |               |                  |                             |\n| leiden       | leidet       | litt          | gelitten         | 受苦；患病：an etw. ~；忍受 |\n| schneiden    | schneidet    | schnitt       | geschnitten      | 切；雕刻；割伤              |",
+      "source_content_hash": "79487e76baeea11a05658188f35acb8d24257e9645a72cc688ad2becc08496a9",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_b6840b81"
+      }
+    },
+    {
+      "segment_id": "e594a4f9",
+      "source_content": "### in &rarr; in &rarr; an &rarr; un (voll)",
+      "source_content_hash": "3f4c0f1d6252fbd88d9ba35e1a75a847910acc4c4a39ef40dcfd883e281b9675",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### in → in → an → un (voll)"
+      }
+    },
+    {
+      "segment_id": "7fba24f0",
+      "source_content": "| in          | in         | an            | un           |                          |\n| ----------- | ---------- | ------------- | ------------ | ------------------------ |\n| binden      | bindet     | band          | gebunden     | 绑；约束，牵制           |\n| finden      | findet     | fand          | gefunden     | 找到；发现               |\n| winden      | windet     | wand          | gewunden     | 盘绕；缠绕               |\n| schinden    | schindet   | **schindete** | geschunden   | 折磨；（以不当手段）获得 |\n|             |            |               |              |                          |\n| sinken      | sinkt      | sank          | gesunken     | 下降；下沉               |\n| stinken     | stinkt     | stank         | gestunken    | 发臭；使某人厌恶         |\n| trinken     | trinkt     | trank         | getrunken    | 喝；喝酒                 |\n| *schminken* | *schminkt* | *schminkte*   | *geschminkt* | *化妆*                   |\n| *blinken*   | *blinkt*   | *blinkte*     | *geblinkt*   | *闪光*                   |\n|             |            |               |              |                          |\n| ringen      | ringt      | rang          | gerungen     | 扭，拧；搏斗，摔跤       |\n| dringen     | dringt     | drang         | gedrungen    | 穿过；侵入；坚决要求     |\n| singen      | singt      | sang          | gesungen     | 唱歌                     |\n| springen    | springt    | sprang        | gesprungen   | 跳；喷出                 |\n| zwingen     | zwingt     | zwang         | gezwungen    | 强迫，迫使；要求         |\n| schwingen   | schwingt   | schwang       | geschwungen  | 挥动，摇；摆动           |\n| klingen     | klingt     | klang         | geklungen    | 听起来                   |\n| *klingeln*  | *klingelt* | *klingelte*   | *geklingelt* | *按铃；铃响*             |\n| gelingen    | gelingt    | gelang        | gelungen     | 成功                     |\n| misslingen  | misslingt  | misslang      | misslungen   | 失败                     |\n|             |            |               |              |                          |\n| **bringen** | **bringt** | **brachte**   | **gebracht** | 带来；陪同               |",
+      "source_content_hash": "85ad9ccbb3af0387d8fdc1bf7d4d0d37bba2f1bda7adde766abc1fccd4008deb",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_7fba24f0"
+      }
+    },
+    {
+      "segment_id": "a9950191",
+      "source_content": "### a &rarr; ä &rarr; u &rarr; a",
+      "source_content_hash": "8b6b7aa07216ce024559a544a8800fa188380833b9a25476a635b2809e48d2d0",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### a → ä → u → a"
+      }
+    },
+    {
+      "segment_id": "47f1ba32",
+      "source_content": "| a          | ä           | u          | a           |                |\n| ---------- | ----------- | ---------- | ----------- | -------------- |\n| backen     | bäckt/backt | buk/backte | gebacken    | 烤，烘         |\n| fahren     | fährt       | fuhr       | gefahren    | 开；行驶       |\n| laden      | lädt [lɛːt] | lud        | geladen     | 装载           |\n| graben     | gräbt       | grub       | gegraben    | 挖，刨；雕刻   |\n| tragen     | trägt       | trug       | getragen    | 担负；带；穿   |\n| schlagen   | schlägt     | schlug     | geschlagen  | 打；砍；冲，钻 |\n| waschen    | wäscht      | wusch      | gewaschen   | 洗             |\n| wachsen    | wächst      | wuchs      | gewachsen   | 生长；增长     |\n|            |             |            |             |                |\n| schaffen   | **schafft** | schuf      | geschaffen  | 创造           |\n| *schaffen* | *schafft*   | *schaffte* | *geschafft* | *做到*         |",
+      "source_content_hash": "1930c1aaefef47d7ac88e0d4a374ed27682b9c66077129457c446323227af617",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_47f1ba32"
+      }
+    },
+    {
+      "segment_id": "99e592b0",
+      "source_content": "### a &rarr; ä &rarr; ie &rarr; a",
+      "source_content_hash": "2dfac81c5d14a8d9e572e88634576781b100c62319e6f8830443d1a9389c01cd",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### a → ä → ie → a"
+      }
+    },
+    {
+      "segment_id": "745b9b1e",
+      "source_content": "| a          | ä         | ie       | a                                      |                  |\n| ---------- | --------- | -------- | -------------------------------------- | ---------------- |\n| halten     | hält      | hielt    | gehalten                               | 拿着；保持；饲养 |\n| raten      | rät       | riet     | geraten                                | 劝告，建议；猜测 |\n| braten     | brät      | briet    | gebraten                               | 炸，煎；烘烤     |\n| lassen     | lässt     | ließ     | gelassen （实义）<br />lasssen（助动） | 请；允许；放弃   |\n| blasen     | bläst     | blies    | geblasen                               | 吹；吹奏         |\n| fallen     | fällt     | fiel     | gefallen                               | 坠落；摔倒；下降 |\n| gefallen   | gefällt   | gefiel   | gefallen                               | 满意，喜欢       |\n| laufen     | läuft     | lief     | gelaufen                               | 走路；运转       |\n| schlafen   | schläft   | schlief  | geschlafen                             | 睡觉             |\n|            |           |          |                                        |                  |\n| fangen     | fängt     | **fing** | gefangen                               | 捕捉；接住       |\n| gehen      | **geht**  | **ging** | gegangen                               | 走               |\n| **hängen** | hängt     | **hing** | gehangen                               | 挂在             |\n| *hängen*   | *hängt*   | *hängte* | *gehängt*                              | *挂到*           |\n|            |           |          |                                        |                  |\n| **stoßen** | **stößt** | stieß    | **gestoßen**                           | 撞；刺；颠簸     |\n| **rufen**  | **ruft**  | rief     | **gerufen**                            | 呼喊；叫来       |",
+      "source_content_hash": "90e8ffb13634056d949c61532826aa63281fb9e8a5171d9297b3fd77ddf6b713",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_745b9b1e"
+      }
+    },
+    {
+      "segment_id": "38115c9a",
+      "source_content": "### 其他",
+      "source_content_hash": "071959b12faebe042fdc4ea6115ae7ad624e2091b325cd260d82dbf1a9241288",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### その他"
+      }
+    },
+    {
+      "segment_id": "0e9ec07f",
+      "source_content": "|        |      |        |                                      |            |\n| ------ | ---- | ------ | ------------------------------------ | ---------- |\n| sein   | ist  | war    | gewesen [gəveːzən]                   | 是         |\n| tun    | tut  | tat    | getan                                | 做         |\n| haben  | hat  | hatte  | gehabt                               | 有         |\n| wissen | weiß | wusste | gewusst                              | 知道；懂得 |\n| werden | wird | wurde  | geworden（实义）<br />worden（助动） | 变得；觉得 |",
+      "source_content_hash": "d269d0423ed6445d31df37715c78f2a925a0cc01a207c7e77c879232335de41d",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_0e9ec07f"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/动词/不规则动词.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.529455+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "bf1f5bb7b14fd1765aff6b1cb2d388fa94a39809e5e77ef1403cf4bae321fa02"
+  }
+}

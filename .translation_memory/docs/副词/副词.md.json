@@ -1,0 +1,92 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/副词/副词.md",
+  "source_file_content_hash": "01e86033d59fd3aca036ca38777c18b699f90f47f82b9c98dfba9e696595f7db",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\n---",
+      "source_content_hash": "92a21a112978c590263ada3554195d9905c8c585e619dccd5f0a4cf518a7076f",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 副词",
+      "source_content_hash": "61572b5e7554f999004d40765fd15fbcd52e0b08183fb881f881412617065487",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 副詞"
+      }
+    },
+    {
+      "segment_id": "a703643c",
+      "source_content": "## 疑问代副词",
+      "source_content_hash": "93a932bd2f20439f137ef1027d4d8956570d7ccd5c13ec742cdbeaad9702b1c8",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 疑問代副詞"
+      }
+    },
+    {
+      "segment_id": "abcf54e3",
+      "source_content": "* auf jn./etw. warten\n  * auf wen -> auf ihn/sie\n  * auf was, worauf -> darauf\n* mit etw./jm. anfangen\n  * mit wem\n  * mit was, womit -> damit\n* sich über jn./etw. freuen/ärgern\n  * über wen\n  * über was, worüber -> darüber",
+      "source_content_hash": "8a3ab1ac19ef69238eaf00e2cc2ca6327366dff0ccdda819a1da5408b9202931",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* auf jn./etw. warten\n  * auf wen -> auf ihn/sie\n  * auf was, worauf -> darauf\n* mit etw./jm. anfangen\n  * mit wem\n  * mit was, womit -> damit\n* sich über jn./etw. freuen/ärgern\n  * über wen\n  * über was, worüber -> darüber"
+      }
+    },
+    {
+      "segment_id": "aee0e40d",
+      "source_content": "## 方向副词",
+      "source_content_hash": "d4718ae2b944a9dd565a93e1159e7005bc42eca8a2b116063a75a71ae15bfbf4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 方向副詞"
+      }
+    },
+    {
+      "segment_id": "7ece1a63",
+      "source_content": "|  副词   |  介词  |       动态        |\n| :-----: | :----: | :---------------: |\n|  oben   |  auf   |  rauf/nach oben   |\n|  unten  | unter  | runter/nach unten |\n| drüben  | (über) |       rüber       |\n| drinnen |   in   |       rein        |\n| draußen |  aus   |       raus        |\n|         |        |        hin        |\n|         |        |        her        |",
+      "source_content_hash": "75f024c04d38ae502ebb394ee10ca4428c0ac3bae2c3ad47374654f8f151a949",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_7ece1a63"
+      }
+    },
+    {
+      "segment_id": "48847fd4",
+      "source_content": "## 时间副词",
+      "source_content_hash": "a8bd78f8dd84b4cd89bb9478b5af9d0802c7ae01b51067e8a567b7e932849824",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 時間副詞"
+      }
+    },
+    {
+      "segment_id": "cd471e4e",
+      "source_content": "* nie, selten, gelegentlich, manchmal, regelmäßig, häufig, ständig, immer",
+      "source_content_hash": "b06a0e2611c491dfa459a6e2db42961aa7de0bb6f732c9c4ed94feedc3289b0b",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* nie（決して～ない）, selten（まれに）, gelegentlich（時折）, manchmal（時々）, regelmäßig（定期的に）, häufig（頻繁に）, ständig（常に）, immer（いつも）"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/副词/副词.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.515439+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "01e86033d59fd3aca036ca38777c18b699f90f47f82b9c98dfba9e696595f7db"
+  }
+}

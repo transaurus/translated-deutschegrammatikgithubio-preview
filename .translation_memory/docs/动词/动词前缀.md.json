@@ -1,0 +1,1112 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/动词/动词前缀.md",
+  "source_file_content_hash": "3f97b799c402e5e0b8d7f3fae31ac2ebd234460177873551ec1f127837c7ecf2",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 7\n---",
+      "source_content_hash": "ee39dd3889c617930b9c86352349d13a4ae6596a6aebadde29e67e9145c591c8",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 动词前缀",
+      "source_content_hash": "be62d04c5ca38eb714af8cbfdce41991351f9b2edb8c7cf62a04669002eb1f76",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 動詞の接頭辞"
+      }
+    },
+    {
+      "segment_id": "6ef78e84",
+      "source_content": "前缀分为可分前缀和不可分前缀，继而动词也就有可分和不可分之分，而区分二者的重点就是不同时态下的动词变化形式。不可分动词在变过去分词（PII）的时候千万不要在缀后加ge-哦。不可分前缀非重读，重音在前缀后的动词上。",
+      "source_content_hash": "3d21e942844efb86e4b03a5095e506975f97b3304acca34242999ca066c57db7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "接頭辞は分離接頭辞と非分離接頭辞に分かれ、それによって動詞も分離動詞と非分離動詞に分類されます。両者を区別する重要なポイントは、異なる時制における動詞の変化形です。非分離動詞を過去分詞（PII）に変化させる際には、接頭辞の後にge-を追加しないように注意してください。非分離接頭辞はアクセントが置かれず、アクセントは接頭辞の後の動詞部分に置かれます。"
+      }
+    },
+    {
+      "segment_id": "d912d376",
+      "source_content": "## 不可分前缀",
+      "source_content_hash": "56d8624c204ab499820c02c644d5342c83af8a2db7470765b0bc9c611fd7f9ef",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 非分離接頭辞"
+      }
+    },
+    {
+      "segment_id": "8a5f6a7b",
+      "source_content": "### be-",
+      "source_content_hash": "cc7b87c6165b6afd211f4e4ac09a39440acae3f82520f311ca03dc77d632d698",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### be-"
+      }
+    },
+    {
+      "segment_id": "180bddb1",
+      "source_content": "把不及物动词变成及物动词。例如：antworten vi. 回答 → beantworten vt. 使回答；malen vi. 画画 → bemalen vt. 在┄上画。",
+      "source_content_hash": "e341878f7f3cf10c118399ffe95c69214cd7e4242d9c502c2bc4edbc48565997",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "自動詞を他動詞に変えます。例：antworten vi. 答える → beantworten vt. 答えさせる；malen vi. 絵を描く → bemalen vt. ～に絵を描く。"
+      }
+    },
+    {
+      "segment_id": "cf898102",
+      "source_content": "be-的动词有近400个，99%是及物加第四格的。真正的特例只有jm./etw. begegnen（碰见）和js./etw. (G) bedürfen（需要）两个，一个加第三格，一个加第二格。其他的如果不是加第四格，就是用的反身sich第四格，或者是人三物四（很少）。不加宾语的也有，然而是极为生僻的词汇，可以忽略不计。",
+      "source_content_hash": "6e70aadb101e11095e78b1e7aaaee449a66dd7ee1433766a8c6c30799c465b2c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "be-の動詞は約400語あり、99%が他動詞で第四格を取ります。本当の例外はjm./etw. begegnen（出会う）とjs./etw. (G) bedürfen（必要とする）の2つだけで、前者は第三格、後者は第二格を取ります。それ以外で第四格を取らない場合は、再帰代名詞sichの第四格を使うか、人に第三格・物に第四格を取る（稀）かです。目的語を取らないものもありますが、極めて特殊な語彙であり無視できます。"
+      }
+    },
+    {
+      "segment_id": "42ad8e83",
+      "source_content": "be-的词源没有帮助，不要看它。",
+      "source_content_hash": "8d11db3c7b93e46fab2e36137c8791675f3f4dd952b995a78460453a0eff0e68",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "be-の語源は役に立ちませんので、気にしないでください。"
+      }
+    },
+    {
+      "segment_id": "f6168993",
+      "source_content": "![](./img/动词前缀be-.png)",
+      "source_content_hash": "e7c21749ea2507773dfe979692cb727c8428abf2e2bd51d60dd738f0a6d65175",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/動詞接頭辞be-.png)"
+      }
+    },
+    {
+      "segment_id": "418617bd",
+      "source_content": "### emp-",
+      "source_content_hash": "7ae6de2f048d1bda6fcc75eb8c45eb4536aeada0d31b0cf65b462b00b1714846",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### emp-"
+      }
+    },
+    {
+      "segment_id": "2fdadb08",
+      "source_content": "表示强调某种感觉或者服务，例如：fehlen 缺少，想念 → empfehlen；推荐fangen 抓住 → empfangen 接待。",
+      "source_content_hash": "d8ee354e7146941b43e48626a117cd951448b6897544ad729b4f0c096a61c62e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "特定の感覚やサービスを強調します。例：fehlen 欠ける、恋しく思う → empfehlen 推薦する；fangen 捕まえる → empfangen 迎える、接待する。"
+      }
+    },
+    {
+      "segment_id": "ed7dde9c",
+      "source_content": "### ent-",
+      "source_content_hash": "b3b18611c1ea7b9f30521571a7cee942431b7b8b5fa75a07589a72d190611223",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### ent-"
+      }
+    },
+    {
+      "segment_id": "a76548f8",
+      "source_content": "表与基本词的词义相反，例如：decken 盖上 → entdecken 发现；spannen 使人紧张 → entspannen 放松，使松弛。",
+      "source_content_hash": "df58d635eb96ddef67da5c99614cfafdcbd08da56b784a78339c524dde3c5682",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "基本語の意味と反対の意味を表します。例：decken 覆う → entdecken 発見する；spannen 緊張させる → entspannen リラックスさせる、緩和する。"
+      }
+    },
+    {
+      "segment_id": "f2f30ae8",
+      "source_content": "### er-",
+      "source_content_hash": "2b8f19078c09f160e07b7c8a46c56dfcad35a00ec35dbbecc1fc58b2c1e6cbc3",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### er-"
+      }
+    },
+    {
+      "segment_id": "dfe931a2",
+      "source_content": "表动作结束，最终结果，例如：bauen 建设 → erbauen建成；arbeiten 工作 → erarbeiten获得，赚的；lernen 学习 → erlernen学到手。",
+      "source_content_hash": "edef30a196e6243bf2ff0b63becf0ce2ffee8d206a30001f48c9006a621b4ee7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "動作の完了や最終結果を表します。例：bauen 建設する → erbauen 完成させる；arbeiten 働く → erarbeiten 獲得する、稼ぐ；lernen 学ぶ → erlernen 習得する。"
+      }
+    },
+    {
+      "segment_id": "4daf5cdd",
+      "source_content": "er-的动词比较少，不到200个。义项也较少，只有3大项。第3项的词不多。",
+      "source_content_hash": "af1d406751bc16fecc69a8b255f5906b1dfb4c36b4c3ebacb3d80cf6879e0d9b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "er-の動詞は比較的少なく、200語未満です。意味のバリエーションも少なく、主に3つの大きなカテゴリーに分かれます。第3カテゴリーの語彙は多くありません。"
+      }
+    },
+    {
+      "segment_id": "bdc231b1",
+      "source_content": "没有同时加er-和-ieren词尾的动词，但是ver-是可以加-ieren后缀的。erfrieren和eruieren不算，因为这里的ieren不是后缀，而是词干的一部分。",
+      "source_content_hash": "c91bebd6b4a3531e299f2689362cb146053c0f622f24b1b6c355b6a0d24732ad",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "er-と-ieren接尾辞を同時に持つ動詞は存在しませんが、ver-は-ieren接尾辞を取ることができます。erfrierenとeruierenは例外で、これらの-ierenは接尾辞ではなく語幹の一部です。"
+      }
+    },
+    {
+      "segment_id": "97ae4a01",
+      "source_content": "er-加比较级构成的词只有两个：erleichtern和erweitern。但是ver-加比较级的有很多。",
+      "source_content_hash": "3f646bce74e6d17c3a2ee6b6e59fe6eda21497e50589c3e07ce922dcd6a52ee2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "er-に比較級を組み合わせて形成される語はerleichternとerweiternの2つだけです。しかしver-に比較級を組み合わせた語は多く存在します。"
+      }
+    },
+    {
+      "segment_id": "c3a738de",
+      "source_content": "![](./img/动词前缀er-.png)",
+      "source_content_hash": "4ec893f79eb2819d66150b9c677736967cb3a9d93d15d7115adf556b0f7012ff",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/動詞接頭辞er-.png)"
+      }
+    },
+    {
+      "segment_id": "9f9e64f5",
+      "source_content": "### ge-",
+      "source_content_hash": "eeb1551978b06f8638135bf5b7a7d9d49cab7bb924f0918d1c54396154392c73",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### ge-"
+      }
+    },
+    {
+      "segment_id": "1042b50d",
+      "source_content": "表示对原动作的强调，例如：gestalten 开始；gefallen 喜欢。",
+      "source_content_hash": "f4ecbfa0c39ed71321a97852ffc5f8bf69f7727ce61ab571eef0add51496348f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "元の動作を強調します。例：gestalten 始める；gefallen 気に入る。"
+      }
+    },
+    {
+      "segment_id": "35a77014",
+      "source_content": "### miss-",
+      "source_content_hash": "ca1a6405b5a242b429682800031c3ef613bafb90d721ddb4b51c94e3642194c6",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### miss-"
+      }
+    },
+    {
+      "segment_id": "13d9cd70",
+      "source_content": "表与基本词义相反，例如：verstehen 理解 → missverstehen 误解；trauen 信任 → misstrauen不相信，不信任。",
+      "source_content_hash": "4d653d7a57c09232e828aae17cf07c7acde5dca694ab5bc003e2e1412f59d03f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "基本語の意味と反対の意味を表します。例：verstehen 理解する → missverstehen 誤解する；trauen 信頼する → misstrauen 信用しない、疑う。"
+      }
+    },
+    {
+      "segment_id": "6f930b2f",
+      "source_content": "### ver-",
+      "source_content_hash": "4cf1dc767a75ab84b4b3a6c2cc9905333ed60571f90c4a752514517904269086",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### ver-"
+      }
+    },
+    {
+      "segment_id": "c504c207",
+      "source_content": "表示原动作的加强或者与原动作相反，例如：bessern 修正 → verbessern 改善，变好；suchen 寻找 → versuchen 尝试；kaufen 买 → verkaufen 卖；sehen 看到 → versehen 看错。",
+      "source_content_hash": "856922b0403548b30d60177c33f1b758b6136a8cb92e8cd1b3eda149f784f416",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "元の動作の強化または元の動作と反対の意味を表します。例えば：bessern（修正）→ verbessern（改善、良くなる）；suchen（探す）→ versuchen（試す）；kaufen（買う）→ verkaufen（売る）；sehen（見る）→ versehen（見間違える）。"
+      }
+    },
+    {
+      "segment_id": "98d26038",
+      "source_content": "ver-的动词有500多个。er-的第一项只有形容词变动词，而ver-的第一项也有名词并且都是及物的。ver-的最后两项“死亡”和“变及物”词没几个。“差错”这一项全部是反身的。“死亡”只有图上两个ver-，可以这么说。但是er-有很多，各种死亡。",
+      "source_content_hash": "f4862eac7f28f8b43f860549d0adbae972ed509e38e5cab116792820f8149df7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ver-の動詞は500以上あります。er-の第一項は形容詞から動詞への変化のみですが、ver-の第一項には名詞も含まれ、すべて他動詞です。ver-の最後の2項「死亡」と「他動詞化」の語はほとんどありません。「間違い」の項はすべて再帰的です。「死亡」を表すver-は図にある2つだけですが、er-には多くの「死亡」を表す動詞があります。"
+      }
+    },
+    {
+      "segment_id": "d3649a1e",
+      "source_content": "![](./img/动词前缀ver-.png)",
+      "source_content_hash": "bd095fc9f8530fe35811a2ddddcf04574956ddef8591f80422c1da777ed505dc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/动词前缀ver-.png)"
+      }
+    },
+    {
+      "segment_id": "e50bebbf",
+      "source_content": "### zer-",
+      "source_content_hash": "93e3de8fd905e9ddd023ecaffb35e13c9b95acd2c83fb058e7f4b85394f96068",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### zer-"
+      }
+    },
+    {
+      "segment_id": "23dfb152",
+      "source_content": "表示“弄碎”“破坏”，例如：brechen 折断 → zerbrechen把……打碎；stören 打扰 → zerstören 摧毁；reißen 撕开 → zerreißen 撕碎，扯碎。",
+      "source_content_hash": "f7ce792e4d86c9fe3019f38f74606d954c1ddc339ef5f289c214179a8b41f788",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「壊す」「破壊する」という意味を表します。例えば：brechen（折る）→ zerbrechen（粉々にする）；stören（邪魔する）→ zerstören（破壊する）；reißen（引き裂く）→ zerreißen（引き裂く、破る）。"
+      }
+    },
+    {
+      "segment_id": "e912d935",
+      "source_content": "## 可分前缀",
+      "source_content_hash": "e77fc776502665636c0ac10fac7325a1051e925c763d80f554164a2401ed7b77",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 分離可能な接頭辞"
+      }
+    },
+    {
+      "segment_id": "9e95fc4a",
+      "source_content": "### ab-",
+      "source_content_hash": "f6fbe8937aab631541a077dfb6315da73748833bd1ffa53a4ae267dcccc6e10f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### ab-"
+      }
+    },
+    {
+      "segment_id": "5dae11e3",
+      "source_content": "表“掉落，取下，分开，清除，离去”，例如：auen 建造 → ab/bauen拆除；schneiden 剪 → ab/schneiden剪下，切下；drängen 挤 → ab/drängen挤开，排挤；brennen 燃烧 → ab/brennen烧掉；fahren 行驶 → ab/fahren启程，开走。",
+      "source_content_hash": "c9310bd478d98e2111a62e0c327e04b4d431f890b1482896a8fecf48de23f727",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「落ちる、取り外す、分離する、除去する、離れる」という意味を表します。例えば：bauen（建てる）→ ab/bauen（取り壊す）；schneiden（切る）→ ab/schneiden（切り取る）；drängen（押す）→ ab/drängen（押しのける、排除する）；brennen（燃やす）→ ab/brennen（焼き尽くす）；fahren（運転する）→ ab/fahren（出発する、立ち去る）。"
+      }
+    },
+    {
+      "segment_id": "a5a4323e",
+      "source_content": "### an-",
+      "source_content_hash": "b935c0b35cba20de5217dd2f98c16d0bd85b5c918f920d9da97ddd6f2fbadee3",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### an-"
+      }
+    },
+    {
+      "segment_id": "657c2b20",
+      "source_content": "表示“动作延续”，“向着出发”或“接通，连接”，例如：kommen 来 → an/kommen 到达；fragen 问 → an/fragen 询问；fliegen 飞 → an/fliegen 飞向，飞往；rennen 跑 → an/rennen 跑向；schalten 操作 → an/schalten 打开电器；gehen 走 → an/gehen 电器亮着。",
+      "source_content_hash": "e6646749e23906adf74167665f6070234c5c20d1e0587a163629c6f9e4ae980e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「動作の継続」「方向性」「接続、接続する」という意味を表します。例えば：kommen（来る）→ an/kommen（到着する）；fragen（尋ねる）→ an/fragen（質問する）；fliegen（飛ぶ）→ an/fliegen（～に向かって飛ぶ）；rennen（走る）→ an/rennen（走って向かう）；schalten（操作する）→ an/schalten（電気機器をオンにする）；gehen（行く）→ an/gehen（電気機器が点灯している）。"
+      }
+    },
+    {
+      "segment_id": "e7772088",
+      "source_content": "真正的特例只有etw. (D) angehören（属于）和etw. haftet jm./etw. an（附着，黏住）这两个特例。而后者其实有更常见的用介词的结构（意思一样）：etw. haftet an jm./etw. an。其他不加第四格的，要么是人三物四，要么是特别容易理解的不加宾语。",
+      "source_content_hash": "98b2b07b2db9661d9f767e042e9d8c43ab11d59f3db1f146647b0e7ddece648b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "本当の例外はetw. (D) angehören（属する）とetw. haftet jm./etw. an（付着する、くっつく）の2つだけです。後者は実際にはより一般的な前置詞構造（同じ意味）があります：etw. haftet an jm./etw. an。その他、第四格を取らないものは、人三物四か、特に理解しやすい目的語を取らないものです。"
+      }
+    },
+    {
+      "segment_id": "d422fb13",
+      "source_content": "### auf-",
+      "source_content_hash": "b9965b33c355f8e58ea45d2f0696b3a1a2584746391bd429b41112e05ab652b1",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### auf-"
+      }
+    },
+    {
+      "segment_id": "f01228d3",
+      "source_content": "表“向上”或“打开”的含义，例如：gehen 走 → auf/gehen 上升，升高；stehen 站立 → auf/stehen 起身，起立；packen 打包 → auf/packen 打开（包裹）。",
+      "source_content_hash": "ded38baede8b8f1483b71d630d528d6867466b29caea76483ea16542c261e4db",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「上向き」または「開く」という意味を表します。例えば：gehen（行く）→ auf/gehen（上昇する、上がる）；stehen（立つ）→ auf/stehen（立ち上がる）；packen（包む）→ auf/packen（包みを開ける）。"
+      }
+    },
+    {
+      "segment_id": "93028a4e",
+      "source_content": "### aus-",
+      "source_content_hash": "ca6b4e5469046f1e899d1dd7c601396fa2aca870bc3985eafe7a29366e12c574",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### aus-"
+      }
+    },
+    {
+      "segment_id": "e8e162a9",
+      "source_content": "表示“出来”或“关闭”的含义，例如：füllen 填写 → aus/füllen 填完，填满；geben 给 → aus/geben 支出，交付；brennen 燃烧 → aus/brennen 停燃，燃光；machen 做 → aus/machen 关闭。",
+      "source_content_hash": "0c018420f8b3e263d07d398d3539b067e617976c8425e313678248c7facb6dfd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「外に出る」または「消す」という意味を表します。例えば：füllen（記入する）→ aus/füllen（記入し終える、埋める）；geben（与える）→ aus/geben（支出する、引き渡す）；brennen（燃やす）→ aus/brennen（燃え尽きる）；machen（する）→ aus/machen（消す）。"
+      }
+    },
+    {
+      "segment_id": "463ed165",
+      "source_content": "![](./img/动词前缀aus-.png)",
+      "source_content_hash": "d3cf7703ef4d84b27e5f3188672897944a002433b90742582881ec8749d471b2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/动词前缀aus-.png)"
+      }
+    },
+    {
+      "segment_id": "66819c78",
+      "source_content": "### bei-",
+      "source_content_hash": "fd7649afe6c5597260c8081ec3ba318ebe79896db4bd6f90e1cc0be50cabdd3c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### bei-"
+      }
+    },
+    {
+      "segment_id": "fbc2db85",
+      "source_content": "表“附加”“参加”或“贡献”的含义，例如：legen 放 → bei/legen 附送；schreiben 写 → bei/schreiben附加上，补注；treten 踏，踩 → bei/treten 加入，参加；tragen 抬，扛 → bei/tragen 致力于。",
+      "source_content_hash": "eb20d308bb88b410b99ac25a73e5427cb6bdc2a6d1024f292e99af153515554e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「付加」「参加」または「貢献」の意味を表します。例：legen（置く）→ beilegen（同封する）、schreiben（書く）→ beischreiben（付記する）、treten（踏む）→ beitreten（加入する）、tragen（運ぶ）→ beitragen（貢献する）。"
+      }
+    },
+    {
+      "segment_id": "8126f763",
+      "source_content": "前缀bei-也是“附”的意思。动词前缀是“附上，在一旁”的意思；名词前缀是“次要的，旁的”意思，这和同源的英语by-是一个意思。参见英语bypass（旁道）。",
+      "source_content_hash": "a03fee542902bd1fcf0b8e5e5217bd7d1513d99d929ef3971d4b2c0c4c4b8ec3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "接頭辞bei-も「付随」の意味です。動詞接頭辞では「付加する、傍らに」の意味、名詞接頭辞では「二次的な、副次的な」意味で、同源の英語by-と同じです。英語bypass（迂回路）を参照。"
+      }
+    },
+    {
+      "segment_id": "74dd7937",
+      "source_content": "![](.\\img\\动词前缀bei.png)",
+      "source_content_hash": "eec7cb6e8373208f2e1df7cec622e60edd0a8fff6a842687b89b6d5b77322c86",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](.\\img\\動詞接頭辞bei.png)"
+      }
+    },
+    {
+      "segment_id": "ec8ed2a1",
+      "source_content": "### ein-",
+      "source_content_hash": "6d0824977a9b4c6343623a0a56f1f3fb96868a78c4ac538390a37fb0a7a4325a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### ein-"
+      }
+    },
+    {
+      "segment_id": "51867d16",
+      "source_content": "表由外向内的动作“往里”“进入”，例如：atmen 呼吸 → ein/atmen吸入；kommen 来 → ein/kommen 收入。",
+      "source_content_hash": "f70df5d6470bd3a248b7b6b52cac3a45964f62a0285b98e02a6fd1cfe46255cc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "外向きから内向きの動作「中へ」「進入」を表します。例：atmen（呼吸する）→ einatmen（吸い込む）、kommen（来る）→ einkommen（収入）。"
+      }
+    },
+    {
+      "segment_id": "e33a2404",
+      "source_content": "### fort-",
+      "source_content_hash": "20d1330e5a3cfb24ea6f05213a9ae2105309c8172d986d32e9e79f7618114600",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### fort-"
+      }
+    },
+    {
+      "segment_id": "82e90254",
+      "source_content": "表示“离开”或“继续”的含义，例如：bringen 带来 → fort/bringen带走，拿走；treiben 赶 → fort/treiben撵走，赶走；bestehen 存在 → fort/bestehen继续存在；wirken 有作用 → fort/wirken继续发挥作用。",
+      "source_content_hash": "0e71d2fc5b3c643df386a9b6099669688e9a62f9a2dcac070988d8ec23cfceed",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「離れる」または「継続」の意味を表します。例：bringen（持ってくる）→ fortbringen（持ち去る）、treiben（追い立てる）→ forttreiben（追い払う）、bestehen（存在する）→ fortbestehen（存続する）、wirken（作用する）→ fortwirken（影響を及ぼし続ける）。"
+      }
+    },
+    {
+      "segment_id": "e06c002e",
+      "source_content": "### mit-",
+      "source_content_hash": "affb5bc64f8905b2b3a026758d7e9e1ca3e5a3adcc283b0de0c2bd31f80d3486",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### mit-"
+      }
+    },
+    {
+      "segment_id": "25212439",
+      "source_content": "表示“一起”或者“随身携带”，例如：arbeiten 工作 → mit/arbeiten 合作，协作；nehmen 拿 → mit/nehmen 随身携带。",
+      "source_content_hash": "a69f83ce0bac1ac03f7ddab969106806f426c1911a678c89f65560b498a8ed2e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「一緒に」または「携帯する」の意味を表します。例：arbeiten（働く）→ mitarbeiten（協力する）、nehmen（取る）→ mitnehmen（持っていく）。"
+      }
+    },
+    {
+      "segment_id": "94145a94",
+      "source_content": "### nach-",
+      "source_content_hash": "919a7cca8ca50890bd20d6a24fe2f1f0a76ceda3b028f6e4a7d626c4b45e9e78",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### nach-"
+      }
+    },
+    {
+      "segment_id": "2838eb68",
+      "source_content": "表“随后”或“向着某一目标”，例如：lernen 学习 → nach/lernen 补学；blicken 望，看 → nach/blicken 目送。",
+      "source_content_hash": "4d1408da79eef61191f027fbc274a1db4ded3af9e21636b8ee2ab3424f03307e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「後で」または「特定の目標に向かって」の意味を表します。例：lernen（学ぶ）→ nachlernen（追い学習する）、blicken（見る）→ nachblicken（見送る）。"
+      }
+    },
+    {
+      "segment_id": "4be28ed1",
+      "source_content": "nach作为可分前缀，含义还是可以高度概括为“在……之后”。",
+      "source_content_hash": "8a2cf653b3d0170041467aa251b068bf5b27d0af0d17b4973b6d72de508a0239",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "分離接頭辞nachの意味は「～の後に」と高度に概括できます。"
+      }
+    },
+    {
+      "segment_id": "0e80209e",
+      "source_content": "![](./img/动词前缀nach-.png)",
+      "source_content_hash": "0d280067df0af4eaeb0bdbfdab9ec45ed61011c5b2fb12a59df4062e679a9d38",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/動詞接頭辞nach-.png)"
+      }
+    },
+    {
+      "segment_id": "d1f76d04",
+      "source_content": "### nieder-",
+      "source_content_hash": "e95a30612f43dd7ba14f47a8c81b6cf92e860b786a2fd02f9810e0cf08968c2a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### nieder-"
+      }
+    },
+    {
+      "segment_id": "6693c38c",
+      "source_content": "表“向下”“打倒”，例如：biegen 弯曲 → nieder/biegen使向下弯曲；schlagen 打 → nieder/schlagen打倒。",
+      "source_content_hash": "9f13b062e7091fdfbf55e2f11c74ad9acdd249ca99012d3876c8103f236bf70e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「下方へ」「打倒」の意味を表します。例：biegen（曲げる）→ niederbiegen（下方へ曲げる）、schlagen（打つ）→ niederschlagen（打ち倒す）。"
+      }
+    },
+    {
+      "segment_id": "8172a0a5",
+      "source_content": "### vor-",
+      "source_content_hash": "aedaab56c83105a15ea70fa58716ca00dd9e7b8d1d2a5a14eabae26fd9ac4964",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### vor-"
+      }
+    },
+    {
+      "segment_id": "1b4de6df",
+      "source_content": "表“事先”“在……前”“到……前”，例如：vor/arbeiten做准备工作；vor/hängen挂在前面；vor/fahren向前行驶。",
+      "source_content_hash": "edb0739bb258f96ebc38a63851374ae4616b680c53cec8e9b342502763c6bc09",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「事前に」「～の前に」「～の前へ」の意味を表します。例：vorarbeiten（下準備する）、vorhängen（前に掛ける）、vorfahren（前進する）。"
+      }
+    },
+    {
+      "segment_id": "37fca32e",
+      "source_content": "### zu-",
+      "source_content_hash": "3e7078f565fca2d26fdb360261b02f1c3b1bf12d7940773a83e02d634fc4a450",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### zu-"
+      }
+    },
+    {
+      "segment_id": "a8610918",
+      "source_content": "表“朝向”，例如：zu/schicken寄给，送给；zu/schießen射向。",
+      "source_content_hash": "d9ba84a42f26b4fcd4ad27f19c629b7acb83e1f258180c0ae4106217f4a16d4a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「方向」の意味を表します。例：zuschicken（送り届ける）、zuschießen（射掛ける）。"
+      }
+    },
+    {
+      "segment_id": "a6c928a1",
+      "source_content": "zu用作可分前缀时只有两项含义，并且还都可以统一在箭头这个意象之下。",
+      "source_content_hash": "3dd6b0a95a18771faf840c37428001308f377d2f446516296455a271f7736026",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "分離接頭辞zuの意味は2つしかなく、どちらも「矢印」のイメージで統一できます。"
+      }
+    },
+    {
+      "segment_id": "b6152880",
+      "source_content": "![](./img/动词前缀zu-.png)",
+      "source_content_hash": "f12aa9367f934b43bb7e7ae959ed1f4623846b3d5c603645db042e5686ca2a19",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/動詞接頭辞zu-.png)"
+      }
+    },
+    {
+      "segment_id": "b9331170",
+      "source_content": "zugehen和zufahren等可分动词的用法结构都是auf jn./etw. zugehen/zufahren。所以，其实本来不是可分动词，而是auf ... zu的介词结构，“往某上，缩小距离至合上”，只不过一个句子得有一个动词，在这种情况下需要一个趋向动词，放在后面的zu和动词连到一块儿就成了可分动词。",
+      "source_content_hash": "1f2889b18113078fc59eeabcc1e6c480d3b36a5220630c582048b2946468a24b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "zugehenやzufahrenなどの分離動詞の構文は全て「auf jn./etw. zugehen/zufahren」です。元々は分離動詞ではなく「auf...zu」の前置詞構文「～の方へ、距離を縮めて合流する」でしたが、文には動詞が必要なため、後置のzuが動詞と結合して分離動詞になったものです。"
+      }
+    },
+    {
+      "segment_id": "2bb63d77",
+      "source_content": "## 可分和不可分兼有",
+      "source_content_hash": "75958273f0a43c26636ef7132b5ca3049c39767764bb332207b3bf38ea820f5c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 分離と非分離の両用"
+      }
+    },
+    {
+      "segment_id": "53aa2b95",
+      "source_content": "即可分又不可分的前缀有三对：静三动四介词中一对反义的über和unter，词源一对同义的wider和wieder，只加第四格的一对um和durch。最靠谱的方式还是靠重音：重音在前缀，可分；重音在动词，不可分。über, unter, um, durch四个作前缀的动词，规律性并不强（有也记不住的），还是老老实实一个一个积累。",
+      "source_content_hash": "6c7978c349162d8fca319012305573120728422eea56bb30dec0ade213cc57d2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "分離可能と非分離可能の両方の性質を持つ接頭辞は3組あります：静三動四の前置詞における対義語のüberとunter、語源が同じwiderとwieder、第四格のみを取るumとdurchです。最も信頼できる方法はアクセントの位置で判断することです：接頭辞にアクセントがある場合は分離可能、動詞にアクセントがある場合は非分離可能です。über、unter、um、durchの4つの接頭辞を持つ動詞については、規則性が強くない（あったとしても覚えられない）ので、一つ一つ確実に覚えていくのが良いでしょう。"
+      }
+    },
+    {
+      "segment_id": "c766290e",
+      "source_content": "###  über-",
+      "source_content_hash": "281a954e3b59af40abe6fd0e5fce7b6dc94e947e8b6a488c179fd44f7498c053",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "###  über-"
+      }
+    },
+    {
+      "segment_id": "5c7d994c",
+      "source_content": "值得注意的是，über-构成的动词有可能可分，也有可能不可分，还有部分动词即可分又不可分。über-构成的动词，有90个左右。可分的，感觉是个短语；不可分的感觉是一个带了前缀微调了意思的词。特别注意，吃腻看腻听腻3个动词都是可分的。",
+      "source_content_hash": "10913979af182723b0c697e293e94392c574cffda1781e3812d002d49143b5c2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "特に注意すべきは、über-で構成される動詞は分離可能な場合も非分離可能な場合もあり、さらに一部の動詞は両方の性質を持つことです。über-で構成される動詞は約90個あります。分離可能なものはフレーズのように感じられ、非分離可能なものは接頭辞によって意味が微調整された単語のように感じられます。特に、食べ飽きる、見飽きる、聞き飽きるの3つの動詞はすべて分離可能です。"
+      }
+    },
+    {
+      "segment_id": "1ecf0882",
+      "source_content": "![](./img/动词前缀ueber-.png)",
+      "source_content_hash": "d6d8c9fb5b7bf80d2a8ec84d600d442d0c27bcf25e09ddfa9a7b1454687c62e3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/动词前缀ueber-.png)"
+      }
+    },
+    {
+      "segment_id": "e77cf7c6",
+      "source_content": "词源对über的理解还是很有帮助的。拉丁语的super好像有点格格不入，那是因为这是个复合词，s是ex的遗留。",
+      "source_content_hash": "53b4aad2efa50f65a2e012725700649e3429249a936add32c9adfa376cde4bea",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "語源的なüberの理解は非常に役立ちます。ラテン語のsuperが少し異質に感じられるのは、これが複合語であり、sはexの名残だからです。"
+      }
+    },
+    {
+      "segment_id": "bb1346b6",
+      "source_content": "über的前五项含义其实是可以高度地模糊地统一在一起的，也就是高于和远于的静三和动四。和auf不一样，auf强调是在一个比较平的面上。",
+      "source_content_hash": "1d5aa2bd64d8d9e3fef3bcf2f0a47168ec889e37b310deea46566aeb01a6a9ac",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "überの最初の5つの意味は、高度に曖昧ながらも統一することができます。つまり、静三と動四における「上を越える」と「遠くへ」の概念です。aufとは異なり、aufは比較的平らな面上にあることを強調します。"
+      }
+    },
+    {
+      "segment_id": "8664ed0b",
+      "source_content": "注意第4项的第三个例句，人也可以掠过的。这一项容易忽略。",
+      "source_content_hash": "f6e6f506c15d2a1f4ca2d32403d14bb49ac548a8e8dbf2fd7e34d4ef5f5c089f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第4項の3つ目の例文に注意してください。人も「飛び越える」対象になり得ます。この項目は見落としがちです。"
+      }
+    },
+    {
+      "segment_id": "9e90a9b3",
+      "source_content": "第5项如果理解好了，就可以理解rüber了。rüber是在同一个平面的移动。drüben是同一个平面的那里，相当于英语over there。这次词源又立功了。",
+      "source_content_hash": "2aa0a1902894ad178d24a1d51111fdb6e36c248f69f0f8bbe931908f2b59929e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第5項をしっかり理解すれば、rüberも理解できるようになります。rüberは同一平面上の移動を表し、drübenは同一平面上の「あそこ」を意味し、英語のover thereに相当します。ここでも語源の知識が役立ちます。"
+      }
+    },
+    {
+      "segment_id": "681ef526",
+      "source_content": "第1-5项的占位符是wo或wohin。第6项里面的是不可以用这两个词的，在用法结构里必须写出über。第6项的三个小项都有很多例子，把它们高度统一在一起，富于启发性，这是我最自豪的地方之一。",
+      "source_content_hash": "cf5c50f714f651008528c7b738fa279d3036b5056206ff69bc0173078fdb5230",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第1-5項のプレースホルダーはwoまたはwohinです。第6項ではこれらの単語を使うことができず、用法構造において必ずüberを明記する必要があります。第6項の3つの小項目には多くの例があり、これらを高度に統一して理解することは非常に啓発的です。これは私が最も誇りに思っている点の一つです。"
+      }
+    },
+    {
+      "segment_id": "be17ccc3",
+      "source_content": "英语about这种“关于”是用über的。情感方面的用法结构介词有两个，一个是über，一个是auf。über是对现存的已有的如何，而auf是对未来的如何。",
+      "source_content_hash": "dcf6824c416cb0af10f88e997f8323e02eb58a2c6f21bff3050960b2c485266d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "英語のaboutに相当する「～について」の意味ではüberを使用します。感情に関する用法構造の前置詞は2つあり、一つはüber、もう一つはaufです。überは既存のものに対する感情を表し、aufは未来のものに対する感情を表します。"
+      }
+    },
+    {
+      "segment_id": "ad3e22c6",
+      "source_content": "第7项不太重要，看看就好，记不住也没有关系。",
+      "source_content_hash": "150ff4fc22a845abe1d7b59b135b8a938047708c36bf6ce0d81bf4c0b17ed769",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第7項はあまり重要ではないので、軽く目を通す程度で、覚えられなくても問題ありません。"
+      }
+    },
+    {
+      "segment_id": "3e8f45da",
+      "source_content": "前缀über-有über的前五项含义，不再赘述。",
+      "source_content_hash": "ebb5d69714b43a6e639a5f3f518f1044ad9521c94c36c1b54100a23470e3198c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "接頭辞über-にはüberの最初の5つの意味があり、ここでは繰り返しません。"
+      }
+    },
+    {
+      "segment_id": "55dc794c",
+      "source_content": "### wider-",
+      "source_content_hash": "f6af6bb655cfbcfda25d139af229f7a30cc700426cb52c20c47ca63d1e47c273",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### wider-"
+      }
+    },
+    {
+      "segment_id": "63565425",
+      "source_content": "wider-为前缀的动词，Duden收录了17个。可以看出：除了表“反射”的几个词是可分的，其他都是不可分的。",
+      "source_content_hash": "30c32adbd8c6bb40d3287c7c7628d8c14c8a4de1aa39ce30b3c69f3500bef948",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "wider-を接頭辞とする動詞は、Dudenに17個収録されています。「反射」を表すいくつかの単語が分離可能であるのに対し、それ以外はすべて非分離可能であることがわかります。"
+      }
+    },
+    {
+      "segment_id": "1496ef51",
+      "source_content": "![](./img/动词前缀wider-.png)",
+      "source_content_hash": "a35f62571eb3d56666edf58df0c7a106e12ebd9652aea2f6bcbbcc94a2c558b5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/动词前缀wider-.png)"
+      }
+    },
+    {
+      "segment_id": "3c6dd548",
+      "source_content": "### wieder-",
+      "source_content_hash": "0f9c157c2eb9ac63a0fcba2d968c1b63e1cf30260f32ec7e7e89a40a7bf57f2a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### wieder-"
+      }
+    },
+    {
+      "segment_id": "6f08f877",
+      "source_content": "wieder-为前缀的动词，Duden收录了46个。有一个wiederholen即可分又不可分，但是可分的这个义项朗氏没有收录，频度太低，所以学习者可以把wiederholen看作是一个不可分动词。除了四个表示“恢复”的动词不可分，其他都是可分的。然而，四个表示“恢复”的动词朗氏词典也都没有收录。也就是说，不可分的wieder-几乎只有一个。",
+      "source_content_hash": "3faee2bfc9a1e529f9dd650dec79d526b33c9fee44ae1c4acf52ee4f148bc6d3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "wieder-を接頭辞とする動詞は、Dudenに46語収録されています。wiederholenは分離可能でも非分離可能でも使用されますが、分離用法の意味項目はLangenscheidt辞典に掲載されておらず、使用頻度も低いため、学習者はwiederholenを非分離動詞と見なして構いません。「回復」を表す4つの動詞が非分離である以外は、すべて分離可能です。ただし、「回復」を表す4つの動詞もLangenscheidt辞典には収録されていません。つまり、実質的に非分離のwieder-動詞はほぼ存在しないと言えます。"
+      }
+    },
+    {
+      "segment_id": "2dbfc5f7",
+      "source_content": "![](./img/动词前缀wieder-.png)",
+      "source_content_hash": "a4e5c3a4a43669e0b1f4769bdeb8cadb9c8b24283eed5ab3afae40e51244d4dc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/動詞接頭辞wieder-.png)"
+      }
+    },
+    {
+      "segment_id": "3f77c6a0",
+      "source_content": "## 前缀辨析",
+      "source_content_hash": "83a9723ff073b05ee3159e9653d61a2cde1bc0a927437ba016442bc5469cdd98",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 接頭辞の識別"
+      }
+    },
+    {
+      "segment_id": "39f476dc",
+      "source_content": "不管是哪个带前缀的动词，有多少项含义，都肯定和前缀和动词的基本含义相关。",
+      "source_content_hash": "4fba2ca2fafbd8c372e92eb3b8661463a636d210cba1da458651b9784b0422a4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "接頭辞を持つ動詞は、その意味項目がどれだけ多くても、必ず接頭辞と動詞の基本意味に関連しています。"
+      }
+    },
+    {
+      "segment_id": "16ae54ea",
+      "source_content": "### nehmen",
+      "source_content_hash": "d556effea2d8fb2be5c77b555640704c334b9deb320ba88fee07629a8018301a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### nehmen"
+      }
+    },
+    {
+      "segment_id": "62d066b0",
+      "source_content": "![](./img/nehmen-1.png)",
+      "source_content_hash": "e17c9eae5f672c0da396bc0a9e52c0c0c0897d9ec03fb01e5f38e5ab598c14b9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/nehmen-1.png)"
+      }
+    },
+    {
+      "segment_id": "89cf7bac",
+      "source_content": "放到一起还挺壮观的。放到一起也就好辨析近义词了。",
+      "source_content_hash": "bad6e8d4c1d43f463d3d9b5835cf94ff3ae0b9fd364de433a60b9d7ea62b03c9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "一覧にすると非常に壮観です。まとめて見ることで類義語の区別も容易になります。"
+      }
+    },
+    {
+      "segment_id": "808b0414",
+      "source_content": "其实genehmigen“（官方）批准”也是和nehmen相关的，指的是可以genommen（接受）的。vornehm是放到前面的，就是“体面的，优雅的”。nehmen的一个古老名词是-nunft，比如Vernuft（理性）。这个词是这么来的nehmen（接）→wahrnehmen（注意→感知）→vernehmen（听）→Vernunft（听老人言→理性）。",
+      "source_content_hash": "ebd7380996f9030e59ab10f19e525a83d014b3cc24df26c4d64ebdeb85ff9331",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "実はgenehmigen「（公的に）承認する」もnehmenと関連しており、genommen（受け入れ可能）であることを意味します。vornehmは前方に置かれたもので、「上品な、優雅な」という意味です。nehmenの古い名詞形に-nunftがあり、Vernunft（理性）などがこれに当たります。この語はnehmen（受け取る）→wahrnehmen（注意→知覚）→vernehmen（聞く）→Vernunft（年長者の言葉を聞く→理性）という発展を経ています。"
+      }
+    },
+    {
+      "segment_id": "61a78cbe",
+      "source_content": "nehmen在Duden中有24大项含义，加上小项就更多了，但是不管是“拿、夺、取”还是“吃”，都可以按英语take来理解。",
+      "source_content_hash": "e36b987352562598b2783ae9f9a91e8c082c770700f47f35e3c2582f85ff1fb6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "nehmenはDudenで24の主要な意味項目があり、細分化するとさらに多くなりますが、「取る、奪う、獲得する」も「食べる」も、英語のtakeと同様に理解できます。"
+      }
+    },
+    {
+      "segment_id": "39c48ff7",
+      "source_content": "nehmen, einnehmen, nachnehmen都有吃的意思。“吃药”主要用einnehmen，用nehmen也可以；“吃喝进食”用einnehmen和nehmen都偏文雅；nachnehmen是“再加点吃喝”，毕竟nach作为前缀有“之后如何”的意思，比如：Nimm dir doch noch etwas Reis nach. （你）再加（吃）点米饭啊。汉语有“吃我一拳”，英语有I'm taking  fire，德语有Er musste mehrere Haken nehmen（吃了好几记勾拳）。",
+      "source_content_hash": "fa3b15d033d30d0c45ba9754b18eb5c72b72129dfc62b23c77e45abd2041b70b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "nehmen, einnehmen, nachnehmenには全て「食べる」の意味があります。「薬を飲む」には主にeinnehmenが使われますが、nehmenも可能です。「飲食する」の意味ではeinnehmenとnehmenはどちらもやや格式ばった表現です。nachnehmenは「追加で飲食する」の意味で、接頭辞nachには「後に～する」の意味があるためです。例：Nimm dir doch noch etwas Reis nach.（もう少しご飯をお代わりしなさい）。中国語に「吃我一拳」、英語にI'm taking fire、ドイツ語にEr musste mehrere Haken nehmen（何発もフックを食らった）といった表現があります。"
+      }
+    },
+    {
+      "segment_id": "e29bd639",
+      "source_content": "不管是哪个带前缀的动词，有多少项含义，都肯定和前缀和动词的基本含义相关。比如abnehmen：",
+      "source_content_hash": "0295c1ec308d77ec1bec65a0faa0a8ab8d249b36d0cc676963098b2a5552dc48",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "どの接頭辞を持つ動詞でも、その意味項目がどれだけ多くても、必ず接頭辞と動詞の基本意味に関連しています。例えばabnehmen："
+      }
+    },
+    {
+      "segment_id": "e5821418",
+      "source_content": "![](./img/nehmen-2.png)",
+      "source_content_hash": "5c3cd68adfe895d41d06addaab5366f97190c368d1717cb8e303a06ab6571f88",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/nehmen-2.png)"
+      }
+    },
+    {
+      "segment_id": "4e2e17c5",
+      "source_content": "上图中所有义项都和nehmen（take）以及ab（off）相关，并且只和它们相关。ab (off) 类似于汉语的“下，掉，走”。",
+      "source_content_hash": "0b33fa03951493f9e478a03867e4b0b7c9784a34cd9d9c8da0c363976440a570",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "上図の全ての意味項目はnehmen（take）とab（off）に関連しており、それらだけに関連しています。ab (off) は中国語の「下、掉、走」に類似しています。"
+      }
+    },
+    {
+      "segment_id": "b49a7009",
+      "source_content": "auf和ab是一对反义词，auf (up) 是“上，起，来”。aufnehmen今天还保留了最原始的含义“从地上捡起，拿起”，再从“拿起”产生“抱起”→接收→使加入→吸收→接受（作品）等意思。",
+      "source_content_hash": "7facf8691ccfaeabdae6e0ac57db27138d3abe036267d8ab31b756cb40018bec",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "aufとabは反意語で、auf (up) は「上、起、来」を意味します。aufnehmenは今日でも最も原始的な意味「地面から拾い上げる」を保持しており、そこから「抱き上げる」→受け入れる→加入させる→吸収する→（作品を）受容するなどの意味が派生しました。"
+      }
+    },
+    {
+      "segment_id": "9ebd9d9b",
+      "source_content": "an是“靠近，初步，稍稍”的意思，所以annehmen有“接受，愿意”的意思。annehmen和aufnehmen有的时候会难以区分：annehmen主要是“接受”，aufnehmen主要是“接收”。annehmen有“收养”的意思，毕竟an有同化的感觉，而aufnehmen有“容纳”的意思，毕竟auf是拉人上来的感觉。annehmen和aufnehmen都有“录取”的意思。",
+      "source_content_hash": "519ecccd0121a82850c0090d17e9a4a43b814e3d003d4c3ee8ca3bf4c21cc058",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「an」は「近づく、初歩的、少し」という意味であり、したがって「annehmen」には「受け入れる、承諾する」という意味があります。「annehmen」と「aufnehmen」は時に区別が難しい場合があります。「annehmen」は主に「受け入れる」を意味し、「aufnehmen」は主に「受け取る」を意味します。「annehmen」には「養子にする」という意味もあります（「an」には同化のニュアンスがあるため）。一方、「aufnehmen」には「収容する」という意味があります（「auf」は引き上げるニュアンスがあるため）。「annehmen」と「aufnehmen」の両方に「入学させる/採用する」という意味もあります。"
+      }
+    },
+    {
+      "segment_id": "6d457467",
+      "source_content": "### fordern",
+      "source_content_hash": "12888694fc098586bd4e762d55aca2da3044fb2ea9adcfc2e1ae12a0c2bc9833",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### fordern（要求する）"
+      }
+    },
+    {
+      "segment_id": "6fad5db5",
+      "source_content": "fordern（要求）派生自vorder（前）。vorder是vor的古老的比较级。再往前来一点 → 要求。如果要求别人出来（herausfordern）那就是“挑战”了，这使我想起《三国演义》里的骂阵。",
+      "source_content_hash": "5d40b6057838db14376334d5f97d2fbc6a684b86c3eb22cd8696c05f0967c387",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「fordern」（要求する）は「vorder」（前）から派生しました。「vorder」は「vor」の古い比較級です。「さらに前へ→要求する」という発展です。誰かを外に要求する（「herausfordern」）なら「挑戦する」という意味になり、『三国志演義』の罵陣を思い起こさせます。"
+      }
+    },
+    {
+      "segment_id": "c5e0bb3d",
+      "source_content": "fördern（促进）派生自现代德语中已经消失的一个比较级fürder（更远，往前），与英语further（促进）同源。弄远一点，推向前进→促进。fürder的原级是fort（往前，离开），与vor同出一源。",
+      "source_content_hash": "8a09c6b8586494d0f61f1a1837672db241da782b9f63b68bf9cffb491dd62f56",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「fördern」（促進する）は現代ドイツ語では消滅した比較級「fürder」（さらに遠く、前に）から派生し、英語の「further」（促進する）と同源です。「さらに遠くへ、前進させる→促進する」という流れです。「fürder」の原級は「fort」（前に、離れて）で、「vor」と同じ語源です。"
+      }
+    },
+    {
+      "segment_id": "f2c67ca5",
+      "source_content": "德语vor - vorder - vorderst, fort - fürder。英语fore - further - first, forth - further, far - farther。",
+      "source_content_hash": "93787f13a65c03961a63b8d0d3ea8c83b91016775ffe90a6d7367c6d5ee527eb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ドイツ語：vor - vorder - vorderst, fort - fürder  \n英語：fore - further - first, forth - further, far - farther"
+      }
+    },
+    {
+      "segment_id": "3208eb29",
+      "source_content": "fördern因为来自fürder（更远，往前），所以最早还有“运送”的含义，今天这项含义已经改用befördern来表达；“把矿石运送带出来”，所以fördern也有“开采”的含义。",
+      "source_content_hash": "f0f8a22bc079a1ae2e229b33ecb400d0a0c9135855b06cec4613959b4638c29c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「fördern」は「fürder」（さらに遠く、前に）に由来するため、元々は「運送する」という意味もありましたが、現在ではこの意味は「befördern」で表現されます。「鉱石を運び出す」ことから、「fördern」には「採掘する」という意味もあります。"
+      }
+    },
+    {
+      "segment_id": "38f964f1",
+      "source_content": "“促进”基本只有fördern，但是“要求”有好几个，怎么区分呢？",
+      "source_content_hash": "b694d9aa140601b2e3de534b1622b18c79b290518b5197a2994919dfcdd0bb1a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「促進する」は基本的に「fördern」のみですが、「要求する」には複数の表現があります。どう区別すればよいでしょうか？"
+      }
+    },
+    {
+      "segment_id": "b4204c03",
+      "source_content": "![](./img/fordern-1.png)",
+      "source_content_hash": "d63c987f5fa79deea4625b5b8b17bcd0f169492e4cc54a72160fab4b2c664ec4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/fordern-1.png)"
+      }
+    },
+    {
+      "segment_id": "e6ac016e",
+      "source_content": "简单来说，verlangen是“想要有”那种“要求”，和“渴望”有关，参见它的名词Verlangen（热望，渴求）；fordern更像是“主张要有”那种“要求”，参见它的名词Forderung（要求）；erfordern更像是“有必要”那种“需要”，参见它的形容词erforderlich（需要的，必需的）。思维导图里的例句被折叠起来了，打开的话字儿可能就看不清了。",
+      "source_content_hash": "40075cbeb2bfe66ba42ec4841e0f6da5165c37e9815029089f92d6b0564b874d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "簡単に言えば、「verlangen」は「欲しい」というタイプの「要求」で、「渴望」に関連します（名詞「Verlangen」＝熱望、渴求を参照）。「fordern」は「主張して求める」タイプの「要求」です（名詞「Forderung」＝要求を参照）。「erfordern」は「必要がある」タイプの「需要」で、形容詞「erforderlich」（必要な、必須の）と関連します。マインドマップの例文は折りたたまれているため、開くと文字が読みづらくなるかもしれません。"
+      }
+    },
+    {
+      "segment_id": "dad05c50",
+      "source_content": "很多同学都对加各种前缀的动词非常头疼，比如各种-fordern：",
+      "source_content_hash": "19a762feff38484a4b486d0263f49632a443151ac2eb1e59a1eb3999a5aba2de",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "多くの学習者がさまざまな接頭辞が付いた動詞（特に「-fordern」系）に頭を悩ませています："
+      }
+    },
+    {
+      "segment_id": "eeeea5ce",
+      "source_content": "![](./img/fordern-2.png)",
+      "source_content_hash": "93ff942e768efd6ba5faf56c32e379fd80e7215b74adcd96a1e28a8f6db1eddd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/fordern-2.png)"
+      }
+    },
+    {
+      "segment_id": "e4d8cd8a",
+      "source_content": "其实如果理解介词的深层含义的话，把这些词摆到一起理解，都是小菜一碟。要理解介词的深层含义，就要把介词的各项意思高度统一在一个意象下，并且把各项词义的发展脉络理出来。",
+      "source_content_hash": "c100d60df36be33f83be2696bed4723420de97f8c9d94713ebbcfe7b2f6a0185",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "実は、前置詞の深層的な意味を理解すれば、これらの単語を並べて理解することは簡単です。前置詞の深層的な意味を理解するには、前置詞の各意味を一つのイメージに統合し、語義の発展経路を整理する必要があります。"
+      }
+    },
+    {
+      "segment_id": "af834e0d",
+      "source_content": "总结：",
+      "source_content_hash": "eefacd527158ecd0fc0d02f09bde1595a675dd72938535ab11d64e49e0c13849",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "まとめ："
+      }
+    },
+    {
+      "segment_id": "d75361e3",
+      "source_content": "fordern和fördern都来自vor，不过走了不同的道路。德语中还有大量的意想不到的词来自vor（比如fremd），英语中也有大量的同源词（比如from, prime）。",
+      "source_content_hash": "3b9cced80e21937d0947fe2a131acf54b2dfab55526f153f923ed9f767d14969",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「fordern」と「fördern」はどちらも「vor」から派生しましたが、異なる道をたどりました。ドイツ語には「vor」から派生した意外な単語（例：「fremd」）が多数あり、英語にも同源語（例：「from」「prime」）が多く存在します。"
+      }
+    },
+    {
+      "segment_id": "3e795db3",
+      "source_content": "## 特例",
+      "source_content_hash": "63a441c5e8e192a5c0728431f7531570f6df290b7ed2a82e36fd34f42d2bd35f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 例外"
+      }
+    },
+    {
+      "segment_id": "4fbee4f2",
+      "source_content": "- (jm.) etw. gewährleisten（保障，确保）是名词+动词的结构，不可分。\n\n- schlafwandeln（梦游）名词+动词的结构，不可分。\n\n- etw. absorbiert etw.（吸收）介词+动词结构，不可分。\n\n- etw. absolvieren（结束）介词+动词结构，不可分。\n\n- etw. aus etw. abstrahieren（从……抽象出）介词+动词结构，不可分。",
+      "source_content_hash": "b1861c279b0ab0a080721c432df4c4c10e7048ae5f507af97b6d37c58d0e19d3",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "- (jm.) etw. gewährleisten（保証する、確保する）は名詞＋動詞の構造で、分離不可。\n\n- schlafwandeln（夢遊病）は名詞＋動詞の構造で、分離不可。\n\n- etw. absorbiert etw.（吸収する）は前置詞＋動詞の構造で、分離不可。\n\n- etw. absolvieren（修了する）は前置詞＋動詞の構造で、分離不可。\n\n- etw. aus etw. abstrahieren（……から抽象化する）は前置詞＋動詞の構造で、分離不可。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/动词/动词前缀.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.513703+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "3f97b799c402e5e0b8d7f3fae31ac2ebd234460177873551ec1f127837c7ecf2"
+  }
+}

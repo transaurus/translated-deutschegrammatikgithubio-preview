@@ -1,0 +1,322 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/介词/介词支配格.md",
+  "source_file_content_hash": "7a4154026631a292a7ad73b1d91369611352d7a187e1d59699f2b0e5e0f4caad",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 2\n---",
+      "source_content_hash": "6b5a0ead0daa1090c8a38fd0c73528677b05e2e1ac3baca413f4c1cf998fee45",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 介词支配格",
+      "source_content_hash": "a429e0e2fddab7bf97c73920b3a00b66ca93fd0ecbb276b4c979c9dde609060b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 前置詞の格支配"
+      }
+    },
+    {
+      "segment_id": "6ef78e84",
+      "source_content": "找出常见的加第三格的介词（9个），常见的只加第四格的介词（5），再列出静三动四的介词（9个），再加上最常见的第二格介词（4个），合计27个，就掌握了德语介词的90%以上（不是数量，而是知识点）。",
+      "source_content_hash": "4d859fd82f8a1a7cef72023c49b59a44fcf7cbb994448d41a4a9fad1f1418e54",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第三格を支配する一般的な前置詞（9個）、第四格のみを支配する前置詞（5個）、静三動四の前置詞（9個）、さらに最も一般的な第二格を支配する前置詞（4個）をリストアップすれば、合計27個でドイツ語前置詞の90％以上をカバーできます（数ではなく知識点として）。"
+      }
+    },
+    {
+      "segment_id": "53eaf0e1",
+      "source_content": "![](./img/介词.png)",
+      "source_content_hash": "de1373ac98c62594f976a7ee69f90f4a147f9cfb7c1d438d387075b222fc2bef",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/介词.png)"
+      }
+    },
+    {
+      "segment_id": "8a5f6a7b",
+      "source_content": "### 支配第三格、第四格介词",
+      "source_content_hash": "e7a334f274a81ec97c52f71917c54098b76375f3fb0ae65b993107ba2b232180",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 第三格・第四格支配前置詞"
+      }
+    },
+    {
+      "segment_id": "180bddb1",
+      "source_content": "只加第三格的9个介词用《两只老虎》的调唱一遍9个介词就能记住了。",
+      "source_content_hash": "5ad690f6fb6da411db9b06e6e43d96ec7f47f0baac6923a9e1cdfaf3b35cb895",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第三格のみを取る9つの前置詞は「2匹のトラ」のメロディで歌えば覚えられます。"
+      }
+    },
+    {
+      "segment_id": "cf898102",
+      "source_content": "只加第四格的5个介词用“找块豆腐撞死”（gegen Douf(u)）就能记住了，记不住得撞豆腐了。Douf的每个字母代表一个介词的首字母。",
+      "source_content_hash": "4a3ca6611679e2dcb36c7238fa4afba5d0376786ec40aad4f024d7274a7fbc4b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第四格のみを取る5つの前置詞は「豆腐にぶつかって死ね」（gegen Douf(u)）で覚えられます。覚えられない場合は豆腐にぶつかる必要があります。Doufの各文字は各前置詞の頭文字を表します。"
+      }
+    },
+    {
+      "segment_id": "42ad8e83",
+      "source_content": "静三动四的9个介词主要和空间位置关系有关，分成3组，设想一个小球和盒子的关系是可以记住的。wo用第三格，wohin用第四格。并且这9个介词在不表示静三动四，而是在用法结构中的时候，几乎全部是加第四格的。",
+      "source_content_hash": "6c5424b7a8039115b64fa05c5b774d79c5e20ce4801e3809daaf6693b7257074",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "静三動四の9つの前置詞は主に空間的位置関係に関連し、3つのグループに分けられます。ボールと箱の関係を想像すれば覚えられます。woには第三格、wohinには第四格を使います。また、これらの9つの前置詞は静三動四として使われない場合、構文的用法ではほとんどすべて第四格を取ります。"
+      }
+    },
+    {
+      "segment_id": "f6168993",
+      "source_content": "加第二格的介词，常见的是四个。其他的几乎全部是书面的甚至文雅的表达，使用频率低，可以慢慢学，并且很容易看出词根，好理解。",
+      "source_content_hash": "4cfd5db233523d3d9cd963aa1d675e71977f2e26d86ab96a45fc81e3faae3a30",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第二格を支配する前置詞で一般的なのは4つです。その他はほとんどが文語的で使用頻度が低く、徐々に学べます。また語根がわかりやすいので理解しやすいです。"
+      }
+    },
+    {
+      "segment_id": "f5f6d2ce",
+      "source_content": "以上就是重点，其他就只有一点点边角料了，比如ab一般加第三格（其实很多时候没有冠词，看不出格），entlang在名词前一般用第二格，在名词后用第四格（可置于名词之前或之后,在名词后支配第四格或第三格,在名词前支配第三格, 偶尔也支配第二格）。",
+      "source_content_hash": "d79e4d478141f16285eda7522d66d274f38eef7404ae478a5833dac65e08bcb6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "以上が主要なポイントです。他にはわずかな周辺事項のみで、例えばabは一般的に第三格を取ります（実際には冠詞がないことが多く格がわかりません）。entlangは名詞の前では一般に第二格、後では第四格を取ります（名詞の前後に置くことが可能で、名詞後では第四格または第三格、名詞前では第三格を支配し、時折第二格も取ります）。"
+      }
+    },
+    {
+      "segment_id": "40f9552a",
+      "source_content": "### 支配第二格介词",
+      "source_content_hash": "3e8c406501e207b1485dab7b10a9f7bf8aff15db11a37844d70ece07d313ed11",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 第二格支配前置詞"
+      }
+    },
+    {
+      "segment_id": "f2c2bdd0",
+      "source_content": "德语中加第二格的介词常用的只有4个：statt, trotz, wegen, während。对应的英语分别是instead of, in spite of, because of, during. 从英语的of也可以看出来，这是要加第二格（所有格）。",
+      "source_content_hash": "4bae4abf29e9cea18e76cd37c314ff4008b541a36cf8f040086d15fde87ae49c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ドイツ語で第二格を取る前置詞で一般的なのは4つだけです：statt, trotz, wegen, während。対応する英語はそれぞれinstead of, in spite of, because of, duringです。英語のofからもわかるように、これらは第二格（所有格）を取ります。"
+      }
+    },
+    {
+      "segment_id": "a76548f8",
+      "source_content": "不常见的支配第二格的介词从构成特点可以分为5大类：介词加名词、名词、形容词和分词以及副词、-lich和-s。下文排列的时候考虑了字母顺序、来源、构成、近义和反义。",
+      "source_content_hash": "45a412e8118a95622b9cd7ac52418ff10ee43c4443e3c4f325baad126312f01c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "一般的でない第二格支配前置詞は構成上の特徴から5つの主要なカテゴリーに分類できます：前置詞＋名詞、名詞、形容詞と分詞および副詞、-lichと-s。以下の配列はアルファベット順、語源、構成、類義語と反意語を考慮しています。"
+      }
+    },
+    {
+      "segment_id": "4b1d2d7d",
+      "source_content": "1、介词加名词构成的有：",
+      "source_content_hash": "a1d0f8a15b996356df1a6de32e0d69a1874b4d97b84e732759aeec08a7e4d552",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "1、前置詞＋名詞で構成されるもの："
+      }
+    },
+    {
+      "segment_id": "dfe931a2",
+      "source_content": "anhand, anstatt, anstelle, aufgrund, infolge, aufseiten, vonseiten, mithilfe, um ... willen, zugunsten, zuungunsten, zulasten.",
+      "source_content_hash": "77f043c17a6f016e468753d87bbe2e858ddbfbe8fb0faa1548b9d013b4786397",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "anhand, anstatt, anstelle, aufgrund, infolge, aufseiten, vonseiten, mithilfe, um ... willen, zugunsten, zuungunsten, zulasten."
+      }
+    },
+    {
+      "segment_id": "4daf5cdd",
+      "source_content": "这种构成方式英语里也有，比如instead。有的甚至还能分开写，比如mit Hilfe。这样就更容易理解为什么加第二格了。",
+      "source_content_hash": "4db7df48b22ad78d594a04ef3aa56ed0ed84e634f197a0d2bacfeaf5bffdd284",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "この構成方法は英語にも見られ、例えばinsteadがあります。mit Hilfeのように分けて書けるものもあり、なぜ第二格を取るのか理解しやすくなります。"
+      }
+    },
+    {
+      "segment_id": "bdc231b1",
+      "source_content": "2、短语去掉其他成分或上面这种构词去掉了介词，只留下了名词：dank, kraft, zeit, statt, trotz, wegen。比如anstatt变成statt，意思仍一样。再比如dank，来自Dank sei ...。我们最熟悉的一个句子可能是Gott sei Dank，其中Gott是第三格，本义是“愿感谢归于上帝”。",
+      "source_content_hash": "1f1e2cabbd00648baf5ff0fe8c2c8d5629fc3dbd93b39d59f2ca4725c2927994",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "2、他の成分を省略したフレーズや上記のような構成から前置詞が取り除かれ、名詞のみが残ったもの：dank, kraft, zeit, statt, trotz, wegen。例えばanstattがstattに変化しても意味は同じ。dankは「Dank sei ...」に由来する。よく知られている文は「Gott sei Dank」で、Gottは第三格、本来の意味は「神に感謝を捧げます」。"
+      }
+    },
+    {
+      "segment_id": "97ae4a01",
+      "source_content": "3、介词加名词在语法上相当于形容词或副词，而分词也可以做形容词或副词，因此，形容词和分词以及副词也可以变成加第二格的介词：",
+      "source_content_hash": "ed85fd7b27cf7072122cb1a579147d82433cf136eb5a6cfc1d0948d67165bb1e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "3、前置詞＋名詞は文法的に形容詞や副詞に相当し、分詞も形容詞や副詞として機能するため、形容詞や分詞、副詞も第二格を支配する前置詞に変化することがある："
+      }
+    },
+    {
+      "segment_id": "c3a738de",
+      "source_content": "während, bar, ... halber, -halb (innerhalb, außerhalb, oberhalb, unterhalb), binnen, inmitten, entlang, inklusive, exklusive, minus, plus, ob, unbeschadet, ungeachtet, unweit, unfern, vermöge.",
+      "source_content_hash": "3b2f87e8c3095e154f4058f212d21c27d0f7540324735e1dd6576fd94e481385",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "während, bar, ... halber, -halb (innerhalb, außerhalb, oberhalb, unterhalb), binnen, inmitten, entlang, inklusive, exklusive, minus, plus, ob, unbeschadet, ungeachtet, unweit, unfern, vermöge."
+      }
+    },
+    {
+      "segment_id": "3cfe6286",
+      "source_content": "其中während是第一分词，来自动词währen（持续），英语的during也是第一分词（现在分词），也是来自“持续”；-halb来自die Hälfte（一半），后来产生“边”的含义；inklusive是来自拉丁语的副词；entlang相当于英语along。",
+      "source_content_hash": "b2540e55878eacf894344a762db75479855bce78a5f64e98b7eeab315fc6d919",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "このうちwährendは現在分詞で、動詞währen（続く）に由来し、英語のduringも現在分詞で「続く」から派生。-halbはdie Hälfte（半分）に由来し、後に「側」の意味を持つようになった。inklusiveはラテン語の副詞から、entlangは英語のalongに相当。"
+      }
+    },
+    {
+      "segment_id": "1042b50d",
+      "source_content": "4、形容词和副词的一个词尾是-lich：",
+      "source_content_hash": "421ef78ecc3ec0877cd0e519b3ace6a2b3e26b4383ef85b5bc76e8a9656291e0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "4、形容詞と副詞の語尾に-lichが付くもの："
+      }
+    },
+    {
+      "segment_id": "aa1e7006",
+      "source_content": "abzüglich, zuzüglich, bezüglich, hinsichtlich, anlässlich, einschließlich, ausschließlich, vorbehaltlich, seitlich, nörd/öst/süd/westlich.",
+      "source_content_hash": "18bccfcf7b4a5b91b0cdbae9ddac534f45004725538d6d7f337c44464501becd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "abzüglich, zuzüglich, bezüglich, hinsichtlich, anlässlich, einschließlich, ausschließlich, vorbehaltlich, seitlich, nörd/öst/süd/westlich."
+      }
+    },
+    {
+      "segment_id": "13d9cd70",
+      "source_content": "其中abzüglich和zuzüglich是反义词，与第3部分的minus和plus相对应；einschließlich和ausschließlich是反义词，与第3部分的inklusive和exklusive相对应。",
+      "source_content_hash": "87c40d466ebd2055c994b67ad7fecd7c9787d32a240f8a52cdbcbc3e2059f7a6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "abzüglichとzuzüglichは反意語で、第3部のminusとplusに対応。einschließlichとausschließlichは反意語で、第3部のinklusiveとexklusiveに対応。"
+      }
+    },
+    {
+      "segment_id": "29528c8d",
+      "source_content": "5、构成副词的一个方式是加-s：",
+      "source_content_hash": "3af884f5f4d2f35ef704a87211692f41b64305d6f7fdee1abc88fc501f2e5b0a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "5、副詞を構成する方法の一つに-sを付けるもの："
+      }
+    },
+    {
+      "segment_id": "c504c207",
+      "source_content": "abseits, beiderseits, jenseits, diesseits, seitens, längs, links, rechts, eingangs, anfangs, betreffs, angesichts, mangels, mittels, vermittels(t), namens, zwecks.",
+      "source_content_hash": "3f0b1ec54f7f23edf832afe925a2f228a1913ff2ebfa6dd79bf1e878437bffea",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "abseits, beiderseits, jenseits, diesseits, seitens, längs, links, rechts, eingangs, anfangs, betreffs, angesichts, mangels, mittels, vermittels(t), namens, zwecks."
+      }
+    },
+    {
+      "segment_id": "98d26038",
+      "source_content": "虽然都带Seite这个词根，但是从第4部分的seitlich，到第5部分的abseits, beiderseits, jenseits, diesseits，都是和空间相关，而seitens和第1部分的aufseiten以及vonseiten一样，指的是参与方。",
+      "source_content_hash": "ad98abf375387ed080332720cbf73a1c72b84d9fa254bd633c5164317691a0bf",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Seiteという語根を含むが、第4部のseitlichから第5部のabseits, beiderseits, jenseits, diesseitsまでは空間に関連し、seitensは第1部のaufseitenやvonseitenと同様に参加者を指す。"
+      }
+    },
+    {
+      "segment_id": "d3649a1e",
+      "source_content": "总结：",
+      "source_content_hash": "eefacd527158ecd0fc0d02f09bde1595a675dd72938535ab11d64e49e0c13849",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "まとめ："
+      }
+    },
+    {
+      "segment_id": "4d52a261",
+      "source_content": "加第二格的介词，常见的只有4个，不常见的根据来源和构成可以分为5类。加第二格的介词来自（带介词的）名词或副词（德语的形容词可以做副词，分词是形容词的性质，介词结构相当于形容词或副词）。",
+      "source_content_hash": "908e9ff67eeb7e79757c69cf349fa57b2e6e3c8156584acce34da5c27ebd68f1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第二格を支配する前置詞で一般的なのは4つのみ。それ以外は起源と構成により5つに分類可能。第二格前置詞は（前置詞付き）名詞や副詞（ドイツ語では形容詞は副詞として機能し、分詞は形容詞的性質を持つ）に由来する。"
+      }
+    },
+    {
+      "segment_id": "23dfb152",
+      "source_content": "补充：",
+      "source_content_hash": "dc5dbdc5efb2b40ae62d7b9b6e101e1c3af80d7230134541ba2f528570f7a4a7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "補足："
+      }
+    },
+    {
+      "segment_id": "1131ef75",
+      "source_content": "1、可以把von看做是第二格的一种替代形式，在零冠词的时候使用。",
+      "source_content_hash": "0a35c8926f58e18bfc2ee1eacc40645e309d3cdc88a0ae4682b65c8e4136b3b0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "1、vonを第二格の代替形式と見なし、冠詞がない場合に使用可能。"
+      }
+    },
+    {
+      "segment_id": "8b2a52b1",
+      "source_content": "2、加第二格的介词标准用法是加第二格，一般也可以加第三格；加代词时则必须用第三格，比如wegen mir。",
+      "source_content_hash": "655c83d80d0b7acda987fdb7fe69f81938762b58635c20b2323f1470de22bbd4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "2、第二格前置詞の標準用法は第二格だが、一般的に第三格も可能。代名詞の場合は必ず第三格を使用（例：wegen mir）。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/介词/介词支配格.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.533413+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "7a4154026631a292a7ad73b1d91369611352d7a187e1d59699f2b0e5e0f4caad"
+  }
+}

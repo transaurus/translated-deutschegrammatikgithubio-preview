@@ -1,0 +1,102 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/动词/行动方式.md",
+  "source_file_content_hash": "b9996de37b20f62ddc0b02c8ccd4059a2d1d779f1f22ded1b736251ba6019edc",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 3\n---",
+      "source_content_hash": "57430a289358d8e38d7464d7df5ab948274d7e83ff708b215f37775a5a384353",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 行动方式",
+      "source_content_hash": "0ffc807797360e1382068358b7b59072537a42fdd84aea8f27e001bdf0be90e9",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# ヴォイス（態）"
+      }
+    },
+    {
+      "segment_id": "a703643c",
+      "source_content": "## 主动态",
+      "source_content_hash": "8fc6a348b4f4bd945ec037e8f9f8248c944e32056e00655d3c5a3585a8510e4e",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 能動態"
+      }
+    },
+    {
+      "segment_id": "53eaf0e1",
+      "source_content": "表示主语是动作的执行者，即行为的主体。",
+      "source_content_hash": "aabb92194dcb9aa0659390bfc2550a42ccf5b039f97f518869236feedca2af77",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "主語が動作の実行者、つまり行為の主体であることを表す。"
+      }
+    },
+    {
+      "segment_id": "8a5f6a7b",
+      "source_content": "## 被动态",
+      "source_content_hash": "964b4e5489d4d2d11974cb805a7a757b7c8634a0dbb7a0964d610de0e59c0fb6",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 受動態"
+      }
+    },
+    {
+      "segment_id": "180bddb1",
+      "source_content": "表示主语是动作的承受者，即行为的对象。状态被动态和过程被动态概念可以忽略，该语法术语是指分词的用法。",
+      "source_content_hash": "c3815ecf2067b6fce3973ece77ff4fa2275366688ee385cad46f182efaf6c112",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "主語が動作の受け手、つまり行為の対象であることを表す。状態受動態と過程受動態の概念は無視してよく、この文法用語は分詞の用法を指す。"
+      }
+    },
+    {
+      "segment_id": "cf898102",
+      "source_content": "![](./img/被动态.png)",
+      "source_content_hash": "e135e3ddfb3a083d977576665c747d715f7a25af7dbc31d5dc49edbb159a13e7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/被动态.png)"
+      }
+    },
+    {
+      "segment_id": "3daf1b88",
+      "source_content": "### 被动的替代形式",
+      "source_content_hash": "86c5971058e4603099b69bc533f1aabb5d5dc4bfbbd9d7b56e695636b85b0a96",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 受動態の代替形式"
+      }
+    },
+    {
+      "segment_id": "034de896",
+      "source_content": "* sein + 动词词干 + -bar/-lich\n* sich + 动词原形 + lassen\n* sein + 动词原形 + zu",
+      "source_content_hash": "040fedaef0d174dd3e2848acb04654b8187c773168c4c7f9865d50bd01618bc3",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* sein + 動詞語幹 + -bar/-lich\n* sich + 動詞原形 + lassen\n* sein + 動詞原形 + zu"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/动词/行动方式.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.515233+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "b9996de37b20f62ddc0b02c8ccd4059a2d1d779f1f22ded1b736251ba6019edc"
+  }
+}

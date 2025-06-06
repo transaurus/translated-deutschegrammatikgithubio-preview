@@ -1,0 +1,122 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/动词/变位.md",
+  "source_file_content_hash": "2ec92842bbffa05f80645e5ffc9462c85fe4744fb4f42426e001bab92624f1d7",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 2\n---",
+      "source_content_hash": "6b5a0ead0daa1090c8a38fd0c73528677b05e2e1ac3baca413f4c1cf998fee45",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 变位",
+      "source_content_hash": "caacc9e2e7326ef4e168446a91eb469a17b01ee80be90afad220909dd708a067",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 活用"
+      }
+    },
+    {
+      "segment_id": "6ef78e84",
+      "source_content": "动词须按人称变化。人称有三种：第一人称，第二人称和第三人称。三种人称均有单数和复数。动词做谓语时，须按人称和时态变化。",
+      "source_content_hash": "121c1e368a6f0c0d5e6755053be3671d3b65f19f1e119ace376e5bf90f9a4e45",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "動詞は人称に応じて変化する必要がある。人称には3種類ある：一人称、二人称、三人称。各人称には単数形と複数形が存在する。動詞が述語として機能する場合、人称と時制に応じて変化する。"
+      }
+    },
+    {
+      "segment_id": "53eaf0e1",
+      "source_content": "动词的形式包括不定式，过去时和过去分词。",
+      "source_content_hash": "c0881a89d0fbac2d5d5d749d7053f296d2ef01f9049a59e38dcf251225211280",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "動詞の形態には不定形、過去形、過去分詞が含まれる。"
+      }
+    },
+    {
+      "segment_id": "8a5f6a7b",
+      "source_content": "## 时态",
+      "source_content_hash": "3c8e5573a7b74e7184e4cfc88af0236352d2894cb2bac29cc52b9fb7f50875c2",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 時制"
+      }
+    },
+    {
+      "segment_id": "180bddb1",
+      "source_content": "现在时，过去时，现在完成时，过去完成时，第一将来时（即将发生或进行的行动或状态），第二将来时（将来结束、完成的行动或状态，通常可用现在完成时替代）",
+      "source_content_hash": "7367ff1d21a0de1546176edf3cbb7cd74f3b94bd71dd76bdf768da5073468df8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "現在時制、過去時制、現在完了時制、過去完了時制、第一未来時制（近い将来に発生または進行する行動や状態）、第二未来時制（将来完了する行動や状態、通常は現在完了時制で代用可能）"
+      }
+    },
+    {
+      "segment_id": "e14c9928",
+      "source_content": "### 将来时",
+      "source_content_hash": "bc637f0578323f924eaf4675227e51fc5420eca3f695fef1d3771b8ffe4e678f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 未来時制"
+      }
+    },
+    {
+      "segment_id": "84758135",
+      "source_content": "* werden + 原型\n  * Ich werde dich am Bahnhof abholen.\n* 将来时没有替代形式",
+      "source_content_hash": "e7b135200359c8460739c8136aa27b1b112619397cf68630f7da2709c0e4bb71",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* werden + 不定形\n  * 私は駅であなたを迎えに行くでしょう。\n* 未来時制には代替形が存在しない"
+      }
+    },
+    {
+      "segment_id": "418617bd",
+      "source_content": "## 时间助动词",
+      "source_content_hash": "8e89f6884c8c9003a2d77eb8fbbd8d05a743abbb97d12830ab524af08832837b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 時制補助動詞"
+      }
+    },
+    {
+      "segment_id": "2fdadb08",
+      "source_content": "完成时的助动词到底是用haben还是用sein，虽然记住用sein的（因为用sein的少）三种情况就够了：",
+      "source_content_hash": "966fba80c71fb8157c5387a3dff6838ae2acf44e98fd142da4d37c7f0e887fb4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "完了時制の補助動詞にhabenとseinのどちらを使用するかについては、seinを使用する（使用頻度が少ないため）以下の3つのケースを覚えておけば十分："
+      }
+    },
+    {
+      "segment_id": "44d89370",
+      "source_content": "- 趋向动词（位移很大的那种）比如gehen, fahren ...\n- 三个系动词sein（是），werden（将是）和bleiben（还是）\n- 状态变化和特殊情况，比如passieren, aufstehen, einschlafen ...\n- 第四格及物的动词理论上用haben构成完成时，有etw. loswerden用sein构成完成时这样的特例\n- 反身动词理论上用haben构词完成时",
+      "source_content_hash": "72f6dffa5135585daf9208e5664bf2ca81987be5d40efd407948e5fce8010c39",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "- 移動動詞（大幅な位置変化を伴うもの）例：gehen（行く）、fahren（乗り物で移動する）など\n- 3つのコピュラ動詞：sein（～である）、werden（～になる）、bleiben（～のままである）\n- 状態変化や特殊ケース、例：passieren（起こる）、aufstehen（起きる）、einschlafen（眠りにつく）など\n- 対格を取る他動詞は理論上habenで完了時制を構成するが、etw. loswerden（～を手放す）のようにseinで完了時制を構成する例外もある\n- 再帰動詞は理論上habenで完了時制を構成する"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/动词/变位.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.523161+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "2ec92842bbffa05f80645e5ffc9462c85fe4744fb4f42426e001bab92624f1d7"
+  }
+}

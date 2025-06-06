@@ -1,0 +1,242 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/介词/介词.md",
+  "source_file_content_hash": "987e228c17e70ab501887ac42f13eef20fd2e442132cf1a321d613ff25163640",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\n---",
+      "source_content_hash": "92a21a112978c590263ada3554195d9905c8c585e619dccd5f0a4cf518a7076f",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 介词",
+      "source_content_hash": "70b93744f2ac7a5651ffca3bade253d6141c8eb8a1dcd8586279c3e45517a47a",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 前置詞"
+      }
+    },
+    {
+      "segment_id": "d912d376",
+      "source_content": "## 等价转换",
+      "source_content_hash": "d5c4d94e933dcd11e00406b72fe6eccd66fe17799a9717a3a3ee08f31773fe62",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 等価変換"
+      }
+    },
+    {
+      "segment_id": "8ac585fb",
+      "source_content": "有学生非常不理解 eine möglichst breite Bevölkerungsschicht zum Lesen motivieren 为什么介词用zu。那我就在这里解释一下，这和第3条原理有关。",
+      "source_content_hash": "c6415644e9dbb30481bc44acfb11953a6adecc6524ab47659ff1ed1257d11187",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「eine möglichst breite Bevölkerungsschicht zum Lesen motivieren」という文でなぜ前置詞に「zu」を使うのか、学生が理解できないことがあります。ここで説明しますが、これは第3の原理に関連しています。"
+      }
+    },
+    {
+      "segment_id": "730c423c",
+      "source_content": "1. 带zu不定式和从句很多时候有同等的作用。",
+      "source_content_hash": "53c95e6e70b8f3722ca017217112f16d414b804dd7af9281bac49ce4a992117a",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "1. 「zu」を伴う不定詞句と従属節は多くの場合同等の機能を持ちます。"
+      }
+    },
+    {
+      "segment_id": "cf898102",
+      "source_content": "比如：",
+      "source_content_hash": "a9527ddcd686491dc2f56c436383c4f102e02b2389a057e3d7bfc0caf93382a4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "例えば："
+      }
+    },
+    {
+      "segment_id": "42ad8e83",
+      "source_content": "Anstatt ins Kino zu gehen, bleiben wir heute zu Hause. → Anstatt dass wir ins Kino gehen, bleiben wir heute zu Hause. 我们不去看电影，今天呆在家里。",
+      "source_content_hash": "93d29628547c62acfa613b68e615086cc9252fce4046f8abba448d329ec41eea",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Anstatt ins Kino zu gehen, bleiben wir heute zu Hause. → Anstatt dass wir ins Kino gehen, bleiben wir heute zu Hause. 映画に行く代わりに、今日は家にいます。"
+      }
+    },
+    {
+      "segment_id": "f6168993",
+      "source_content": "Ohne ein Wort zu sagen, verließ er den Raum. → Ohne dass er ein Wort sagte, verließ er den Raum. 他一言不发地离开了房间。",
+      "source_content_hash": "db1eda5a6ffb78d52fc666f46d67a576765dbeaeec7212846d5b24523456be26",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Ohne ein Wort zu sagen, verließ er den Raum. → Ohne dass er ein Wort sagte, verließ er den Raum. 一言も言わずに、彼は部屋を出ました。"
+      }
+    },
+    {
+      "segment_id": "f5f6d2ce",
+      "source_content": "正因为如此，所以可以破框的三种情况才会是“介词结构；带zu不定式；从句”。有带zu不定式的地方，有从句也正常，这样就好记了。",
+      "source_content_hash": "e7fcc452adbeffc00254f757b0601f3050ae835f334a55a768802e5e3f9532b4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "このため、「前置詞構造」「zu不定詞」「従属節」の3つが枠外に置ける場合があるのです。zu不定詞がある場所には従属節も自然に存在し、このように覚えやすくなります。"
+      }
+    },
+    {
+      "segment_id": "1b8c1887",
+      "source_content": "2. 介词结构很多时候相当于一个副词。",
+      "source_content_hash": "b0ce54291eefd59f63bb1f4dbfbc541e06ad379a9c45270cec4aa4a5f71c6df7",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "2. 前置詞構造は多くの場合副詞と同等です。"
+      }
+    },
+    {
+      "segment_id": "f2c2bdd0",
+      "source_content": "比如：",
+      "source_content_hash": "a9527ddcd686491dc2f56c436383c4f102e02b2389a057e3d7bfc0caf93382a4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "例えば："
+      }
+    },
+    {
+      "segment_id": "a76548f8",
+      "source_content": "zum Beispiel → beispielsweise 例如",
+      "source_content_hash": "42413e50eb77cdeb15d89b2a9abaf816158f4bf2db6d6d81353d42b7f2d776d2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "zum Beispiel → beispielsweise 例えば"
+      }
+    },
+    {
+      "segment_id": "4b1d2d7d",
+      "source_content": "im Durchschnitt → durchschnittlich 平均",
+      "source_content_hash": "6706aa408b141e660d8ecfcadc066b340a6cf19d5fc6ee513741f563cae55ba4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "im Durchschnitt → durchschnittlich 平均して"
+      }
+    },
+    {
+      "segment_id": "dfe931a2",
+      "source_content": "mit Absicht → absichtlich 故意地",
+      "source_content_hash": "11584b2750987a824d8ed4a86048e6ff0260b04efe033f4ae09744e9715c8280",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "mit Absicht → absichtlich 故意に"
+      }
+    },
+    {
+      "segment_id": "4daf5cdd",
+      "source_content": "auf jeden Fall → jedenfalls 反正，无论如何",
+      "source_content_hash": "03e891854b60d7b29a0420b17812242170e2cb2553054331e62e39a31fa19088",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "auf jeden Fall → jedenfalls とにかく"
+      }
+    },
+    {
+      "segment_id": "bdc231b1",
+      "source_content": "zum Teil → teilweise 部分地",
+      "source_content_hash": "8c93fcc38e1bf62b856b54f1d945cc3649df42717b074f39bd6d00c2a72a898a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "zum Teil → teilweise 部分的に"
+      }
+    },
+    {
+      "segment_id": "97ae4a01",
+      "source_content": "有的时候甚至都不需要是同一个词根，甚至都不需要是一个语种，比如：by the way → übrigens（顺便说一下）。这样理解一些表达就简单了。",
+      "source_content_hash": "4468351e0e6da6ec539423e7c8caf51787c6366201f2f74452320dd6cd556b0b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "場合によっては同じ語根である必要さえなく、言語が異なることもあります。例：by the way → übrigens（ところで）。こう理解すれば表現が簡単になります。"
+      }
+    },
+    {
+      "segment_id": "33808f76",
+      "source_content": "3. 很多动词带zu不定式可以变成zu的介词结构。",
+      "source_content_hash": "3e709c53f13b7200f6cc6a9a9d3185782226b74766bfc96da53209c2402385a2",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "3. 多くの動詞のzu不定詞はzu前置詞構造に変換可能です。"
+      }
+    },
+    {
+      "segment_id": "3cfe6286",
+      "source_content": "比如：",
+      "source_content_hash": "a9527ddcd686491dc2f56c436383c4f102e02b2389a057e3d7bfc0caf93382a4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "例えば："
+      }
+    },
+    {
+      "segment_id": "1042b50d",
+      "source_content": "Sie überredete mich, ein neues Auto zu kaufen. → Sie überredete mich zu einem Autokauf. 她说服我买一辆新车。",
+      "source_content_hash": "fb930dd1ee30901967746dd137f8dd3cd0c44ec7ef48d710093a07a1762d68e2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Sie überredete mich, ein neues Auto zu kaufen. → Sie überredete mich zu einem Autokauf. 彼女は私に新車を買うよう説得しました。"
+      }
+    },
+    {
+      "segment_id": "aa1e7006",
+      "source_content": "Sie ermutigte ihn, bessere Leistungen zu erbringen. → Sie ermutigte ihn zu besseren Leistungen. 她鼓励他获得更好的成绩。",
+      "source_content_hash": "92e5c3481b6ff350bfd711dd4ea96242d097eff820b466f4d620fe2322ef0de0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Sie ermutigte ihn, bessere Leistungen zu erbringen. → Sie ermutigte ihn zu besseren Leistungen. 彼女は彼により良い成績を上げるよう励ましました。"
+      }
+    },
+    {
+      "segment_id": "13d9cd70",
+      "source_content": "Der Manager forderte die Mitarbeiter auf, mehr Einsatz zu zeigen. → Der Manager forderte die Mitarbeiter zu mehr Einsatz auf. 经理要求员工们更加投入。",
+      "source_content_hash": "5efcf44f39b0fa4742e4f874173511791d5c3afea2586bcbe692a3865017e51b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Der Manager forderte die Mitarbeiter auf, mehr Einsatz zu zeigen. → Der Manager forderte die Mitarbeiter zu mehr Einsatz auf. マネージャーは従業員にもっと尽力するよう要求しました。"
+      }
+    },
+    {
+      "segment_id": "29528c8d",
+      "source_content": "Er veranlasste sie, den Vertrag zu unterschreiben. → Er veranlasste sie zur Unterschrift des Vertrages. 他要她签署这份合同。",
+      "source_content_hash": "2e77d4c07428f40cdf882c0030243a57a917e5b8d1f1d357baf14ebb0a86178b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Er veranlasste sie, den Vertrag zu unterschreiben. → Er veranlasste sie zur Unterschrift des Vertrages. 彼は彼女に契約書に署名させました。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/介词/介词.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.532890+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "987e228c17e70ab501887ac42f13eef20fd2e442132cf1a321d613ff25163640"
+  }
+}

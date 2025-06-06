@@ -1,0 +1,82 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/其他/发音.md",
+  "source_file_content_hash": "f14e30b00e1c5b378355f67f9716382faead2a9f75e5c6eecb7b24a62b3f6007",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 2\n---",
+      "source_content_hash": "6b5a0ead0daa1090c8a38fd0c73528677b05e2e1ac3baca413f4c1cf998fee45",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 发音",
+      "source_content_hash": "402934c39feb1144326a4e49f9b043e561aa04174e43f2390afc4005a30ae6e4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 発音"
+      }
+    },
+    {
+      "segment_id": "57e757df",
+      "source_content": "* 元音字母重叠时读作长音，如Aal ,Beet , Boot 。字母组合ie 发长音\n* 元音字母后无辅音或只有一个辅音，该元音字母一般读长音，如da , gut , Tag \n* 元音字母后有h, h不发音，该元音字母读长音,如Mehl , Kohl , gehen\n* 元音字母后有两个或两个以上辅音字母时，元音字母一般读作短音\n* 元音字母e在非重读尾音节中轻读,如Liebe , Boden , Doppel\n* 元音字母e在非重读前缀be-, ge-中轻读，如Beginn , belegen , gebieten , Gedeck \n\n \n\n* 辅音字母b , d ,g 在音节末尾时读成相应的轻辅音 [p],[t],[k]\n\n\n\n* -ig\n  * -ig在最末尾或末尾还有一个清辅音，发/ɪç/。如果是复合词或者加较长后缀，也发/ɪç/。比如Honigbiene ['ho:nɪçbi:nə]。\n  * 特例：Königreich [ˈkøːnɪkˌʀaɪ̯ç]，königlich [ˈkøːnɪklɪç]，lediglich ['le:dɪklɪç]\n\n* [ɐ]\n  * 先发/ə/，然后其他的保持不变，只把嘴型张大一些，几乎有/a/那么大。并且-ern（比如gestern）要听起来类似于快读的“阿n”，而不是“嗯”。\n  * 词尾-er的发音和r不在元音前的发音，如super和besser。\n  * ver-/er-前缀，如verderben [fɛɐ̯ˈdɛʁbn̩]，/ʁ/介于/ɐ/和/r/之间，发/ɐ/并摩擦。\n  * erd/ert，如Erde [ˈeːɐ̯də]和werden [ˈveːɐ̯dn̩]\n  * 特例\n    * fern [ˈfɛʁn]，gern [ˈgɛʁn]\n    * der [ˈdeːɐ̯]，Jahr [ˈjaːɐ̯]",
+      "source_content_hash": "0d24fd1b6e451c10b6c969b539efbec7bcf64f89219da3f59dc7d4e8d986ab7e",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 母音字が重なっている場合は長音で発音します。例：Aal、Beet、Boot。文字組み合わせ「ie」は長音で発音します。\n* 母音字の後に子音が無いか1つだけの場合、その母音字は通常長音で発音します。例：da、gut、Tag。\n* 母音字の後にhが続く場合、hは発音せず、母音字は長音で発音します。例：Mehl、Kohl、gehen。\n* 母音字の後に2つ以上の子音字が続く場合、母音字は通常短音で発音します。\n* 母音字eが非アクセントの語尾音節にある場合、弱く発音します。例：Liebe、Boden、Doppel。\n* 母音字eが非アクセントの接頭辞be-、ge-にある場合、弱く発音します。例：Beginn、belegen、gebieten、Gedeck。\n\n* 子音字b、d、gが音節の末尾にある場合、対応する無声音[p]、[t]、[k]で発音します。\n\n* -ig\n  * -igが語末にあるか、語末に無声子音が1つある場合、/ɪç/と発音します。複合語や長い接尾辞が付く場合も同様です。例：Honigbiene ['ho:nɪçbi:nə]。\n  * 例外：Königreich [ˈkøːnɪkˌʀaɪ̯ç]、königlich [ˈkøːnɪklɪç]、lediglich ['le:dɪklɪç]。\n\n* [ɐ]\n  * まず/ə/を発音し、他の要素を保ったまま口を/a/ほどに大きく開きます。-ern（例：gestern）は「アn」のように聞こえるように発音し、「ン」とは発音しません。\n  * 語尾-erと、母音前でないrの発音。例：super、besser。\n  * ver-/er-接頭辞。例：verderben [fɛɐ̯ˈdɛʁbn̩]、/ʁ/は/ɐ/と/r/の中間で、/ɐ/を発音し摩擦音を加えます。\n  * erd/ert。例：Erde [ˈeːɐ̯də]、werden [ˈveːɐ̯dn̩]。\n  * 例外：\n    * fern [ˈfɛʁn]、gern [ˈgɛʁn]。\n    * der [ˈdeːɐ̯]、Jahr [ˈjaːɐ̯]。"
+      }
+    },
+    {
+      "segment_id": "0037ff70",
+      "source_content": "### 连读",
+      "source_content_hash": "bfd4a1d7606f5113d1af781ecd014c06912ccd5bf5ff8680f0248541aa250195",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 連音"
+      }
+    },
+    {
+      "segment_id": "fc8eadc3",
+      "source_content": "* au后面跟元音e(r)原则上是要连读的（有些词尾-en弱化得比较厉害，可能听起来就不明显），比如：Bauer, Frauen, Dauer ... 这和英语是类似的，比如our /'aʊə/ 。u其实相当于读了两遍。\n* /aɪ/后面跟e(r)原则上是要连读的，比如Feier, Eier, Bayern ... 这和英语是类似的，比如fire /'faɪə/。i其实相当于读了两遍。\n* hin或her加元音开头的介词，一律连读，比如：\n  * hin: hinab, hinan, hinauf, hinaus, hinein, hinüber, hinunter\n  * her: herab, heran, herauf, heraus, herein, herüber, herum, herunter\n* vor加元音开头的介词，一般要连读，比如：\n  * voran, voraus, in Voraus, vorüber\n  * 特例：vorab, voreingenommen",
+      "source_content_hash": "81e71889080f5d7dd29eca4007f7fb30134e1f0e04653e3a312ce97870d687b9",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* auの後に母音e(r)が続く場合、原則として連続して発音します（語尾の-enが弱化している場合、聞き取りにくいこともあります）。例：Bauer, Frauen, Dauer... これは英語のour /'aʊə/と同様で、uは実質的に2回発音されていることになります。\n* /aɪ/の後にe(r)が続く場合、原則として連続して発音します。例：Feier, Eier, Bayern... これは英語のfire /'faɪə/と同様で、iは実質的に2回発音されていることになります。\n* hinまたはherに母音で始まる前置詞が続く場合、必ず連続して発音します。例：\n  * hin: hinab, hinan, hinauf, hinaus, hinein, hinüber, hinunter\n  * her: herab, heran, herauf, heraus, herein, herüber, herum, herunter\n* vorに母音で始まる前置詞が続く場合、通常は連続して発音します。例：\n  * voran, voraus, in Voraus, vorüber\n  * 例外：vorab, voreingenommen"
+      }
+    },
+    {
+      "segment_id": "d4e0d4e1",
+      "source_content": "---",
+      "source_content_hash": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "node_type": "thematicBreak",
+      "translatable": true,
+      "translations": {
+        "ja": "---"
+      }
+    },
+    {
+      "segment_id": "8af76f3d",
+      "source_content": "https://www.internationalphoneticalphabet.org/ (IPA)",
+      "source_content_hash": "b9efcb507a90747fd118eb752c84f569828fc1c1af1d6a967db7776d7229b0f7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "https://www.internationalphoneticalphabet.org/ (IPA)"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/其他/发音.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.520849+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "f14e30b00e1c5b378355f67f9716382faead2a9f75e5c6eecb7b24a62b3f6007"
+  }
+}

@@ -1,0 +1,3552 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/名词/名词.md",
+  "source_file_content_hash": "71b1f8c36b26c03c2dd6b427849346a31b6c226093d980f46ec17eb374383b15",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\n---",
+      "source_content_hash": "92a21a112978c590263ada3554195d9905c8c585e619dccd5f0a4cf518a7076f",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 名词",
+      "source_content_hash": "cb1f36d907ca55378cfa5d0c9fe9d4d9d92e4062674fe1e3eb4582939b1efa46",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 名詞"
+      }
+    },
+    {
+      "segment_id": "a703643c",
+      "source_content": "## 定义",
+      "source_content_hash": "7f70817ac4562b864c06fd7ab4858ff81c362068ab0af731a78c7e9d7b2b6889",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 定義"
+      }
+    },
+    {
+      "segment_id": "53eaf0e1",
+      "source_content": "名词表示人、事物和概念的名称。",
+      "source_content_hash": "195895ec45225301c724fe4a41e61bd94bb328642ed9541b39e1bf10dca999ad",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "名詞は人、物事、概念の名称を表す。"
+      }
+    },
+    {
+      "segment_id": "8a5f6a7b",
+      "source_content": "## 名词的性",
+      "source_content_hash": "a259d0d073165b741ca07323ce7e2984f9380c1e1bb32145d3f8c29ca11db9b4",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 名詞の性"
+      }
+    },
+    {
+      "segment_id": "180bddb1",
+      "source_content": "名词的性由冠词来表示，冠词分为定冠词和不定冠词两类。",
+      "source_content_hash": "1c74c6118271543fcf3cedd95f59b2e91000846f09c837a901006e6dc6bd5e08",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "名詞の性は冠詞によって示され、冠詞は定冠詞と不定冠詞の2種類に分かれる。"
+      }
+    },
+    {
+      "segment_id": "e14c9928",
+      "source_content": "### 名词构词",
+      "source_content_hash": "df3cb22a9207bccdc611289e53c750188a45c6bdcbd737ca762cbceace896532",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 名詞の構成"
+      }
+    },
+    {
+      "segment_id": "42ad8e83",
+      "source_content": "暴力穷举Langenscheidt对外德语词典中所有的名词。",
+      "source_content_hash": "7c07aab13f3d7064e33282519d9e8845d6f3a6bcd663a8d9a91ec4d1adc09295",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Langenscheidtのドイツ語学習者向け辞典に掲載されている全ての名詞を網羅的に調査。"
+      }
+    },
+    {
+      "segment_id": "b40647e4",
+      "source_content": "| der       | 7321  |\n| --------- | ----- |\n| das       | 3671  |\n| die       | 9421  |\n| die (Pl.) | 159   |\n| 名词合计  | 20482 |\n| 词典词条  | 32584 |",
+      "source_content_hash": "ab5b3aa35456d374b6314921436a7c1106fb03f332be30640d9206b63182aab1",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_b40647e4"
+      }
+    },
+    {
+      "segment_id": "a76548f8",
+      "source_content": "德语自源词阴性的词尾构词能力最强大，比如ung和heit，见下图：",
+      "source_content_hash": "9772a2eff5eb121c826e5fa210a58392cc8da4c987b1509aba1c6296e6b5f590",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ドイツ語固有の単語では、女性名詞を形成する接尾辞の生産性が最も高い（例：-ungや-heit）。下図参照："
+      }
+    },
+    {
+      "segment_id": "4b1d2d7d",
+      "source_content": "![](.\\img\\名词构词-1.png)",
+      "source_content_hash": "d82608b3da58a1dfa3bf7cb964fc2d4829321abbbabda1b4510ede0efff87371",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](.\\img\\名詞構詞-1.png)"
+      }
+    },
+    {
+      "segment_id": "dfe931a2",
+      "source_content": "外来词词尾中，也是阴性的词尾构词能力最强大。",
+      "source_content_hash": "dfd2d957f73fa0368a5e75c4b178111909521ac85bc0c35e0507a690c63ecaf6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "外来語の接尾辞においても、女性名詞を形成する接尾辞の生産性が高い。"
+      }
+    },
+    {
+      "segment_id": "4daf5cdd",
+      "source_content": "![](.\\img\\名词构词-2.png)",
+      "source_content_hash": "eb36eb9d0be4ed46dc3239386c8e6d14aa8deafae4368a060afb78a9764c805f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](.\\img\\名詞構詞-2.png)"
+      }
+    },
+    {
+      "segment_id": "f422383e",
+      "source_content": "### 名词性判断",
+      "source_content_hash": "1997693433f495c7de71ee1f16976e983c2450e60de9972dbccdd3a97b161e5d",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 名詞の性の判断"
+      }
+    },
+    {
+      "segment_id": "97ae4a01",
+      "source_content": "名词的性属靠三重判断：一词尾，二种类，三类比。",
+      "source_content_hash": "1d35d17df71f26e52bf5fd367aced574037385636b06c08372ee86438284cddf",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "名詞の性は三重の判断基準に基づく：①接尾辞、②カテゴリー、③類推。"
+      }
+    },
+    {
+      "segment_id": "33808f76",
+      "source_content": "* 词尾原则：某种词尾属于某种性\n* 种类原则：属于某种类别的是一种性\n* 类比原则：联想到某个词，则和它一样的性",
+      "source_content_hash": "7a204c5799bc44a0eef8d0a263e6a192546f83340ff714faf2934ecb1f20bbd9",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 接尾辞原則：特定の接尾辞は特定の性に属する\n* カテゴリー原則：特定のカテゴリーに属するものは同じ性を持つ\n* 類推原則：既知の単語を連想し、それと同じ性を適用"
+      }
+    },
+    {
+      "segment_id": "1042b50d",
+      "source_content": "词尾原则最强势，但是词尾数量很多。很多词尾是有确定的性属的，尤其是抽象名词的词尾，字母越多越可靠。",
+      "source_content_hash": "c70d4dccbbdcdebb84f7a38d7a4e3794d5700432d027e9ef3af4ecc6887bcd0e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "接尾辞原則が最も強力だが、接尾辞の数は多い。特に抽象名詞の接尾辞では、文字数が多いほど性の判断が確実。"
+      }
+    },
+    {
+      "segment_id": "aa1e7006",
+      "source_content": "种类原则最简明，比如金属理论上都是中性，但是这种规律不多。如果是人和动物，规律性还是极强的：男的公的理论上是阳性；女的母的理论上是阴性；幼兽和带小称词尾的人，理论上是中性。",
+      "source_content_hash": "f69961246a55183601a0a74fb4a2073de5c6d91e917b6ccb4ec2d7e27effb5cd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "カテゴリー原則は最も簡潔で、例えば金属は理論上すべて中性だが、このような規則は少ない。人間や動物の場合、規則性は極めて強い：男性/雄は理論上男性名詞、女性/雌は理論上女性名詞、幼獣や指小辞を持つ名詞は理論上中性名詞。"
+      }
+    },
+    {
+      "segment_id": "13d9cd70",
+      "source_content": "类比原则一般适用于新造的词或特别新的外来词，量也不多。「联想」不是指的「Hand是五指姑娘」「Brief是男的写的」这种「歪门邪道」。「联想」指的是外来词和新造词定性属的时候会联想到已有的什么德语词。为什么说前面那种是歪门邪道，是因为那种方式虽然有趣也有效，但是不符合以德语为母语者判断性属的方式，更重要的原因是：合理的能帮助到别人的奇思妙想一定是极少的，大部分编造其他人都会认为太牵强，没有帮助，与其记住这种没有逻辑的理据或故事，还不如多记几个例句。",
+      "source_content_hash": "1a0bc6ff1b4e346c5fb4d0eedee80247884515703153bbeeef3f9bb710b6a115",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "類推原則は一般に新造語や非常に新しい外来語に適用され、数も少ない。「連想」とは「Hand（手）は5本の指の乙女」「Brief（手紙）は男性が書くもの」といった「非論理的なこじつけ」を指すのではない。外来語や新造語の性を決定する際、既存のどのドイツ語を連想するかを指す。前者の方法が非論理的とされる理由は、この方法は興味深く効果的ではあるが、ドイツ語母語話者の性判断方法と一致せず、さらに重要な点として、他人の助けになるような奇抜な発想は必然的に極めて稀であり、多くの作り話はこじつけと見なされ、役に立たない。このような論理的根拠のない理屈や物語を覚えるよりも、例文を多く覚える方が有益である。"
+      }
+    },
+    {
+      "segment_id": "29528c8d",
+      "source_content": "以德语为母语的人是对词尾、含义和联想进行综合判断的。知乎上有人做过这样的试验（是谁我忘了，请帮我补充）：拿一些罕见的名词要德国人猜性属，他们绝大部分是能猜对的，也有个别猜错的情况。问德国人怎么判断的，不外乎词尾、含义和联想三种情况。",
+      "source_content_hash": "72cfb720f4856129e96ea9c0368855e192ed3503e3b8bf6641a918ed1575a1b6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ドイツ語の母語話者は、語尾、意味、連想を総合的に判断します。知乎（中国版Quora）で誰かがこんな実験を行ったことがあります（誰だったか忘れましたが、情報をお願いします）：珍しい名詞をドイツ人に見せて性を推測させると、大部分は正しく推測できますが、まれに間違えることもあります。どうやって判断したのか尋ねると、語尾、意味、連想の3つのパターンに尽きます。"
+      }
+    },
+    {
+      "segment_id": "c504c207",
+      "source_content": "怎么具备这种综合判断能力？只能靠慢慢积累。一下排出一大片词尾，固然气度不凡，但是对初学者并没有什么用处。从教学角度的说，应该是讲到某个单词的时候说「这样的词尾大多是某某性的」，反复强化，才有用；一下给出一梭子，一下消化不了，收藏，然后就没有然后了。",
+      "source_content_hash": "15b21f3e137e79afa023e6134cd4bedf3f4080abdc971a7100bdbc7b14ed86d5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "この総合判断能力をどう身につけるか？ ゆっくりと積み上げるしかありません。一度に大量の語尾を並べるのは見栄えがしますが、初心者には役に立ちません。教育的観点から言えば、特定の単語を教える際に「このような語尾の単語は大抵○○性です」と繰り返し強調するのが効果的です。一度に詰め込んでも消化できず、保存したきりで終わってしまいます。"
+      }
+    },
+    {
+      "segment_id": "98d26038",
+      "source_content": "然而，就是这种词尾总结，网上一抓一大把的这种，公众号上寻常见的这种，充满硬伤。如此不严谨，简直对不住我大德意志严精细的Klischee（刻板印象）。比如提到的这种：",
+      "source_content_hash": "be1f119b1a7a7d6077ebe693c9fb0f62ff5ab7abd0f39c22cdd95cfb0e29df07",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "しかし、こうした語尾のまとめはネット上に山ほどあり、一般的なメディアでもよく見かけますが、重大な誤りが多々あります。このような不正確さは、ドイツの精密さというステレオタイプにすら反しています。例えば以下のような例です："
+      }
+    },
+    {
+      "segment_id": "d3649a1e",
+      "source_content": "阴性包括：-ung -ur -ik -tät -e -heit -keit -a -in -schaft  -ade -age -ette -ie -enz -sis -ei",
+      "source_content_hash": "f01357b2ba43ff8eaee6d59a9b2165a94eba6317d81f58f8183bc7d9da10c377",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "女性名詞とされる語尾：-ung -ur -ik -tät -e -heit -keit -a -in -schaft -ade -age -ette -ie -enz -sis -ei"
+      }
+    },
+    {
+      "segment_id": "4d52a261",
+      "source_content": "阳性包括：-er -ent -at -oge -ist -ant -ot -ekt -ich -ig -ling -s -and -är -ast -eur -ier -iker -ismus -or",
+      "source_content_hash": "51eae85c6adae9419caee47de2f2213ccc05da0c7aa0085de872a80c0959e9bf",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "男性名詞とされる語尾：-er -ent -at -oge -ist -ant -ot -ekt -ich -ig -ling -s -and -är -ast -eur -ier -iker -ismus -or"
+      }
+    },
+    {
+      "segment_id": "23dfb152",
+      "source_content": "中性包括：-chen -o -lein -tel -lum -ing -um -ma -me 以及所有与动词原型同型的名词，比如 das Essen 与 essen",
+      "source_content_hash": "58ea91b50ae27449f2f31f3873ff9bf9ba6b0758c3154761d4b5790be13fc14c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "中性名詞とされる語尾：-chen -o -lein -tel -lum -ing -um -ma -me および動詞原型と同形の名詞（例：das Essen と essen）"
+      }
+    },
+    {
+      "segment_id": "1131ef75",
+      "source_content": "这只是一般规律，比如der Affe 猴子，也有很多以-e 结尾的词是阳性的",
+      "source_content_hash": "e8bdf46283efee7498fbbe106eae6f25ff36d739c6be85760b8cac97bf3b9476",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "これは一般的な傾向に過ぎません。例えばder Affe（猿）のように、-eで終わる多くの単語が男性名詞の場合もあります。"
+      }
+    },
+    {
+      "segment_id": "8b2a52b1",
+      "source_content": "-ung结尾的是阴性，这种说法不严谨，der Sprung, der Aufschwung ... 不是阴性。合适的提法是：带-ung后缀（因为也有词干以-ung结尾）的名词是阴性。",
+      "source_content_hash": "bed5468a32c5e88bb66aaaf145d05b71d2135e6569d14c6130c424fe3a42561d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「-ungで終わる単語は女性名詞」という主張は不正確です。der Sprung, der Aufschwung...は女性名詞ではありません。正しくは「-ung接尾辞を持つ（語幹が-ungで終わる場合もある）名詞は女性名詞」と表現すべきです。"
+      }
+    },
+    {
+      "segment_id": "5dae11e3",
+      "source_content": "-ur结尾的是阴性，das Abitur, das Dur, der Merkur, der Flur, der Schwur, das Futur ... 都不是阴性。合适的提法是：以-ur结尾的名词基本上是阴性。",
+      "source_content_hash": "4e4559bf1a5ba8fa8ac0e13c0fd2987b00568b8efd83fb4764ff6c05df1902d8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「-urで終わる単語は女性名詞」というのも、das Abitur, das Dur, der Merkur, der Flur, der Schwur, das Futur...は女性名詞ではありません。正確には「-urで終わる名詞は基本的に女性名詞」とすべきです。"
+      }
+    },
+    {
+      "segment_id": "0bb95128",
+      "source_content": "-ik结尾的是阴性，der auch das Aspik, der Atlantik, der Katholik ... 不是阴性啊。合适的提法是：以-ik结尾的名词基本上是阴性。",
+      "source_content_hash": "a455720dc6140b98538d6c1898238194e57203f9c2caea3f493806282edc46f6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「-ikで終わる単語は女性名詞」について、der（またはdas）Aspik, der Atlantik, der Katholik...は女性名詞ではありません。「-ikで終わる名詞は基本的に女性名詞」と表現するのが適切です。"
+      }
+    },
+    {
+      "segment_id": "657c2b20",
+      "source_content": "-e结尾的是阴性，这条明显不对，还有大量的以-e结尾的阳性弱变化名词呢，还有Ge-e环缀构成的一大片中性名词呢，另外还有少量其他反例。",
+      "source_content_hash": "c7c68950f4e41be9050da48a2ea34794595c6667fc3dfef868c39de3c5cbc12d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「-eで終わる単語は女性名詞」というのは明らかに誤りです。-eで終わる男性弱変化名詞が多数存在しますし、Ge-e接環で形成された中性名詞も大量にあります。さらにその他の例外も少なくありません。"
+      }
+    },
+    {
+      "segment_id": "e7772088",
+      "source_content": "-a结尾的是阴性，这条不靠谱，das Thema, das Klima, der Gorilla, der Guerilla, der Puma可都是常见词啊。",
+      "source_content_hash": "9e7c8c81e274281348b498c731fd58e732bcec67c578f84acba8825f9abd3880",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「-aで終わる単語は女性名詞」というのも信頼できません。das Thema, das Klima, der Gorilla, der Guerilla, der Pumaなどはすべて日常的に使われる単語です。"
+      }
+    },
+    {
+      "segment_id": "eab056be",
+      "source_content": "-in结尾的是阴性，这条总结得不对，大量化学物质Protein, Heroin, Koffein, Benzin是中性的，另外还有der Cousin, der Jasmin, der Baldachin, der Delphin很多反例。",
+      "source_content_hash": "9afa01e40769733ee806e142f0ed0026d57bb223a6b13b7f1938a9def284240c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-inで終わる単語は女性名詞、このまとめは正しくありません。Protein（タンパク質）、Heroin（ヘロイン）、Koffein（カフェイン）、Benzin（ガソリン）など多くの化学物質は中性名詞です。さらに、der Cousin（いとこ）、der Jasmin（ジャスミン）、der Baldachin（天蓋）、der Delphin（イルカ）など多くの例外があります。"
+      }
+    },
+    {
+      "segment_id": "f01228d3",
+      "source_content": "-schaft结尾的是阴性，不对。带-schaft后缀的派生词才是阴性。der Ruderschaft, der Stiefelschaft这种词是复合词不是阴性。",
+      "source_content_hash": "10e1ab847446b4931b8617ecdc50e308bdfa6b38bc653ab7eb9249504c344865",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-schaftで終わる単語は女性名詞、これは正しくありません。-schaft接尾辞を持つ派生語が女性名詞です。der Ruderschaft（オールの柄）、der Stiefelschaft（ブーツの軸）のような単語は複合語で女性名詞ではありません。"
+      }
+    },
+    {
+      "segment_id": "afa378f7",
+      "source_content": "肖九叔走心的总结（将对特例进行暴力穷举）：",
+      "source_content_hash": "ecfb026145a4910e9baa908ca73b00967f6d7797d487d566e2e6396d8097d931",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "肖九叔による心を込めたまとめ（例外を網羅的に列挙します）："
+      }
+    },
+    {
+      "segment_id": "58ed925f",
+      "source_content": "#### 1. 属于阳性名词",
+      "source_content_hash": "324796881ad6449e474f529a2f31d1f844a6505047d3b0323e6f3612ed65f416",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "#### 1. 男性名詞に属するもの"
+      }
+    },
+    {
+      "segment_id": "463ed165",
+      "source_content": "（1）大多数以-er结尾的表示人或机械的名词，如Arbeiter, Fernseher。der Finger, 手指 der Fehler, 错误der Leiter, 领导人",
+      "source_content_hash": "395c845562bcbd05b2a66d057c8a9e7d02e8896f9cec93bec1ccee5dc4d6d15a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（1）-erで終わり、人や機械を表す名詞のほとんど。例：Arbeiter（労働者）、Fernseher（テレビ）。der Finger（指）、der Fehler（間違い）、der Leiter（指導者）"
+      }
+    },
+    {
+      "segment_id": "a5c5772a",
+      "source_content": "例外： die Butter, 黄油，die Mutter 母亲，das Fenster, 窗户，die Leiter, 梯子",
+      "source_content_hash": "abc9879380d47930d34b1401c15785932b30334d40706c4da7da9c8705efdbcf",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "例外：die Butter（バター）、die Mutter（母親）、das Fenster（窓）、die Leiter（はしご）"
+      }
+    },
+    {
+      "segment_id": "fbc2db85",
+      "source_content": "（2）几乎所有表示星期，日，月，四季，方位，自然现象（风，雨，雪，雾）Mittwoch, Tag, Juni, Osten, Nebel。",
+      "source_content_hash": "73f768b959edabb086c4f35730eb0081708fe5357de349e37cf35e6c33cc8aa4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（2）曜日、日、月、季節、方位、自然現象（風、雨、雪、霧）を表す名詞のほとんど。例：Mittwoch（水曜日）、Tag（日）、Juni（6月）、Osten（東）、Nebel（霧）"
+      }
+    },
+    {
+      "segment_id": "8126f763",
+      "source_content": "-ag结尾的词没多少，但是几乎都是阳性。Stag是中性，但是这个词我们估计八辈子都用不上，需要用上的时候我们会知道它意思是das Tau。",
+      "source_content_hash": "4e3f9247b10d7736101f97d4f55c0fd09cfa2d038844f9de2c288863b49d0f74",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-agで終わる単語は多くありませんが、ほとんどが男性名詞です。Stagは中性名詞ですが、この単語はおそらく一生使わないでしょう。必要になった時、それはdas Tau（ロープ）を意味するとわかるでしょう。"
+      }
+    },
+    {
+      "segment_id": "74dd7937",
+      "source_content": "-end结尾的词阳性Abend算一个，还有个Trend。das Jahrtausend是在Jahrzehnt, Jahrhundert这个中性系列里；das Elend是因为lend其实来自Land，Elend指是不在自己家乡或祖国，因而困顿愁苦。die Gegend是因为gegen加的d，动词和介词加t/d的，按规则是阴性；die Jugend和Tugend同理，都是后加的d，所以阴性。所以教Abend的时候可以说，日期方面的词大多是阳性。",
+      "source_content_hash": "1b16c7d89f117ba0c043aec2041e8473798f2384136415e47638f7e922b4e9fe",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-endで終わる単語で男性名詞はAbend（夜）とTrend（傾向）があります。das Jahrtausend（千年紀）はJahrzehnt（十年）、Jahrhundert（世紀）という中性名詞の系列に属します。das Elend（悲惨）はlendがLand（土地）に由来し、故郷や祖国にいないために困窮していることを指します。die Gegend（地域）はgegenにdが付いたもので、動詞や前置詞にt/dが付く場合、規則的に女性名詞になります。die Jugend（青春）とTugend（美徳）も同様に後からdが付いたため女性名詞です。したがって、Abendを教える際には、日付に関連する単語はほとんどが男性名詞であると説明できます。"
+      }
+    },
+    {
+      "segment_id": "5803caac",
+      "source_content": "（3）大多数以-en, -ig, -ich结尾的名词，如Boden, Honig, Stich。der Kranich, 鹤der Pfirsich, 桃子der Teppich, 地毯",
+      "source_content_hash": "5930fc8f918f5d6bb5627bb7b27a1bacb91de07a832d5b1f2b7e7626375e35e5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（3）-en、-ig、-ichで終わる名詞のほとんど。例：Boden（床）、Honig（蜂蜜）、Stich（刺し傷）。der Kranich（鶴）、der Pfirsich（桃）、der Teppich（絨毯）"
+      }
+    },
+    {
+      "segment_id": "51867d16",
+      "source_content": "-en如果不是动词原形变的，也不是加小称词尾-chen（中性），那么几乎100%是阳性。das Zeichen是被-chen影响了；das Wappen是因为它是一种Zeichen；das Gen这种生化领域的词基本都是中性；das Becken是唯一一个难解释一点的词。其实它是外来词，来自一个中性词。",
+      "source_content_hash": "0c5af86a26b1b651be47426c71726fbb38ae275683e414f0638a33301a6f749f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-enで終わり、動詞の原形から変化したものでもなく、指小辞尾-chen（中性）が付いていない場合、ほぼ100%男性名詞です。das Zeichen（印）は-chenの影響を受けています。das Wappen（紋章）は一種のZeichenです。das Gen（遺伝子）のような生化学分野の単語はほとんど中性名詞です。das Becken（盆地）は説明が少し難しい唯一の単語です。実際には外来語で、中性名詞に由来します。"
+      }
+    },
+    {
+      "segment_id": "785750ac",
+      "source_content": "（4）几乎所有动词词干形式的词，如Kauf, Gang。例外：Fahrt, Arbeit ...",
+      "source_content_hash": "dc05481b2c9062b568d31b8d6c145fb900164bfb955ce0ce28a30559ca582c80",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（4）動詞の語幹形をとる名詞のほとんど。例：Kauf（購入）、Gang（歩行）。例外：Fahrt（旅行）、Arbeit（仕事）..."
+      }
+    },
+    {
+      "segment_id": "82e90254",
+      "source_content": "（5）以下词尾：",
+      "source_content_hash": "9985a82beeb3f39a490efff20a6c091f8bf9cdf37ed766dee83ead0763c34cf5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（5）以下の語尾："
+      }
+    },
+    {
+      "segment_id": "2822251a",
+      "source_content": "大多 -or, 如der Autor der Autor, 作者, 作家，der Katalysator, 催化剂der Reaktor, 反应堆",
+      "source_content_hash": "3629c8c6cc258d211defa0cad2da2e24ebcab6be1ab9b0b745ff649bf67abd0b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ほとんど-orで終わる単語。例：der Autor（著者）、der Katalysator（触媒）、der Reaktor（原子炉）"
+      }
+    },
+    {
+      "segment_id": "25212439",
+      "source_content": "例外 : das Gegentor, 失球，das Chlor, [化]氯",
+      "source_content_hash": "849ad98fb7ac9b40e7a01b728d915f75d91fcf639a33059514919654b35dd507",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "例外：das Gegentor（失点）、das Chlor（塩素）"
+      }
+    },
+    {
+      "segment_id": "d79a4831",
+      "source_content": "大多 -and/ant 如Doktorand, Praktikant （实习生）der Mandant, （律）当事人",
+      "source_content_hash": "36ed9c06aeca36565ce8e0280688ed8b3bf70c242d19dee3cece4d888a64d3e3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ほとんど-and/antで終わる単語。例：Doktorand（博士課程学生）、Praktikant（インターン）、der Mandant（依頼人）"
+      }
+    },
+    {
+      "segment_id": "2838eb68",
+      "source_content": "表示人的后缀 -ent 如der Student der Absolvent, 毕业生，",
+      "source_content_hash": "614eb1e1fff7fc894aa65b9cddf516508f30406d9e96f538efcf19c3aa871159",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "人を表す接尾辞 -ent 例：der Student（学生）、der Absolvent（卒業生）、"
+      }
+    },
+    {
+      "segment_id": "4be28ed1",
+      "source_content": "der Dirigent, (乐队)指挥 , der Patient, 病人",
+      "source_content_hash": "a42c6a10f20e73f741a7157667a5d741e409491226ea162b476c6ca124d4c6d5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Dirigent（指揮者）、der Patient（患者）"
+      }
+    },
+    {
+      "segment_id": "0e80209e",
+      "source_content": "-ismus 如der Idealismus （理想主义）",
+      "source_content_hash": "dc60d9ba241d3ccf8bfb233c615ef2c808759b348b2e5d3e33c595b4397c8df0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-ismus 例：der Idealismus（理想主義）"
+      }
+    },
+    {
+      "segment_id": "7bc8bb24",
+      "source_content": "-ist 如 der Artist, 艺术家 der Optimist, 乐观主义者der Realist, 现实主义者",
+      "source_content_hash": "91d0751d3ea3b6737a9e03ce058bffdea95ab55890371a7a8bc1573898539b9b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-ist 例：der Artist（芸術家）、der Optimist（楽観主義者）、der Realist（現実主義者）"
+      }
+    },
+    {
+      "segment_id": "6693c38c",
+      "source_content": "所有非外来词的 -ling 如 der Schmetterling （蝴蝶）",
+      "source_content_hash": "68e3ec856ddda2e2cf85c660d58b486abd7342952d27dab59e4a651b5ff9bb0a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "外来語ではない全ての -ling 例：der Schmetterling（蝶）"
+      }
+    },
+    {
+      "segment_id": "e9313fef",
+      "source_content": "der Feigling, 胆小鬼",
+      "source_content_hash": "6610c834de17b2a269c73e758ed06afa3172b2f94f450d7983d6c6f4b13e7677",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Feigling（臆病者）"
+      }
+    },
+    {
+      "segment_id": "1b4de6df",
+      "source_content": "der Lehrling, 学徒",
+      "source_content_hash": "c8f38785585211ee6eb8c31066939a1df1471e8654537b8c4b27662e70c9abf5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Lehrling（見習い）"
+      }
+    },
+    {
+      "segment_id": "1958bc43",
+      "source_content": "der Zwilling, 双胞胎",
+      "source_content_hash": "bac59241fc2f28a103276821fa1ddb69759a613fe656e58baa870c4213f283f0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Zwilling（双子）"
+      }
+    },
+    {
+      "segment_id": "a8610918",
+      "source_content": "例外：das Recycling, 回收利用 , das Bowling, 保龄球",
+      "source_content_hash": "0fcbd04b5af96703077564257896ca0d6cb19b3e07a27d49bf5ad4b1d197c89f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "例外：das Recycling（リサイクル）、das Bowling（ボウリング）"
+      }
+    },
+    {
+      "segment_id": "a6c928a1",
+      "source_content": "大多 -us 如Bonus （红利），Virus*",
+      "source_content_hash": "06461d78a0a6b34e390316ce1e10c0618e0e3785992f6a29228634e39f493f18",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ほとんどの -us 例：Bonus（ボーナス）、Virus（ウイルス）*"
+      }
+    },
+    {
+      "segment_id": "b6152880",
+      "source_content": "–ner",
+      "source_content_hash": "3f2785a29da1f64338bc19ef1d594766e1cb08368c9ae4a27afe750ac21d9a40",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "–ner"
+      }
+    },
+    {
+      "segment_id": "b9331170",
+      "source_content": "der Rentner, 退休者der Schaffner, 乘务员der Zöllner, 海关人员",
+      "source_content_hash": "4c0084c8e7eef1c7347d3136a940d571fb2fb51afa5e0dba87ed7453ebb2fd01",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Rentner（年金生活者）、der Schaffner（車掌）、der Zöllner（税関職員）"
+      }
+    },
+    {
+      "segment_id": "8fcdd6d4",
+      "source_content": "例外 : das Banner, 旗帜 ，die Wiener (Wurst) , 维也纳香肠",
+      "source_content_hash": "c28a7b4cd176082289aa484e6726b533e1298c74abab04b7b08bbf6c3e7dd961",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "例外：das Banner（旗）、die Wiener (Wurst)（ウィンナーソーセージ）"
+      }
+    },
+    {
+      "segment_id": "53aa2b95",
+      "source_content": "所有表示人和工具的法语词尾-eur，如Friseur。",
+      "source_content_hash": "70983351084e34be0f5cf1731f771546890ec3bb4a46788c66785cf09f9be7be",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "人や道具を表すフランス語由来の語尾-eur、例：Friseur（理容師）。"
+      }
+    },
+    {
+      "segment_id": "9c9e2b64",
+      "source_content": "去掉1365个-ung阴性和几十个英语-ing中性，g结尾的词至少90%是阳性。并且ag结尾是阳性的确定性更大（字母越多越好判断）。中性的两个-ag在C1以下不太可能碰到，所以说-ag几乎是100%阳性。这样学生就不会害怕der/das/die了。",
+      "source_content_hash": "bd3aee8a5c6b724293d01e32a4c38cf9242dc24a237199715b34ca76c7c8a2eb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "1365個の-ung（女性名詞）と数十個の英語-ing（中性名詞）を除外すると、gで終わる単語の少なくとも90%は男性名詞。さらに-agで終わる単語は男性名詞である確率が極めて高く（文字数が多いほど判断しやすい）、C1レベル以下では中性名詞の2つの-agに遭遇する可能性はほぼないため、「-agはほぼ100%男性名詞」と教えることで、学習者がder/das/dieを恐れなくなる。"
+      }
+    },
+    {
+      "segment_id": "5c7d994c",
+      "source_content": "![](.\\img\\名词的性-1.png)",
+      "source_content_hash": "e4cb5ebec614414e6a1b0960babdce870a5dfd7ca691e4fad6aed72e93156016",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](.\\img\\名詞の性-1.png)"
+      }
+    },
+    {
+      "segment_id": "a461a67b",
+      "source_content": "#### 2. 属于阴性名词",
+      "source_content_hash": "95e77dd47cf07c9fa8de9323248217966abfed3c67e18438439a213357a3d995",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "#### 2. 女性名詞に属するもの"
+      }
+    },
+    {
+      "segment_id": "e77cf7c6",
+      "source_content": "（1）数字直接大写变成的名词，如die Eins, die Zwei 等。",
+      "source_content_hash": "43a9d23b4f352ba235bec549fc2017c72299768edf456a8522af6d8f6d56b703",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（1）数字を直接大文字化した名詞 例：die Eins（1）、die Zwei（2）など。"
+      }
+    },
+    {
+      "segment_id": "bb1346b6",
+      "source_content": "（2）多数以e结尾表示非生物的名词，如Tasche。例外：Käse",
+      "source_content_hash": "b5071bc134a3e772cc8ce55e93f4c6a9d09eee80dcc56eb311abace82b73e95c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（2）無生物を表す-eで終わる名詞の大多数 例：Tasche（鞄）。例外：Käse（チーズ）"
+      }
+    },
+    {
+      "segment_id": "8664ed0b",
+      "source_content": "（3）动词的某种词干加-t/-st或-d，变成名词，理论上是阴性。加-d的比如：jagen 打猎 - Jagd 打猎，sollen 应该  - Schuld 债/罪责，taugen 中用 - Tugend 美德。这样把一些不是动词词干加-d的都带成了阴性：gegen 反 - Gegend 这一片儿，jung 年轻的 - Jugend 年轻。加-t非常多，比如：kommen 来 - Zukunft 未来，fahren 车/船行驶 - Fahrt 车/船行驶，fahren 车/船行驶 - Furt 河中浅滩，fliehen 逃 - Flucht 逃，fließen 水流 - Flut 洪水，gebären 生 - Geburt 出生，schwellen 肿 - Geschwulst 肿瘤，stellen 立 - Gestalt 形，glühen 红/白热 - Glut 红/白热，jagen 追逐；打猎 - Jacht 快艇 ，klieben 劈开（生僻词）- Kluft 鸿沟，können 能 - Kunst 技艺/艺术，mögen 可能 - Macht 力量/权力，laden 装载 - Last 重压，nähen 缝 - Naht 线缝，pflegen 护理 - Pflicht 义务，predigen 布道 - Predigt 布道，ruhen 安静 - Rast 休息，sähen 播种 - Saat 播种/种子，schlagen 打 - Schlacht 战役，schreiben 写 - Schrift 写/文字，stehen 立 - Stadt 城市，suchen 找 - Sucht 瘾，tun 做 - Tat 行为，tragen 穿 - Tracht 节日盛装，ziehen 拉 - Zucht 培育",
+      "source_content_hash": "65fb32de6d4e3fe2f940c8a18e56e83e45de901fba6936992fb48b17e4c61b3f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（3）動詞の語幹に-t/-stまたは-dを加えて名詞化した場合、理論的には女性名詞となる。-dを加える例：jagen（狩る）→ Jagd（狩猟）、sollen（すべき）→ Schuld（借金/罪）、taugen（役立つ）→ Tugend（美徳）。これにより、動詞語幹由来ではない-dで終わる単語も女性名詞化される：gegen（反対）→ Gegend（地域）、jung（若い）→ Jugend（若さ）。-tを加える例は非常に多い：kommen（来る）→ Zukunft（未来）、fahren（車/船で移動）→ Fahrt（移動）、fahren→ Furt（浅瀬）、fliehen（逃げる）→ Flucht（逃亡）、fließen（流れる）→ Flut（洪水）、gebären（生む）→ Geburt（出生）、schwellen（腫れる）→ Geschwulst（腫瘍）、stellen（立てる）→ Gestalt（形状）、glühen（白熱する）→ Glut（白熱）、jagen→ Jacht（ヨット）、klieben（割る）→ Kluft（溝）、können（できる）→ Kunst（技術/芸術）、mögen（かもしれない）→ Macht（力/権力）、laden（積む）→ Last（重荷）、nähen（縫う）→ Naht（縫い目）、pflegen（世話する）→ Pflicht（義務）、predigen（説教する）→ Predigt（説教）、ruhen（休む）→ Rast（休息）、sähen（種を蒔く）→ Saat（種蒔き/種子）、schlagen（打つ）→ Schlacht（戦い）、schreiben（書く）→ Schrift（文字）、stehen（立つ）→ Stadt（都市）、suchen（探す）→ Sucht（中毒）、tun（する）→ Tat（行為）、tragen（着る）→ Tracht（民族衣装）、ziehen（引く）→ Zucht（育種）"
+      }
+    },
+    {
+      "segment_id": "9e90a9b3",
+      "source_content": "（4）以下词尾：",
+      "source_content_hash": "9bcbcd611fc25b58611b49727c4dcd20bb60f814957fb2c333a0546ab42b130b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（4）以下の語尾："
+      }
+    },
+    {
+      "segment_id": "681ef526",
+      "source_content": "大部分-a 如die Kamera",
+      "source_content_hash": "7225bd1acbb482baeb08778791aeaac7306bab3cd15836686064f279a00fe1ad",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "大部分の-a：die Kamera（カメラ）"
+      }
+    },
+    {
+      "segment_id": "be17ccc3",
+      "source_content": "绝大部分 -ei 如die Backerei，例外如：der Papagei。 die Bäckerei, 面包房die Bücherei, 书店die Druckerei, 打印店 例外： der Papagei 鹦鹉",
+      "source_content_hash": "b97876b68e15e3e5f23d9f52bcbc5a00ecff4a1c6a9587b33d4512398184299b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ほぼ全ての-ei：die Backerei（パン屋）、例外：der Papagei（オウム）。die Bäckerei（パン屋）、die Bücherei（本屋）、die Druckerei（印刷所）。例外：der Papagei（オウム）"
+      }
+    },
+    {
+      "segment_id": "ad3e22c6",
+      "source_content": "-heit 如 die Gesundheit die Frechheit, 放肆 die Geborgenheit, 安全",
+      "source_content_hash": "e1115fce378024657e60870f9f6d50911e75b3154f75cb0517acb3b50e6af901",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-heit：die Gesundheit（健康）、die Frechheit（生意気）、die Geborgenheit（安心感）"
+      }
+    },
+    {
+      "segment_id": "3e8f45da",
+      "source_content": "die Trunkenheit, 醉酒",
+      "source_content_hash": "aa6320f533d9bc90f6dd0b674bb328817d656955d5bd869fd894b4967ef12ad3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Trunkenheit（酔い）"
+      }
+    },
+    {
+      "segment_id": "4c787c52",
+      "source_content": "-keit 如 die Einigkeit 统一 die Einigkeit, 统一die Einsamkeit, 孤独 die Müdigkeit, 疲劳",
+      "source_content_hash": "95678d3d5e0ebd994c064cd4ea6155a252868830e67a2a449593b2548a1e5218",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-keit：die Einigkeit（統一）、die Einsamkeit（孤独）、die Müdigkeit（疲労）"
+      }
+    },
+    {
+      "segment_id": "63565425",
+      "source_content": "大多 -ik 如 die Grammatik die Fabrik, 工厂 die Klinik, 医院，诊疗所",
+      "source_content_hash": "324d5dddcbbdba02eabad4de3e7a5d7d194117351f0dad462cdaeea64d903b76",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "大部分の-ik：die Grammatik（文法）、die Fabrik（工場）、die Klinik（診療所）"
+      }
+    },
+    {
+      "segment_id": "1496ef51",
+      "source_content": "die Politik, 政治",
+      "source_content_hash": "1e79f9b000d48ce6d15d428747476eb2baeed2dc784126e1289737a7c574da56",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Politik（政治）"
+      }
+    },
+    {
+      "segment_id": "dce16ab4",
+      "source_content": "例外：der Atlantik, 大西洋, der Katholik, 天主教徒",
+      "source_content_hash": "1f1a5072ae2ae9f11eb6598ab7983b777adb9d00771cbd57d3ae3e7ac72450b2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "例外：der Atlantik（大西洋）、der Katholik（カトリック教徒）"
+      }
+    },
+    {
+      "segment_id": "6f08f877",
+      "source_content": "表示人的 -in 如 die Studentin 女学生 die Köchin, 女厨师 die Sekretärin, 女秘书die Türkin 土耳其女人",
+      "source_content_hash": "be97c490ed30e8d3996d547150a702d77d1a8a802e9ee1f35df4e2625acdc199",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "人を表す-in：die Studentin（女子学生）、die Köchin（女性料理人）、die Sekretärin（女性秘書）、die Türkin（トルコ人女性）"
+      }
+    },
+    {
+      "segment_id": "2dbfc5f7",
+      "source_content": "绝大部分 -ion 如die Produktion，例外如der/das Lampion, der Skorpion（待暴力穷举） die Aktion, 行动die Diskussion, 讨论die Information, 信息",
+      "source_content_hash": "6686ea7e6cf5085b18f2582de0e4918e9c67f0d24feb8fa94e172354cdc50c42",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ほぼ全ての-ion：die Produktion（生産）、例外：der/das Lampion（提灯）、der Skorpion（サソリ）。die Aktion（行動）、die Diskussion（議論）、die Information（情報）"
+      }
+    },
+    {
+      "segment_id": "6b40e7a2",
+      "source_content": "抽象名词后缀 -schaft 如 die Freundschaft die Feindschaft, 敌对",
+      "source_content_hash": "342b877008e216abefa64f4c9b79c6e8870c485431a9389be5ca495880bc8237",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "抽象名詞の接尾辞 -schaft 例：die Freundschaft（友情） die Feindschaft（敵対）"
+      }
+    },
+    {
+      "segment_id": "39f476dc",
+      "source_content": "die Freundschaft, 友谊",
+      "source_content_hash": "8b54015a3b05dff8b96a58a9afa3067558e42ac66b9325296b264abbdf0c647a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Freundschaft（友情）"
+      }
+    },
+    {
+      "segment_id": "827eb9a3",
+      "source_content": "die Meisterschaft, 冠军; 精通",
+      "source_content_hash": "5de856f9140bf00b7bfebbc685d12d555ead8162e08e1205949cc60c9354ed61",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Meisterschaft（優勝；熟練）"
+      }
+    },
+    {
+      "segment_id": "62d066b0",
+      "source_content": "例外：der Ruderschaft 船的舵柱，der Stiefelschaft，鞋帮",
+      "source_content_hash": "ef05a3d90d7d745c48f8f4b97e1f8ad1f351010a5b74566e29d644c4a6e37016",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "例外：der Ruderschaft（船の舵柱）、der Stiefelschaft（靴の甲部）"
+      }
+    },
+    {
+      "segment_id": "89cf7bac",
+      "source_content": "-tät（已暴力穷举） 如die Universität",
+      "source_content_hash": "c34957d4f557c9afc50140be8e72f9cd12c74e7daffc1e70776a10a721d9e329",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-tät（網羅済み）例：die Universität（大学）"
+      }
+    },
+    {
+      "segment_id": "808b0414",
+      "source_content": "-ität  die Aggressivität, 攻击 die Aktivität, 吸引die Humanität, 人性",
+      "source_content_hash": "2080bd27d125b8aca64d580ae4581e50525acbc43305701c988db4748db2f324",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-ität die Aggressivität（攻撃性） die Aktivität（活動） die Humanität（人間性）"
+      }
+    },
+    {
+      "segment_id": "61a78cbe",
+      "source_content": "后缀 -ung 如die Wohnung die Endung, 结尾 die Entfernung, 远离",
+      "source_content_hash": "94bbfe21c19878feb46eff0cfcdd4471caa6d8f7aad7736888640cee8c8b859c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "接尾辞 -ung 例：die Wohnung（住居） die Endung（語尾） die Entfernung（距離）"
+      }
+    },
+    {
+      "segment_id": "39c48ff7",
+      "source_content": "die Hoffnung, 希望",
+      "source_content_hash": "ee5ab242f5bcc0a1e2f5a8ff2273b6c8f4514ee0b7979d4b742c54d631e9a8d8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Hoffnung（希望）"
+      }
+    },
+    {
+      "segment_id": "e29bd639",
+      "source_content": "例外：der Sprung, 跳跃，der Aufschwung, 繁荣",
+      "source_content_hash": "a94e2b49c653cff0f956b090ed35be06815f86fc6942b68f38f8a15611c6da06",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "例外：der Sprung（跳躍）、der Aufschwung（好況）"
+      }
+    },
+    {
+      "segment_id": "e5821418",
+      "source_content": "-thek（已暴力穷举）如die Bibliothek",
+      "source_content_hash": "fdd149ba93ed993d9fe05fa8faca4638afbfdc68ebf82cd6a973b35d48f7e4ae",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-thek（網羅済み）例：die Bibliothek（図書館）"
+      }
+    },
+    {
+      "segment_id": "4e2e17c5",
+      "source_content": "多数 -anz 如die Toleranz 宽容 die Allianz, 联合die Arroganz, 傲慢die Bilanz, 结算表",
+      "source_content_hash": "db368ab57683946d9257c475e8de8e7dcdc9b0ff38c7c937ef339ebf3c07c630",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "多くの -anz 例：die Toleranz（寛容） die Allianz（同盟） die Arroganz（傲慢） die Bilanz（貸借対照表）"
+      }
+    },
+    {
+      "segment_id": "b49a7009",
+      "source_content": "大多数 -ur 如die Natur, die Frisur, die Diktatur 独裁, die Rasur 剔除（毛发）,die Rezeptur 配方",
+      "source_content_hash": "96637de2e8e2d4b1beef329801fd2ae1c2d173e4c6853a957b1dea6501a3aa60",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ほとんどの -ur 例：die Natur（自然）、die Frisur（髪型）、die Diktatur（独裁）、die Rasur（毛剃り）、die Rezeptur（処方）"
+      }
+    },
+    {
+      "segment_id": "9ebd9d9b",
+      "source_content": "例外：das Abitur, 高中毕业考试，der Flur, 走廊",
+      "source_content_hash": "21f95cf17df006cfcb730a74d78c385922bf6a829f5c910dacff6c0f58fb9e7f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "例外：das Abitur（大学入学資格試験）、der Flur（廊下）"
+      }
+    },
+    {
+      "segment_id": "295367fa",
+      "source_content": "-ur几乎全是阴性（90多个）。中性3个和阳性4个都可以理解到合情合理。比如Schwur来自schwören，动词词干是阳性；Merkur来自男神“墨丘利”的名字，所以是阳性（其他行星也是这个道理）。Futur是中性，是因为拉丁语时态的名称全部是中性，因为Tempus（时态）这个词是中性。Abitur是中性，因为它是缩写，本来是Abiturium，这个-ium就是典型的中性词尾。",
+      "source_content_hash": "af352ca46f4b9ebc5e7024c7b9ed2d3775186d359dfff736954ee4b3ceac4889",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-urはほぼ全て女性名詞（90語以上）。中性3語と男性4語は合理的に説明可能。例えばSchwurはschwören（誓う）から派生し、動詞語幹は男性。Merkurは男神「メルクリウス」の名前に由来（他の惑星も同様）。Futurが中性なのは、ラテン語の時制名称が全て中性（Tempus「時制」が中性）のため。Abiturは中性で、Abituriumの略語であり、-iumは典型的中性語尾。"
+      }
+    },
+    {
+      "segment_id": "6fad5db5",
+      "source_content": "![](.\\img\\名词的性-4.png)",
+      "source_content_hash": "862a817ef812889b5082254ca7af4950467da88511372e761b224be8210b0413",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](.\\img\\名詞の性-4.png)"
+      }
+    },
+    {
+      "segment_id": "c5e0bb3d",
+      "source_content": "基本上所有的-ie。die Demokratie, 民主",
+      "source_content_hash": "3620bba4a240b55a61834480e78eb31b355579b34c98a44d566eb041f07231b7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "基本的に全ての-ie。die Demokratie（民主主義）"
+      }
+    },
+    {
+      "segment_id": "f2c67ca5",
+      "source_content": "die Fotografie, 摄影",
+      "source_content_hash": "4a3b05223772cc0148e5f4c08bd79563e7619688c138aa7c648cbdc496355e1e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Fotografie（写真術）"
+      }
+    },
+    {
+      "segment_id": "3208eb29",
+      "source_content": "die Prämie, 奖金",
+      "source_content_hash": "20c6e7457160fe0ce6cf154f9f6d1455235900b9c6d75d9737ef559dc19ed730",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Prämie（賞金）"
+      }
+    },
+    {
+      "segment_id": "38f964f1",
+      "source_content": "基本上所有的-enz。die Intelligenz, 智力 die Konferenz, 会议die Prominenz, 名人",
+      "source_content_hash": "5a2152d5e100567e497644f32fbef996567447e5c1fc4a4b6fd62268293f6fcf",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "基本的に全ての-enz。die Intelligenz（知性） die Konferenz（会議） die Prominenz（著名人）"
+      }
+    },
+    {
+      "segment_id": "b4204c03",
+      "source_content": "所有的-sis，比如die Skepsis。",
+      "source_content_hash": "05006effbd8a4c2aeb60d5a18832d14d3d0263ef24d7a26199570a99319400a1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "全ての-sis、例：die Skepsis（懐疑）。"
+      }
+    },
+    {
+      "segment_id": "e6ac016e",
+      "source_content": "所有作为后缀的-ei，例如die Bäckerei。",
+      "source_content_hash": "12170d6172b84441c881bce9d80eb86f3e475bc221a7ed5b899b26853d09f83d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "接尾辞としての-ei、例：die Bäckerei（パン屋）。"
+      }
+    },
+    {
+      "segment_id": "dad05c50",
+      "source_content": "acht这3个字母在末尾是阴性的概率特别大",
+      "source_content_hash": "5ebce25e2f5d3af6971ea3b2dbd0332f21ae0c78fe87d7db167d472fa983d760",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "末尾がachtの3文字は女性名詞の確率が極めて高い"
+      }
+    },
+    {
+      "segment_id": "eeeea5ce",
+      "source_content": "-acht除了Bedacht, Verdacht, Betracht, Schacht四个，其他的都是阴性的。这四个词基本都是动词词干来的，而动词的某种词干变的词是阳性，这是规律。并且这四个词在初级一般不会涉及。",
+      "source_content_hash": "ccd1417f0ae205ce27405872df67bace32b362aeaa71d32a4bc5ed764b2e1886",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-achtでBedacht, Verdacht, Betracht, Schachtの4語を除き、全て女性名詞。これら4語は基本的に動詞語幹由来で、動詞語幹から変化した名詞は男性となる規則による。初級では通常扱わない語彙。"
+      }
+    },
+    {
+      "segment_id": "e4d8cd8a",
+      "source_content": "![](.\\img\\名词的性-2.png)",
+      "source_content_hash": "5f4be159b97bc45971afa042eef1af658fcac104561f59ae2f9afae1349b3284",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](.\\img\\名詞の性-2.png)"
+      }
+    },
+    {
+      "segment_id": "ba4aa94e",
+      "source_content": "#### 3. 属于中性名词的",
+      "source_content_hash": "536c64cc4b13d2b7da63f8d5f54785be95e837b10250f113227210bc8816eaec",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "#### 3. 中性名詞に属する"
+      }
+    },
+    {
+      "segment_id": "d75361e3",
+      "source_content": "（1）幼小的人和动物，如das Kind, das Kalb, das Küken。",
+      "source_content_hash": "31fa98b98886c31f96991ad494116336b50a2c2b75f26260e147ee2d280188a3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（1）幼い人間や動物、例：das Kind（子供）、das Kalb（子牛）、das Küken（ひよこ）"
+      }
+    },
+    {
+      "segment_id": "c277c3c0",
+      "source_content": "（2）大多数化合物，如Hormon, Protein, Melamin, Glutamat。",
+      "source_content_hash": "d91b8368a4ab384c9adf4108d8c97886abc459dbe947138794e83e23fad70dc1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（2）ほとんどの化合物、例えばHormon（ホルモン）、Protein（タンパク質）、Melamin（メラミン）、Glutamat（グルタミン酸塩）。"
+      }
+    },
+    {
+      "segment_id": "5eedf0a1",
+      "source_content": "（3）几乎所有的金属和化学元素的名称，如das Eisen, das Gold。",
+      "source_content_hash": "39e2056d5476d0f1a2b5180cda0060f00015eb7045090a22ed59754830c64fdb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（3）ほぼすべての金属と化学元素の名称、例えばdas Eisen（鉄）、das Gold（金）。"
+      }
+    },
+    {
+      "segment_id": "e4945edb",
+      "source_content": "颜色名词：Himmelblau, 天蓝Rosarot, 玫瑰红Weiß, 白色",
+      "source_content_hash": "e46df2d770cb7f65ef3ca84651c7baec3c82f960cf7ae83e45b8f2add06f49a8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "色を表す名詞：Himmelblau（空色）、Rosarot（ローズレッド）、Weiß（白）"
+      }
+    },
+    {
+      "segment_id": "9ede513a",
+      "source_content": "（4）几乎所有名词化的动词原形，如das Leben, das Fernsehen。",
+      "source_content_hash": "2f0e99e610bd431d94616c87bfdd9c3116cef8169648139030ace32fc55c5570",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（4）ほぼすべての動詞の原形を名詞化したもの、例えばdas Leben（生活）、das Fernsehen（テレビ）。"
+      }
+    },
+    {
+      "segment_id": "49be422b",
+      "source_content": "名词化的动词：",
+      "source_content_hash": "ac4ffca3e7834a9157d03550e994915f301298a9417954dd295209cfdb09b136",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "名詞化された動詞："
+      }
+    },
+    {
+      "segment_id": "01902900",
+      "source_content": "das Essen, 吃饭",
+      "source_content_hash": "a4093c7f1a44390f78b73de0cc02da6dd6686a95ffb176a1168cf244850ce085",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Essen（食事）"
+      }
+    },
+    {
+      "segment_id": "dbeb30c1",
+      "source_content": "das Lernen, 学习",
+      "source_content_hash": "3d81f13ba5c22308b61bfa2f871a09d706a369c81ae14df1a53bd74be970e121",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Lernen（学習）"
+      }
+    },
+    {
+      "segment_id": "09d52457",
+      "source_content": "das Reisen, 旅游",
+      "source_content_hash": "b6ffac5575828fd40e2f9bca3fe36ea761b1059ed91e8e723e84429b46a53f67",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Reisen（旅行）"
+      }
+    },
+    {
+      "segment_id": "d73903fc",
+      "source_content": "（5）所有其他名词化的词类（数词除外）如das Ich自我, das Blau, das Muss。",
+      "source_content_hash": "5a250069f91299b290ed1a970c6ae3731c2edadfa2e65e45a79ae811e2d36f6b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（5）その他の名詞化された品詞（数詞を除く）、例えばdas Ich（自我）、das Blau（青）、das Muss（義務）。"
+      }
+    },
+    {
+      "segment_id": "130a77cc",
+      "source_content": "名词化的形容词：",
+      "source_content_hash": "96ff327901347d7e1116a29154888eef9e12134db1728c4f74c3761bd2131031",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "名詞化された形容詞："
+      }
+    },
+    {
+      "segment_id": "d119b75c",
+      "source_content": "das Gute, 好的东西",
+      "source_content_hash": "c85401564e9f7453331f8313dd76abc90e11acbefd620b67fb26a604cc78e5e7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Gute（良いもの）"
+      }
+    },
+    {
+      "segment_id": "8f4e752e",
+      "source_content": "das Böse, 坏的事物",
+      "source_content_hash": "83206e4a61f4748256687ef69d01265a0f97d93521c26c39a726658d2e143774",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Böse（悪いもの）"
+      }
+    },
+    {
+      "segment_id": "f211c69a",
+      "source_content": "ps：此处指的是变格后的形容词直接作名词用。 如果转化后的名词指代的是事物，则名词的词性都为中性，形容词的变格词尾同样要保留，例如: das Alte，das Süβe。若转化后的名词指代的是人，名词的词性与人的自然属性相同，名词的词尾与形容词的变格词尾相同，例如: eine Arme，die Bekannten, der Chinesische",
+      "source_content_hash": "3daf0886da610ca77e6fc7f4a1e2881eb86886eaba3373282d4a0580d2909884",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "注：ここでは格変化した形容詞が直接名詞として使われる場合を指す。名詞化されたものが物を指す場合、名詞の性は中性で、形容詞の格変化語尾も保持される（例：das Alte、das Süβe）。人を指す場合、名詞の性は人の自然属性に一致し、名詞の語尾は形容詞の格変化語尾と同じ（例：eine Arme、die Bekannten、der Chinesische）。"
+      }
+    },
+    {
+      "segment_id": "face5559",
+      "source_content": "（6）带小称后缀-chen, -lein, -el的名词，如Mädchen, Vöglein, Aschenputtel。",
+      "source_content_hash": "29beb963d1c1453e51797e49cbfe0083bb45e64d77cb07ed7ed762124891c6ef",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（6）指小辞-chen、-lein、-elがついた名詞、例えばMädchen（少女）、Vöglein（小鳥）、Aschenputtel（シンデレラ）。"
+      }
+    },
+    {
+      "segment_id": "43287462",
+      "source_content": "（7）大多数带前缀ge-的名词，如Gebäude, Getränk。",
+      "source_content_hash": "6fd09ac8f91305e062a020b0ea0d6ae94860b5036d0d89b4bb879ab5ce7f5124",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（7）接頭辞ge-がついた名詞の大多数、例えばGebäude（建物）、Getränk（飲み物）。"
+      }
+    },
+    {
+      "segment_id": "6dc3e423",
+      "source_content": "（8）以下词尾：",
+      "source_content_hash": "bb1ecbd7f32617ef1538c045a464a1e4be258635107761c2f1e0ed4ec344d6cc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（8）以下の語尾："
+      }
+    },
+    {
+      "segment_id": "ceb4fd26",
+      "source_content": "几乎所有 -ett（已暴力穷举） 如das Bankett 宴会",
+      "source_content_hash": "a3ea5ccbb44312b9b9bcbe19901240b70d7b6ba318bb61128465535bacd2ff1f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ほぼすべての-ett（網羅済み）、例えばdas Bankett（宴会）"
+      }
+    },
+    {
+      "segment_id": "65be34cb",
+      "source_content": "多数 -ma 如das Klima 气候",
+      "source_content_hash": "7ec8446144a8db7ecec94de9f6fb69732cbd20303031a2b76aff42fb2028cb38",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ほとんどの-ma、例えばdas Klima（気候）"
+      }
+    },
+    {
+      "segment_id": "32fb7230",
+      "source_content": "几乎所有 -ment（已暴力穷举） 如 das Fundament 基础",
+      "source_content_hash": "e46778703764337bc8d9466f6f50f59584186f1b6fc280ea2f9efba17779f688",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ほぼすべての-ment（網羅済み）、例えばdas Fundament（基礎）"
+      }
+    },
+    {
+      "segment_id": "41e7f712",
+      "source_content": "das Argument, 论点",
+      "source_content_hash": "6260adb15cc65706f1466fab7d5165fce178c633b952b19484063e2eac4c5d53",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Argument（議論）"
+      }
+    },
+    {
+      "segment_id": "15d5abf0",
+      "source_content": "das Dokument, 文件",
+      "source_content_hash": "c9eb56a236925378d61291df8a2aa227859587edebbf86a27036ee4cdae1d7e7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Dokument（文書）"
+      }
+    },
+    {
+      "segment_id": "5d5a3416",
+      "source_content": "das Element, 元素",
+      "source_content_hash": "d49a84cf728640a6d2e8468227410bce3765ec7ba8f4d51eea751dd996acef1a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Element（元素）"
+      }
+    },
+    {
+      "segment_id": "070ff7a2",
+      "source_content": "大部分 –um 如das Eigentum 财产",
+      "source_content_hash": "ad5a53e9266d06c2804440a08fdec3552c18ed7d62759e7b988df9f7256892d6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "大部分の–um、例えばdas Eigentum（財産）"
+      }
+    },
+    {
+      "segment_id": "715a86e2",
+      "source_content": "das Datum, 日期",
+      "source_content_hash": "03b366110afeaa8badbf80f519872fc9fa1272218bd4b7693dfa0526993e1494",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Datum（日付）"
+      }
+    },
+    {
+      "segment_id": "2153a2fa",
+      "source_content": "das Publikum, 公众",
+      "source_content_hash": "5c60329de7d6cc828a29ed8f8259e8df7c9af7d9bafea24d07669ec9ce752864",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Publikum（観客）"
+      }
+    },
+    {
+      "segment_id": "bb5297fc",
+      "source_content": "das Stadium, 阶段",
+      "source_content_hash": "d9c1bc7c273d155074dab7402f66c4ad34c0f7c807bdcbaa2e302a5daf766be7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Stadium（段階）"
+      }
+    },
+    {
+      "segment_id": "2cfc0629",
+      "source_content": "-tum",
+      "source_content_hash": "390d065a8e621f9de1f3818cc15a863b8ea3ad3923b55080089394eeb8477364",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-tum"
+      }
+    },
+    {
+      "segment_id": "f4b938fe",
+      "source_content": "das Brauchtum, 民间习俗",
+      "source_content_hash": "01b177c9955a7439de5bf164a4b531f1e1f6970bf5c1e99a7ab1b8f1c757bc8a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Brauchtum（民間習俗）"
+      }
+    },
+    {
+      "segment_id": "2d5a3f2f",
+      "source_content": "das Christentum, 基督教",
+      "source_content_hash": "d199362c46125dd321d69af2bf07bfea9ec2fb3883bbd20293cf470c0c55915d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Christentum（キリスト教）"
+      }
+    },
+    {
+      "segment_id": "52d45a2c",
+      "source_content": "das Eigentum, 所有物，财产 ...",
+      "source_content_hash": "45bf6c5928f0573b52acc25b950318c8d86f2d0d5d1642de0d8e6c5c452c2431",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Eigentum（所有物、財産）..."
+      }
+    },
+    {
+      "segment_id": "53e725dc",
+      "source_content": "例外：der Irrtum, 错误；der Reichtum, 财富",
+      "source_content_hash": "323da813ec99ece5f3a680c312f63b73eeec29f69a40fc74447fb1c8d33c7b7a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "例外：der Irrtum（誤り）、der Reichtum（富）"
+      }
+    },
+    {
+      "segment_id": "5014d30c",
+      "source_content": "-zeug（已暴力穷举） 如das Spielzeug",
+      "source_content_hash": "712a4e63d1feacb99d493076df640400278291facba340591df3e49a131d3bc9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-zeug（網羅済み）、例えばdas Spielzeug（おもちゃ）"
+      }
+    },
+    {
+      "segment_id": "e962484d",
+      "source_content": "–nis",
+      "source_content_hash": "4800f4ce6d00cec34b9b2938b2cc7ce9ab434292c9930c11495ef3edd3aa8757",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "–nis"
+      }
+    },
+    {
+      "segment_id": "740d2e67",
+      "source_content": "das Ergebnis, 结果",
+      "source_content_hash": "6281425352f2e8661dd56e230e16a363d360d60e5d83f24adf55c4365bf82b1e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Ergebnis（結果）"
+      }
+    },
+    {
+      "segment_id": "e3bf03eb",
+      "source_content": "das Tennis, 网球",
+      "source_content_hash": "9eccd6ef1d56cdfef95ebd00430c9bf1c3f4212f791665016e954b9141f95948",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Tennis（テニス）"
+      }
+    },
+    {
+      "segment_id": "7fa65ec5",
+      "source_content": "例外：die Fahrerlaubnis, 驾驶执照，die Wildnis, 荒野",
+      "source_content_hash": "0c730ccb13043f4a73814507fc4d56891c487541fc4c6848374745b55bc006e0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "例外：die Fahrerlaubnis（運転免許）、die Wildnis（荒野）"
+      }
+    },
+    {
+      "segment_id": "7eb5b32d",
+      "source_content": "–o",
+      "source_content_hash": "5ccb30b62f6311893216ff6cac28f2471a4703e1e66948e98b44e8d1c0a5cb2a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "–o"
+      }
+    },
+    {
+      "segment_id": "850ec775",
+      "source_content": "das Auto, 汽车",
+      "source_content_hash": "810d470d8ebedef8a7d899c4b1b7266d6603a5710483ed0938db4f0703696007",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Auto, 自動車"
+      }
+    },
+    {
+      "segment_id": "858b0a05",
+      "source_content": "das Konto，账户",
+      "source_content_hash": "6eb58173f0a0b38685c4bf3307dc08f4c535523f40c801bd2fd7408af5ec71e9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Konto, 口座"
+      }
+    },
+    {
+      "segment_id": "c95293b9",
+      "source_content": "例外: die Avocado, 油梨，der Euro, 欧元",
+      "source_content_hash": "f84c1aca7ac4f511344627fb54ee3aa65fe5724f6d10c144c5ea2d3fdfd0bbdb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "例外: die Avocado, アボカド, der Euro, ユーロ"
+      }
+    },
+    {
+      "segment_id": "295e85da",
+      "source_content": "#### 4. 其他",
+      "source_content_hash": "e564a77e519a108fef9d085b8a474c235f7b20b7c6942b62f02c5ad7288545c0",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "#### 4. その他"
+      }
+    },
+    {
+      "segment_id": "a5a28988",
+      "source_content": "（1）以-el结尾的词分属三种性，如果是阴性，复数加-n；阳性和中性一般单复数同形。要特别注意der Mantel的复数是Mäntel。",
+      "source_content_hash": "0a12dcdd876ee138199837bad7671825de2723635a83446c78dfc073d01cbdc2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（1）-elで終わる語は3つの性に分かれる。女性名詞の場合、複数形は-nを加える。男性名詞と中性名詞は通常単数形と複数形が同じ。特にder Mantelの複数形はMäntelなので注意。"
+      }
+    },
+    {
+      "segment_id": "6c4ea90c",
+      "source_content": "（2）以-nis结尾的词基本是中性，一小部分是阴性（die (Er)kenntnis, die Ersparnis, die Erlaubnis, die Fäulnis, die Finsternis）；如果有复数，则加-se。已暴力穷举，请参见下文。",
+      "source_content_hash": "2c5b199c42504c53c5e201b20239e0f3dd8b8cbc68f79238c0181a2e61a6c6b7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（2）-nisで終わる語は基本的に中性だが、一部は女性名詞（die (Er)kenntnis, die Ersparnis, die Erlaubnis, die Fäulnis, die Finsternis）。複数形がある場合は-seを加える。詳細は以下を参照。"
+      }
+    },
+    {
+      "segment_id": "a01e2096",
+      "source_content": "（3）带ge-前缀的名词有一部分是阳性和阴性（已暴力穷举）。",
+      "source_content_hash": "df62d60831c264a5efc963543658a39d15c754abf407cdaeccd38cf550401fa1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（3）ge-を接頭辞とする名詞の一部は男性名詞と女性名詞（詳細は以下を参照）。"
+      }
+    },
+    {
+      "segment_id": "130e2dfb",
+      "source_content": "（4）以-t, -d结尾的名词，复数大多加-er。",
+      "source_content_hash": "810ce3cdbd04cd90a8527374d6bb721f4396ae078a568c676107296efaa1904e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（4）-t, -dで終わる名詞の複数形は多くが-erを加える。"
+      }
+    },
+    {
+      "segment_id": "a4628837",
+      "source_content": "####  5. 暴力穷举下的规则",
+      "source_content_hash": "1ed60321f8dabd3ee52c0372c5873c6545ecd7ce899ca20fed450f8cabc0d95c",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "#### 5. 徹底的な列挙に基づく規則"
+      }
+    },
+    {
+      "segment_id": "b2ffb658",
+      "source_content": "（1）-sam结尾的名词除了das Gewahrsam（和das Gefängnis近义）全是阳性。其实也没几个：",
+      "source_content_hash": "431c40427342d2158a1da47c4ebf530909138fea2c7e208c10cd4bbb708dc504",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（1）-samで終わる名詞は、das Gewahrsam（das Gefängnisと同義）を除いてすべて男性名詞。実際には数も少ない："
+      }
+    },
+    {
+      "segment_id": "e020f7ed",
+      "source_content": "der Balsam",
+      "source_content_hash": "771199dc07a31de4f5e905d18f6af9d518024f9dfe0e0cd98e469ff789cc6a93",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Balsam"
+      }
+    },
+    {
+      "segment_id": "d83b50df",
+      "source_content": "der Bisam",
+      "source_content_hash": "b981de723b21a024442aee4a9629146e400018cc80c666c6d9ad12c2d117b6f7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Bisam"
+      }
+    },
+    {
+      "segment_id": "b16b56a2",
+      "source_content": "der Gehorsam",
+      "source_content_hash": "90d1bf866d2a4308c5874a0c68cdd9355f1ba5df3fd66e34f288371a3282619c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Gehorsam"
+      }
+    },
+    {
+      "segment_id": "27f3a471",
+      "source_content": "der Gewahrsam（和Schutz; Haft近义）",
+      "source_content_hash": "2aacf7b18ff9b6d792498ca6b5256c6d39912bceaa9524cb29e7c0b6f4ca2e56",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Gewahrsam（Schutz; Haftと同義）"
+      }
+    },
+    {
+      "segment_id": "9929329e",
+      "source_content": "der Sesam",
+      "source_content_hash": "be9f0114d1ef31c2db9868c10670c0bb5781e63acd6c13ddb36f1fd8be6be1f1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Sesam"
+      }
+    },
+    {
+      "segment_id": "1dffcdf5",
+      "source_content": "（2）-ett 结尾的名词全是中性，除了以下几个词：",
+      "source_content_hash": "de1caf83943338a4ed6fe24265fcbd66ccfc173dd4cc3e5d12caa9403a39732e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（2）-ettで終わる名詞は基本的に中性だが、以下の語は例外："
+      }
+    },
+    {
+      "segment_id": "8862791b",
+      "source_content": "der Kadett, -en, -en",
+      "source_content_hash": "de2d7808769dfaa9650c50b2b0d7ae5514e91c43eb8e7b601feb44f17524ff31",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Kadett, -en, -en"
+      }
+    },
+    {
+      "segment_id": "e8bf4d18",
+      "source_content": "der Kornett",
+      "source_content_hash": "6b4b5c5c07e08794d03441aec940d8bddfa19ce251b76b319d1230ce1f621a6b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Kornett"
+      }
+    },
+    {
+      "segment_id": "b682f1ac",
+      "source_content": "der/das Scherbett（说明德国人也在der和das之间摇摆）土耳其清凉饮料",
+      "source_content_hash": "fb4fcbfb9ffecb3a728107509c2a2a60b2303836575293f54c7c1c5ce4c3692d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der/das Scherbett（ドイツ人もderとdasの間で揺れている）トルコの清涼飲料"
+      }
+    },
+    {
+      "segment_id": "0302cdc1",
+      "source_content": "der Seekadett",
+      "source_content_hash": "4f4963d75fc61a68f636df5723c9f6707144b58c0568ecb8ac7ec5df217955c2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Seekadett"
+      }
+    },
+    {
+      "segment_id": "9802de48",
+      "source_content": "die Skelett（联想die Schrift）细骨架字体",
+      "source_content_hash": "f1c1c822bf042aeeac2af00a002fd1369a167d3e0f0043d312ae7eda73b1bd54",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Skelett（die Schriftと連想）細い骨格のフォント"
+      }
+    },
+    {
+      "segment_id": "e9a0d59a",
+      "source_content": "（3）-ling结尾的词，来自英语的是das（以-ing结尾的英语词在德语里属中性），来自荷兰语的是die，非外来语是der。",
+      "source_content_hash": "bbb4db70a9d034112bb7f11a78dfd4b610b7de46941fc7b3ddf1ec658784d1be",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（3）-lingで終わる語は、英語由来のものはdas（英語の-ingで終わる語はドイツ語では中性）、オランダ語由来のものはdie、外来語でないものはder。"
+      }
+    },
+    {
+      "segment_id": "a6efb0d1",
+      "source_content": "来自荷兰语：",
+      "source_content_hash": "1e22d81af6be5a669ed807f11cbce251126ff1c509aade2523be2f62fc5d7fb9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "オランダ語由来："
+      }
+    },
+    {
+      "segment_id": "c1e7eaab",
+      "source_content": "die Helling",
+      "source_content_hash": "a7eb0c8d43a5b151acd443f83f291f1e05e036afa053b79a7a66a137f97680b7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Helling"
+      }
+    },
+    {
+      "segment_id": "e4ab192a",
+      "source_content": "die Kaveling",
+      "source_content_hash": "138c265dc4cb6e5142f28ec4069d1d4ec18852a50b970f186c62a283e4756fa6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Kaveling"
+      }
+    },
+    {
+      "segment_id": "6fecc583",
+      "source_content": "die Reling",
+      "source_content_hash": "84b82e5de413d5aef32aa444675b0a0eaad081bed8da468c2a6dfb4b5c27ae26",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Reling"
+      }
+    },
+    {
+      "segment_id": "d70ad719",
+      "source_content": "die/der/das Soling",
+      "source_content_hash": "b6633f97e132d2a98ae8f8305faef2e668bd351a1b1b0d44d10c3d2f0653a4d6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die/der/das Soling"
+      }
+    },
+    {
+      "segment_id": "9cbb5424",
+      "source_content": "die Wieling",
+      "source_content_hash": "5020c4f07e35609eda170868e121a1fdfeed49658dc28975fe9db779d1d9b399",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Wieling"
+      }
+    },
+    {
+      "segment_id": "dbd18971",
+      "source_content": "来自英语：",
+      "source_content_hash": "83aa6b6f56efbb173a0033411a4a0d2d89699e55d78a493bdcfc98ed1291360e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "英語由来："
+      }
+    },
+    {
+      "segment_id": "d8492b16",
+      "source_content": "das Bowling",
+      "source_content_hash": "f63286928652c91a337dccd9612a99026be4b2bbdac18e20306b21d171488ee9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Bowling"
+      }
+    },
+    {
+      "segment_id": "4cba7b8e",
+      "source_content": "das Feeling",
+      "source_content_hash": "5a4438601776204cff04b14b3c91cdcf75c5e4eddb9039f609d8c3a4a061907d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Feeling"
+      }
+    },
+    {
+      "segment_id": "c419a086",
+      "source_content": "das Recycling",
+      "source_content_hash": "9e800007a08f7818b2a5edd13c8357af03814198df0c0a2fc5c1bbf32887a0bb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Recycling"
+      }
+    },
+    {
+      "segment_id": "d58af824",
+      "source_content": "以及其他十余个词",
+      "source_content_hash": "dd6a622dc38e23175dcae2e840d5666bc7fd16b207261f5e720247586ba9c7ad",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "その他10語以上"
+      }
+    },
+    {
+      "segment_id": "0274aeec",
+      "source_content": "（4）-nis作为后缀，除了以下这些阴性的词（其中相当一部分是表达感受的），全部是中性的：",
+      "source_content_hash": "6fff2defe3439ade983d5811646c4927af64ba38b4375e3df0fc14859ad26741",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（4）-nisを接尾辞とする語は、以下の女性名詞（その多くは感情を表す）を除いてすべて中性："
+      }
+    },
+    {
+      "segment_id": "f7f08e35",
+      "source_content": "Anerkenntnis/Erkenntnis/Kenntnis（注意：das Bekenntnis）, Bangnis, Bedrängnis, Befugnis, Beklemnis, Bekümmernis, Besäufnis, Beschwernis, Besorgnis, Betrübnis, Bewandtnis, Bitternis, Düsternis, Empfängnis, Erlaubnis, Erschwernis, Ersparnis, Fahrnis, Fährnis, Fäulnis, Finsternis, Gebührnis, Kümmernis, Säuernis, Säumnis, Verdammnis, Verderbnis, Wildnis, Wirrnis.",
+      "source_content_hash": "9984506781d3062b673609f1e54f57335cc5fc447dfe8e75fc112688d5ec3409",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Anerkenntnis/Erkenntnis/Kenntnis（注記：das Bekenntnis）, Bangnis, Bedrängnis, Befugnis, Beklemnis, Bekümmernis, Besäufnis, Beschwernis, Besorgnis, Betrübnis, Bewandtnis, Bitternis, Düsternis, Empfängnis, Erlaubnis, Erschwernis, Ersparnis, Fahrnis, Fährnis, Fäulnis, Finsternis, Gebührnis, Kümmernis, Säuernis, Säumnis, Verdammnis, Verderbnis, Wildnis, Wirrnis."
+      }
+    },
+    {
+      "segment_id": "9d56f8f8",
+      "source_content": "（5）Ge- 作为名词前缀，只有18个词是阳性，其中相当一部分是弱变化，只有17个词是阴性，2个只有复数形式，剩下都是中性：",
+      "source_content_hash": "58c5f97754a48f52ff7e6029b22af6a982802d6d130aca7988e8b2dc86566662",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（5）名詞の接頭辞「Ge-」の場合、18語が男性名詞（その多くは弱変化）、17語が女性名詞、2語が複数形のみで、残りはすべて中性名詞です："
+      }
+    },
+    {
+      "segment_id": "c08b6492",
+      "source_content": "阳性",
+      "source_content_hash": "120f606606f7d8445845c795fe12ce22aed689606f90d68ed2fd05a41f170117",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "男性名詞"
+      }
+    },
+    {
+      "segment_id": "227b5df5",
+      "source_content": "der Gebrauch, die Gebräuche",
+      "source_content_hash": "8ac445785c4d9abcfb74e398aaa02a261907647d45804e58a8750019fdce86a2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Gebrauch（使用法）, die Gebräuche"
+      }
+    },
+    {
+      "segment_id": "56f32447",
+      "source_content": "der Gedanke, -ns, -n",
+      "source_content_hash": "ed9c4533acc040ff8ec1adc2c3612bb74469b0a87327b4a14d7f848a2869f7e6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Gedanke（思考）, -ns, -n"
+      }
+    },
+    {
+      "segment_id": "b41b4d77",
+      "source_content": "der Gefährte, -n, -n",
+      "source_content_hash": "9b3535ab034f7466adb1e5c80c2393d942fd782135ea84e439ddc1e9f1d7f77d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Gefährte（仲間）, -n, -n"
+      }
+    },
+    {
+      "segment_id": "f613e20b",
+      "source_content": "der Gefallen, -",
+      "source_content_hash": "9c9bafd8525240fd0120f459432bb282bbc516acd6c640a30351f6aaeef3a4a2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Gefallen（好意）, -"
+      }
+    },
+    {
+      "segment_id": "323eea94",
+      "source_content": "der Gehalt, -e",
+      "source_content_hash": "31d49fbef63127036eccc393ef73f5735c6be0508dec5da45d8eddbb2f70dadb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Gehalt（内容物）, -e"
+      }
+    },
+    {
+      "segment_id": "b0c7a884",
+      "source_content": "der Gehilfe, -n, -n",
+      "source_content_hash": "124c096efdbee451e002890cc4970e05f100650980792eb48b57693a3f0cf4b8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Gehilfe（助手）, -n, -n"
+      }
+    },
+    {
+      "segment_id": "249869cc",
+      "source_content": "der Gehorsam",
+      "source_content_hash": "90d1bf866d2a4308c5874a0c68cdd9355f1ba5df3fd66e34f288371a3282619c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Gehorsam（服従）"
+      }
+    },
+    {
+      "segment_id": "06537fe7",
+      "source_content": "der Gemahl, -e",
+      "source_content_hash": "f204c562699aca38e9210d6d7b3fdd09d7c77b9c3f15ac9db5bcb1f2445385e7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Gemahl（配偶者）, -e"
+      }
+    },
+    {
+      "segment_id": "475959f2",
+      "source_content": "der Geruch, Gerüche",
+      "source_content_hash": "a86fe7c9274f3aeb88546a3e8eac13210ec5a5ff8098bb636e61d87ee0b3b736",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Geruch（臭い）, Gerüche"
+      }
+    },
+    {
+      "segment_id": "4da1b99c",
+      "source_content": "der Gesang, Gesänge",
+      "source_content_hash": "36f3a2f99d3fa76c21ac2d0e38fc88545f6683947a6dc15a7e3aa2d97b95eda5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Gesang（歌唱）, Gesänge"
+      }
+    },
+    {
+      "segment_id": "1697776c",
+      "source_content": "der Geschmack, Geschmäcke",
+      "source_content_hash": "e62f6b4521ed617219e46a09c7c498e537315454273fecd224cd2dbd6552dd4c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Geschmack（味覚）, Geschmäcke"
+      }
+    },
+    {
+      "segment_id": "fd40deab",
+      "source_content": "der Gesell, -en, -en",
+      "source_content_hash": "a55dc7458cd7780a3c1ba24d8a053f92c8cd623fb079bc6179fcc6e6ce2afaaa",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Gesell（職人）, -en, -en"
+      }
+    },
+    {
+      "segment_id": "3e2af19c",
+      "source_content": "der Geselle, -n, -n",
+      "source_content_hash": "6175036154fa89518501e9fa510e2b6eb0404d13cce42942066a21d078d9acc3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Geselle（職人）, -n, -n"
+      }
+    },
+    {
+      "segment_id": "991164fd",
+      "source_content": "der Gespiele, -n, -n",
+      "source_content_hash": "5669a8c4a554188f31ab259ef06d4ec0a5e92da1eb5bb3726a915ab96531ed77",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Gespiele（遊び仲間）, -n, -n"
+      }
+    },
+    {
+      "segment_id": "c4d69fe4",
+      "source_content": "der Gespons, -e",
+      "source_content_hash": "64f4bac7bb29793bea592eb8e4c6c1b49b69f235e30a3d138c56dd659ad1b6d6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Gespons（配偶者）, -e"
+      }
+    },
+    {
+      "segment_id": "e3f3475c",
+      "source_content": "der Gestank",
+      "source_content_hash": "9691fe33ad1e679a8d73d351b8b8b71752cbd8f98618ebac8afada9ed205f28f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Gestank（悪臭）"
+      }
+    },
+    {
+      "segment_id": "b63b9ccf",
+      "source_content": "der Gewahrsam（意思是Schutz; Haft的时候是阳性，意思是das Gefängnis的时候是中性）",
+      "source_content_hash": "d4c71ea591a4832cee11c2ec6a55965a52cf46d44d09188ec83f25612ec312e3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Gewahrsam（「Schutz; Haft」の意味では男性名詞、「das Gefängnis」の意味では中性名詞）"
+      }
+    },
+    {
+      "segment_id": "a290533e",
+      "source_content": "der Gewinn, -e",
+      "source_content_hash": "dcb879680909db626fa9c302bf49f162886f9202bd3a51086d21bbb69b1ec1fd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Gewinn（利益）, -e"
+      }
+    },
+    {
+      "segment_id": "26b95748",
+      "source_content": "阴性",
+      "source_content_hash": "e81a2891faac6c1777cf4bcf642af4c200f643c2da5cade1637fea3d0d7846f7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "女性名詞"
+      }
+    },
+    {
+      "segment_id": "5a6dd931",
+      "source_content": "die Gebärde, -n",
+      "source_content_hash": "ef4a1f1712489c97963ac28061658002fbc762525dfbd3ddf867b0f65f4d8ae7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Gebärde（身振り）, -n"
+      }
+    },
+    {
+      "segment_id": "b0e8431f",
+      "source_content": "die Gebühr, -en",
+      "source_content_hash": "ae1e88d205a08ef60dfc48c47e257c9ff6e37ae45d14198eb0f59316090d6b61",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Gebühr（料金）, -en"
+      }
+    },
+    {
+      "segment_id": "158df793",
+      "source_content": "die Gebührnis, -se",
+      "source_content_hash": "75b2087c5431e18ec348db222794e5ca7f743eb097dd5d5c3887f27b319c15e9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Gebührnis（義務）, -se"
+      }
+    },
+    {
+      "segment_id": "1b707117",
+      "source_content": "die Geburt, -en",
+      "source_content_hash": "17078384df4dc8c45f5000f43673548e7629e60c3165f946b478db9fb3e55735",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Geburt（出生）, -en"
+      }
+    },
+    {
+      "segment_id": "a24efd7d",
+      "source_content": "die Geduld",
+      "source_content_hash": "536675da7ee87b2133a599299c9367a61e557cfda189de9070524e8b8d6dd3e0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Geduld（忍耐）"
+      }
+    },
+    {
+      "segment_id": "69acbca3",
+      "source_content": "die Geest, -en",
+      "source_content_hash": "3ccf0e445af6c9a45067edd9cebaf531b2d26b1ed2b870c1c53dcbaf66204bb1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Geest（砂丘地）, -en"
+      }
+    },
+    {
+      "segment_id": "e3448845",
+      "source_content": "die Gefahr, -en",
+      "source_content_hash": "a3463e8bb08a37e8d2216d5b0eed11633b59d30855ade1a6229baee4e7be304f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Gefahr（危険）, -en"
+      }
+    },
+    {
+      "segment_id": "0273ea32",
+      "source_content": "die Gegend, -en",
+      "source_content_hash": "5f8a8b6f6280f274679cd62621a5b82351c1087cb7a10db6cd9574f5a3df17f2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Gegend（地域）, -en"
+      }
+    },
+    {
+      "segment_id": "9f46c1b6",
+      "source_content": "die Gemeinde, -n",
+      "source_content_hash": "127e0d192c4d0cfc6306024320af4556e7d8648782ac00d4bb9eab98852988ea",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Gemeinde（自治体）, -n"
+      }
+    },
+    {
+      "segment_id": "ca714988",
+      "source_content": "die Genese, -n",
+      "source_content_hash": "a8892c8a0a755a0b65ed0138cee4064040f80f4f487f67cbb6fc479ce1a9df57",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Genese（発生）, -n"
+      }
+    },
+    {
+      "segment_id": "2fc2d2cf",
+      "source_content": "die Genesis",
+      "source_content_hash": "99d357c797a35d025d1f91526385495ecf56b4674b41b1e854fe4c0fa0dd3c0e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Genesis（創世記）"
+      }
+    },
+    {
+      "segment_id": "a2532daf",
+      "source_content": "die Geschichte, -n",
+      "source_content_hash": "01e38dec14a6c72ac7ff9a71f5e47f5efbeaadbc3ece93530517214369bae6a9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Geschichte（歴史）, -n"
+      }
+    },
+    {
+      "segment_id": "7e0b49a3",
+      "source_content": "die Geschwulst, Geschwülste",
+      "source_content_hash": "acd5f247ed1838903415f7948e90081c922b33808bf94603dd6907692b23d4ed",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Geschwulst（腫瘍）, Geschwülste"
+      }
+    },
+    {
+      "segment_id": "72dd1482",
+      "source_content": "die Gestalt, -en",
+      "source_content_hash": "68171d9c4d3e0ccfe8a514c0c0aa22f460f6690fe7fa7bd8efcbb5ad0e202095",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Gestalt（形態）, -en"
+      }
+    },
+    {
+      "segment_id": "df64d276",
+      "source_content": "die Gewähr, -",
+      "source_content_hash": "f489eed1d92aa291055909c17c80d0aa31d747197e6f5cae6e9764aab7804351",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Gewähr（保証）, -"
+      }
+    },
+    {
+      "segment_id": "b79c3482",
+      "source_content": "die Gewalt, -en",
+      "source_content_hash": "f73af16603d2a2215a97bd276527d6c2c29e93cd44dad28b85fde61419c57123",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Gewalt（暴力）, -en"
+      }
+    },
+    {
+      "segment_id": "ac7dd250",
+      "source_content": "die Gezeit, -en",
+      "source_content_hash": "8076ce82a5236311377515d0e7efdc9722c0916a8a171cf8c39dfb09eb1f9c4e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Gezeit（潮汐）, -en"
+      }
+    },
+    {
+      "segment_id": "a5a5c34e",
+      "source_content": "只有复数形式",
+      "source_content_hash": "a52347491df2d82ca8c516bd3c96343c29025d57cc67f85b49079fb34f2ae7d3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "複数形のみ"
+      }
+    },
+    {
+      "segment_id": "a1cac8e0",
+      "source_content": "(Pl.) die Gebrüder",
+      "source_content_hash": "8deb492a5324849567a85ea603127ac99b11302c2d7c620b30bda58f081d7c3a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "(Pl.) die Gebrüder（兄弟たち）"
+      }
+    },
+    {
+      "segment_id": "e99b1eb5",
+      "source_content": "(Pl.) die Geschwister",
+      "source_content_hash": "71ebb0cf574283ff3cdfb31d066e489edd461758785c3b0568112141e061b86f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "(Pl.) die Geschwister（兄弟姉妹）"
+      }
+    },
+    {
+      "segment_id": "f894b163",
+      "source_content": "（6）-ig结尾的词，有7个阳性，基本都是常见词：Essig, Honig, Käfig, König, Odermennig, Pfennig, Zeisig。",
+      "source_content_hash": "4fcb6880ba6355021160c2124782a1d47da9262ba45a9b37637e0439e728ec01",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（6）「-ig」で終わる語のうち、7語が男性名詞（ほとんどが常用語）：Essig（酢）, Honig（蜂蜜）, Käfig（檻）, König（王）, Odermennig（植物名）, Pfennig（ペニヒ貨）, Zeisig（鳥の一種）。"
+      }
+    },
+    {
+      "segment_id": "1230856c",
+      "source_content": "中性（4个）",
+      "source_content_hash": "0f2f5f864c6da14c83d7ee10ee6dbdd1da4f2d9bcc3212f1a31cc0f508cab5fe",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "中性名詞（4語）"
+      }
+    },
+    {
+      "segment_id": "40e5a2ef",
+      "source_content": "Reisig, Sechsundsechzig（这个词真的好生奇怪）, das/der Zabig, Zuwenig",
+      "source_content_hash": "15677f6a5803d73a696269b0874f3d7fe4da89fc6483ac1faa009b795cbc3b58",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Reisig（小枝）, Sechsundsechzig（この語は非常に奇妙）, das/der Zabig（方言）, Zuwenig（不足量）"
+      }
+    },
+    {
+      "segment_id": "fea3f437",
+      "source_content": "阴性",
+      "source_content_hash": "e81a2891faac6c1777cf4bcf642af4c200f643c2da5cade1637fea3d0d7846f7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "女性名詞"
+      }
+    },
+    {
+      "segment_id": "9b52f634",
+      "source_content": "Achtzig 等表示“几十”的数字",
+      "source_content_hash": "c36e060eb1f6bf3606e70ecc96ad3753f95f23aafc49421dca9b0a5b963714a8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Achtzig などの「数十」を表す数字"
+      }
+    },
+    {
+      "segment_id": "0d8c3e6f",
+      "source_content": "（7）-acht 结尾的词，有12个阴性，4个阳性（除了Schacht都来自动词的某种词干）。",
+      "source_content_hash": "c23909d3ce6ab8e87797cb7c34ce56c9b0b49f0a9001a5fc3111a7879f0049f3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（7）-acht で終わる単語には、12個の女性名詞と4個の男性名詞がある（Schachtを除き、すべて動詞の語幹に由来する）。"
+      }
+    },
+    {
+      "segment_id": "b13a021c",
+      "source_content": "阴性",
+      "source_content_hash": "e81a2891faac6c1777cf4bcf642af4c200f643c2da5cade1637fea3d0d7846f7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "女性名詞"
+      }
+    },
+    {
+      "segment_id": "46a44d60",
+      "source_content": "Acht, Andacht, Eintracht, Fracht, Gracht, Jacht, Macht, Nacht, Pacht, Pracht, Schlacht, Tracht,",
+      "source_content_hash": "60b575348ac4069f8dbbb2fe02fcf6688f96791415a1ae909fd87422b2879fba",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Acht, Andacht, Eintracht, Fracht, Gracht, Jacht, Macht, Nacht, Pacht, Pracht, Schlacht, Tracht,"
+      }
+    },
+    {
+      "segment_id": "24d24e6d",
+      "source_content": "阳性",
+      "source_content_hash": "120f606606f7d8445845c795fe12ce22aed689606f90d68ed2fd05a41f170117",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "男性名詞"
+      }
+    },
+    {
+      "segment_id": "0dcd0a42",
+      "source_content": "Bedacht, Betracht, Schacht(Schaft), Verdacht",
+      "source_content_hash": "65481d4136555ad2adf99f7a756e572f1018093a38aa826d555a60f8e95fcb23",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Bedacht, Betracht, Schacht(Schaft), Verdacht"
+      }
+    },
+    {
+      "segment_id": "8be3f6dc",
+      "source_content": "（8）-tum结尾的词，除了der Irrtum, der Reichtum两个阳性，全是中性。",
+      "source_content_hash": "bd37713dbdd1907b84e08e74c454d31f5a90b3660dec19063196980f60c91ec8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（8）-tumで終わる単語は、der Irrtum, der Reichtumの2つの男性名詞を除き、すべて中性名詞である。"
+      }
+    },
+    {
+      "segment_id": "ceff655b",
+      "source_content": "（9）-ment结尾的词，除了der Komment, Konsument, Moment, Piment, Zement五个阳性词，全是中性。",
+      "source_content_hash": "2ef1f5c00b8f8e98b47f577fec76514c612e3cd674bdfb104a011a9ebfb36bb9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（9）-mentで終わる単語は、der Komment, Konsument, Moment, Piment, Zementの5つの男性名詞を除き、すべて中性名詞である。"
+      }
+    },
+    {
+      "segment_id": "60ce13be",
+      "source_content": "（10）发音为[i:]或[iə]的-ie性属为阴性；发音为[i]的英语词性属一般为阳性。特例：das Knie, das Genie, das Groupie, das Curie（单位名称，从意义上属于中性）, das Walkie-Talkie（会联想到das Telefon）。",
+      "source_content_hash": "9900c061d0736d67521585166cd4ddab92e1994a11a43f55e70179a7761bed69",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（10）発音が[i:]または[iə]の-ieは女性名詞である。発音が[i]の英語由来の単語は一般に男性名詞である。例外：das Knie, das Genie, das Groupie, das Curie（単位名称で、意味的に中性に属する）, das Walkie-Talkie（das Telefonと連想される）。"
+      }
+    },
+    {
+      "segment_id": "c829cc4b",
+      "source_content": "动词原形变来的名词，理论上是中性，比如das Essen。这一条规律很容易发现，很容易总结。",
+      "source_content_hash": "b9f852b57a76f953d553ca249f33373305064df22c38c5a86701e9cf81a48119",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "動詞の原形から派生した名詞は、理論上中性名詞である（例：das Essen）。この規則は発見しやすく、まとめやすい。"
+      }
+    },
+    {
+      "segment_id": "ebe19e6f",
+      "source_content": "由动词的某种词干变成的名词，理论上是阳性，比如der Schlaf (schlafen), der Gang (gehen)。这一条规律就难发现很多了。",
+      "source_content_hash": "b9e3367775d62f73abb132472e44a01cb349d0f886008b3f7005161d4bb57c5b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "動詞の語幹から派生した名詞は、理論上男性名詞である（例：der Schlaf (schlafen), der Gang (gehen)）。この規則は発見が難しい。"
+      }
+    },
+    {
+      "segment_id": "b4098d8a",
+      "source_content": "我们今天要说的是：动词的某种词干加-t或-d，变成名词，理论上是阴性。刚好三个性就凑齐了。学习者自己发现这一条规律，几乎是不可能的。",
+      "source_content_hash": "e1f49cbba4f59cde11b8c78c0d0614beef70a97f1453e5d3f03b02ac2f223d87",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "今日取り上げるのは：動詞の語幹に-tまたは-dを加えて名詞化した場合、理論上女性名詞になる。これで3つの性が揃う。学習者がこの規則を自力で発見するのは、ほぼ不可能である。"
+      }
+    },
+    {
+      "segment_id": "57450780",
+      "source_content": "加-d的比如：",
+      "source_content_hash": "b055aa91d2e6618e3778a36962b66d464132390c065e13d86f6bbd1cb39e8271",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-dを加える例："
+      }
+    },
+    {
+      "segment_id": "cb857be4",
+      "source_content": "jagen 打猎 - Jagd 打猎",
+      "source_content_hash": "15522b803b5eb709a657f05a765d79de3ee916803443e5346e8c6681b6147823",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "jagen 狩り - Jagd 狩猟"
+      }
+    },
+    {
+      "segment_id": "ae95f665",
+      "source_content": "sollen 应该 - Schuld 债；罪责",
+      "source_content_hash": "da1c9d068b1772088c4b59b59feb7772de1b10f95d6fbd6a74a46ce9cf993105",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sollen べき - Schuld 借金；罪責"
+      }
+    },
+    {
+      "segment_id": "52907304",
+      "source_content": "（欠（方言“该”）了人东西，就是债；罪责也是一种债）",
+      "source_content_hash": "ba349b9625051a859b54d811cdf6b680514a789ee2e7099a824dc26afca9db85",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（「借り（方言で「べき」）がある」とは、借金のこと；罪責も一種の借金）"
+      }
+    },
+    {
+      "segment_id": "bc1752c9",
+      "source_content": "taugen 中用 - Tugend 美德",
+      "source_content_hash": "dd26b80195da6cb3fdcd63927a5d76c4b9705370a2087077f866784861c9ae6a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "taugen 役に立つ - Tugend 美徳"
+      }
+    },
+    {
+      "segment_id": "beec49ed",
+      "source_content": "（中用，就是具有美德）",
+      "source_content_hash": "40ce2d8f3e6b41315b01ebb287801aaf0d2b74d14be5ec95e18d843d554c0ea3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（役に立つことは、美徳を持つこと）"
+      }
+    },
+    {
+      "segment_id": "4ddcc352",
+      "source_content": "...",
+      "source_content_hash": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "..."
+      }
+    },
+    {
+      "segment_id": "cbbdf094",
+      "source_content": "这样把一些不是动词词干加-d的都带成了阴性：",
+      "source_content_hash": "01d8e5864d407edec7dc469a0a7733aa7bdd20ffd9c7839ff5bd8c6024402775",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "こうして、動詞の語幹に-dを加えたものではない単語も女性名詞として扱われるようになった："
+      }
+    },
+    {
+      "segment_id": "e548f48f",
+      "source_content": "gegen 反 - Gegend 这一片儿",
+      "source_content_hash": "74e0b64ddeaf164a102afc69f44bd34afd56bdded8809618f54e5d73e559bc48",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "gegen 反対 - Gegend この辺り"
+      }
+    },
+    {
+      "segment_id": "de7b71a3",
+      "source_content": "jung 年轻的 - Jugend 年轻",
+      "source_content_hash": "67c67e05ff5b57fd249ad6769ad099474f4e2553531623d8a7658b79d0af7337",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "jung 若い - Jugend 若さ"
+      }
+    },
+    {
+      "segment_id": "865bbe8d",
+      "source_content": "...",
+      "source_content_hash": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "..."
+      }
+    },
+    {
+      "segment_id": "734995d4",
+      "source_content": "加-t非常多，比如：",
+      "source_content_hash": "1261a5961dc13841a20b9687de97ce773864eeb035d6d024c5c658257de553dc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-tを加える例は非常に多い："
+      }
+    },
+    {
+      "segment_id": "3441f612",
+      "source_content": "kommen 来 - Zukunft 未来",
+      "source_content_hash": "0f0e116d0031de009d564e170708b94a743a6070e36e4fa64931b1802e809342",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "kommen 来る - Zukunft 未来"
+      }
+    },
+    {
+      "segment_id": "d6ee8a64",
+      "source_content": "fahren 车/船行驶 - Fahrt 车/船行驶",
+      "source_content_hash": "5761e2e06d89d3f50658cd404d732fd0c3ce6ccf4d0872ad49006fc58e884526",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "fahren 車/船で移動する - Fahrt 車/船での移動"
+      }
+    },
+    {
+      "segment_id": "11a78230",
+      "source_content": "fahren 车/船行驶 - Furt 河中浅滩",
+      "source_content_hash": "7f3afe9353db4140e8ae0b8ca633a9467aa8019e3045a79eec71b07cc02de3cd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "fahren 車/船で移動する - Furt 川の浅瀬"
+      }
+    },
+    {
+      "segment_id": "698d0e82",
+      "source_content": "fliehen 逃 - Flucht 逃",
+      "source_content_hash": "6d76c940833bf9b785b74aca028e19b0e3df5da7511e7bf43d149865357d6247",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "fliehen 逃げる - Flucht 逃亡"
+      }
+    },
+    {
+      "segment_id": "fa770099",
+      "source_content": "fließen 水流 - Flut 洪水",
+      "source_content_hash": "2415119ed7e7d1d2ff5554dcf2e3193276e9382b56a0ea9a0bcc43b150a890d9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "fließen 流れる - Flut 洪水"
+      }
+    },
+    {
+      "segment_id": "d82906fc",
+      "source_content": "gebären 生 - Geburt 出生",
+      "source_content_hash": "93d5b6b6915aca97a7ef19d6621d10f1e7e1478f7b1836b7a05eb33e743c9aec",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "gebären 生む - Geburt 誕生"
+      }
+    },
+    {
+      "segment_id": "e67afabd",
+      "source_content": "schwellen 肿 - Geschwulst 肿瘤",
+      "source_content_hash": "3ffdea113123a3106165329b028e60af6a278205a4c253d5f5b387ce5ff73165",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "schwellen 腫れる - Geschwulst 腫瘍"
+      }
+    },
+    {
+      "segment_id": "cee5aad9",
+      "source_content": "stellen 立 - Gestalt 形",
+      "source_content_hash": "f7c75ac4ec61957b3f4ddce0c4314f1e5540e24a24e96b8ed1b6034473820df4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "stellen 立つ - Gestalt 形"
+      }
+    },
+    {
+      "segment_id": "8a5228e1",
+      "source_content": "（这3个-t/st的阴性特征如此明显，以至于盖过了Ge-的中性特征）",
+      "source_content_hash": "116a0890095c908aea74310d564f6c35e1563571bf33e8feef6fc2daff52aa77",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（これら3つの-t/stの女性性が非常に顕著であるため、Ge-の中性特徴を上回っている）"
+      }
+    },
+    {
+      "segment_id": "9dd7d40a",
+      "source_content": "glühen 红/白热 - Glut 红/白热",
+      "source_content_hash": "75cc84d550c0b540ef0be584a63b867d08a20aff80349f38bb9d0e99ff936b4e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "glühen 赤熱/白熱 - Glut 赤熱/白熱"
+      }
+    },
+    {
+      "segment_id": "a58d6660",
+      "source_content": "jagen 追逐；打猎 - Jacht 快艇 🚤",
+      "source_content_hash": "b3011dbdd085e04edfe77ddafa55395dd08b084fc3b5f48a9be0d89b19e4bbea",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "jagen 追跡；狩猟 - Jacht ヨット 🚤"
+      }
+    },
+    {
+      "segment_id": "0ac62679",
+      "source_content": "klieben 劈开（生僻词）- Kluft 鸿沟",
+      "source_content_hash": "3f05766967606797e299dd04db996bf000a4f99da2cfa2cda96172b02b2c0f4b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "klieben 割る（廃語）- Kluft 溝"
+      }
+    },
+    {
+      "segment_id": "50cd4f87",
+      "source_content": "können 能 - Kunst 技艺，艺术",
+      "source_content_hash": "ae07a22f8d5ff4177b612a7cb121ba2469ac092a83bce3f11ab7e666d263165a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "können できる - Kunst 技術、芸術"
+      }
+    },
+    {
+      "segment_id": "b575518d",
+      "source_content": "mögen 可能 - Macht 力量，权力",
+      "source_content_hash": "fce6d3c8124d0a39fc408940bcaf133100f1e1245c17f27d6aa01578beadb07a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "mögen 可能性 - Macht 力、権力"
+      }
+    },
+    {
+      "segment_id": "b20523b9",
+      "source_content": "laden 装载 - Last 重压",
+      "source_content_hash": "2d80bf259686209a75d19f61bd25453dab7512545abb8b27dfd7a773831ae243",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "laden 積載 - Last 重圧"
+      }
+    },
+    {
+      "segment_id": "b5bd7d92",
+      "source_content": "nähen 缝 - Naht 线缝",
+      "source_content_hash": "c10d47b2864ec9fc54e4543ecc3e353f4a9dccada3f4b718d1d245dfc25e6c09",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "nähen 縫う - Naht 縫い目"
+      }
+    },
+    {
+      "segment_id": "eed7cff5",
+      "source_content": "pflegen 护理 - Pflicht 义务",
+      "source_content_hash": "b4beaeb0d608b75ee370504c967d13a372c5774e7f666a8bf5503eddce62d2b3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "pflegen 介護 - Pflicht 義務"
+      }
+    },
+    {
+      "segment_id": "71c1aac0",
+      "source_content": "predigen 布道 - Predigt 布道",
+      "source_content_hash": "1329fd189a46321711cb9e7299f8e1a07ce44bf4cc654f2f7251ae19b3eebe5e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "predigen 説教 - Predigt 説教"
+      }
+    },
+    {
+      "segment_id": "6342da55",
+      "source_content": "ruhen 安静 - Rast 休息",
+      "source_content_hash": "c560aede7ac316d3d77682b029b3f5e35974360100d5580814a45b9fde53fa28",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ruhen 静寂 - Rast 休息"
+      }
+    },
+    {
+      "segment_id": "aad65e01",
+      "source_content": "sähen 播种 - Saat 播种；种子",
+      "source_content_hash": "d3b6241f61d296a9e953d14fef049c7c2c50327d733df589567dc3cfec4b34e7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sähen 種まき - Saat 種まき；種子"
+      }
+    },
+    {
+      "segment_id": "d5510ee9",
+      "source_content": "schlagen 打 - Schlacht 战役",
+      "source_content_hash": "42a6ac7299dbb8e12dfd654d059265d0633e8efc743fc78e2af34b3f915872b0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "schlagen 打つ - Schlacht 戦闘"
+      }
+    },
+    {
+      "segment_id": "4a2bee77",
+      "source_content": "schreiben 写 - Schrift 写，文字",
+      "source_content_hash": "b4f534d736bfeb17892dc4f8e6cb5677c4e1afbb08f03612034d6daecad38be0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "schreiben 書く - Schrift 筆記、文字"
+      }
+    },
+    {
+      "segment_id": "6ba1041f",
+      "source_content": "stehen 立 - Stadt 城市",
+      "source_content_hash": "343fb22d8d261a9561d80e5c2ff84422d03be20604ee03c097a17bde2594ba4e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "stehen 立つ - Stadt 都市"
+      }
+    },
+    {
+      "segment_id": "8f554a02",
+      "source_content": "suchen 找 - Sucht 瘾",
+      "source_content_hash": "915c2d6cf1d8e4c937ba8cc4b020759b16d1e1b65f67f11e68d2337ee81613c5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "suchen 探す - Sucht 中毒"
+      }
+    },
+    {
+      "segment_id": "99cb8892",
+      "source_content": "tun 做 - Tat 行为",
+      "source_content_hash": "f1c2a1131d5266f868bed3138b999d8046bc1d729102531707bad8ebc9363350",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "tun 行う - Tat 行為"
+      }
+    },
+    {
+      "segment_id": "e6bf9a6c",
+      "source_content": "tragen 穿 - Tracht 节日盛装",
+      "source_content_hash": "99605a184a6ff0665e1ec1e646355a40d1929e9787d4fc1a3cd1ff0b9427f972",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "tragen 着る - Tracht 民族衣装"
+      }
+    },
+    {
+      "segment_id": "17b95bd5",
+      "source_content": "ziehen 拉 - Zucht 培育",
+      "source_content_hash": "775aa95f2f2ce2c078df631b2da30bd48c9cd6610dd352e2c2734f70f363d5d0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ziehen 引く - Zucht 育種"
+      }
+    },
+    {
+      "segment_id": "5fe249dd",
+      "source_content": "（11）-e结尾的名词，阴性占88%",
+      "source_content_hash": "88d25dd0f3f458cfe31d275ef220a2c8647ede59cc1283b829f5deaa7aa5db5a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "（11）-eで終わる名詞、女性性が88%を占める"
+      }
+    },
+    {
+      "segment_id": "298a32fc",
+      "source_content": "![](.\\img\\名词的性-3.png)",
+      "source_content_hash": "265704460a93db3935eb9f6aad67cc7f187dd69a2db7f543dff1521f8f567787",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](.\\img\\名詞の性-3.png)"
+      }
+    },
+    {
+      "segment_id": "9bf300ec",
+      "source_content": "以-e结尾的德语词（包括外来词）中，der有261个，几乎全是形容词变化或阳性弱变化，还有部分-e不一定发音的外来词（比如Single）。发音为/ə/的需要注意的，只有der Käse。而这个词是阳性，是因为来自拉丁语阳性词caseus（虽然这个对于初学者帮助不大）。\ndas有99个。Ge-e来自第二分词或表示合集，属于中性是合情合理的。形容词变化表示人是der/die，表示物，就是中性。-e不一定发音的外来词几乎都可以和一个德语中性词类比，比如das Prestige - das Ansehen。所以真正需要注意的只有几个词，初学只需要注意Auge, Ende和Interesse。\nAuge（眼睛）是受das Ohr（耳朵）这个词的影响，所以应该一起记。并且本来汉语就是说“耳聪目明”，是放一起的。Ende在历史上是摇摆于der和das之间的，在现代德语里定为了das，当特例吧。Interesse是因为来自拉丁语的动词原形，动词原形当然是中性的。",
+      "source_content_hash": "f59c7f36d40bde3fba1434b415d5e56f8f5c7177832a2095de3d45ff8c7b067b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-eで終わるドイツ語（外来語含む）において、derは261語あり、ほとんどが形容詞変化または男性弱変化、また一部-eが必ずしも発音されない外来語（例：Single）である。/ə/と発音されるもので注意が必要なのはder Käseのみ。この語が男性なのは、ラテン語男性名詞caseusに由来するため（ただし初学者にはこの情報はあまり役立たない）。\n\ndasは99語。Ge-eは第二分詞または集合体を表し、中性であるのは理にかなっている。形容詞変化で人を表す場合はder/die、物を表す場合は中性となる。-eが必ずしも発音されない外来語はほとんどがドイツ語中性名詞と対応付け可能（例：das Prestige - das Ansehen）。よって実際に注意が必要なのはAuge, Ende, Interesseの数語のみで、初学者はこれらを覚えればよい。\n\nAuge（目）はdas Ohr（耳）の影響を受けており、セットで覚えるとよい。そもそも中国語でも「耳聰目明」と対で表現される。Endeは歴史的にderとdasの間で揺れていたが、現代ドイツ語ではdasに固定されている。例外として覚えよう。Interesseはラテン語動詞原形に由来するため、当然中性となる。"
+      }
+    },
+    {
+      "segment_id": "1b8b3b24",
+      "source_content": "(12) -*ss（*为元音字母）结尾的名词，原则上是阳性。如果不是阳性，那它一定是受其他规律的支配，并且这种规律也很好理解",
+      "source_content_hash": "ff9d522a504e686de1ae0450be1f38e791ea2d19c487f902eeb5741feefe936d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "(12) -*ss（*は母音）で終わる名詞は、原則として男性形。そうでない場合は他の規則に支配されており、その規則も理解しやすい"
+      }
+    },
+    {
+      "segment_id": "5552fbbd",
+      "source_content": "首先，以-ass结尾的名词几乎都是der，属于das的只有Fass和Nass两个。",
+      "source_content_hash": "d8291384d4986f75bee8f29bbecf6e3d3c04bd1c93770223b5f8c2a2efea70f0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "まず、-assで終わる名詞はほとんどがderで、dasに属するのはFassとNassの2つだけです。"
+      }
+    },
+    {
+      "segment_id": "e4db19e2",
+      "source_content": "![](.\\img\\名词的性-5.png)",
+      "source_content_hash": "664cae5e1162a592244d4751bcdad1ef2c5ecf53ca68907893fd06dd27d46ce2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](.\\img\\名词的性-5.png)"
+      }
+    },
+    {
+      "segment_id": "3d0a35df",
+      "source_content": "Nass是直接由形容词nass变来的，所以它是中性是符合规律的。Fass是fassen变来的，按理说应该是阳性，但实际上是中性。不过它的复数是⸚er是-ass名词中唯一这样的，所以也算是找到了一点规律。",
+      "source_content_hash": "faa99d62fad53b505fd63742ece38904bcf90216c71e7cb5eddc993ec34732f3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Nassは形容詞nassから直接変化したものなので、中性であることは規則に合致しています。Fassはfassenから派生したもので、本来なら陽性であるはずですが、実際は中性です。ただし、その複数形が⸚erとなるのは-ass名詞の中で唯一の特徴なので、ある程度の規則性を見出せます。"
+      }
+    },
+    {
+      "segment_id": "c25bcc17",
+      "source_content": "其次，以-ess结尾的名词也几乎都是der。",
+      "source_content_hash": "31c164189ab3d4e07638a96e25fce6602a377ec0b42085f9b2c3da5e92c524ec",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "次に、-essで終わる名詞もほとんどがderです。"
+      }
+    },
+    {
+      "segment_id": "077a2bd0",
+      "source_content": "![](.\\img\\名词的性-6.png)",
+      "source_content_hash": "12e517fd609cd2dfcf726b2756924b0420ccf30cff562721f44c61ae106bd67d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](.\\img\\名词的性-6.png)"
+      }
+    },
+    {
+      "segment_id": "9d789e30",
+      "source_content": "中性的只有Business，因为对标的纯德语词是das Geschäft。属于阴性的5个词规律很强，英语的-ness原则上是阴性，而Hostess和Stewardess是两个加了阴性词尾表示女性的词。",
+      "source_content_hash": "7209f37ab72cc2621af44d7ca87ed03420eb90909fd8ce1eea5e7fb6a3500ba7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "中性なのはBusinessのみで、これは純粋なドイツ語のdas Geschäftに対応するためです。陰性に属する5つの単語は規則性が強く、英語の-nessは原則として陰性です。また、HostessとStewardessは女性を表すために陰性語尾が追加された単語です。"
+      }
+    },
+    {
+      "segment_id": "14d50a1d",
+      "source_content": "第三，以-iss结尾的名词也几乎都是der。",
+      "source_content_hash": "5b4432ee9187858ac5eac899a154be268e6ffb0dfa4cdcb24e83490e9843bfe1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第三に、-issで終わる名詞もほとんどがderです。"
+      }
+    },
+    {
+      "segment_id": "cff30da4",
+      "source_content": "![](.\\img\\名词的性-7.png)",
+      "source_content_hash": "7659c7cf67fb29cc114d3a2f888955aa2a57099adbe7b8ac5687a7d0278209b9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](.\\img\\名词的性-7.png)"
+      }
+    },
+    {
+      "segment_id": "36a7c2db",
+      "source_content": "Gebiss带了非常典型的中性前缀Ge-。而Miss指女性，用die是很正常的，不是阴性才不正常。",
+      "source_content_hash": "cd18c51fc61cba2d8370421aaaa1cdc45eb8056ae02ca779cabc32076a6bcd55",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Gebissには非常に典型的な中性接頭辞Ge-が付いています。Missは女性を指すため、dieが使われるのは自然であり、陰性でない方が不自然です。"
+      }
+    },
+    {
+      "segment_id": "eb2c43fb",
+      "source_content": "第四，以-oss结尾的名词也几乎全是der。",
+      "source_content_hash": "0565f5fd67632bb06ba4d4a1ed82bb4811c6c97a2418e264d8a7689b2b587cfc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第四に、-ossで終わる名詞もほとんどがderです。"
+      }
+    },
+    {
+      "segment_id": "5e9040ec",
+      "source_content": "![](.\\img\\名词的性-8.png)",
+      "source_content_hash": "8aeec3304fb1ef863b59f67db9e53eb02ef8c578ef2b80e3b12144515b0f324e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](.\\img\\名词的性-8.png)"
+      }
+    },
+    {
+      "segment_id": "56ca860f",
+      "source_content": "Geschoss是中性，因为有个Ge-前缀。Ross是das Pferd，所以属于中性也是合情合理的。Schloss是唯一一个难以理解的。但是现在我有一个假说：复数为⸚er/-er的名词大概率是中性。这几天我再用电脑穷举验证一下。如果这个规律能证实，那就能完美解决Band这个词的记忆问题。Schloss是-oss中唯一一个复数为⸚er的。",
+      "source_content_hash": "268170fb8c995cfe2d3de57ac63fbf3bfcac9091360ac7571b5782fa54090e8e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "GeschossはGe-接頭辞があるため中性です。Rossはdas Pferdと同じく、中性であることも理にかなっています。Schlossだけが理解しにくい例外です。しかし現在、私は仮説を立てています：複数形が⸚er/-erになる名詞は高い確率で中性です。この規則をコンピュータで検証中です。この規則が確認されれば、Bandという単語の記憶問題も完璧に解決できるでしょう。Schlossは-oss名詞の中で唯一複数形が⸚erとなる単語です。"
+      }
+    },
+    {
+      "segment_id": "d89c044a",
+      "source_content": "第五，以-uss结尾的名词也几乎都是阳性。",
+      "source_content_hash": "99bab1f25fd7da6e81bc7d47a4fcb34f5a85d89c088a761fba038b7c82356f8b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第五に、-ussで終わる名詞もほとんどが陽性です。"
+      }
+    },
+    {
+      "segment_id": "37090b28",
+      "source_content": "![](.\\img\\名词的性-9.png)",
+      "source_content_hash": "057b1be586a29c516ed41e2b113302cc2d93643f669f846f612ee6b8e2f9f2cd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](.\\img\\名词的性-9.png)"
+      }
+    },
+    {
+      "segment_id": "0638c630",
+      "source_content": "Muss是词汇变位之后变成的名词（参见Soll），所以是中性。唯一特殊的是Nuss，虽然可以用词源来自拉丁语阴性名词nux（并且另一个常见词lux也是阴性）来解释，但是绝大部分学习德语的人没有学过拉丁语，所以这条理据是没有帮助的。那就单独记吧。",
+      "source_content_hash": "c7ee8bf97f6b164f218693c0c2221fc93b17a7a0a542824f5fe305767edfc1ce",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Mussは語彙が変化して名詞化したもの（Soll参照）なので中性です。唯一の例外はNussで、ラテン語の陰性名詞nux（また別の一般的な単語luxも陰性）に由来すると説明できますが、ほとんどのドイツ語学習者はラテン語を学んでいないため、この理屈は役に立ちません。特別に覚えるしかありません。"
+      }
+    },
+    {
+      "segment_id": "1a0060fb",
+      "source_content": "以“元音加ss”结尾的组合只有上面5种，因此我们可以得出结论了。",
+      "source_content_hash": "67d72a5a943d0c86d8b65d40bb22e6efe135ac8c692dcb03546dacd54f417bd2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「母音＋ss」で終わる組み合わせは上記の5種類のみなので、結論を出すことができます。"
+      }
+    },
+    {
+      "segment_id": "7753928b",
+      "source_content": "总结：",
+      "source_content_hash": "eefacd527158ecd0fc0d02f09bde1595a675dd72938535ab11d64e49e0c13849",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "まとめ："
+      }
+    },
+    {
+      "segment_id": "907baf3f",
+      "source_content": "-*ss（*为元音字母）结尾的名词，原则上是阳性。如果不是阳性，那它一定是受其他规律的支配，并且这种规律也很好理解。",
+      "source_content_hash": "56ed616f2b674b44b34133c97cab8e890ac0ea0780b90427519524b7ab46a3a0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-*ss（*は母音文字）で終わる名詞は、原則として陽性です。陽性でない場合は、必ず他の規則の支配を受けており、その規則も理解しやすいものです。"
+      }
+    },
+    {
+      "segment_id": "a10f4259",
+      "source_content": "(13) -at",
+      "source_content_hash": "279ffd88cfbfd362c9548eaa5627c171b6ea5f1d4bbd6d6415015eb82ce66cf9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "(13) -at"
+      }
+    },
+    {
+      "segment_id": "9623a9ba",
+      "source_content": "![](.\\img\\名词的性-11.png)",
+      "source_content_hash": "be1eff45ea22eaabaeb927949798111221759d944c06960af776a2ce6a359037",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](.\\img\\名词的性-11.png)"
+      }
+    },
+    {
+      "segment_id": "590f826a",
+      "source_content": "-at主要是中性和阳性。",
+      "source_content_hash": "753655dda70770f9ef131f4435addfb45a29a0b506f61d6d8d9f7fcfed77eae1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-atで終わる名詞は主に中性と男性です。"
+      }
+    },
+    {
+      "segment_id": "616a56d6",
+      "source_content": "阳性主要是表示人的词，并且是阳性弱变化。阳性词中弱变化以外的词，几乎都给人感觉-at是词干的一部分。特例是Apparat，这个来自拉丁语阳性词apparatus，英语里也有这个词，所以不难记。",
+      "source_content_hash": "6f7f29e98742bca5ae12c7ecde9445917e2dc0647879b8ab3540b99cd8d464e2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "男性名詞は主に人を表す語で、かつ男性弱変化です。男性弱変化以外の男性名詞では、-atが語幹の一部のように感じられるものがほとんどです。例外はApparatで、これはラテン語の男性名詞apparatusに由来し、英語にも同じ語があるので覚えやすいです。"
+      }
+    },
+    {
+      "segment_id": "9136f816",
+      "source_content": "中性词中-at几乎全是词尾。",
+      "source_content_hash": "c36e438aefc679173cc64b3ea3eec059d3328bb3a0c731c5063e5a032f0621cf",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "中性名詞では-atはほとんどが語尾です。"
+      }
+    },
+    {
+      "segment_id": "c581d84b",
+      "source_content": "- 是-ieren的结果，比如diktieren → Diktat。这个规律非常可靠。\n- 表示“机构，职能，现象，办公的地方”等意思，比如Sekretariat（秘书处）。\n- 表示化合物，比如Phosphat（磷酸盐）。",
+      "source_content_hash": "ed448c3d510bb204e3974a029f4b9744ed0499855a1232d3ba19fbf8dff61128",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "- -ieren動詞の結果として（例：diktieren → Diktat）。この規則は非常に信頼性が高い。\n- 「機関、機能、現象、事務所」などの意味を表す（例：Sekretariat［秘書室］）。\n- 化合物を表す（例：Phosphat［リン酸塩］）。"
+      }
+    },
+    {
+      "segment_id": "8fb294a1",
+      "source_content": "阴性只有5个。它们是：",
+      "source_content_hash": "f5781adcfde7d3ed715e6935dd13ccf67f6a5f7f13d36570649c37c473788d51",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "女性名詞は5つしかありません。それらは："
+      }
+    },
+    {
+      "segment_id": "443a6524",
+      "source_content": "- Diät来自拉丁语阴性的diaeta。\n- Heimat的at来自古德语的阴性词尾，这个词尾也构成了die Armut的ut。\n- Heirat本来是阳性，后来受Eheschließung的影响，变成了阴性。词尾原则转成了词义原则。\n- Saat属于动词词干额外加t，这种词是阴性。säen → die Saat\n- Tat也属于动词词干额外加t: tun → die Tat。Zutat来自zu tun，而tun有“放（盐、花椒等）”的意思，所以Zutat就是“要放的东西”。德汉词典上都翻译成“配料”，这是不准确的。比如要做个Kuchen，要放很多面粉，这个也算Zutat。",
+      "source_content_hash": "37048e2d054fa11304d68e8be355d62af115a34398ebea463418ca8fc91b0865",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "- Diätはラテン語の女性名詞diaetaに由来。\n- Heimatの-atは古ドイツ語の女性語尾からで、この語尾はdie Armutの-utも形成。\n- Heiratは本来男性名詞だったが、Eheschließungの影響で女性名詞に変化。語尾原則から語義原則へ転換。\n- Saatは動詞語幹に追加のtが付いたもので、この種の語は女性名詞（säen → die Saat）。\n- Tatも動詞語幹に追加のtが付いたもの（tun → die Tat）。Zutatはzu tunからで、tunには「（塩、花椒などを）入れる」の意味があるため、Zutatは「入れるもの」を意味。独和辞典では「材料」と訳されるが不正確。例えばKuchenを作る際に大量の小麦粉を入れる場合もZutatに含まれる。"
+      }
+    },
+    {
+      "segment_id": "57041d26",
+      "source_content": "#### 6. 名词的复数和性存的关联",
+      "source_content_hash": "a8e5ac8e51b9de4e82ee11719051edb3258b0cbf8dd75190455595027e9c8a0f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "#### 6. 名詞の複数形と性の関連性"
+      }
+    },
+    {
+      "segment_id": "c637866f",
+      "source_content": "以-el /əl/或-er /ɐ/结尾的名词，三个性都有，但是如果它们是阴性，那么复数一定加-n。比如die Gabel, -n; die Schwester, -n",
+      "source_content_hash": "c0ff57ca4df4e3b9abbbf98d90fbbbeec7300b7fcfd72219d2a47ca161f7c1da",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-el /əl/または-er /ɐ/で終わる名詞は3つの性すべてに存在しますが、女性名詞の場合、複数形は必ず-nを付けます（例：die Gabel, -n; die Schwester, -n）。"
+      }
+    },
+    {
+      "segment_id": "01c67364",
+      "source_content": "经过电脑穷举，人脑验证，几乎没有例外。可以说，唯二的例外是die Mutter, ⸚（母亲）die Tochter ⸚（女儿）。",
+      "source_content_hash": "fdfd345dbce3b241cadd4c3c969d95fa91a189e7a847404d7df6cb9e7249f1f1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "コンピュータによる網羅的調査と人間による検証の結果、例外はほとんどありません。唯一の例外と言えるのはdie Mutter, ⸚（母）とdie Tochter ⸚（娘）です。"
+      }
+    },
+    {
+      "segment_id": "84d249e5",
+      "source_content": "但是，反过来，如果以-el /əl/或-er /ɐ/结尾的名词，复数是-n，那么它一定是阴性吗？",
+      "source_content_hash": "a396d4a0f3c97849ea5d62e9d99ded064af98008178a863b747b860c44166862",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "では逆に、-el /əl/または-er /ɐ/で終わる名詞で複数形が-nなら、必ず女性名詞と言えるでしょうか？"
+      }
+    },
+    {
+      "segment_id": "f448a263",
+      "source_content": "经过电脑穷举，人脑验证，差不多是这样，几乎没有例外：",
+      "source_content_hash": "5d7dcdc499ac2410b8ab49965f1958f8a8d8330da825491d2e67a9a6b451c578",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "コンピュータによる網羅的調査と人間による検証の結果、ほぼその通りで、例外はほとんどありません："
+      }
+    },
+    {
+      "segment_id": "92bceadb",
+      "source_content": "-er /ɐ/结尾的名词只有2个例外：der Vetter, -n; der Bauer, -n",
+      "source_content_hash": "891b8792f4688bd62612f56722160689cb2a1c0bc6f6c779d628db3b471ad5ec",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-er /ɐ/で終わる名詞の例外は2つだけ：der Vetter, -n; der Bauer, -n"
+      }
+    },
+    {
+      "segment_id": "342196de",
+      "source_content": "-el /əl/结尾的名词有3个例外：der Muskel, -n; der Pantoffel, -n; der Stachel, -n",
+      "source_content_hash": "2f0483800e7f309bfc75c37b545c0d7fa9198bde56d541236249577b8ff4b986",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-el /əl/で終わる名詞の例外は3つ：der Muskel, -n; der Pantoffel, -n; der Stachel, -n"
+      }
+    },
+    {
+      "segment_id": "639b6949",
+      "source_content": "所以，以上5个词是学习时天然的重点难点（没学到的时候可以忽略）。其实这5个词属于阳性是很好理解的，因为按意思来说，它们就该是阳性。并且Bauer是阳性弱变化。",
+      "source_content_hash": "82ce42b9f76483c2d42a25904dd2e25a434699f23c231432f4a4d828d2d45f0d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "したがって、これら5語は学習上、自然と重点的な難点となります（学習前は無視可）。実際、これらの語が男性名詞なのは意味的に当然で、理解しやすいです。またBauerは男性弱変化です。"
+      }
+    },
+    {
+      "segment_id": "39965312",
+      "source_content": "总结的时候还顺便发现了一条规律：如果以-el /əl/结尾的阳性，主要元音是a，那么复数要变成ä。这些词是：Apfel, Sattel, Schnabel, Vogel, Mangel, Mantel, Nagel。Raspel, -是唯一的例外。",
+      "source_content_hash": "8a4b5857f2c23a7f2569017f7d72e018f8bb5d61e5aaa2ac8fd641d84ba6f67c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "まとめると、-el /əl/で終わる男性名詞で主母音がaの場合、複数形はäに変化するという規則性が見つかりました。該当する単語は：Apfel, Sattel, Schnabel, Vogel, Mangel, Mantel, Nagelです。Raspel, -が唯一の例外です。"
+      }
+    },
+    {
+      "segment_id": "1dde0925",
+      "source_content": "复数为⸚er/er的，大概率是中性。",
+      "source_content_hash": "7b803beeff858785cc472dba7a13743a52deca9167f695336eb719cb1609b39b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "複数形が⸚er/erの名詞は、高い確率で中性名詞です。"
+      }
+    },
+    {
+      "segment_id": "444c86cc",
+      "source_content": "![](.\\img\\名词的性-10.png)",
+      "source_content_hash": "9ae9b6d19f0ada83ff92cc73fb52d57cf8066d221d2e51d0510c0e42379b969c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](.\\img\\名詞の性-10.png)"
+      }
+    },
+    {
+      "segment_id": "568179b3",
+      "source_content": "这些词对比较难记：",
+      "source_content_hash": "65de8a67da4dc5bdb36e2b52d17ce05c8d8b5b36f1a6f5581d6c8869c250048c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "これらの単語は特に覚えにくいです："
+      }
+    },
+    {
+      "segment_id": "ee5fbf67",
+      "source_content": "der Gehalt, -e 含量；das Gehalt, ⸚er 薪水\nder Band, ⸚e 书册；das Band, ⸚er 带子\nder Schild, -e 盾牌；das Schild, -er 牌子",
+      "source_content_hash": "6d609157c93c854b612c9a9f6f397062d820a55d873bab66f7d2e688079d1f0f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Gehalt, -e 含有量；das Gehalt, ⸚er 給料\nder Band, ⸚e 巻；das Band, ⸚er ベルト\nder Schild, -e 盾；das Schild, -er 看板"
+      }
+    },
+    {
+      "segment_id": "e9763df1",
+      "source_content": "放到一起我们就明白了，这3对词中，复数为⸚er/er的，都是中性。",
+      "source_content_hash": "8ea7108f1b5f4a03f542b7741b097d19be5d1ccbc688c12302a0b1a83bb4d165",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "これらを並べてみると分かりますが、3組の単語のうち、複数形が⸚er/erのものはすべて中性名詞です。"
+      }
+    },
+    {
+      "segment_id": "8d9854f6",
+      "source_content": "顺便我们还发现了：复数为⸚er/er的词，如果主要元音是a, o, u, au，就得变音。或者说，能变音，就得变音。",
+      "source_content_hash": "5b635f3e98549166dbd17907974e106c085637df428197cdc259244ae7f62a25",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "さらに発見したのは、複数形が⸚er/erの名詞で、主母音がa, o, u, auの場合はウムラウトが発生するということです。言い換えれば、ウムラウト可能な場合は必ずウムラウトします。"
+      }
+    },
+    {
+      "segment_id": "6ecf4565",
+      "source_content": "并且，中性词复数加-er的，几乎都是以t/d结尾。唯一的例外是das Weib, -er。并且以-eib结尾的常见词，只有das Weib和der Leib，都在表格里。",
+      "source_content_hash": "db7a51f043d3334df106d0e57a4597d3a048d3343cd7d5013395dc48c05175dc",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "また、中性名詞で複数形に-erをとるものは、ほとんどがt/dで終わります。唯一の例外はdas Weib, -erです。-eibで終わる一般的な単語はdas Weibとder Leibしかなく、どちらも表に記載されています。"
+      }
+    },
+    {
+      "segment_id": "8ba83a67",
+      "source_content": "#### 7. 无规律",
+      "source_content_hash": "4cc31612ea92b808bca7a1cbdc573c8ae4c668ad478c604a535e298b076f6cab",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "#### 7. 不規則なケース"
+      }
+    },
+    {
+      "segment_id": "a490906d",
+      "source_content": "das Wort 词 - die Antwort 回答",
+      "source_content_hash": "6c72d062c0dcb95677869b2d99cfd32717711f62b670ab5d1a350baf33006faf",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "das Wort 単語 - die Antwort 返答"
+      }
+    },
+    {
+      "segment_id": "32d0de04",
+      "source_content": "成分是同一个，词源上同源，加个前缀就变性了。追根溯源，在Althochdeutsch（古德语）里，Antwort本来是中性的，合情合理，但是后来就变成阴性了，没法说理去。建议和die Frage一起记，捆绑记忆。",
+      "source_content_hash": "3522b4fcfc3cf451118045ee881a5dcc48a4c5536b85b19609fa992c7b431816",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "構成要素は同じで、語源的にも同源ですが、接頭辞を付けると性が変わります。歴史を遡ると、Althochdeutsch（古ドイツ語）ではAntwortは中性名詞だったのですが、後に女性名詞に変化しました。理屈では説明できません。die Frageとセットで覚えることをお勧めします。"
+      }
+    },
+    {
+      "segment_id": "bca12b91",
+      "source_content": "die Front 前线 - der Affront 撅面子",
+      "source_content_hash": "a4b00cafe1c9267a0a2546540f6fb51cd0cb884dc26225de9b6c1f8518efdaf5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "die Front 前線 - der Affront 侮辱"
+      }
+    },
+    {
+      "segment_id": "f4f6cbea",
+      "source_content": "成分是同一个，词源上同源，加个前缀也变性了。于情于理它们都应该是阴性，因为根源上的拉丁语frons（额头）就是阴性。按含义算die Stirn（额头）和往额头上冲撞，Affront也应该是阴性，但是人家从法语里走一遭，变阳性了。到哪儿说理去？",
+      "source_content_hash": "ecb9793b70dc00e08e4bc19ccdf2c76f04e764507f2622718cfdcbccffe46844",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "構成要素は同じで、語源的にも同源ですが、接頭辞を付けると性が変わります。本来はどちらも女性名詞であるべきです。なぜなら、語源であるラテン語のfrons（額）が女性名詞だからです。意味的にもdie Stirn（額）と額への衝突を表すAffrontは女性名詞であるべきですが、フランス語を経由して男性名詞になりました。道理が通らない話です。"
+      }
+    },
+    {
+      "segment_id": "7c8cbeda",
+      "source_content": "der Typ 类型 - das Stereotyp 刻板印象",
+      "source_content_hash": "0c44ec21634ff4916ff3e113181feb2274b5678b54e63dc862a41bf11f19f51a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Typ タイプ - das Stereotyp 固定観念"
+      }
+    },
+    {
+      "segment_id": "31bde43f",
+      "source_content": "成分还是同一个，词源上都是来自拉丁语，前面加个构词成分，欸，变了，他变了，变它了。这也太容易出错了啊！又是法语搞的鬼。好吧，没有。法语stéréotype也是阳性的，借到德语里就变中性了。能不能遵守一点规律啊？！说好的德式严谨呢？",
+      "source_content_hash": "612a8ebad80bfbf2a6bcfb80ab3ea0623d5d8203378ce015d0f5562a94f2dad2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "構成要素は同じで、語源的にもラテン語由来ですが、接頭辞を付けると性が変わります。あまりにも間違いやすいです！これもフランス語のせいかと思いきや、フランス語のstéréotypeも男性名詞で、ドイツ語に借用された際に中性名詞になりました。少しは規則性を守ってほしいものです。ドイツ語の厳密さはどこへ行ったのでしょうか？"
+      }
+    },
+    {
+      "segment_id": "7afc6b04",
+      "source_content": "der Teil 部分 - das Vorurteil 偏见",
+      "source_content_hash": "fafdafef9dab500bef35e3ead3cea8dfaa7290d3cde39e34ad1d1cddcaa5aade",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Teil 部分 - das Vorurteil 偏見"
+      }
+    },
+    {
+      "segment_id": "4b874e17",
+      "source_content": "成分是同一个。好吧，Teil本身就有der和das两个性。但是，能不能按照点逻辑来呢？der Vorteil/Nachteil和Vorurteil的Teil有多么大的差别呢？",
+      "source_content_hash": "1f5f8eb98620edca0f024966b25f306292f5135d9e34096566ed0e212b7d2642",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "構成要素は同じです。確かに、Teil自体にderとdasの両方の性があります。しかし、少しは論理的に考えてほしいものです。der Vorteil/NachteilとVorurteilのTeilにはどれほどの違いがあるのでしょうか？"
+      }
+    },
+    {
+      "segment_id": "0e0ba0f3",
+      "source_content": "## 名词复数",
+      "source_content_hash": "67f19a8a8c53699b4657caa6645a5d4b2605e46718025be8b1035b5b0e5eab9f",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 名詞の複数形"
+      }
+    },
+    {
+      "segment_id": "89663107",
+      "source_content": "![](.\\img\\名词复数.png)",
+      "source_content_hash": "18376f735da0d841c84bebc14f28c03313aa40aff411199eb66fb1746bae36c6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](.\\img\\名詞複数.png)"
+      }
+    },
+    {
+      "segment_id": "d730ea8c",
+      "source_content": "德语名词主要加五种词尾（包括零词尾），前三种有变音的可能性，而变音的数量不多。首先重读的元音得有a, o, u或au，其次得是高频词，才有变音的资格，所以就特别少（见上表的数字）。",
+      "source_content_hash": "64bb8eb034f93190e29d10ec82d7086ef1f7698e27573a2483b1db16dc99fcbe",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ドイツ語の名詞には主に5種類の語尾（ゼロ語尾を含む）が追加されます。最初の3種類にはウムラウトが発生する可能性があり、その数は多くありません。まず、強勢のある母音がa、o、u、auである必要があり、さらに高頻度語である場合にのみウムラウトの資格が与えられるため、特に少なくなります（上表の数字を参照）。"
+      }
+    },
+    {
+      "segment_id": "74ff82c1",
+      "source_content": "意思是人，词尾为-in的，复数肯定加-nen。这是第四条规则的补充。和复数加-se的情况一样，是因为发音关系造成的变体，并不是单独的规则。Bus, 直接接e，那s就变成浊音了。",
+      "source_content_hash": "593c8eb6deac9c876d9f0fc9eb27671e3abcc64b4b91711683fbdba2d24810f9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "人を意味し、語尾が-inの場合は、必ず-nenが追加されます。これは第4の規則の補足です。複数形に-seが追加される場合と同様に、発音の関係によるバリエーションであり、独立した規則ではありません。Busの場合、直接eが接続されると、sは濁音になります。"
+      }
+    },
+    {
+      "segment_id": "dd580565",
+      "source_content": "第六条是少量的外来词词尾，主要是希腊语和拉丁语。毕竟曾经一度他们的古文是这些。",
+      "source_content_hash": "cd45c9b29fa88a495be2c321d64113fc369200e447214c6e8d093e86bd1b083c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第6の規則は少数の外来語の語尾で、主にギリシャ語とラテン語由来のものです。かつてはこれらの古典語が主流でした。"
+      }
+    },
+    {
+      "segment_id": "af21ba33",
+      "source_content": "第二条并没有分析完，因为算法遇到了瓶颈。等我解决了算法问题，再出改进版。",
+      "source_content_hash": "cbc5421ba598dfcb65d5bbd38ed1abe6792dd99731131c8c2a05559dc1a16182",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第2の規則の分析はまだ完了していません。アルゴリズムにボトルネックが発生したためです。この問題を解決した後、改訂版を公開する予定です。"
+      }
+    },
+    {
+      "segment_id": "00f1d343",
+      "source_content": "## 形容词变名词（名词化形容词）",
+      "source_content_hash": "9f660a284b681bde87f6636b47207727b765956009982aad6c023ef7b93730f0",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 形容詞の名詞化"
+      }
+    },
+    {
+      "segment_id": "0c36eebb",
+      "source_content": "* 原则上+e：der/die Alte, das Alte，复数+n\n* 阳性和阴性的名词化形容词一般指具体的人。中性的名词化形容词指抽象概念。\n* 如果名词前面没有定冠词，则在名词上表现：nichts Altes\n* 注意beide，alle：alles Gute",
+      "source_content_hash": "a85c1dd0776b534fd12c9bef645cfaf3e04eec66bc169f82c15eeb1f0b37a560",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 原則として+e：der/die Alte, das Alte、複数形は+n\n* 男性形と女性形の名詞化形容詞は通常具体的な人を指します。中性形の名詞化形容詞は抽象概念を指します。\n* 名詞の前に定冠詞がない場合、名詞上に表現されます：nichts Altes\n* beide、alleに注意：alles Gute"
+      }
+    },
+    {
+      "segment_id": "dcfb3d91",
+      "source_content": "## 重音转移",
+      "source_content_hash": "aff51a706846e6ac53f6025569e0be7e3ac46a2c7f803bb987023affea6b3d0b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## アクセントの移動"
+      }
+    },
+    {
+      "segment_id": "413a2594",
+      "source_content": "**词尾有后缀-or的，复数和阴性形式的重音会转移到o上**，比如：",
+      "source_content_hash": "ae026a9f51bdb992d17b04c44bda294fcb65c8c2438598c43b54c93ab3685558",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**語尾に-orがある場合、複数形と女性形ではアクセントがoに移動します**。例："
+      }
+    },
+    {
+      "segment_id": "3026c350",
+      "source_content": "Autor, Autoren, Autorin 作者",
+      "source_content_hash": "5f6cca4233b0263ba8f4c7f30d1604a0e64f4c44fdd20b338a27de5d47660739",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Autor, Autoren, Autorin 著者"
+      }
+    },
+    {
+      "segment_id": "96a1df63",
+      "source_content": "Direktor, Direktoren, Direktorin 主任，某某长",
+      "source_content_hash": "b41b986fe61b844c2def00d5b6b414bc544cc9c0bdd2f1de75de77c593323204",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Direktor, Direktoren, Direktorin 部長、長官"
+      }
+    },
+    {
+      "segment_id": "7c5ccba4",
+      "source_content": "Faktor, Faktoren 因素",
+      "source_content_hash": "99f11bb907a5305ad23973a0e012bda791256b8b85848dd2f65448d33698e3d5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Faktor, Faktoren 要因"
+      }
+    },
+    {
+      "segment_id": "8beee012",
+      "source_content": "Doktor, Doktoren, Doktorin 博士",
+      "source_content_hash": "c5f40c5fc88934f50acd073a125023c4b73bb24c4854694f2268748d0eca91ca",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Doktor, Doktoren, Doktorin 博士"
+      }
+    },
+    {
+      "segment_id": "abeb94f3",
+      "source_content": "Professor, Professoren, Professorin 教授",
+      "source_content_hash": "28793f6e142fbcbfcbf9a0831679e5e5d245740d9ba83f45921432510e12e241",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Professor, Professoren, Professorin 教授"
+      }
+    },
+    {
+      "segment_id": "0912142e",
+      "source_content": "-or中的-ator更加规整。-ator都是-ieren的名词形式，比如：",
+      "source_content_hash": "2f657d5d9351dc15d7086a92b1561203c17a0521658b7d0c607a3a4a40318679",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "-orの中でも-atorはより規則的です。-atorはすべて-ierenの名詞形です。例："
+      }
+    },
+    {
+      "segment_id": "7458a98d",
+      "source_content": "transformieren, Transformator, Transformatoren 变压器",
+      "source_content_hash": "c0608790ca2707cb45be9b9c7e4c146ab3aaf3ff5527f18e3bead3da8b8a7f83",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "transformieren, Transformator, Transformatoren 変圧器"
+      }
+    },
+    {
+      "segment_id": "c1be5883",
+      "source_content": "ventilieren, Ventilator, Ventilatoren 电风扇",
+      "source_content_hash": "7911f572a7109efb0165a0947a46ecc5d9e4586cc2356313e29efd4ffb58d2ca",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ventilieren, Ventilator, Ventilatoren 扇風機"
+      }
+    },
+    {
+      "segment_id": "458b4b96",
+      "source_content": "organisieren, Organisator, Organisatoren 组织者",
+      "source_content_hash": "9e3e22b2ab8d3f404680f5054b595730d1c99e7fcdc81bf0c7468da8b6f6559e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "organisieren, Organisator, Organisatoren 主催者"
+      }
+    },
+    {
+      "segment_id": "b34be360",
+      "source_content": "我们也可以得出，**表示人和器具的**：",
+      "source_content_hash": "b966b6bea3d40a3e322a73e5d5e5f0f7313cb730672e127b750ef21158daf572",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ここから次の結論が得られます：**人や器具を表す場合**"
+      }
+    },
+    {
+      "segment_id": "0b01a81d",
+      "source_content": "**-er 一般不是外来词**",
+      "source_content_hash": "a995f55eeba87925b81bbba50ae8a2d698b54105802cbd4eeb0482e7e5964bb9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**-er は通常外来語ではありません**"
+      }
+    },
+    {
+      "segment_id": "f9a30ebe",
+      "source_content": "**-or 几乎全是外来词，并且有重音转移**",
+      "source_content_hash": "483c8bb62b70e97020d9ff2014f875d1a71ff561fa014cca4c1e54363091a336",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**-or はほとんどが外来語で、アクセント移動が発生します**"
+      }
+    },
+    {
+      "segment_id": "9a246e40",
+      "source_content": "补充一下：-or在法语中是-eur，后者在德语中也有借用，没有重音转移，重音一直在eu上。比如：",
+      "source_content_hash": "eb7b85d64b879ee08b3d1e25a90cbf51f442446e8d77d41632a0b5621c1b977c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "補足：-orはフランス語では-eurで、後者はドイツ語にも借用されており、アクセント移動は発生せず、euにアクセントが残ります。例："
+      }
+    },
+    {
+      "segment_id": "5aa217bf",
+      "source_content": "der Chauffeur, -e 私人司机",
+      "source_content_hash": "7b31c1066dab90f539e63c03137cc9cee3a43cb3287d61c3d7baf6c3d8b680b3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Chauffeur, -e 専属運転手"
+      }
+    },
+    {
+      "segment_id": "4ef51667",
+      "source_content": "der Amateur, -e 业余爱好者",
+      "source_content_hash": "0698e4afb21e66f2cc2338aca4a94ffb5bbc32b891288d89708d52c96db92332",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Amateur, -e アマチュア愛好家"
+      }
+    },
+    {
+      "segment_id": "f3bed9df",
+      "source_content": "der Gouverneur, -e 总督；省长",
+      "source_content_hash": "f0d5eef33cbd36a1c2a6a0f7ce03c192f70a62ced580458b806d959b2c8d4326",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Gouverneur, -e 総督；知事"
+      }
+    },
+    {
+      "segment_id": "24770a5d",
+      "source_content": "der Regisseur, -e 导演",
+      "source_content_hash": "ed16d63b254e5ad97a1e580a681d140e1cba2bdb0266dd58595e3caf131f5c3f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der Regisseur, -e 監督"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/名词/名词.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.531420+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "71b1f8c36b26c03c2dd6b427849346a31b6c226093d980f46ec17eb374383b15"
+  }
+}

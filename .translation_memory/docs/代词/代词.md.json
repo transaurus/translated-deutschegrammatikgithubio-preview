@@ -1,0 +1,952 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/代词/代词.md",
+  "source_file_content_hash": "6b46ca3d2d380580048781a5ddd0345f689676114fa9a15860d7fe0c5b63ff9d",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\n---",
+      "source_content_hash": "92a21a112978c590263ada3554195d9905c8c585e619dccd5f0a4cf518a7076f",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 代词",
+      "source_content_hash": "b4dd196ef4e27fccda4dfb1d1f2a7bf88764d7f585785e33276c685a9d22a7eb",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 代名詞"
+      }
+    },
+    {
+      "segment_id": "a703643c",
+      "source_content": "## 定义",
+      "source_content_hash": "7f70817ac4562b864c06fd7ab4858ff81c362068ab0af731a78c7e9d7b2b6889",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 定義"
+      }
+    },
+    {
+      "segment_id": "53eaf0e1",
+      "source_content": "代词代表人、物、概念和情况。最重要的功能是代替名词。",
+      "source_content_hash": "40dbd1e7831644afa8f2f0380c72100cc75e9ebdb63e0c05c7fdd448b49550c8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "代名詞は人、物、概念、状況を表す。最も重要な機能は名詞の代用である。"
+      }
+    },
+    {
+      "segment_id": "8ac585fb",
+      "source_content": "代词分为人称代词、物主代词、指示代词、关系代词、反身代词、疑问代词、不定代词、代词es。",
+      "source_content_hash": "dd2e1b07f17a7b03711c2d86e58e05b640f2a9641eb427c61d39cfa0c4bb2e92",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "代名詞は人称代名詞、所有代名詞、指示代名詞、関係代名詞、再帰代名詞、疑問代名詞、不定代名詞、代名詞esに分類される。"
+      }
+    },
+    {
+      "segment_id": "ba4f48ff",
+      "source_content": "## 人称代词&物主代词",
+      "source_content_hash": "1f2c5c560877c09213295f80bbee85bb05db61e8dfb687182a866ae35567505e",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 人称代名詞＆所有代名詞"
+      }
+    },
+    {
+      "segment_id": "cf898102",
+      "source_content": "人称代词代表人或事物，有单数和复数的区别，单数第三人称有性的区别。",
+      "source_content_hash": "e7aafee063ec6310fb79cbd604a465283e979f315163b2ddc855f42e88af1a34",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "人称代名詞は人や事物を表し、単数と複数の区別があり、単数三人称には性の区別がある。"
+      }
+    },
+    {
+      "segment_id": "42ad8e83",
+      "source_content": "物主代词表示所属关系，从人称代词的第二格派生而来。用作名词定语时，应于该名词性、数、格一致。",
+      "source_content_hash": "251e0c13224b064679581b2d70651e434e70f5b902fdf9b1686ba94f25754bc1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "所有代名詞は所有関係を表し、人称代名詞の第二格から派生する。名詞の修飾語として用いる場合、その名詞の性・数・格と一致させる必要がある。"
+      }
+    },
+    {
+      "segment_id": "b40647e4",
+      "source_content": "|  Mann  |  Kind  | Frau  | Leute  |\n| :----: | :----: | :---: | :----: |\n|  der   |  das   |  die  |  die   |\n|   er   |   es   |  sie  |  sie   |\n|        |        |       |        |\n|  des   |  des   |  der  |  der   |\n|  sein  |  sein  |  ihr  |  ihr   |\n| seiner | seiner | ihrer | ihrer  |\n|        |        |       |        |\n|  dem   |  dem   |  der  | den -n |\n|  ihm   |  ihm   |  ihr  | ihnen  |\n|        |        |       |        |\n|  den   |  das   |  die  |  die   |\n|  ihn   |   es   |  sie  |  sie   |",
+      "source_content_hash": "9305bb8ca60aa43edc751735adb29d5ed1988a8af93757aab586b914db3ee81e",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_b40647e4"
+      }
+    },
+    {
+      "segment_id": "6c3c2cc2",
+      "source_content": "| wer  |    wessen    | wem  | wen  |\n| :--: | :----------: | :--: | :--: |\n| ich  | mein, meiner | mir  | mich |\n|  du  | dein, deiner | dir  | dich |\n| wir  | unser, unser | uns  | uns  |\n| ihr  |  euer, euer  | euch | euch |",
+      "source_content_hash": "12063913d7074e5edd758e480c32fedc4a0979d82309d19747415fc842c6bf27",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_6c3c2cc2"
+      }
+    },
+    {
+      "segment_id": "9f9e64f5",
+      "source_content": "## 关系代词",
+      "source_content_hash": "bf68d87476d18555d0895a76c6d440c7e2cff55b0cb7a11f20b58230a01c4798",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 関係代名詞"
+      }
+    },
+    {
+      "segment_id": "1042b50d",
+      "source_content": "关系代词是关系从句的引导词。",
+      "source_content_hash": "5ae9d874f91cd7fe963e59db23399093bb643677ce8771c5dcb664c1350937bb",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "関係代名詞は関係節の導入口である。"
+      }
+    },
+    {
+      "segment_id": "aa1e7006",
+      "source_content": "![](./img/关系代词.png)",
+      "source_content_hash": "079e872e2de211f23859b2cb7128dfe77e964cad1375e4677712d8487040c7c6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/関係代名詞.png)"
+      }
+    },
+    {
+      "segment_id": "13d9cd70",
+      "source_content": "der*16",
+      "source_content_hash": "4cc963bbb8bc113d1ff619514d143f935f0782682dcf38d9ae6f2b46b7fd969d",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "der*16"
+      }
+    },
+    {
+      "segment_id": "6773b78b",
+      "source_content": "- 名词有确定的性",
+      "source_content_hash": "27ceab88e257d701d6a5c7145fd286023269eb0c67106dc17e43d710776dabf3",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "- 名詞には明確な性がある"
+      }
+    },
+    {
+      "segment_id": "f85ce02a",
+      "source_content": "|    Mann    |    Kind    |   Frau    |   Leute   |\n| :--------: | :--------: | :-------: | :-------: |\n|    der     |    das     |    die    |    die    |\n|    der     |    das     |    die    |    die    |\n|            |            |           |           |\n|    des     |    des     |    der    |    der    |\n| **dessen** | **dessen** | **deren** | **deren** |\n|            |            |           |           |\n|    dem     |    dem     |    der    |  den -n   |\n|    dem     |    dem     |    der    | **denen** |\n|            |            |           |           |\n|    den     |    das     |    die    |    die    |\n|    den     |    das     |    die    |    die    |",
+      "source_content_hash": "07f6131255e2dc69dbc6ec7f95fea904c40bd8b18970a023ff77da89e6fd120d",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_f85ce02a"
+      }
+    },
+    {
+      "segment_id": "5dae11e3",
+      "source_content": "关系代词was",
+      "source_content_hash": "7b34d4f4fd7a78f03787d8959487a6912cab3963d7ca29afb57c5a0ccec48449",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "関係代名詞was"
+      }
+    },
+    {
+      "segment_id": "180e9ce9",
+      "source_content": "* 不定代词：nichts, alles, einiges, das ,vieles\n* 指整句\n* 中性最高级：das Beste",
+      "source_content_hash": "050ba0c4c7bf42124ff7c809851f3e33297198f3dd14b3bb2454b16ab4eaa5b3",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 不定代名詞：nichts, alles, einiges, das ,vieles\n* 文全体を指す\n* 中性最上級：das Beste"
+      }
+    },
+    {
+      "segment_id": "e7772088",
+      "source_content": "句型",
+      "source_content_hash": "d1d59c6f6da732e2e0af79e3db2feef8e7effe02fc3183ea0941cfceb379b5b6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "構文"
+      }
+    },
+    {
+      "segment_id": "69c1f590",
+      "source_content": "* Was ..., (das) ...\n  * Was glänzt, (das) ist nicht unbedingt Gold.\n* Wer ..., (der) ...\n  * Wer zuletzt lacht, (der) lacht am besten.\n  * Wer zuerst kommt, den werde ich loben.\n* Wo ..., (da) ...\n  * Wo ein Wille ist, da ist auch ein Weg.",
+      "source_content_hash": "c5b82654baf32b9580b4f7b7c619b5d312409a633c151bee70bd99fa64e87f0f",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* Was ..., (das) ...\n  * Was glänzt, (das) ist nicht unbedingt Gold.\n* Wer ..., (der) ...\n  * Wer zuletzt lacht, (der) lacht am besten.\n  * Wer zuerst kommt, den werde ich loben.\n* Wo ..., (da) ...\n  * Wo ein Wille ist, da ist auch ein Weg."
+      }
+    },
+    {
+      "segment_id": "a5c5772a",
+      "source_content": "关系从句：der*16, was, wo",
+      "source_content_hash": "314a4a22be365317c0e58d4411f056a2bccd28be43102eada9373dc8ee7ade2f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "関係節：der*16, was, wo"
+      }
+    },
+    {
+      "segment_id": "0a103a02",
+      "source_content": "## 反身代词",
+      "source_content_hash": "5241d496482d33c3d1e6a567f7e7b5571f8af9d5ac52106c0a92482a3a435739",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 再帰代名詞"
+      }
+    },
+    {
+      "segment_id": "8126f763",
+      "source_content": "首先，要理解什么叫反身。反身指的是第三格和第四格宾语（包括介词加的第三格和第四格）和主语所指是同一个人或物的情况。虽然第二格也可算作反身，但是没有专门的反身代词，可忽略。反身代词只有第三人称单复数的sich是初学者需要注意的，其他人称很容易理解。第三人称sich存在的合理性是，多了一个避免歧义的手段：",
+      "source_content_hash": "e5fe37794e1c3a88e8fc081337e89820cc06b8d4d0db80b1f89cffe2d379b9d6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "まず、「再帰」の意味を理解する必要がある。再帰とは、第三格または第四格目的語（前置詞が付加する第三格・第四格を含む）が主語と同じ人物または物を指す場合をいう。第二格も再帰に含まれるが、専用の再帰代名詞は存在せず、無視してよい。再帰代名詞で初心者が注意すべきは三人称単複数のsichのみで、他の人称は容易に理解できる。三人称sichが存在する意義は、曖昧さを回避する手段が追加される点にある："
+      }
+    },
+    {
+      "segment_id": "74dd7937",
+      "source_content": "Otto sagt, dass Karl ihn im Spiegel sieht. 卡尔看的是奥托。",
+      "source_content_hash": "75d4b3427e9f628f5dbf2a0521af8d892e21321391e159af1a8901dc07faa49f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Otto sagt, dass Karl ihn im Spiegel sieht. カールが見ているのはオットー"
+      }
+    },
+    {
+      "segment_id": "5803caac",
+      "source_content": "Otto sagt, dass Karl sich im Spiegel sieht. 卡尔看的是卡尔自己。",
+      "source_content_hash": "019f9bac223b4da72d402600506cd66a1660168a2925dd3c3b5b4c2e44aa7341",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Otto sagt, dass Karl sich im Spiegel sieht. カールが見ているのはカール自身"
+      }
+    },
+    {
+      "segment_id": "51867d16",
+      "source_content": "其次，把反身分成两类：可以类比理解和不方便类比理解的。朴素地理解，不要被「真、假、交互」之类的语法术语绕晕了。",
+      "source_content_hash": "1c0327b17c376e46b38f08bf00660dbf3731e8c610286cdc4e0c5c275af9551c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "次に、再帰を二種類に分類する：類推可能な理解と類推が困難なもの。素直に理解し、「真・偽・相互」といった文法用語に惑わされないこと。"
+      }
+    },
+    {
+      "segment_id": "785750ac",
+      "source_content": "Ich wasche das Auto. 可以洗物；",
+      "source_content_hash": "cc8eb0a85e79ea66144dfe53318eee88af4c3cd6641b244508efbc57a712fe14",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Ich wasche das Auto. 物を洗うことができる"
+      }
+    },
+    {
+      "segment_id": "82e90254",
+      "source_content": "Ich wasche das Baby. 也可以洗人；",
+      "source_content_hash": "ae87498c040debe9965054258243712d7ad6bc0930903f0303ca14d8e0034f78",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Ich wasche das Baby. 人を洗うこともできる"
+      }
+    },
+    {
+      "segment_id": "2822251a",
+      "source_content": "Ich wasche mich. 逻辑上也可以洗自己。",
+      "source_content_hash": "35bd55808cbfd0e60f35f9082db1dd44d148729e670ee7c90357abf94e69a988",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Ich wasche mich. 論理的には自分自身を洗うことも可能"
+      }
+    },
+    {
+      "segment_id": "25212439",
+      "source_content": "Ich helfe dir. 可以帮助某人；",
+      "source_content_hash": "a46f3c79b35a351b80c98bb66c8d7d3911c5e19b4187a835bdf0701a3ecaf5e9",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Ich helfe dir. 他人を助けることができる"
+      }
+    },
+    {
+      "segment_id": "d79a4831",
+      "source_content": "Wir helfen uns. 逻辑上也可以相互帮助。",
+      "source_content_hash": "00156cc199088eefd526fc4650d0be2f34ad55320ef660ae3201d0c037b4c7e1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Wir helfen uns. 論理的にはお互いに助け合うことも可能です。"
+      }
+    },
+    {
+      "segment_id": "2838eb68",
+      "source_content": "Er legt das Buch auf den Tisch. 静三动四，把某物横放到什么地方；",
+      "source_content_hash": "16156b1aa8cebd72256bb4662fdcec5294094ef82f88bd752e3e73f1e12d521f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Er legt das Buch auf den Tisch. 静三動四の原則で、物を横に置く場所を表す；"
+      }
+    },
+    {
+      "segment_id": "4be28ed1",
+      "source_content": "Ich lege mich ins Bett. 逻辑上也可以把自己横放（躺）到什么地方。",
+      "source_content_hash": "789eef716999b32798a6b5dbf5f58df2c47966ae203f6dce7f64c6ee49b7a5e5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Ich lege mich ins Bett. 論理的には自分を横に（寝かせて）置くことも可能。"
+      }
+    },
+    {
+      "segment_id": "0e80209e",
+      "source_content": "Er ist sehr stolz auf seinen Sohn. 可以为某人自豪；",
+      "source_content_hash": "c035d7c12ef1d04c2bf4a4220302c2ba1b5ced5bf29f9464455afb94a8224dd8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Er ist sehr stolz auf seinen Sohn. 誰かを誇りに思うことができる；"
+      }
+    },
+    {
+      "segment_id": "7bc8bb24",
+      "source_content": "Er ist sehr stolz auf sich. 逻辑上也可以为自己自豪。",
+      "source_content_hash": "3318c51fc6be792b58daec614b25e81949501545d8884ef9972c37405cf0903b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Er ist sehr stolz auf sich. 論理的には自分自身を誇りに思うことも可能。"
+      }
+    },
+    {
+      "segment_id": "6693c38c",
+      "source_content": "Im Kino sitzt ein großer Mann vor mir. 可以有人或物在我前面；",
+      "source_content_hash": "4cbdcf867bdb50551885a857c79652904dd4dbb49172d290324c45f5dabb07b7",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Im Kino sitzt ein großer Mann vor mir. 誰かや物が前にいる/ある状況；"
+      }
+    },
+    {
+      "segment_id": "e9313fef",
+      "source_content": "China hat eine lange Geschichte hinter sich. 逻辑上中国也可以有很长的历史在自己身后（中国有着悠久的历史）。",
+      "source_content_hash": "755105601580ef5475f69da93619d98111359eb8775287cccdeaec1811c7b60a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "China hat eine lange Geschichte hinter sich. 論理的には中国も長い歴史を背後に持つ（中国は悠久の歴史を持つ）。"
+      }
+    },
+    {
+      "segment_id": "1b4de6df",
+      "source_content": "然而：",
+      "source_content_hash": "c5b5da2eaec2f548fe25908fedb58f2529ca024580069d70cc878e9f8e3f01b6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "しかし："
+      }
+    },
+    {
+      "segment_id": "1958bc43",
+      "source_content": "Du musst dich beeilen. 译：你赶紧的。",
+      "source_content_hash": "591f0e63739d7830ad027d2ffee2929706173b7f6fd68d40e9a6b2482b0f77b0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Du musst dich beeilen. 訳：急ぎなさい。"
+      }
+    },
+    {
+      "segment_id": "a8610918",
+      "source_content": "Das kann ich mir nicht vorstellen. 译：这个我无法想象。",
+      "source_content_hash": "67442cdf515deaafac4adc96d0a89b5896e2d309d8e93a4537a6bf0da094c0a4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Das kann ich mir nicht vorstellen. 訳：これは想像できません。"
+      }
+    },
+    {
+      "segment_id": "a6c928a1",
+      "source_content": "Ich fühle mich zu dick. 译：我觉得我太胖了。",
+      "source_content_hash": "af2350ecebe3c180a89ef8402d33ba43607c0ebbfe45e8244f3973482cf446ae",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Ich fühle mich zu dick. 訳：自分が太りすぎていると感じます。"
+      }
+    },
+    {
+      "segment_id": "b6152880",
+      "source_content": "这三个例句则基本不可能用类比的方式理解，那么需要借助用法模式去记忆：",
+      "source_content_hash": "0d723f3b3d44209495019d455dec47f226f93a42cadd708c467d14f1000a8272",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "これらの3つの例文は基本的に類推で理解するのは難しく、使用パターンを覚える必要があります："
+      }
+    },
+    {
+      "segment_id": "b9331170",
+      "source_content": "sich beeilen",
+      "source_content_hash": "c9a624c6231805b65d948d7a536f90cde990460f040f63107ac0ff5334ddac12",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sich beeilen（急ぐ）"
+      }
+    },
+    {
+      "segment_id": "8fcdd6d4",
+      "source_content": "sich etw. vorstellen",
+      "source_content_hash": "483cf5ed94f5f736b09ab75764dccbf62ef3a4013ad66da9ffd53a196c6890a8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sich etw. vorstellen（想像する）"
+      }
+    },
+    {
+      "segment_id": "53aa2b95",
+      "source_content": "sich irgendwie fühlen",
+      "source_content_hash": "019ce1fe2714f4082596b96a80982e6cccf85f48cb5c49ea5668f24868e38511",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sich irgendwie fühlen（～のように感じる）"
+      }
+    },
+    {
+      "segment_id": "9c9e2b64",
+      "source_content": "也就是说：可类比理解的（假反身）按直觉和逻辑来就行，类似于英语的oneself用法，不用着力太多；不可类比理解的（真反身）需要记用法模式，认真背吧。",
+      "source_content_hash": "f9281880d39969d435a8cb92489c907130538a7e5b3f9e2e24498936e51b8014",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "つまり：類推可能な（疑似再帰）場合は直感と論理に従えばよく、英語のoneselfの用法に似ており、あまり力を入れなくてもよい；類推不可能な（真の再帰）場合は使用パターンを覚える必要があり、しっかり暗記しましょう。"
+      }
+    },
+    {
+      "segment_id": "5c7d994c",
+      "source_content": "第三，格的问题：",
+      "source_content_hash": "72bc40fce30fe54afd73be87b0fe2cee46e8f6daf770da5c6c4006781a5e836b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "第三に、格の問題："
+      }
+    },
+    {
+      "segment_id": "1ecf0882",
+      "source_content": "1、如果是可类比理解的，那该用第几格用第几格，类比着用。",
+      "source_content_hash": "0d5a8b049e6bae4791f7aa4b7064995c7c9e9b209005e04f6a3a40d1ed841cd5",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "1、類推可能な場合、必要な格を使用し、類推して使う。"
+      }
+    },
+    {
+      "segment_id": "e77cf7c6",
+      "source_content": "2、一般来说：",
+      "source_content_hash": "8d1734f6da7f49c16ad32431a80d3a7d598936513af01ed8fc643c87af078841",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "2、一般的に："
+      }
+    },
+    {
+      "segment_id": "bb1346b6",
+      "source_content": "2.1 形如 sich V. 的，sich基本是第四格，如果不是，请参考第1点；",
+      "source_content_hash": "cfd5de6db50f93bdedd9e4b1b4a8ee3d8efd217a2b07d7aa5393ad93c30b3b8e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "2.1 sich V. の形の場合、sichは基本的に第四格、そうでない場合は第1点を参照；"
+      }
+    },
+    {
+      "segment_id": "8664ed0b",
+      "source_content": "2.2 形如sich etw. V. 的，sich基本是第三格，如果不是，请参考第1点。",
+      "source_content_hash": "3dc6a11c64effd7954ab20bc2d263db10d517c3c9f292eaca01f59c0e2e507e4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "2.2 sich etw. V. の形の場合、sichは基本的に第三格、そうでない場合は第1点を参照。"
+      }
+    },
+    {
+      "segment_id": "9e90a9b3",
+      "source_content": "例如：",
+      "source_content_hash": "2eeeceff78bfedebe3eab620973524782c809387e7cba8b1760cee33ec874481",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "例えば："
+      }
+    },
+    {
+      "segment_id": "681ef526",
+      "source_content": "sich anziehen （穿衣服）sich是第四格；",
+      "source_content_hash": "960f8ddc189a9535ea97e2f6610485ae56cc7a20ce39d7116136344c5bfc4900",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sich anziehen （服を着る）sichは第四格；"
+      }
+    },
+    {
+      "segment_id": "be17ccc3",
+      "source_content": "sich etw. anziehen （穿具体什么衣服）sich是第三格；",
+      "source_content_hash": "9cb69fc1648ab12160e3b224002dd0a2bcf20dc6de147b92337be5645ebc899e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sich etw. anziehen （具体的な服を着る）sichは第三格；"
+      }
+    },
+    {
+      "segment_id": "ad3e22c6",
+      "source_content": "sich etw. überlegen （考虑）sich是第三格，即使etw.变成了一个从句。",
+      "source_content_hash": "d9511b817a5a6bb2618eea500866caaec8d44480cc681cade5c140556e49a103",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sich etw. überlegen （考慮する）sichは第三格、etw.が節になっても変わらない。"
+      }
+    },
+    {
+      "segment_id": "3e8f45da",
+      "source_content": "sich jm./etw. stellen （使自己面对某人或事物）sich是第四格，因为自己是放置（竖放，站）的对象，某人或事物才是间接宾语。如果实在觉得这句太难，格难以记清，还可以记住一个简洁而又实用的句子：Er hat sich der Polizei gestellt. 译：他自首了。sich der Polizei stellen（投案自首）。",
+      "source_content_hash": "e371b12827d1bc0503be58fe96316bc46f00e83a3c9a601f56bfb5696650cb8e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sich jm./etw. stellen （自分を誰かや物に向ける）sichは第四格、なぜなら自分が配置（縦に置く、立つ）の対象で、誰かや物が間接目的語だから。この文が難しすぎて格を覚えにくい場合は、簡潔で実用的な文を覚えることもできる：Er hat sich der Polizei gestellt. 訳：彼は自首した。sich der Polizei stellen（出頭する）。"
+      }
+    },
+    {
+      "segment_id": "4c787c52",
+      "source_content": "sich jm./etw. nähern（接近某人或某物）sich是第四格。Niemand darf sich dem Kranken (dem Brandherd) nähern.",
+      "source_content_hash": "42ddb717a4eac2e9fb130420345ad5f2a104fd83c9336d4062659fac69b30130",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "sich jm./etw. nähern（誰かや物に近づく）sichは第四格。Niemand darf sich dem Kranken (dem Brandherd) nähern. 訳：誰も病人（火元）に近づいてはいけない。"
+      }
+    },
+    {
+      "segment_id": "63565425",
+      "source_content": "其实，无论是符合直觉和逻辑，还是用法模式，最终都要落到句子和篇章上，做好：",
+      "source_content_hash": "1f0d4f661048f4804c8543c7bc0ed63c64eaeac90d6f162fa8b1b85e981ce749",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "実際のところ、直感や論理に合致しているか、用法パターンであるかにかかわらず、最終的には文や文章に落とし込み、以下の点をしっかりと行う必要があります："
+      }
+    },
+    {
+      "segment_id": "1496ef51",
+      "source_content": "词汇",
+      "source_content_hash": "7e13e88febb6c0c7491fa389d3b31ff58b84ab4e0cb2d18b1c7d7535f8e67366",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "語彙"
+      }
+    },
+    {
+      "segment_id": "dce16ab4",
+      "source_content": "用法模式",
+      "source_content_hash": "6f1ea89560259472b1498d8eaab6aba6435aa51d82e80e362d25df67d50b4c3c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "用法パターン"
+      }
+    },
+    {
+      "segment_id": "6f08f877",
+      "source_content": "句子",
+      "source_content_hash": "ea3a456491382f60c0d7c307046b3ffd18e75cfa01a9809e102ae3c1942b4829",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "文"
+      }
+    },
+    {
+      "segment_id": "2dbfc5f7",
+      "source_content": "场景（感）篇章",
+      "source_content_hash": "7c496e060b1caa2c742d20b80940f56b504c350e0e94334aacf01fe34b6b9c58",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "場面（感覚）文章"
+      }
+    },
+    {
+      "segment_id": "6b40e7a2",
+      "source_content": "五个层面的积累，日积月累，熟而生巧，才是王道。很多同学只知道背单词，主要积累的是词汇这一层，当然学不好。",
+      "source_content_hash": "dc6006685ce83f2219f71ed6c387ccd4ec94334199e5fddbee50529ae29aef2b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "この5つのレベルの積み重ねが日々の努力によって熟達し、自然と身につくことが最善の道です。多くの学習者は単語を暗記するだけに留まり、主に語彙のレベルしか積み上げていないため、当然ながら上達しません。"
+      }
+    },
+    {
+      "segment_id": "657bde08",
+      "source_content": "## 疑问代词",
+      "source_content_hash": "0f36b770a120ec97ec090d51beddc34642df6da77024808ff8994eb5e756007b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 疑問代名詞"
+      }
+    },
+    {
+      "segment_id": "827eb9a3",
+      "source_content": "welch- 哪一个（有限范围）",
+      "source_content_hash": "57419c6443333b893ea153992d593c145071820668bf7f0e347b3095116e88bf",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "welch- どれ（限定された範囲）"
+      }
+    },
+    {
+      "segment_id": "62d066b0",
+      "source_content": "was für (ein-) 什么样的（不固定的范围）",
+      "source_content_hash": "69c5a902fc51b854f6b56ae15eedf122e68beec713ec734f612d0dc1e4c5832a",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "was für (ein-) どんな（固定されていない範囲）"
+      }
+    },
+    {
+      "segment_id": "ff048fb8",
+      "source_content": "* Was für ein Mann ist er?\n* Was ist er für ein Mann?",
+      "source_content_hash": "eaaaa6d9cdeab293df3f05449959e3fe76ab55e95475abb95d73ed3d959adfca",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* Was für ein Mann ist er?\n* Was ist er für ein Mann?"
+      }
+    },
+    {
+      "segment_id": "e1642ab4",
+      "source_content": "## 不定代词",
+      "source_content_hash": "7ed7dafeee7133b7b3ae2b0ab4382a03bf8267f8dfed55be3cda50680af65205",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 不定代名詞"
+      }
+    },
+    {
+      "segment_id": "674abb31",
+      "source_content": "不定代词用来泛指人、事物、概念和情况。",
+      "source_content_hash": "0434379b25d35ddfa2e15cc75ad6646770f627c756c76a7c2a83d0bce8a7b35b",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "不定代名詞は、人、物事、概念、状況を漠然と指すために用いられます。"
+      }
+    },
+    {
+      "segment_id": "c66e62ef",
+      "source_content": "### 只能代人",
+      "source_content_hash": "596e5691f6c016e1a430b1d9ab21e2b0040635d37ea2654e8fe72ecdfd41eb73",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 人のみを指す場合"
+      }
+    },
+    {
+      "segment_id": "d0f2205c",
+      "source_content": "* man，jemand，niemand，jedermann，irgendwer\n* 单数，有格变化",
+      "source_content_hash": "5e974870ad73e8d9f478c9471e58d6d7c8b52746948b49a71fb7395a07edf4a4",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* man、jemand、niemand、jedermann、irgendwer\n* 単数形で、格変化があります"
+      }
+    },
+    {
+      "segment_id": "c4ac6a6f",
+      "source_content": "### 只能代物、概念和情况",
+      "source_content_hash": "10ab15e224654d778c8a2ef50a79457925fa616c345c36d2bade5da8e9b9eed6",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 物、概念、状況のみを指す場合"
+      }
+    },
+    {
+      "segment_id": "fc7b5b3c",
+      "source_content": "* etwas，nichts，viel，wenig，einiges，vieles，weniges，ein bisschen\n* 没有格变化，例外：einiges - einigem (D)，vieles - vielem (D)，weniges - wenigem (D)",
+      "source_content_hash": "8536cd5be6f6bde806de9ef68ce64ced6d2a8b9869794d7a4f4e0993a6186d7b",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* etwas、nichts、viel、wenig、einiges、vieles、weniges、ein bisschen\n* 格変化はありませんが、例外：einiges - einigem (D)、vieles - vielem (D)、weniges - wenigem (D)"
+      }
+    },
+    {
+      "segment_id": "be4b1cbf",
+      "source_content": "### 既可代人也可代物",
+      "source_content_hash": "03237185c5f67b8a2d6e3de07677b7c43112d56f301af986940dfd4620fba813",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 人と物の両方を指す場合"
+      }
+    },
+    {
+      "segment_id": "458ab9ae",
+      "source_content": "* alles，alle，einige，manche，mehrere，viele，wenige，jeder（jede，jedes），einer（eine，eines），keiner（keine，keines）\n* 单独使用时为不定代词，与名词连用时为不定数词\n\n* alle 所有的+名词，所有人（单独用）；alles 所有的东西或人（单数）",
+      "source_content_hash": "941b364f8c99ff932675d83095e71970b78a35ff18b1203f3031a2de4ca0a291",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* alles、alle、einige、manche、mehrere、viele、wenige、jeder（jede、jedes）、einer（eine、eines）、keiner（keine、keines）\n* 単独で使用される場合は不定代名詞、名詞と共に使用される場合は不定数詞となります\n\n* alle すべての+名詞、すべての人（単独使用）；alles すべての物や人（単数形）"
+      }
+    },
+    {
+      "segment_id": "17fd5988",
+      "source_content": "#### 词尾变化",
+      "source_content_hash": "7f0fa40aaf9ff124b91183c0a3df44eb687089aec8e79914697318fe4f62f163",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "#### 語尾変化"
+      }
+    },
+    {
+      "segment_id": "3c3cd438",
+      "source_content": "* 只有alle和beide会有词尾变化。",
+      "source_content_hash": "615e3e053344f55f7fe373641d5203375574af28b96bd987a91edaf7a42b9183",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* alleとbeideのみが語尾変化します。"
+      }
+    },
+    {
+      "segment_id": "38f964f1",
+      "source_content": "Sie fahren mit dem Bus. Wir ander_ gehen zu Fuß.",
+      "source_content_hash": "baffac9b761785a8dcdf3770a096d6f7329bee24598c3c1a0bad6173d709cbdd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Sie fahren mit dem Bus. Wir ander_ gehen zu Fuß."
+      }
+    },
+    {
+      "segment_id": "b4204c03",
+      "source_content": "他们坐车，我们其他人走路。",
+      "source_content_hash": "8aee935d17ce139a739914b028f7a37f85a74e1f18a9ffeb47ce393cb2563aae",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "彼らはバスで移動し、私たち他の人は歩きます。"
+      }
+    },
+    {
+      "segment_id": "e6ac016e",
+      "source_content": "上面这里应该填anderen。这也可以这么理解：复数sie/Sie来自定冠词复数die，所以Sie/wir/ihr这里都当复数die理解了。",
+      "source_content_hash": "06ee183cb5d6a234a08331254999f5a54d77412d7091b964dca8d4001e8565ed",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ここではanderenと記入すべきです。これは次のようにも理解できます：複数形のsie/Sieは定冠詞の複数形dieに由来するため、Sie/wir/ihrはすべて複数形のdieとして解釈されます。"
+      }
+    },
+    {
+      "segment_id": "dad05c50",
+      "source_content": "但是问题远不止这么简单。比如，人称代词复数后的beide的变化就难以把握。",
+      "source_content_hash": "37e3ef413abe736b3e8a62198530c4a4eaabbb52f7fc5dc17432f40fa036e029",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "しかし、問題はこれほど単純ではありません。例えば、人称代名詞の複数形に続くbeideの変化は把握が難しいです。"
+      }
+    },
+    {
+      "segment_id": "eeeea5ce",
+      "source_content": "![](./img/beide.png)",
+      "source_content_hash": "f9a76350d087fc0a8678906dd8b4efd018782339dfd4a8c149067d2c1b7db542",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/beide.png)"
+      }
+    },
+    {
+      "segment_id": "e4d8cd8a",
+      "source_content": "标黑的两个地方要特别注意。",
+      "source_content_hash": "722b7011c4e08adaeaa77075a3a5694d9d50f5ffeec3914cfab068bf49804953",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "特に太字で示した2つの点に注意が必要です。"
+      }
+    },
+    {
+      "segment_id": "af834e0d",
+      "source_content": "ihr beide 这样的表达也有，但是比较古旧，呼唤的时候习惯只用ihr beiden。wir beiden 这样的表达是存在的，但是太古旧。",
+      "source_content_hash": "650878e54f950dfc8c9811e17001611eccc5a263ac3717af679f473c7fc4f080",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ihr beide という表現も存在しますが、古風であり、呼びかけの際には通常ihr beidenが用いられます。wir beiden という表現は存在しますが、非常に古風です。"
+      }
+    },
+    {
+      "segment_id": "d75361e3",
+      "source_content": "“ta们两个”的第二格也可以用ihr beider，但是太古旧，不建议使用。",
+      "source_content_hash": "1d58f02779992b5604ae8e5b2b45de5bfd9f4d97547ba13a6fbecd843850b7f0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "「彼ら二人」の2格はihr beiderとも表せますが、非常に古風なため、使用は推奨されません。"
+      }
+    },
+    {
+      "segment_id": "c277c3c0",
+      "source_content": "再来看几个例句：",
+      "source_content_hash": "46559977019819b99e31340df32b1eca33eeb9d421b81cb1d46ed42ffa73a9e3",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "さらにいくつかの例文を見てみましょう："
+      }
+    },
+    {
+      "segment_id": "5eedf0a1",
+      "source_content": "Wir beide waren dagegen. 我们两个都反对这个。",
+      "source_content_hash": "56ca5328f8e0cdc8113b0b690da0305432c1926a8ef020a5a9e4a4a40690349c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Wir beide waren dagegen. 私たち二人はこれに反対でした。"
+      }
+    },
+    {
+      "segment_id": "e4945edb",
+      "source_content": "Mit ihrer beider Hilfe werden wir das schaffen. 有他们两个的帮助，我们肯定能搞定。",
+      "source_content_hash": "8e000669db3ebb3c345c503c9665cc4aaff7a5caa946d7b5d967f8bbb3553e32",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Mit ihrer beider Hilfe werden wir das schaffen. 彼ら二人の助けがあれば、私たちはきっとやり遂げられます。"
+      }
+    },
+    {
+      "segment_id": "9ede513a",
+      "source_content": "Euch beiden herzlichen Dank! 衷心感谢你们两个。",
+      "source_content_hash": "872f5c0554cc11c8b80643da519860422a4fdd09bec324c2fcb22b0f911dfb4f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Euch beiden herzlichen Dank! お二人に心から感謝します。"
+      }
+    },
+    {
+      "segment_id": "49be422b",
+      "source_content": "Für uns beide ist das wichtig. 这对我们两个都很重要。",
+      "source_content_hash": "30019102d3eb58329f26cc7c0e757478f5a12088c28e35a51037e8a39df7adc1",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "Für uns beide ist das wichtig. これは私たち二人にとって重要です。"
+      }
+    },
+    {
+      "segment_id": "8e2354b8",
+      "source_content": "## es的用法",
+      "source_content_hash": "3acfdf70590d24c2b7ab33a7e1ff7b4b3bba952cb82d1acc0ea504de758a3502",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## esの用法"
+      }
+    },
+    {
+      "segment_id": "070cad33",
+      "source_content": "* 中性单数名词\n* 主语\n  * 缺主语（人 man，非人 es）\n  * 形式主语\n    * 指代从句或不定式\n    * 放句首，指代句中真正主语（Es sind nur einige Studenten gekommen.）\n* 形式宾语",
+      "source_content_hash": "f1118c860e868c3ef91bd391f83dbba59b6eff14279fbd9654c21c8f4f7f54e3",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 中性単数名詞\n* 主語\n  * 主語の欠如（人 man、非人 es）\n  * 形式主語\n    * 節や不定詞を指す\n    * 文頭に置き、文中の真の主語を指す（Es sind nur einige Studenten gekommen.）\n* 形式目的語"
+      }
+    },
+    {
+      "segment_id": "7eac7922",
+      "source_content": "## 冠词变代词",
+      "source_content_hash": "25e87d84058b2636f621ab217195280ba57301904765bb4bc3206efedd782993",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 冠詞から代名詞への変換"
+      }
+    },
+    {
+      "segment_id": "acb3bb5f",
+      "source_content": "* 先带着名词，该怎么说就怎么说\n* 去掉名词\n  * 冠词或不定代词有词尾  -->  保持原样\n  * 冠词或不定代词没有有词尾  -->  加示性词尾\n  * 没有冠词或不定代词  -->  就用welch-\n* 注意\n  * 零冠词的代词用welch-\n  * 中性的-es可以变为-s",
+      "source_content_hash": "a130e899bd4e11da4dc2bee6f7dbf90aeee97bdd3086ad30f8556bc231b24904",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* まず名詞を付けたまま、通常通り表現する\n* 名詞を除去\n  * 冠詞や不定代名詞に語尾がある場合 --> そのまま保持\n  * 冠詞や不定代名詞に語尾がない場合 --> 性別を示す語尾を追加\n  * 冠詞や不定代名詞がない場合 --> welch-を使用\n* 注意点\n  * 無冠詞の代名詞にはwelch-を使用\n  * 中性の-esは-sに変化可能"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/代词/代词.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.521253+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "6b46ca3d2d380580048781a5ddd0345f689676114fa9a15860d7fe0c5b63ff9d"
+  }
+}

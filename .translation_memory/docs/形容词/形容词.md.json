@@ -1,0 +1,142 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/形容词/形容词.md",
+  "source_file_content_hash": "d565c9855b9ee99da39a74740c35c0d2871f9e5f78152e4d5d5a8e9c20f0ebc1",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 1\n---",
+      "source_content_hash": "92a21a112978c590263ada3554195d9905c8c585e619dccd5f0a4cf518a7076f",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# 形容词",
+      "source_content_hash": "d8c1f164a31faede04b06f8e5d5fad915b50bdee0788ddc0643b58ba8a846f07",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# 形容詞"
+      }
+    },
+    {
+      "segment_id": "d912d376",
+      "source_content": "## 形容词比较级",
+      "source_content_hash": "080966d7a1df0315503841ea5bc6017c7d030e9db91c732f525e64bf024b15fd",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "## 形容詞の比較級"
+      }
+    },
+    {
+      "segment_id": "8ac585fb",
+      "source_content": "形容词的原级就是原形。形容词的比较级由原级加-er，最高级由原级家-(e)st构成。",
+      "source_content_hash": "e80104f2d5870f9eea25e6e97a4be6905c9127a4f78f55f14cd2adc3bd160dce",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "形容詞の原級は基本形です。形容詞の比較級は原級に-erを付け、最上級は原級に-(e)stを付けて構成されます。"
+      }
+    },
+    {
+      "segment_id": "ba4f48ff",
+      "source_content": "#### 不规则变化",
+      "source_content_hash": "ced934c47aacdfe8107e3e620dd063e867933b0374c4225e6dbde61c25e6fbab",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "#### 不規則変化"
+      }
+    },
+    {
+      "segment_id": "87e3966e",
+      "source_content": "| 原型 | 比较级 | 最高级 |\n| :--: | :----: | :----: |\n| gut  | besser |  best  |\n| gern | lieber | liebst |\n| viel |  mehr  | meist  |\n| hoch | höher  | höchst |\n| groß | größer | größt  |\n| nahe | näher  | nächst |",
+      "source_content_hash": "af06a6cccdeb446b8c31f2f274b2c96ccc72ac2ecccb581dc891b2684b15a278",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_87e3966e"
+      }
+    },
+    {
+      "segment_id": "95b38f97",
+      "source_content": "### 变音",
+      "source_content_hash": "27bfff3602456d9871afce6dbee9eb46bcf6a4b9b6e13006460102ebb4d27294",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### ウムラウト変化"
+      }
+    },
+    {
+      "segment_id": "ccc88b4c",
+      "source_content": "带a/o/u的单音节大概率是变音的。",
+      "source_content_hash": "a044ad67a3634e38de4951c301c35369a6eb16bb38e07c5412138bad7ee82ab4",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "a/o/uを含む単音節語は高い確率でウムラウト変化します。"
+      }
+    },
+    {
+      "segment_id": "d9172fa4",
+      "source_content": "![](./img/形容词比较级变音.png)",
+      "source_content_hash": "d3b89b16a2fd309f5ca2e9436bfe8109d5db5822f3d3fbd8fecf8b12e6830614",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/形容詞比較級変音.png)"
+      }
+    },
+    {
+      "segment_id": "26524352",
+      "source_content": "德语有且只有29个单音节词能变音，在上图被分成了右边a/o/u的变音和左边两可（可变可不变）的情况。其中“两可”的情况不变音是趋势，那么左边9个词可以不算变音。有一个特例是gesund，是唯一的一个双音节。并且第一个音节是非重读的ge，进化不完全，这样四舍五入其实也可以算单音节。这么一来，那么可以说：德语有且只有21个单音节词能变音。",
+      "source_content_hash": "9dc0d6ad14f9ac81725245d61515bc6eab8246303bef22f02e8aae91f3f37840",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ドイツ語でウムラウト変化可能な単音節語は29語のみで、上図では右側のa/o/uのウムラウト変化と左側の可変（変化可・不可）ケースに分類されています。このうち「可変」ケースでは変化しない傾向が強く、左側の9語はウムラウト変化しないと見なせます。例外としてgesund（健康な）は唯一の二音節語で、最初の音節が非強調のgeで、進化的に不完全なため、ほぼ単音節と見なせます。つまり、ドイツ語でウムラウト変化する単音節語は21語のみと言えます。"
+      }
+    },
+    {
+      "segment_id": "7499a4e7",
+      "source_content": "这21个词也比较好记。其中有6对反义词，也就是12个。再加3个词与其他词词尾类似，这样增加了arm, grob和groß这3个词，加上前面12个，小计15个。grob（粗糙的）和groß（大，高大）是有词源关系的，grob本义是颗粒大的。arg（恶，坏的）使用频率低，schwarz比较等级不常见，可以忽略。这样还剩下hoch, nah, scharf, hart（高进利硬）四个词，像一把40米的长刀，又**高**又**近**又**锋利**又**硬**。",
+      "source_content_hash": "1d3e67a262fa1639ee7783538119f61795d22b1f9a6b73d97f5485b5d68134db",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "この21語は比較的覚えやすいです。そのうち6組の反意語（計12語）があり、さらに3語が他の語と語尾が類似しているため、arm（貧しい）、grob（粗い）、groß（大きい）の3語が追加されます。grobとgroßは語源的に関連しており、grobは本来「粒子が大きい」という意味です。arg（悪い）は使用頻度が低く、schwarz（黒い）の比較級はあまり使われないため無視できます。残るのはhoch（高い）、nah（近い）、scharf（鋭い）、hart（硬い）の4語で、40メートルの長刀のように「高く」「近く」「鋭く」「硬い」イメージで覚えられます。"
+      }
+    },
+    {
+      "segment_id": "135468ee",
+      "source_content": "除此以外的形容词，即使是单音节，带a/o/u，也不变音。例如voll的比较等级不变音（尽管有völlig这样的派生词）。",
+      "source_content_hash": "7e78276f9d73e7e106471ec312900edda5e8c48af0e06057566b7703c0f00aad",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "これ以外の形容詞は、たとえ単音節でa/o/uを含んでいてもウムラウト変化しません。例えばvoll（満ちた）の比較級はウムラウト変化しません（völligのような派生語が存在するにもかかわらず）。"
+      }
+    },
+    {
+      "segment_id": "60430721",
+      "source_content": "|  原型   |      比较级       |  最高级   |\n| :-----: | :---------------: | :-------: |\n|   alt   |       älter       |  ältest   |\n|  jung   |      jünger       |  jüngst   |\n|         |                   |           |\n|  kalt   |      kälter       |  kältest  |\n|  warm   |      wärmer       |  wärmst   |\n|   arm   |       ärmer       |   ärmst   |\n|         |                   |           |\n|  lang   |      länger       |  längst   |\n|  kurz   |      kürzer       |  kürzest  |\n|         |                   |           |\n|  krank  |      kränker      |  kränkst  |\n| gesund  |     gesünder      | gesündest |\n|         |                   |           |\n|  stark  |      stärker      |  stärkst  |\n| schwach | schwächer [ʃvɛçr] | schwächst |\n|         |                   |           |\n|  dumm   |      dümmer       |  dümmst   |\n|  klug   |      klüger       |  klügst   |\n|         |                   |           |\n|  hart   |      härter       |  härtest  |\n| scharf  |     schärfer      | schärfst  |\n|  grob   |      gröber       |  gröbst   |",
+      "source_content_hash": "8d8b4334ea9a0db9f953ee56cfc965c4d16f0516da255bf2a16c81288bc2d729",
+      "node_type": "table",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_60430721"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/形容词/形容词.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.530643+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "d565c9855b9ee99da39a74740c35c0d2871f9e5f78152e4d5d5a8e9c20f0ebc1"
+  }
+}

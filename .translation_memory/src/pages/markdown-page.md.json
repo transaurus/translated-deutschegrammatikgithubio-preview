@@ -1,0 +1,42 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "src/pages/markdown-page.md",
+  "source_file_content_hash": "cb9b155f720a7de087d6d4b2cce7e40dc671caf5ef5017849ef64d5197f71efa",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\ntitle: Markdown page example\n---",
+      "source_content_hash": "5aa21bbd7f10b2e43a47e4b4a976c2ea48fd46055fc3f447f47133a3f0e3b553",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "f85bbfb4",
+      "source_content": "# Markdown page example",
+      "source_content_hash": "970e2c7cef66b7fe4f23cd3876a78d3448d093ffa2f5054a23855661cf8cd31b",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "# Markdownページの例"
+      }
+    },
+    {
+      "segment_id": "6ef78e84",
+      "source_content": "You don't need React to write simple standalone pages.",
+      "source_content_hash": "e763264270547ae635a20754ad41180711e44391bfaa9f885189f248882b98fd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "シンプルなスタンドアロンページを作成するのにReactは必要ありません。"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-pages/markdown-page.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.511409+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "cb9b155f720a7de087d6d4b2cce7e40dc671caf5ef5017849ef64d5197f71efa"
+  }
+}

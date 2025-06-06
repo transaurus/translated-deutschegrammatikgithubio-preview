@@ -1,0 +1,242 @@
+{
+  "source_file_path_relative_to_docusaurus_root": "docs/形容词/形容词变格.md",
+  "source_file_content_hash": "f02bbcc1bd3fdaa0278040a39d9ffd843407aa1d1983779fc8bb7537aa387503",
+  "segments": [
+    {
+      "segment_id": "58cfcc64",
+      "source_content": "---\nsidebar_position: 2\n---",
+      "source_content_hash": "6b5a0ead0daa1090c8a38fd0c73528677b05e2e1ac3baca413f4c1cf998fee45",
+      "node_type": "yaml",
+      "translatable": false,
+      "translations": {
+        "ja": "@@untranslatable_placeholder_58cfcc64"
+      }
+    },
+    {
+      "segment_id": "e7ec8f99",
+      "source_content": "我们要先掌握“三个性四个格”的变化，这个是形容词变化的基础。这也是几乎所有德国原版教材在整个A1阶段慢慢渗透的内容：",
+      "source_content_hash": "8a7af8d5fc7e3cf69b6461cdf54178ef4b9429e4b6c4a19441bedefd4d5791cd",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "まず「三性四格」の変化を習得する必要があります。これは形容詞変化の基礎であり、ほぼすべてのドイツ語原版教材がA1レベルで段階的に導入する内容です："
+      }
+    },
+    {
+      "segment_id": "6ef78e84",
+      "source_content": "![](./img/三个性四个格.png)",
+      "source_content_hash": "7b7633b33e925a3696a3da37f533ead03d3a4af769a87b70d369526875ce4f99",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/三个性四个格.png)"
+      }
+    },
+    {
+      "segment_id": "53eaf0e1",
+      "source_content": "看起来内容不多，但是初学的时候心理障碍很大，而且名词性属的规律要慢慢积累。要掌握这个表格，最重要的是：不能光背冠词，而要说整个介词结构。不能der, den ... 这样背，这样必然低效，而是要wie der Mann ... wegen des Kindes ... 这样在心里总结。也可以把er/sie/es的表格和这个表格结合起来，两个表格的词尾是一致的。",
+      "source_content_hash": "a904c6346d4de6ca841980bf64810feb56b1d6300b71729de78e7d43bf8b11b2",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "内容は多く見えませんが、初心者には心理的ハードルが高く、名詞の性の規則も徐々に習得する必要があります。この表をマスターする最も重要なポイントは：冠詞だけを暗記するのではなく、前置詞構造ごと覚えることです。der, den...のように暗記するのは非効率的で、wie der Mann... wegen des Kindes...のように文脈で覚えるべきです。er/sie/esの表とこの表を組み合わせることも可能で、両者の語尾は一致しています。"
+      }
+    },
+    {
+      "segment_id": "8ac585fb",
+      "source_content": "有了三个性四个格的基础后，课文中会出现形容词变化的大量例子，传统上会总结为弱变化、强变化和混合变化（不用紧张，术语不那么重要）三个大表格：",
+      "source_content_hash": "12453242bdf1f702f3c03150d284bc424d977c73c1d006c463e29467eab2d7ce",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "三性四格の基礎を習得した後、教科書では形容詞変化の多数の例が登場します。伝統的には弱変化、強変化、混合変化（用語は重要ではありません）の3つの大きな表にまとめられます："
+      }
+    },
+    {
+      "segment_id": "180bddb1",
+      "source_content": "![](./img/形容词变格-01.png)",
+      "source_content_hash": "5790f80ca74ad6ed40a810dea936cea6548e03dbb6f31b4dff7ae001d6b00760",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/形容詞変格-01.png)"
+      }
+    },
+    {
+      "segment_id": "cf898102",
+      "source_content": "观察三个表格，我们容易得出：形容词变化的词尾只有三种，要么加-e（橙色线），要么加-en（紫色线），要么加定冠词三个性四个格的词尾（蓝色线），因为形容词强变化表格和冠词三个性四个格的表格高度重合，除了红色线部分不一致。",
+      "source_content_hash": "f5380401cf742a8999d3fb1cca623ee6a6085a8d0eb7e1794d0fd1d46ef476e0",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "3つの表を観察すると、形容詞変化の語尾には3種類しかないことがわかります：-e（オレンジ線）を付けるか、-en（紫線）を付けるか、あるいは定冠詞の三性四格の語尾（青線）を付けるかです。形容詞の強変化表は定冠詞の表とほぼ一致していますが、赤線部分だけが異なります。"
+      }
+    },
+    {
+      "segment_id": "42ad8e83",
+      "source_content": "观察这三种词尾出现的环境可以得出：如果冠词有词尾，冠词承担了体现性数格的主要作用，那么形容词承担次要作用，要么加-e，要么加-en；如果冠词（也有人把mein这样的词叫代词）没有词尾，那么形容词就得承担表现性数格的主要作用，词尾变化基本和定冠词一致。这样可以把三个表格变成两步判断：",
+      "source_content_hash": "6a7af1837d5218bb89edd66b275521d5c71caaaa71b7385e3376135d9d53676e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "これらの語尾が現れる環境を観察すると：冠詞に語尾がある場合、冠詞が性・数・格を示す主要な役割を担い、形容詞は副次的な役割（-eまたは-enを付加）を担います。冠詞（meinなどの代名詞を含む）に語尾がない場合、形容詞が性・数・格を示す主要な役割を担い、語尾変化は基本的に定冠詞と一致します。これにより3つの表を2段階の判断プロセスに簡略化できます："
+      }
+    },
+    {
+      "segment_id": "f6168993",
+      "source_content": "![](./img/形容词变格-02.png)",
+      "source_content_hash": "31eb63ced02fa9f5f976d61af89a5e8096fd517c5891dc45395d3cd51eefae43",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/形容詞変格-02.png)"
+      }
+    },
+    {
+      "segment_id": "f5f6d2ce",
+      "source_content": "这个示意图上的颜色完全和形容词变化三个表格中的颜色相对应。",
+      "source_content_hash": "2f7a4a804b22d24a7c7f8bf99888922760bd42108c6e7432030ed8659c70c75f",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "この図の色分けは、形容詞変化の3つの表の色と完全に対応しています。"
+      }
+    },
+    {
+      "segment_id": "2fdadb08",
+      "source_content": "**第一步判断“冠词有无词尾”**，例如：",
+      "source_content_hash": "38a93575078b5a4412498900ff48f32893c5a3440826dd760669b565d3b72c1e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**第一段階：「冠詞に語尾があるか」を判断**します。例："
+      }
+    },
+    {
+      "segment_id": "44d89370",
+      "source_content": "- wie der nett_ Mann 冠词有词尾，der词尾是er（定冠词自带词尾）；\n- für nett_ Leute 没有冠词，当然也就没有词尾；\n- wie eine nett_ Frau 冠词有词尾，词尾是e。\n- für ein nett_ Kind 冠词没有词尾。",
+      "source_content_hash": "1813d896d3fc91e2e090b9ede86f8a2a3e91d6e4b88f8ba9411b59a95360e491",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "- wie der nett_ Mann 冠詞に語尾あり（derの語尾はer）\n- für nett_ Leute 冠詞なし（当然語尾もなし）\n- wie eine nett_ Frau 冠詞に語尾あり（語尾はe）\n- für ein nett_ Kind 冠詞に語尾なし"
+      }
+    },
+    {
+      "segment_id": "26524352",
+      "source_content": "其中für nett_ Leute按上面的图示，应该加“定冠词此时该有的词尾”，也就是说，加入这个形容词是定冠词，这个时候应该用什么词，根据最前面三个性四个格的表格，应该是für die Leute，所以für nette Leute。",
+      "source_content_hash": "a15076d7d978b33625ef0ee95d2b09e290971d40cdd5e7db504aa9d06318f848",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "このうち「für nett_ Leute」は上の図に従い、「定冠詞がこの場合に持つべき語尾」を加えるべきです。つまり、この形容詞が定冠詞だった場合を想定し、最初の三性四格の表に基づくと「für die Leute」となるため、「für nette Leute」となります。"
+      }
+    },
+    {
+      "segment_id": "73ab96a3",
+      "source_content": "而für ein nett_ Kind 带入定冠词是für das Kind，所以是für ein nettes Kind。das的词尾算-es。",
+      "source_content_hash": "d66f49855f130c93b9b72bbef597e38df07386c8d4afe11a9beaffdabba9884c",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "一方「für ein nett_ Kind」は定冠詞に置き換えると「für das Kind」となるため、「für ein nettes Kind」です。「das」の語尾は「-es」と計算されます。"
+      }
+    },
+    {
+      "segment_id": "7499a4e7",
+      "source_content": "**第二步判断是否“第一格单数的模样”**，例如：",
+      "source_content_hash": "0a5a124777a6e610dff373012bd1844bac3cbc3e87538faceb3d033a3be40f29",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "**第二段階の判断「第一格単数の形かどうか」** 例えば："
+      }
+    },
+    {
+      "segment_id": "7a2e981c",
+      "source_content": "- (wie) der nett_ Mann 是第一格单数模样，der Mann 是第一格，所以形容词加-e（图中橙色圈）。\n- (für) eine nett_ Frau 是第一格单数模样，eine Frau 是第一格的样子（尽管这里für加第四格），所以形容词加-e（橙色圈）。\n- (für) keine  nett_ Leute 不是第一格单数模样，Leute是复数，所以形容词加-en（紫色圈）。\n- (mit) einem nett_ Mann 不是第一格单数模样，einem Mann是第三格，所以形容词加-en（紫色圈）。",
+      "source_content_hash": "63b0eec72f995b5922de126c58bf433b1c433d90ce527450f53b01d4efe5d9a5",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "- 「(wie) der nett_ Mann」は第一格単数の形で、「der Mann」が第一格であるため、形容詞に「-e」を加えます（図中のオレンジ丸部分）。\n- 「(für) eine nett_ Frau」は第一格単数の形で、「eine Frau」が第一格の形（ここではfürで第四格を取りますが）であるため、形容詞に「-e」を加えます（オレンジ丸）。\n- 「(für) keine nett_ Leute」は第一格単数の形ではなく、「Leute」が複数形であるため、形容詞に「-en」を加えます（紫丸）。\n- 「(mit) einem nett_ Mann」は第一格単数の形ではなく、「einem Mann」が第三格であるため、形容詞に「-en」を加えます（紫丸）。"
+      }
+    },
+    {
+      "segment_id": "3cfe6286",
+      "source_content": "这两步判断有一个不足，或者说一个bug，那就是红色线部分，这个我们最好是用单独记忆的方式，记住Anfang letzten Monats/Jahres和schweren Herzens（怀着沉重的心情）两个例子，就明白无冠词的第二格阳性和中性情况下，形容词是加-en的。这个bug其实在定义有无词尾的时候是可以避免的，比如定义“有词尾”指的是“冠词或名词有词尾”，但是这样会带来复杂的问题，这样对少儿不友好，所以，宁可有个bug，单独挑出来记。",
+      "source_content_hash": "1dd604fb7cdf6b2b6b1238534b66f7bd2805f3b3efabaf28ea70b1106b54a91e",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "この二段階の判断には一つ欠点、あるいはバグがあります。それは赤線部分で、これは個別に暗記するのが最善です。「Anfang letzten Monats/Jahres」と「schweren Herzens」（重い心を抱いて）の二つの例を覚えれば、冠詞なしの第二格男性・中性の場合、形容詞が「-en」を取ることがわかります。このバグは「語尾あり」の定義を「冠詞または名詞に語尾がある場合」とすることで回避可能ですが、これでは複雑化し子供向けではありません。そのため、むしろバグとして残し、個別に覚える方が良いでしょう。"
+      }
+    },
+    {
+      "segment_id": "1042b50d",
+      "source_content": "![](./img/形容词变格-03.png)",
+      "source_content_hash": "30f380201882477096c37ec0f3dbad3d32a21599bdd6c78e348669e77b70e531",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "![](./img/形容詞変格-03.png)"
+      }
+    },
+    {
+      "segment_id": "aa1e7006",
+      "source_content": "在上一版本的基础上调整了顺序，修改了措辞。这个版本仍然只有两步推理，但是消除了所有的特例和bug。并且有一种对称的美。",
+      "source_content_hash": "d0549050afb16a2472d8cdf7a9e6c7e324d500f1be5a58e9c60953d2cecaa9f8",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "前バージョンを基に順序を調整し、表現を修正しました。このバージョンも依然として二段階の推論ですが、全ての例外とバグが排除されています。そして対称的な美しさがあります。"
+      }
+    },
+    {
+      "segment_id": "13d9cd70",
+      "source_content": "其中“无冠词但名词有第二格词尾”指的其实就是“无冠词的阳/中性单数第二格”。",
+      "source_content_hash": "4d76328aa356d54ef5ecbb93dd0d12beed32be651010c0b18267ce8f98b2a347",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "ここで「冠詞なしだが名詞に第二格語尾がある」とは、実際には「冠詞なしの男性/中性単数第二格」を指しています。"
+      }
+    },
+    {
+      "segment_id": "29528c8d",
+      "source_content": "最后那个八爪鱼一样的东西，指的是词尾只有这5种可能性。其实德语三性四格词尾就只有这5种情况，前面圈里的词尾在八爪鱼里也有。",
+      "source_content_hash": "b468efc042cd9701e46521bcc83311f60fef8787ba0cca6126a03c8b0411d6c6",
+      "node_type": "paragraph",
+      "translatable": true,
+      "translations": {
+        "ja": "最後のタコのような図形は、語尾がこの5種類しかないことを示しています。実際、ドイツ語の三性四格の語尾はこの5パターンしかなく、前の丸で囲んだ語尾もこのタコ図の中に含まれています。"
+      }
+    },
+    {
+      "segment_id": "11c76fcc",
+      "source_content": "### 特例",
+      "source_content_hash": "9c10624384774418f215d8b757b96b096063a185c63769f7f001d3561827db95",
+      "node_type": "heading",
+      "translatable": true,
+      "translations": {
+        "ja": "### 例外"
+      }
+    },
+    {
+      "segment_id": "310e47b7",
+      "source_content": "* lauter（纯粹，全然），不变格",
+      "source_content_hash": "58cea0882cdda95711b59254051fbba0bd3cba8b5ee31f0f763b1903b62d0c1c",
+      "node_type": "list",
+      "translatable": true,
+      "translations": {
+        "ja": "* 「lauter」（純粋な、まったくの）は語尾変化しません"
+      }
+    }
+  ],
+  "target_i18n_subpath": "docusaurus-plugin-content-docs/current/形容词/形容词变格.md",
+  "last_updated_timestamp": "2025-06-06T07:08:15.533131+00:00",
+  "schema_version": "1.0",
+  "translated_versions": {
+    "ja": "f02bbcc1bd3fdaa0278040a39d9ffd843407aa1d1983779fc8bb7537aa387503"
+  }
+}
